@@ -2,10 +2,10 @@
 title: "알림: 전자 메일 알림 설정에 액세스할 때 오류"
 description: "사용자가 전자 메일 알림 설정을 변경하려고 하면 오류가 표시될 수 있습니다."
 hidefromtoc: true
-source-git-commit: 7b08d32dbdc06d224a30cde787a05276efc782dd
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->이 문제는 미리 보기 환경에서만 발생합니다.
+>이 문제는 프로덕션 환경과 미리 보기 환경 둘 다에 있습니다.
 
 사용자가 전자 메일 알림 설정을 변경하려고 하면 다음 오류 중 하나가 표시될 수 있습니다.
 

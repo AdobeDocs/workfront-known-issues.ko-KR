@@ -3,9 +3,9 @@ title: 새로운 기능의 알려진 문제 [!DNL Adobe Workfront] 경험
 description: 새 항목에 대해 알려진 문제가 보고됨 [!DNL Adobe Workfront] 경험
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e8d9550435882464904beed2acc25f9884fc2bd7
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '477'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 1%
 
 | **문제** | **마지막 수정일:** |
 |---|---|
+| [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 9월 19일 |
+| [증명: 증명을 닫을 때 사용자가 이전 페이지로 돌아가지 않습니다](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022년 9월 19일 |
 | [알림: 전자 메일 알림 설정에 액세스할 때 오류 발생](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022년 9월 15일 |
 | [작업 및 문제: 작업 또는 문제를 만들 때 실수로 종료합니다.](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022년 9월 9일 |
 | [보고서: 에서 보고서를 만들고 편집할 때 발생하는 문제 [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 2022년 9월 6일 |
