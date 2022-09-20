@@ -2,9 +2,9 @@
 title: Workfront 유지 관리 업데이트
 description: 에 대한 유지 관리 업데이트 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69fbacd0de7751bf9d9b597e6862fe3406a49fde
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '13283'
+source-wordcount: '13341'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,16 @@ ht-degree: 3%
 2022 이전 유지 관리 업데이트는 다음을 참조하십시오. [이전 유지 관리 업데이트](#previous-maintenance-updates)
 
 ## 2022년 9월 업데이트
+
++++**2022년 9월 22일 유지 관리 업데이트**
+
+**업데이트 스트림에서 사용자 카드를 닫을 수 없습니다.**
+
+*업데이트*
+
+사용자가 업데이트를 보고 이름을 마우스로 가리키면 이름이 열리고 자동으로 닫히지 않는 사용자에 대한 세부 정보가 포함된 카드가 열립니다. 오른쪽 위 모서리의 X 를 클릭하여 카드를 수동으로 닫을 때까지 페이지가 응답하지 않습니다.
+
++++
 
 +++**2022년 9월 15일 유지 관리 업데이트**
 
