@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: 에 대한 알려진 문제 [!DNL Adobe Workfront]
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '1201'
+source-wordcount: '1206'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [의 알려진 문제 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 의 현재 문제 [!DNL Adobe Workfront] {#wf-current}
+      + [증명: 에서 증명을 열 수 없습니다. [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [증명: 증명을 닫을 때 사용자가 이전 페이지로 돌아가지 않습니다](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [알림: 전자 메일 알림 설정에 액세스할 때 오류 발생](known-issues-workfront/wf-notifications-preview-errors-with-options.md)

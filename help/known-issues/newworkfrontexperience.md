@@ -3,9 +3,9 @@ title: 새로운 기능의 알려진 문제 [!DNL Adobe Workfront] 경험
 description: 새 항목에 대해 알려진 문제가 보고됨 [!DNL Adobe Workfront] 경험
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
 
 | **문제** | **마지막 수정일:** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [증명: 에서 증명을 열 수 없습니다. [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 2022년 9월 20일 |
 | [업데이트: 업데이트 스트림에서 사용자 카드를 닫을 수 없습니다.](known-issues-workfront/wf-updates-cant-close-user-card.md) | 2022년 9월 20일 |
 | [사용자 지정 양식: 왼쪽 패널에서 겹치는 요소](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022년 9월 16일 |
 | [작업표: 사용 시 시간이 저장되지 않습니다 [!UICONTROL 탭] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022년 9월 16일 |
