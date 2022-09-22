@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: 에 대한 알려진 문제 [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [의 알려진 문제 [!DNL Workfront Proof]](workfrontproof.md)
    + 의 현재 문제 [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: 여러 페이지가 있는 증명을 볼 때 빈 페이지](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [증명: 증명을 추가하는 동안 오류가 발생했습니다. [!DNL Workfront] 변환 전: [!DNL Workfront] 증명](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: 파일을 주석에 업로드할 때 오류가 발생합니다](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: 폴더 보기에 증명이 표시되지 않습니다](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [마감이 기존 단계의 마감일과 일치하지 않기 때문에 새 단계가 만들어졌습니다.](known-issues-workfront-proof/new-stage-created.md)
       + [홈 작업 목록에 표시된 부정확한 증명 승인 기한](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [댓글에 사용자를 태깅하여 사용자를 증명에 추가할 수 없습니다](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [증명의 새 버전을 만들 수 없습니다](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL 증명 회신] 단추 동작이 일관되지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [증명 자동 액세스가 지연됩니다.](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL 증명 승인] 보고서로 마감일을 정확하게 결정할 수 없음](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] 인앱 도움말 링크로 특정 도움말 페이지가 표시되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + 의 해결된 문제 [!DNL Workfront Fusion] {#fusion-resolved}
       + [401 오류 [!DNL Workfront] 모듈](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [모든 시나리오 실행을 보기 위해 스크롤할 수 없습니다.](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [사용자 지정 양식의 데이터는에서 사용할 수 없습니다. [!DNL Workfront Fusion] [!DNL Workfront] 모듈](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront 목표] {#goals}
