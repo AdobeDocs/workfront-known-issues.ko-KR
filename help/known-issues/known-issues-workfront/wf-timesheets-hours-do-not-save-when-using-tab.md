@@ -2,15 +2,19 @@
 title: "작업표: Tab 키를 사용할 때 시간이 저장되지 않습니다."
 description: "사용자가 시간표를 작성하고 Tab 키를 사용하여 셀 간을 탐색할 때 시간이 저장되지 않습니다. 자동 저장 알림은 화면 하단에 표시되지 않으며 사용자가 페이지를 새로 고치면 저장된 시간이 표시됩니다."
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 
 # 작업표: 사용 시 시간이 저장되지 않습니다 [!UICONTROL 탭] key
+
+>[!NOTE]
+>
+>이 문제는 2022년 9월 29일에 수정되었습니다.
 
 사용자가 시간 시트를 작성하고 셀 간을 탐색하는 경우 [!UICONTROL 탭] 키, 시간이 저장되지 않습니다. 다음 [!UICONTROL 자동 저장] 알림이 화면 하단에 표시되지 않으며 사용자가 페이지를 새로 고치면 저장되지 않은 시간을 볼 수 있습니다.
 

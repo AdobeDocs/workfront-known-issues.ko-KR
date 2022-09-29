@@ -2,9 +2,9 @@
 title: Workfront 유지 관리 업데이트
 description: 에 대한 유지 관리 업데이트 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,36 @@ ht-degree: 3%
 2022 이전 유지 관리 업데이트는 다음을 참조하십시오. [이전 유지 관리 업데이트](#previous-maintenance-updates)
 
 ## 2022년 9월 업데이트
+
++++**2022년 9월 29일 유지 관리 업데이트**
+
+**증명을 닫을 때 사용자가 이전 페이지로 돌아가지 않습니다**
+
+*증명*
+
+내에서 증명을 보고 있는 사용자 [!DNL Workfront] 증명을 닫으면 증명을 열기 전에 있던 페이지가 반환되지 않습니다. 대신, 의 다른 페이지로 리디렉션됩니다 [!DNL Workfront].
+
+**에서 증명을 열 수 없습니다.[!DNL Workfront]**
+
+*증명*
+
+사용자가 [!DNL Workfront] 증명을 열려고 하면 증명이 열리지 않고 사용자가 [!UICONTROL 문서 세부 정보] 페이지.
+
+**사용 시 시간이 저장되지 않습니다 [!UICONTROL 탭] key**
+
+*타임시트*
+
+사용자가 시간 시트를 작성하고 셀 간을 탐색하는 경우 [!UICONTROL 탭] 키, 시간이 저장되지 않습니다. 다음 [!UICONTROL 자동 저장] 알림이 화면 하단에 표시되지 않으며 사용자가 페이지를 새로 고치면 저장되지 않은 시간을 볼 수 있습니다.
+
+**여러 페이지가 있는 증명을 볼 때 빈 페이지**
+
+*[!DNL Workfront Proof]*
+
+사용자가 여러 페이지로 증명을 볼 때 페이지의 축소판을 볼 수 있지만, 기본 뷰어에서는 페이지가 열리지 않습니다.
+
+
+
++++
 
 +++**2022년 9월 22일 유지 관리 업데이트**
 
@@ -72,6 +102,8 @@ ht-degree: 3%
 *[!DNL Workfront Scenario Planner]*
 
 이제 추가 하위 그룹이 있는 그룹과 프로젝트 필터를 공유하면 [!UICONTROL 프로젝트 가져오기] 계획 상자 [!DNL Scenario Planner].
+
++++
 
 +++**2022년 9월 8일 유지 관리 업데이트**
 

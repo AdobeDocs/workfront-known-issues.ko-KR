@@ -3,10 +3,10 @@ title: 의 알려진 문제 [!DNL Adobe Workfront Proof]
 description: 보고된 [!DNL Adobe Workfront Proof]
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 4%
 
 ---
 
@@ -30,9 +30,6 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: 여러 페이지가 있는 증명을 볼 때 빈 페이지](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md) | 2022년 9월 22일 |
-| [증명: 에서 증명을 열 수 없습니다. [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 2022년 9월 20일 |
-| [증명: 증명을 닫을 때 사용자가 이전 페이지로 돌아가지 않습니다](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022년 9월 15일 |
 | [[!DNL Workfront Proof]: 이메일 알림이 지연됩니다](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 2022년 9월 15일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다.](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [[!DNL Workfront Proof]: 요청자 및 검토자는 조직의 라이선스 수에 포함됩니다](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022년 8월 12일 |
