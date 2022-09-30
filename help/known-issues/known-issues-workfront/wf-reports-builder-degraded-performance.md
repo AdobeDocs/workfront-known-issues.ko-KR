@@ -2,15 +2,20 @@
 title: "보고서: Report Builder에서 보고서를 만들고 편집할 때 발생하는 문제"
 description: "Report Builder에서 보고서를 만들고 편집할 때 여러 문제가 보고되었습니다."
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # 보고서: Report Builder에서 보고서를 만들고 편집할 때 발생하는 문제
+
+>[!NOTE]
+>
+>이 문제가 해결되었습니다.
+
 
 Report Builder에서 보고서를 만들고 편집할 때 다음 문제가 보고되었습니다.
 

@@ -2,15 +2,19 @@
 title: "작업표: 작업표에 주석을 추가하는 동안 오류가 발생했습니다."
 description: "사용자가 시간을 추가하는 동안 작업표에 주석을 추가하려고 하면 시간이 저장되지만 주석이 저장되지 않습니다. 사용자에게 오류 메시지도 표시됩니다."
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 24%
+source-wordcount: '112'
+ht-degree: 23%
 
 ---
 
 
 # 작업표: 작업표에 주석을 추가하는 동안 오류가 발생했습니다.
+
+>[!NOTE]
+>
+>이 문제는 2022년 9월 29일에 수정되었습니다.
 
 사용자가 시간을 추가하는 동안 작업표에 주석을 추가하려고 하면 시간이 저장되지만 주석이 저장되지 않습니다. 또한 사용자에게 다음 오류 메시지가 표시됩니다.
 

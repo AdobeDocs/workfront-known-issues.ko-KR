@@ -3,9 +3,9 @@ title: '''작업 및 문제: 작업 또는 문제를 만들 때 실수로 종료
 description: 사용자가 프로젝트에서 작업이나 문제를 생성하고 생성 팝업 외부를 클릭하면 경고 없이 팝업이 닫히고 입력한 모든 정보가 손실됩니다.
 hidefromtoc: true
 exl-id: 52f86f2b-b451-495e-bbce-db94c593d4e1
-source-git-commit: 331e2f6196a7a7299117db2137e1e424bdda9195
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 이 문제는 2022년 9월 8일 작업에 대해 수정되었습니다.
+> 이 문제는 2022년 9월 8일에 수정되었습니다.
 
 사용자가 프로젝트에서 작업이나 문제를 생성하고 생성 팝업 외부를 클릭하면 경고 없이 팝업이 닫히고 이전에 입력한 모든 정보가 손실됩니다.
 
