@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: 에 대한 알려진 문제 [!DNL Adobe Workfront]
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
 workflow-type: tm+mt
-source-wordcount: '1237'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -147,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + 의 현재 문제 [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL 데이터를 로드하지 못했습니다.]&quot; 오류](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 지정 API 호출] 404 또는 422 오류를 반환하는 모듈](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL 텍스트 추출] 텍스트를 생성하지 않는 모듈](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: &quot;연결을 확인하지 못했습니다.&quot; 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)

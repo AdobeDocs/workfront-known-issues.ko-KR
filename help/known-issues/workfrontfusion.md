@@ -3,10 +3,10 @@ title: 의 알려진 문제 [!DNL Adobe Workfront Fusion]
 description: 보고된 [!DNL Adobe Workfront Fusion]
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Fusion]: &quot;[!UICONTROL 데이터를 로드하지 못했습니다.]&quot; 오류](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 2022년 10월 3일 |
 | [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] 텍스트를 생성하지 않는 모듈](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | 2022년 9월 30일 |
 | [[!DNL Workfront Fusion]: &quot;연결을 확인하지 못했습니다.&quot; 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022년 9월 29일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환합니다.](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022년 9월 9일 |
