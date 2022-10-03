@@ -2,9 +2,9 @@
 title: Workfront 유지 관리 업데이트
 description: 에 대한 유지 관리 업데이트 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '13519'
+source-wordcount: '13581'
 ht-degree: 3%
 
 ---
@@ -28,6 +28,18 @@ ht-degree: 3%
 -->
 
 2022 이전 유지 관리 업데이트는 다음을 참조하십시오. [이전 유지 관리 업데이트](#previous-maintenance-updates)
+
+## 2022년 10월 업데이트
+
++++**2022년 10월 3일 유지 관리 업데이트**
+
+**이전 작업 역할이 변경되면 작업표를 수동으로 저장합니다**
+
+*타임시트*
+
+로그된 시간에 대한 작업 역할이 변경된 경우 [!UICONTROL 작업 역할을 시간 항목에 수동으로 할당] 설정이 비활성화되었습니다. 변경된 작업 역할에 대해 시간이 더 이상 기록되지 않을 때까지 시간 항목을 수동으로 저장해야 합니다.
+
++++
 
 ## 2022년 9월 업데이트
 
