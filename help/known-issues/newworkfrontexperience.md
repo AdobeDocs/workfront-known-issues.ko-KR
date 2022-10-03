@@ -3,9 +3,9 @@ title: 새로운 기능의 알려진 문제 [!DNL Adobe Workfront] 경험
 description: 새 항목에 대해 알려진 문제가 보고됨 [!DNL Adobe Workfront] 경험
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '457'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 1%
 | **문제** | **마지막 수정일:** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 9월 30일 |
-| [작업표: 작업표에 주석을 추가하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 2022년 9월 29일 |
 | [사용자 지정 양식: 왼쪽 패널에서 겹치는 요소](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022년 9월 16일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다.](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [통합: 다음에서 요청을 제출하는 동안 오류가 발생했습니다. [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022년 8월 30일 |
