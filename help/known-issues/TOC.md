@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: 에 대한 알려진 문제 [!DNL Adobe Workfront]
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1258'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [의 알려진 문제 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 의 현재 문제 [!DNL Adobe Workfront] {#wf-current}
+      + [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [팀: 여러 팀을 할당하면 한 팀만 할당됩니다](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [작업표: 작업표에 주석을 추가하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)

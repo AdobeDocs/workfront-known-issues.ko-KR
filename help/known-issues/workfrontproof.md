@@ -3,10 +3,10 @@ title: 의 알려진 문제 [!DNL Adobe Workfront Proof]
 description: 보고된 [!DNL Adobe Workfront Proof]
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 | 문제 | 마지막 수정일: |
 |---|---|
-| 없음 |  |
+| [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
 
 {style=&quot;table-layout:auto&quot;}
 

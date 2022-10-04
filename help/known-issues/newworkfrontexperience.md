@@ -3,9 +3,9 @@ title: 새로운 기능의 알려진 문제 [!DNL Adobe Workfront] 경험
 description: 새 항목에 대해 알려진 문제가 보고됨 [!DNL Adobe Workfront] 경험
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '475'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 
 | **문제** | **마지막 수정일:** |
 |---|---|
+| [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
 | [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 9월 29일 |
 | [알림: 전자 메일 알림 설정에 액세스할 때 오류 발생](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022년 9월 15일 |
 | [작업 및 문제: 작업 또는 문제를 만들 때 실수로 종료합니다.](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022년 9월 9일 |
