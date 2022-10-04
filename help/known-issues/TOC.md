@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: 에 대한 알려진 문제 [!DNL Adobe Workfront]
-source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
+source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1252'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [의 알려진 문제 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 의 현재 문제 [!DNL Adobe Workfront] {#wf-current}
+      + [팀: 여러 팀을 할당하면 한 팀만 할당됩니다](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [작업표: 작업표에 주석을 추가하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
       + [증명: 에서 증명을 열 수 없습니다. [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
