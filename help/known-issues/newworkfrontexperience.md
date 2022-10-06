@@ -3,9 +3,9 @@ title: 새로운 기능의 알려진 문제 [!DNL Adobe Workfront] 경험
 description: 새 항목에 대해 알려진 문제가 보고됨 [!DNL Adobe Workfront] 경험
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -37,14 +37,12 @@ ht-degree: 1%
 
 | **문제** | **마지막 수정일:** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [팀: 여러 팀을 할당하면 한 팀만 할당됩니다](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 2022년 10월 4일 |
+| [증명: 증명을 자동으로 비교할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022년 10월 6일 |
 | [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 9월 30일 |
-| [사용자 지정 양식: 왼쪽 패널에서 겹치는 요소](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022년 9월 16일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다.](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [통합: 다음에서 요청을 제출하는 동안 오류가 발생했습니다. [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022년 8월 30일 |
 | [[!DNL Workfront Proof]: 일별 요약 이메일에는 &quot;[!UICONTROL 세부 사항 보기]&quot; 단추](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022년 8월 5일 |
 | [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용합니다](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
-| [작업표: &quot;[!UICONTROL 최근 변경 내용이 저장되지 않았습니다]&quot; 작업표에 변경 내용을 자동 저장하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 2022년 7월 28일 |
 | [[!UICONTROL 홈]: 사용자 지정 용어가 홈 영역에 적용되지 않습니다](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022년 6월 3일 |
 | [애자일: 카드의 사용자 지정 양식에서 필드를 편집할 수 없습니다](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022년 5월 11일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 만들 때 그룹을 선택할 수 없습니다](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022년 5월 4일 |

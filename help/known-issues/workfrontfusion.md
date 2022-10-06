@@ -3,10 +3,10 @@ title: 의 알려진 문제 [!DNL Adobe Workfront Fusion]
 description: 보고된 [!DNL Adobe Workfront Fusion]
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
+source-git-commit: e6b43b56b1cff5cf56ebb2ccc1dabf8e3aa21459
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 6%
+source-wordcount: '98'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,8 @@ ht-degree: 6%
 
 | **문제** | **마지막 수정일:** |
 |-----------------------------------------------------------------------------------|-------------------|
-* | [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 404 또는 422 오류를 반환하는 모듈](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 2022년 10월 3일 |
+| [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] 시나리오](known-issues-workfront-fusion/fusion-409-error.md) | 2022년 10월 6일 |
+| [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 404 또는 422 오류를 반환하는 모듈](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 2022년 10월 3일 |
 
 ## 현재 문제
 

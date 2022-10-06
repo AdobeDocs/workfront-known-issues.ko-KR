@@ -3,7 +3,7 @@ title: 의 알려진 문제 [!DNL Adobe Workfront Proof]
 description: 보고된 [!DNL Adobe Workfront Proof]
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -30,7 +30,7 @@ ht-degree: 3%
 
 | **문제** | **마지막 수정일:** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: 이메일 알림이 지연됩니다](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 2022년 9월 15일 |
+| [증명: 증명을 자동으로 비교할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022년 10월 6일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다.](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [[!DNL Workfront Proof]: 요청자 및 검토자는 조직의 라이선스 수에 포함됩니다](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022년 8월 12일 |
 | [증명: 에 표시되는 부정확한 증명 승인 기한 [!UICONTROL 홈 작업 목록]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 2022년 4월 25일 |

@@ -3,14 +3,18 @@ title: '''작업표: 작업표에 변경 내용을 자동 저장할 때 최근 �
 description: 사용자가 자동 저장을 트리거하는 방식으로 작업표를 편집하려고 하면 변경 내용이 저장되지 않고 사용자가 최근 변경 내용이 저장되지 않았습니다 라는 메시지를 볼 수 있습니다. 페이지를 새로 고쳐 봅니다.
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
 
 # 작업표: &quot;[!UICONTROL 최근 변경 내용이 저장되지 않았습니다]&quot; 작업표에 변경 내용을 자동 저장하는 동안 오류가 발생했습니다.
+
+>[!NOTE]
+>
+>이 문제는 2022년 10월 6일에 수정되었습니다.
 
 사용자가 자동 저장을 트리거하는 방식으로 작업표를 편집하려고 하면 변경 내용이 저장되지 않고 사용자에게 다음 메시지가 표시됩니다.
 

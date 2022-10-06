@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: 에 대한 알려진 문제 [!DNL Adobe Workfront]
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '1258'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [의 알려진 문제 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 의 현재 문제 [!DNL Adobe Workfront] {#wf-current}
+      + [증명: 증명을 자동으로 비교할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [팀: 여러 팀을 할당하면 한 팀만 할당됩니다](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
@@ -149,6 +150,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + 의 현재 문제 [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: 409 오류 [!DNL Fusion] 시나리오](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: &quot;[!UICONTROL 데이터를 로드하지 못했습니다.]&quot; 오류](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 지정 API 호출] 404 또는 422 오류를 반환하는 모듈](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL 텍스트 추출] 텍스트를 생성하지 않는 모듈](known-issues-workfront-fusion/fusion-pdf-extract-text.md)

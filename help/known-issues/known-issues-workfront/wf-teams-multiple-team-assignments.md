@@ -2,15 +2,19 @@
 title: "팀: 여러 팀을 할당하면 한 팀만 할당됩니다."
 description: "사용자가 여러 팀을 작업이나 문제에 할당하면 하나의 팀만 할당 목록에 나타납니다. 이 문제는 보고에도 영향을 줍니다. 한 팀만 작업이나 문제에 지정된 것으로 나타나므로 팀 할당을 보여 주는 보고서가 부정확합니다."
 hidefromtoc: true
-source-git-commit: ed675a0d4f5dfd0f66b6756df3cae0935f33a286
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
 # 팀: 여러 팀을 할당하면 한 팀만 할당됩니다
+
+>[!NOTE]
+>
+>이 문제는 2022년 10월 6일에 수정되었습니다.
 
 >[!NOTE]
 >

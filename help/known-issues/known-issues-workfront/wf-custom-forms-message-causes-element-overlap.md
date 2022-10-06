@@ -2,15 +2,19 @@
 title: "사용자 지정 양식: 왼쪽 패널에서 겹치는 요소"
 description: '"사용자가 양식 빌더에서 작업 중이고 양식에 필드가 100개 이상인 경우, 필드 제한에 대해 사용자에게 알리는 메시지는 왼쪽 패널의 요소가 겹치게 됩니다.'
 hidefromtoc: true
-source-git-commit: 46b0fa8c94cfc8a183435894b25b0b6993ecae04
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 
 # 사용자 지정 양식: 왼쪽 패널에서 겹치는 요소
+
+>[!NOTE]
+>
+>이 문제는 2022년 10월 6일에 수정되었습니다.
 
 사용자가 양식 빌더에서 작업 중이고 양식에 필드가 100개 이상인 경우, 사용자에게 필드 제한에 대해 알리는 메시지는 왼쪽 패널의 요소가 겹치게 됩니다.
 
