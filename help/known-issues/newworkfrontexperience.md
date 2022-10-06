@@ -3,10 +3,10 @@ title: 새로운 기능의 알려진 문제 [!DNL Adobe Workfront] 경험
 description: 새 항목에 대해 알려진 문제가 보고됨 [!DNL Adobe Workfront] 경험
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 1%
+source-wordcount: '444'
+ht-degree: 2%
 
 ---
 
@@ -18,37 +18,46 @@ ht-degree: 1%
 >
 >서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com). 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md).
 
-## 신규 또는 조사 중
+## 신규
+
+최근에 보고된 이러한 문제는 현재 검토 중입니다.
 
 | **문제** | **마지막 수정일:** |
-|---|---|
+| -----------------------------------------------------------------| ----------------- |
 | [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
 | [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 9월 29일 |
 | [알림: 전자 메일 알림 설정에 액세스할 때 오류 발생](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022년 9월 15일 |
-| [작업 및 문제: 작업 또는 문제를 만들 때 실수로 종료합니다.](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022년 9월 9일 |
-| [보고서: 에서 보고서를 만들고 편집할 때 발생하는 문제 [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 2022년 9월 6일 |
 | [대시보드: 개체의 왼쪽 탐색에서 대시보드에 액세스할 수 없습니다](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | 2022년 8월 24일 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
-| [애자일: 에서 카드를 이동할 때 발생하는 문제 [!UICONTROL 애자일] 보드](known-issues-workfront/wf-agile-issues-moving-cards.md) | 2022년 4월 27일 |
 
 {style=&quot;table-layout:auto&quot;}
 
-## 현재 문제
+
+## 진행 중
+
+이러한 문제에 대한 수정 사항이 현재 진행 중이거나 가까운 미래에 예약되어 있습니다.
 
 | **문제** | **마지막 수정일:** |
-| -------------------------------------------------------------------------------------------------- | ----------------- |
+| -----------------------------------------------------------------| ----------------- |
 | [증명: 증명을 자동으로 비교할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022년 10월 6일 |
 | [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 9월 30일 |
-| [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다.](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [통합: 다음에서 요청을 제출하는 동안 오류가 발생했습니다. [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022년 8월 30일 |
-| [[!DNL Workfront Proof]: 일별 요약 이메일에는 &quot;[!UICONTROL 세부 사항 보기]&quot; 단추](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022년 8월 5일 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## 수정 사항 없음
+
+이러한 문제에 대한 수정 사항은 현재 로드맵에 없습니다. 경우에 따라 이러한 문제는 새로운 기능 또는 기능 업데이트로 수정됩니다.
+
+| **문제** | **마지막 수정일:** |
+| -----------------------------------------------------------------| ----------------- |
+| [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다.](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용합니다](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
 | [[!UICONTROL 홈]: 사용자 지정 용어가 홈 영역에 적용되지 않습니다](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022년 6월 3일 |
 | [애자일: 카드의 사용자 지정 양식에서 필드를 편집할 수 없습니다](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022년 5월 11일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 만들 때 그룹을 선택할 수 없습니다](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022년 5월 4일 |
-| [증명: 홈 작업 목록에 표시된 부정확한 증명 승인 기한](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 2022년 4월 25일 |
+| [애자일: 에서 카드를 이동할 때 발생하는 문제 [!UICONTROL 애자일] 보드](known-issues-workfront/wf-agile-issues-moving-cards.md) | 2022년 4월 27일 |
 | [승인: 잘못된 일 수에 대해 승인 위임이 설정됩니다](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022년 4월 20일 |
-| [[!UICONTROL 홈]: [!UICONTROL 홈] 다른 브라우저를 사용할 때 발생하는 요약 문제 [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md) | 2022년 2월 24일 |
 | [[!UICONTROL 홈]: 비활성화된 사용자를 표시하는 새 작업 옵션 [!UICONTROL 할당 대상] 필드](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 2021년 10월 1일 |
 | [업데이트: 팀 이름이 @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021년 10월 1일 |
 | [달력: 문제 [!UICONTROL 해제 시간] 달력](known-issues-workfront/wf-calendars-issue-time-off.md) | 2021년 6월 25일 |
@@ -71,8 +80,3 @@ ht-degree: 1%
 
 {style=&quot;table-layout:auto&quot;}
 
-
-<!--
-
-
--->
