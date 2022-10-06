@@ -2,7 +2,7 @@
 title: "통합: 다음에 대한 Workfront을 여는 동안 오류가 발생했습니다. [!DNL Jira] Jira 내"
 description: "사용자가 [!DNL Jira] 그리고 [!DNL Workfront for Jira] 추가 기능에서 추가 기능이 열리지 않고 사용자에게 오류 메시지가 표시됩니다."
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 2%
@@ -11,8 +11,6 @@ ht-degree: 2%
 
 
 # 통합: 여는 동안 오류가 발생했습니다. [!DNL Workfront for Jira] within [!DNL Jira]
-
-<!--Becky recheck DNL-->
 
 >[!NOTE]
 >

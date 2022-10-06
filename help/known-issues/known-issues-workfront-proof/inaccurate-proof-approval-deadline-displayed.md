@@ -3,14 +3,18 @@ title: '''증명: 홈 작업 목록에 표시된 부정확한 증명 승인 기�
 description: 사용자에게 증명 승인을 지정받을 경우, 해당 증명 승인이 사용자의 홈 작업 목록에 표시되고 사용자가 지정된 단계에 관계없이 나중에 가장 먼 단계의 최종 기한이 표시됩니다.
 exl-id: 60dcc9c3-6c60-488e-921d-453d4b011f1b
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 증명: 에 표시되는 부정확한 증명 승인 기한 [!UICONTROL 홈 작업 목록]
+
+>[!NOTE]
+>
+>이 문제는 2022년 9월 1일에 수정되었습니다.
 
 사용자에게 증명 승인이 지정되면 해당 증명 승인이 사용자의 [!UICONTROL 홈 작업 목록] 사용자가 할당된 단계에 관계없이 나중에 가장 멀리 있는 스테이지의 최종 기한을 사용합니다.
 
