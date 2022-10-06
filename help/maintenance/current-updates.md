@@ -2,9 +2,9 @@
 title: Workfront 유지 관리 업데이트
 description: 에 대한 유지 관리 업데이트 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
 workflow-type: tm+mt
-source-wordcount: '13805'
+source-wordcount: '13831'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 3%
 ## 2022년 10월 업데이트
 
 +++**2022년 10월 6일 유지 관리 업데이트**
+
+**새 블루프린트 유형**
+
+*블루프린트*
+
+블루프린트 유형 &quot;대시보드&quot;가 블루프린트 카탈로그에 추가되었습니다. 이전에는 프로젝트 템플릿과 조직 구조 블루프린트만 사용할 수 있었습니다.
 
 **왼쪽 패널에서 겹치는 요소**
 
