@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '1347'
-ht-degree: 86%
+source-wordcount: '1354'
+ht-degree: 85%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업표: 에 시간을 입력할 수 없습니다. [!UICONTROL 일반 시간]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [목록: [!UICONTROL 빠른 필터] 팀 검색 시 결과 없음 반환](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [탐색: 페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)

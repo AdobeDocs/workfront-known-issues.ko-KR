@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 66%
+source-wordcount: '531'
+ht-degree: 65%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 66%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업표: 에 시간을 입력할 수 없습니다. [!UICONTROL 일반 시간]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 2022년 10월 12일 |
 | [지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022년 10월 11일 |
 | [증명: 증명 그룹에 추가해도 그룹의 구성원이 모두 추가되지는 않습니다](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022년 10월 10일 |
 | [레이아웃 템플릿: 레이아웃 템플릿에서 목록을 사용자 지정할 때 오류가 발생합니다](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022년 10월 6일 |
