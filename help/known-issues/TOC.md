@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: 에 대한 알려진 문제 [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [의 알려진 문제 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 의 현재 문제 [!DNL Adobe Workfront] {#wf-current}
+      + [탐색: 페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [작업: [!UICONTROL 전임자] 작업 헤더에 없음](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [증명: 증명 그룹에 추가해도 그룹의 구성원이 모두 추가되지는 않습니다](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [작업 및 문제: 작업 또는 문제의 이름 또는 완료율을 편집할 수 없습니다.](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)

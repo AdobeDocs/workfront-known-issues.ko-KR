@@ -3,9 +3,9 @@ title: 새로운 기능의 알려진 문제 [!DNL Adobe Workfront] 경험
 description: 새 항목에 대해 알려진 문제가 보고됨 [!DNL Adobe Workfront] 경험
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '512'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 2%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022년 10월 11일 |
 | [증명: 증명 그룹에 추가해도 그룹의 구성원이 모두 추가되지는 않습니다](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022년 10월 10일 |
 | [레이아웃 템플릿: 레이아웃 템플릿에서 목록을 사용자 지정할 때 오류가 발생합니다](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022년 10월 6일 |
 | [증명: &quot;새 증명 수신자&quot; 텍스트 상자가 너무 작습니다.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 6일 |
@@ -40,6 +41,7 @@ ht-degree: 2%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [탐색: 페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022년 10월 11일 |
 | [작업: [!UICONTROL 전임자] 작업 헤더에 없음](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022년 10월 10일 |
 | [작업 및 문제: 작업 또는 문제의 이름 또는 완료율을 편집할 수 없습니다.](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022년 10월 10일 |
 | [증명: 증명을 자동으로 비교할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022년 10월 6일 |
