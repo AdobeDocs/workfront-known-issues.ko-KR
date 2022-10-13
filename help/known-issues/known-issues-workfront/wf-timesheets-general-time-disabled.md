@@ -2,15 +2,19 @@
 title: "작업표: 시간을 일반 시간으로 입력할 수 없습니다."
 description: '"사용자가 작업표의 일반 시간 섹션에 시간을 기록하려고 하면 몇 시간 안에 입력할 상자가 없습니다. 사용자가 시간을 입력할 영역을 마우스로 가리키면 Select a job title to log hours 메시지가 표시됩니다.'
 hidefromtoc: true
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 3%
 
 ---
 
 
 # 작업표: 에 시간을 입력할 수 없습니다. [!UICONTROL 일반 시간]
+
+>[!NOTE]
+>
+>이 문제는 2022년 10월 13일에 수정되었습니다.
 
 사용자가 [!UICONTROL 일반 시간] 작업표 구역에 몇 시간 안에 입력할 상자가 없습니다. 사용자가 시간을 입력할 영역을 마우스로 가리키면 &quot; 메시지가 표시됩니다.[!UICONTROL 작업 제목을 선택하여 시간을 기록합니다.]&quot;
 

@@ -2,10 +2,10 @@
 title: "증명: 증명 그룹에 추가해도 그룹의 구성원이 모두 추가되지 않습니다."
 description: "사용자가 증명을 만들고 그룹을 사용하여 사용자를 스테이지에 추가하는 경우 해당 그룹의 모든 사용자가 스테이지에 추가되지 않습니다."
 hidefromtoc: true
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 14%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 증명: 증명 그룹에 추가해도 그룹의 구성원이 모두 추가되지는 않습니다
 
 <!--This issue is on the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>이 문제는 문제가 아니므로 종결되었습니다.
 
 사용자가 증명을 만들고 그룹을 사용하여 사용자를 스테이지에 추가하는 경우 해당 그룹의 모든 사용자가 스테이지에 추가되지 않습니다.
 

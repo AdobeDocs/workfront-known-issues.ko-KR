@@ -1,22 +1,22 @@
 ---
-title: 의 알려진 문제 [!DNL Adobe Workfront Proof]
-description: 보고된 [!DNL Adobe Workfront Proof]
+title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
+description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '191'
+ht-degree: 65%
 
 ---
 
-# 의 알려진 문제 [!DNL Adobe Workfront Proof]
+# [!DNL Adobe Workfront Proof]의 알려진 문제
 
-이 페이지에는에서 현재 식별된 문제가 있습니다. [!DNL Adobe Workfront Proof].
+이 페이지에는 현재 [!DNL Adobe Workfront Proof]에서 식별된 문제가 포함되어 있습니다.
 
 >[!IMPORTANT]
 >
->서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com). 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md).
+>서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com)을 참조하십시오. 최근 수정된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 보수 업데이트](../maintenance/current-updates.md)를 참조하십시오.
 
 ## 신규
 
@@ -24,7 +24,6 @@ ht-degree: 5%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명 그룹에 추가해도 그룹의 구성원이 모두 추가되지는 않습니다](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022년 10월 10일 |
 | [증명: &quot;새 증명 수신자&quot; 텍스트 상자가 너무 작습니다.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 6일 |
 | [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
 
@@ -36,8 +35,7 @@ ht-degree: 5%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명을 자동으로 비교할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022년 10월 6일 |
-| [[!DNL Workfront Proof]: 요청자 및 검토자는 조직의 라이선스 수에 포함됩니다](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022년 8월 12일 |
+| 없음 |  |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -47,13 +45,13 @@ ht-degree: 5%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다.](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
-| [[!DNL Workfront Proof]: 댓글에 사용자를 태깅하여 사용자를 증명에 추가할 수 없습니다](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022년 3월 23일 |
-| [[!UICONTROL 홈]: [!UICONTROL 증명 회신] 단추 동작이 일관되지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021년 6월 21일 |
-| [[!DNL Workfront Proof]: 증명 자동 액세스가 지연됩니다.](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021년 6월 14일 |
-| [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 보고서로 마감일을 정확하게 결정할 수 없음](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
-| [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021년 6월 14일 |
-| [문서: 증명 워크플로우 아이콘이 표시되지 않습니다.](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
+| [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
+| [[!DNL Workfront Proof]: 댓글에 사용자를 태그 지정하여 증명에 사용자를 추가할 수 없음](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022년 3월 23일 |
+| [[!UICONTROL 홈]: [!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021년 6월 21일 |
+| [[!DNL Workfront Proof]: 증명에 대한 자동 액세스가 지연됨](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021년 6월 14일 |
+| [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
+| [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2021년 6월 14일 |
+| [문서: 증명 워크플로우 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
 
 {style=&quot;table-layout:auto&quot;}
 

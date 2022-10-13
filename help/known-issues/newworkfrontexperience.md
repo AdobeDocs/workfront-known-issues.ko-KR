@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '531'
-ht-degree: 65%
+source-wordcount: '487'
+ht-degree: 71%
 
 ---
 
@@ -24,10 +24,6 @@ ht-degree: 65%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [작업표: 에 시간을 입력할 수 없습니다. [!UICONTROL 일반 시간]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 2022년 10월 12일 |
-| [지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022년 10월 11일 |
-| [증명: 증명 그룹에 추가해도 그룹의 구성원이 모두 추가되지는 않습니다](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022년 10월 10일 |
-| [레이아웃 템플릿: 레이아웃 템플릿에서 목록을 사용자 지정할 때 오류가 발생합니다](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022년 10월 6일 |
 | [증명: &quot;새 증명 수신자&quot; 텍스트 상자가 너무 작습니다.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 6일 |
 | [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
 | [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 29월 9일 |
@@ -42,11 +38,11 @@ ht-degree: 65%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022년 10월 13일 |
+| [레이아웃 템플릿: 레이아웃 템플릿에서 목록을 사용자 지정할 때 오류가 발생합니다](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022년 10월 13일 |
 | [목록: [!UICONTROL 빠른 필터] 팀 검색 시 결과 없음 반환](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022년 10월 12일 |
 | [탐색: 페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022년 10월 11일 |
 | [작업: [!UICONTROL 전임자] 작업 헤더에 없음](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022년 10월 10일 |
-| [작업 및 문제: 작업 또는 문제의 이름 또는 완료율을 편집할 수 없습니다.](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022년 10월 10일 |
-| [증명: 증명을 자동으로 비교할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022년 10월 6일 |
 | [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 30월 9일 |
 | [통합:  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)에서 요청을 제출할 때 오류 발생 | 2022년 8월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
