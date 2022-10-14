@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
+source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
 workflow-type: tm+mt
-source-wordcount: '507'
-ht-degree: 68%
+source-wordcount: '517'
+ht-degree: 67%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 68%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문제: 작업의 왼쪽 탐색 시 문제 수가 잘못되었습니다.](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 2022년 10월 12일 |
 | [증명: &quot;새 증명 수신자&quot; 텍스트 상자가 너무 작습니다.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 6일 |
 | [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
 | [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 29월 9일 |
@@ -38,10 +39,10 @@ ht-degree: 68%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 문제 보고서에서 &quot;이동 위치&quot; 옵션을 사용할 수 없습니다](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022년 10월 13일 |
 | [애자일: 반복에 추가된 작업 문제](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022년 10월 13일 |
 | [사용자 지정 양식: 계산된 필드를 설정할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022년 10월 13일 |
 | [지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022년 10월 13일 |
-| [레이아웃 템플릿: 레이아웃 템플릿에서 목록을 사용자 지정할 때 오류가 발생합니다](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022년 10월 13일 |
 | [목록: [!UICONTROL 빠른 필터] 팀 검색 시 결과 없음 반환](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022년 10월 12일 |
 | [탐색: 페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022년 10월 11일 |
 | [작업: [!UICONTROL 전임자] 작업 헤더에 없음](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022년 10월 10일 |
