@@ -2,7 +2,7 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
 workflow-type: tm+mt
 source-wordcount: '14290'
 ht-degree: 95%
@@ -65,7 +65,7 @@ ht-degree: 95%
 
 +++
 
-+++**2022년 10월 11일 유지 관리 업데이트
++++**2022년 10월 11일 유지 관리 업데이트**
 
 **페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.**
 
