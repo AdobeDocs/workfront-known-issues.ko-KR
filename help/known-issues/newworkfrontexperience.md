@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 67%
+source-wordcount: '525'
+ht-degree: 66%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 67%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로그램: 할당 시 발생하는 문제 [!UICONTROL 프로그램 소유자]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022년 10월 17일 |
 | [보고서: 문제 보고서에서 &quot;이동 위치&quot; 옵션을 사용할 수 없습니다](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022년 10월 13일 |
 | [애자일: 반복에 추가된 작업 문제](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022년 10월 13일 |
 | [사용자 지정 양식: 계산된 필드를 설정할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022년 10월 13일 |
