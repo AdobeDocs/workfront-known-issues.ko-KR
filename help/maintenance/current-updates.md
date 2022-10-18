@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '14290'
-ht-degree: 95%
+source-wordcount: '14458'
+ht-degree: 94%
 
 ---
 
@@ -30,6 +30,39 @@ ht-degree: 95%
 2022년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2022년 10월 업데이트
+
++++**2022년 10월 20일 유지 보수 업데이트**
+
+**팀을 일괄 할당하는 동안 오류가 발생했습니다.**
+
+*할당*
+
+사용자가 작업 또는 문제를 벌크 편집하며 개인을 지정한 후 팀을 지정하면 할당이 저장되지 않으며 사용자에게 다음 오류가 표시됩니다.
+
+&quot;[!UICONTROL 다시 시도해 보겠습니다. 다음 오류가 발생했습니다. teamAssignments는 개체 목록이나 ID 목록이어야 합니다]&quot;
+
+**[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류**
+
+*문서*
+
+사용자가 파일을 [!UICONTROL 문서] 영역에서는 파일이 업로드되지 않으며 사용자에게 &quot; 오류가 표시됩니다.[!UICONTROL 파일을 업로드하지 못했습니다.].&quot;
+
+MP4 파일을 업로드하려고 할 때 이 기능이 보고되었습니다.
+
+**작업의 왼쪽 탐색 시 문제 수가 잘못되었습니다.**
+
+*문제*
+
+사용자가 작업을 보는 경우, [!UICONTROL 문제] 왼쪽 탐색 메뉴의 섹션은 작업에 첨부된 실제 문제 수를 정확하게 나타내지 않습니다.
+
+
+**[!UICONTROL 전임자] 작업 헤더에 없음**
+
+*작업*
+
+사용자가 작업을 보고 있으면 선행 작업 아이콘이 헤더에서 누락됩니다.
+
++++
 
 +++**2022년 10월 13일 유지 보수 업데이트**
 
