@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 66%
+source-wordcount: '554'
+ht-degree: 62%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 66%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 보드]: [!UICONTROL 보드] 페이지가 로드되지 않음](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022년 10월 18일 |
+| [문서: 외부 문서 요청 링크는 로그인 페이지로 이동합니다](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 18일 |
 | [문제: 작업의 왼쪽 탐색 시 문제 수가 잘못되었습니다.](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 2022년 10월 12일 |
 | [증명: &quot;새 증명 수신자&quot; 텍스트 상자가 너무 작습니다.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 6일 |
 | [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
@@ -59,6 +61,7 @@ ht-degree: 66%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명은 증명 워크플로우에서 사용자에게 공유되지 않습니다](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 18월 9일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
 | [[!UICONTROL 홈]: 사용자 정의 용어가 홈 영역에 적용되지 않음](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022년 6월 3일 |

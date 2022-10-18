@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1398'
-ht-degree: 83%
+source-wordcount: '1424'
+ht-degree: 81%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 보드]: [!UICONTROL 보드] 페이지가 로드되지 않음](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [문서: 외부 문서 요청 링크는 로그인 페이지로 이동합니다](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [프로그램: 할당 시 발생하는 문제 [!UICONTROL 프로그램 소유자]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [보고서: 문제 보고서에서 &quot;이동 위치&quot; 옵션을 사용할 수 없습니다](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [문제: 작업의 왼쪽 탐색 시 문제 수가 잘못되었습니다.](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 83%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+      + [증명: 증명은 증명 워크플로우에서 사용자에게 공유되지 않습니다](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: 여러 페이지가 있는 증명을 볼 때 빈 페이지](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [증명: [!DNL Workfront] Proof에서 [!DNL Workfront] 에 증명 추가 시 오류 발생](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: 댓글에 파일을 업로드할 때 오류 발생](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)

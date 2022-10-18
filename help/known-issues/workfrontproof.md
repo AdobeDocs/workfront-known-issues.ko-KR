@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 65%
+source-wordcount: '213'
+ht-degree: 59%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 65%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 외부 문서 요청 링크는 로그인 페이지로 이동합니다](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 18일 |
 | [증명: &quot;새 증명 수신자&quot; 텍스트 상자가 너무 작습니다.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 6일 |
 | [문서: &quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022년 10월 4일 |
 
@@ -45,6 +46,7 @@ ht-degree: 65%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명은 증명 워크플로우에서 사용자에게 공유되지 않습니다](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 18월 9일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [[!DNL Workfront Proof]: 댓글에 사용자를 태그 지정하여 증명에 사용자를 추가할 수 없음](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022년 3월 23일 |
 | [[!UICONTROL 홈]: [!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021년 6월 21일 |
