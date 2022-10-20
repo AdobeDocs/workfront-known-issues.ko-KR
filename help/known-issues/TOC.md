@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 81%
+source-wordcount: '1455'
+ht-degree: 79%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 81%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 보고서 사용 정보가 업데이트되지 않음](known-issues-workfront/wf-reports-usage-not-updating.md)
+      + [탐색: 개체를 고정할 수 없습니다.](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL 보드]: [!UICONTROL 보드] 페이지가 로드되지 않음](known-issues-workfront/wf-boards-boards-do-not-load.md)
       + [문서: 외부 문서 요청 링크는 로그인 페이지로 이동합니다](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [프로그램: 할당 시 발생하는 문제 [!UICONTROL 프로그램 소유자]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
@@ -133,6 +135,7 @@ ht-degree: 81%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+      + [증명: 인쇄 요약에 증명 페이지가 모두 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [증명: 증명은 증명 워크플로우에서 사용자에게 공유되지 않습니다](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: 여러 페이지가 있는 증명을 볼 때 빈 페이지](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [증명: [!DNL Workfront] Proof에서 [!DNL Workfront] 에 증명 추가 시 오류 발생](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
@@ -167,6 +170,7 @@ ht-degree: 81%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Workfront Fusion]: 시나리오 실행 내역에서 오류를 보는 동안 오류가 발생했습니다.](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409 오류 [!DNL Fusion] 시나리오](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: &quot;[!UICONTROL 데이터를 로드하지 못했습니다.]&quot; 오류](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 지정 API 호출] 404 또는 422 오류를 반환하는 모듈](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)

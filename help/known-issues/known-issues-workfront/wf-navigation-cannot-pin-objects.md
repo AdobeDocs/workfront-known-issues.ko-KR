@@ -4,8 +4,8 @@ description: "사용자가 Workfront에서 개체를 고정하려고 하면 개�
 hidefromtoc: true
 source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 16%
 
 ---
 
