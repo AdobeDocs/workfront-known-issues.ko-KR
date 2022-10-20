@@ -1,23 +1,23 @@
 ---
-title: '''홈: ''Reply in Proof'' 단추 동작이 일관되지 않음'''
-description: 사용자가 새 [!DNL Adobe Workfront] 경험의 오른쪽 패널에서 증명 보기 [!UICONTROL 홈]를 클릭한 다음 [!UICONTROL 증명 회신] 주석에서 업데이트를 저장할 수 있는 위치가 텍스트 상자에 표시됩니다 [!UICONTROL 문서 업데이트] 대상 이외의 영역에 적용됩니다.
+title: '홈: 증명에서 답글 작성 버튼 동작이 일관적이지 않음'
+description: 새 [!DNL Adobe Workfront] 경험의 사용자가 [!UICONTROL 홈]의 오른쪽 패널에서 증명을 볼 때 댓글에 대해 [!UICONTROL 증명에서 답글 작성]을 클릭하면 의도한 대로 증명 뷰어로 이동하는 대신 [!UICONTROL 문서 업데이트] 영역에 업데이트를 남길 수 있는 텍스트 상자가 표시됩니다.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 홈]: [!UICONTROL 증명 회신] 단추 동작이 일관되지 않음
+# [!UICONTROL 홈]: [!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가하고 있으며, 이를 위해서는 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 제품 공지 사항에 전달되며 유지 관리 업데이트에는 전달되지 않습니다.
+>제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
 
-사용자가 새 [!DNL Adobe Workfront] 경험의 오른쪽 패널에서 증명 보기 [!UICONTROL 홈]를 클릭한 다음 [!UICONTROL 증명 회신] 주석에서 문서에 업데이트를 저장할 수 있는 텍스트 상자가 표시됩니다 [!UICONTROL 업데이트] 페이지로 이동하지 않고 영역을 설정합니다. [!UICONTROL 교정 뷰어] 의도한 대로.
+새 [!DNL Adobe Workfront] 경험의 사용자가 [!UICONTROL 홈]의 오른쪽 패널에서 증명을 볼 때 댓글에 대해 [!UICONTROL 증명에서 답글 작성]을 클릭하면 의도한 대로 [!UICONTROL 증명 뷰어]로 이동하는 대신 문서 [!UICONTROL 업데이트] 영역에 업데이트를 남길 수 있는 텍스트 상자가 표시됩니다.
 
-**해결 방법**: 새 탭에서 증명을 열고 [!UICONTROL 증명 회신] 열다 [!UICONTROL 증명 뷰어] 문서 [!UICONTROL 업데이트] 영역.
+**해결 방법**: 새 탭에서 증명을 연 다음 [!UICONTROL 증명에서 답글 작성]을 클릭해 문서의 [!UICONTROL 업데이트] 영역에서 [!UICONTROL 증명 뷰어]를 엽니다.
 
-처음 보고된 날짜: 2021년 6월 10일
+2021년 6월 10일에 처음 보고되었습니다.
