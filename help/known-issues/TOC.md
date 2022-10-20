@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + [!DNL Workfront] 증명 {#proof-resolved}의 해결된 문제
       + [[!DNL Workfront Proof]: 증명을 만들거나, 이동하거나, 보관할 때 [!DNL Workfront Proof] 영역이 업데이트되지 않음](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [증명: 증명이 매우 오랫동안 “[!UICONTROL 증명 생성 중]”으로 표시됨](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [사용자가 증명의 다른 단계로 직접 이동할 수 없음](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion]: 시나리오에 Workfront에서 증명 결정을 확인하는 모듈이 포함된 경우 502 오류 발생](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] 앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + [!DNL Workfront Fusion]{#fusion-resolved}의 해결된 문제
-      + [ [!DNL Workfront] 모듈의 401 오류](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [사용자 정의 양식의 데이터를 [!DNL Workfront Fusion] [!DNL Workfront] 모듈에서 사용할 수 없음](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront 목표] {#goals}
