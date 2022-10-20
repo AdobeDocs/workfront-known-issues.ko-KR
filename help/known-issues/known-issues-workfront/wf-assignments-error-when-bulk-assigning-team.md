@@ -2,15 +2,19 @@
 title: "할당: 팀을 일괄 할당하는 동안 오류가 발생했습니다."
 description: "사용자가 작업 또는 문제를 벌크 편집하며 개인을 지정한 후 팀을 지정하면 할당이 저장되지 않으며 사용자에게 오류가 표시됩니다."
 hidefromtoc: true
-source-git-commit: f16da861a5138c57722eea15a130e0b50cc167d0
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
 
 # 지정: 팀을 일괄 할당하는 동안 오류가 발생했습니다.
+
+>[!NOTE]
+>
+>이 문제는 2022년 10월 20일에 수정되었습니다.
 
 사용자가 작업 또는 문제를 벌크 편집하며 개인을 지정한 후 팀을 지정하면 할당이 저장되지 않으며 사용자에게 다음 오류가 표시됩니다.
 

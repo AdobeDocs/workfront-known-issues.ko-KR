@@ -2,7 +2,7 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
 source-wordcount: '14458'
 ht-degree: 94%
@@ -41,7 +41,7 @@ ht-degree: 94%
 
 &quot;[!UICONTROL 다시 시도해 보겠습니다. 다음 오류가 발생했습니다. teamAssignments는 개체 목록이나 ID 목록이어야 합니다]&quot;
 
-**[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류**
+**&quot;[!UICONTROL 파일을 업로드하지 못했습니다.]&quot; 오류**
 
 *문서*
 
