@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 62%
+source-wordcount: '567'
+ht-degree: 61%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 62%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자 지정 양식: [!UICONTROL 시간] 계산된 필드의 함수는 UTC를 사용합니다](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 2022년 10월 24일 |
 | [문서: 외부 문서 요청 링크는 로그인 페이지로 이동합니다](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
 | [[!UICONTROL 보드]: [!UICONTROL 보드] 페이지가 로드되지 않음](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022년 10월 20일 |
 | [보고서: 보고서 사용 정보가 업데이트되지 않음](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022년 10월 19일 |
@@ -81,7 +82,7 @@ ht-degree: 62%
 | [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2021년 6월 14일 |
 | [보고서: 대시보드에서 볼 때 보고서를 가로로 스크롤할 수 없음](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021년 3월 30일 |
 | [[!UICONTROL 홈]: 프로젝트 이름이 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)에 GUID로 표시됨 | 2021년 2월 11일 |
-| [문서: 증명 워크플로우 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 1월 25일 |
+| [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 1월 25일 |
 | [보고서: 캘린더에 이전 날짜가 기본으로 표시됨](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 2021년 2월 5일 |
 | [이메일 알림:  [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)에서 이메일 서식이 올바르게 지정되지 않음 | 2021년 3월 30일 |
 | [[!UICONTROL 홈]: [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-unable-to-view-document-image.md)에서 문서 이미지를 볼 수 없음 | 2020년 11월 9일 |

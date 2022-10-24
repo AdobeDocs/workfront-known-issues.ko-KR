@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 79%
+source-wordcount: '1463'
+ht-degree: 78%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 지정 양식: [!UICONTROL 시간] 계산된 필드의 함수는 UTC를 사용합니다](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않습니다](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [보고서: 보고서 사용 정보가 업데이트되지 않음](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [탐색: 개체를 고정할 수 없습니다.](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
@@ -151,7 +152,7 @@ ht-degree: 79%
       + [[!DNL Workfront Proof]: 증명에서 증명 관리자의 권한이 제한됨](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
       + [대시보드의 [!UICONTROL 관리할 증명]에 0개의 증명이 표시됨](known-issues-workfront-proof/zero-proofs-to-manage.md)
       + [[!DNL Workfront Proof]: 대화형 증명의 하이퍼링크가 활성화되지 않음](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
-      + [워크플로우 템플릿에서 초기 구성 후 사용자 옵션을 수정할 수 없음](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
+      + [워크플로 템플릿에서 초기 구성 후 사용자 옵션을 수정할 수 없음](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
       + [사용자가 증명을 태그 지정할 때 알림이 수신되지 않음](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md)
       + [[!UICONTROL 증명 뷰어]에 작성한 댓글은 실시간으로 보이지 않음](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
       + [기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/new-stage-created.md)
@@ -161,7 +162,7 @@ ht-degree: 79%
       + [증명에 대한 자동 액세스가 지연됨](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]에 남아 있음](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
-      + [문서: 증명 워크플로우 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
+      + [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + [!DNL Workfront] 증명 {#proof-resolved}의 해결된 문제
       + [[!DNL Workfront Proof]: 증명을 만들거나, 이동하거나, 보관할 때 [!DNL Workfront Proof] 영역이 업데이트되지 않음](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [증명: 증명이 매우 오랫동안 “[!UICONTROL 증명 생성 중]”으로 표시됨](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
