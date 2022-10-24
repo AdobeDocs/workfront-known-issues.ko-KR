@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
+source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 61%
+source-wordcount: '574'
+ht-degree: 60%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 61%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 설정]: 목록 로드 속도 [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022년 10월 24일 |
 | [애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않습니다](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022년 10월 20일 |
 | [증명: 인쇄 요약에 증명 페이지가 모두 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
 | [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 29월 9일 |
