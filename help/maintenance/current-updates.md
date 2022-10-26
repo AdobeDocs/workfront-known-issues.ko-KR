@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
+source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
 workflow-type: tm+mt
-source-wordcount: '14607'
-ht-degree: 93%
+source-wordcount: '14720'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,18 @@ ht-degree: 93%
 ## 2022년 10월 업데이트
 
 +++**(예정) 2022년 10월 27일 유지 관리 업데이트**
+
+**페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.**
+
+*탐색*
+
+>[!NOTE]
+>
+>이 문제는 2022년 10월 13일 미리 보기에서 수정되었습니다. 2022년 10월 27일에 프로덕션에서 수정됩니다.
+
+사용자가 &quot;[!UICONTROL 핀 제거]핀의 &quot; 옵션을 선택하고 제거에 대한 메시지를 받은 다음 &quot;[!UICONTROL 실행 취소]&quot; 메시지에서 핀은 위쪽 탐색에서 바뀌지 않으며 핀의 핀 목록에 추가되지 않습니다 [!UICONTROL 추가 핀] 목록(세 점 메뉴 [!UICONTROL 핀] 영역 참조).
+
+사용자가 페이지로 이동하여 고정하여 페이지를 다시 고정할 경우 PIN이 만들어지지 않고 사용자가 페이지를 고정할 수 없습니다.
 
 **[!UICONTROL 시간] 계산된 필드의 함수는 UTC를 사용합니다**
 
