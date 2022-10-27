@@ -1,29 +1,29 @@
 ---
-title: "통합: 다음에 대한 Workfront을 여는 동안 오류가 발생했습니다. [!DNL Jira] Jira 내"
-description: "사용자가 [!DNL Jira] 그리고 [!DNL Workfront for Jira] 추가 기능에서 추가 기능이 열리지 않고 사용자에게 오류 메시지가 표시됩니다."
+title: '“통합: Jira에서 Workfront for  [!DNL Jira] 를 열 때 오류 발생”'
+description: “사용자가 [!DNL Jira] 에서 작업 중일 때 [!DNL Workfront for Jira] 추가 기능을 추가하거나 열려고 하면 추가 기능이 열리지 않고 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# 통합: 여는 동안 오류가 발생했습니다. [!DNL Workfront for Jira] within [!DNL Jira]
+# 통합: [!DNL Jira]에서 [!DNL Workfront for Jira]를 열 때 오류 발생
 
 >[!NOTE]
 >
 >이 문제는 2022년 9월 5일에 수정되었습니다.
 
-사용자가 작업 중인 경우 [!DNL Jira] 그리고 [!DNL Workfront for Jira] 추가 기능에서 추가 기능이 열리지 않고 사용자에게 다음 메시지가 표시됩니다.
+사용자가 [!DNL Jira]에서 작업 중일 때 [!DNL Workfront for Jira] 추가 기능을 추가하거나 열려고 하면 추가 기능이 열리지 않고 다음과 같은 메시지가 표시됩니다.
 
-&quot;[!UICONTROL 문제가 발생했습니다. 우리 팀이 통보를 받았다. 문제가 계속되면 다음 주소로 문의하십시오 [!UICONTROL 아틀라잔] 지원.]&quot;
+“[!UICONTROL 문제가 발생했습니다. 담당 팀에 알림이 전송되었습니다. 문제가 지속되면 [!UICONTROL Atlassian] 지원 센터에 문의하십시오.]
 
-이러한 상황은 다음과 같은 경우에 발생할 수 있습니다.
+이 문제는 다음 경우에 발생할 수 있습니다.
 
-* 를 획득하려고 할 때 [!DNL Workfront for Jira] 추가 기능
-* 이전에 획득한 [!DNL Workfront for Jira] 추가 기능
+* [!DNL Workfront for Jira] 추가 기능을 획득하려고 할 때
+* 이전에 획득한 [!DNL Workfront for Jira] 추가 기능을 구성하려고 할 때
 
 _2022년 8월 23일에 처음 보고되었습니다._
 
