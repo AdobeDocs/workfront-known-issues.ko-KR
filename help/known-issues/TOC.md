@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 77%
+source-wordcount: '1513'
+ht-degree: 75%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 템플릿에서 프로젝트를 만들 때 성능 문제 및 오류 메시지가 표시됩니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [요청: 페이지에서 100개 이상의 큐 항목을 볼 수 없습니다](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [문제: 문제가 있을 때 왼쪽 탐색에 &quot;(0)&quot; 문제가 표시됩니다](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [요청: [!UICONTROL 전자 메일 큐 설정] 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL 보드]: [!UICONTROL 흡수] 열 검색은 비효율적입니다](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 설정]: 목록 로드 속도 [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [사용자 지정 양식: [!UICONTROL 시간] 계산된 필드의 함수는 UTC를 사용합니다](known-issues-workfront/wf-custom-form-hours-use-utc.md)
