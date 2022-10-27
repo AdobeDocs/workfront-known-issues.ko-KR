@@ -3,7 +3,7 @@ title: '“통합: Jira에서 Workfront for  [!DNL Jira] 를 열 때 오류 발�
 description: “사용자가 [!DNL Jira] 에서 작업 중일 때 [!DNL Workfront for Jira] 추가 기능을 추가하거나 열려고 하면 추가 기능이 열리지 않고 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
