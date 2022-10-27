@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '609'
 ht-degree: 57%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 57%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명 생성은 매우 느리다](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [요청: 페이지에서 100개 이상의 큐 항목을 볼 수 없습니다](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022년 10월 27일 |
 | [문제: 문제가 있을 때 왼쪽 탐색에 &quot;(0)&quot; 문제가 표시됩니다](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 2022년 10월 27일 |
 | [요청: [!UICONTROL 전자 메일 큐 설정] 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022년 10월 27일 |
