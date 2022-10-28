@@ -3,8 +3,8 @@ title: '프로젝트: 헤더에서 프로젝트 소유자를 제거하는 동안
 description: 사용자가 프로젝트 헤더에서 프로젝트 소유자를 제거하려고 할 때 프로젝트 소유자는 제거되지 않고 오류 메시지가 표시됩니다.
 hidefromtoc: true
 exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: a033108ac2c267d36e6bec1cdc53b5917b61bd16
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

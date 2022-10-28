@@ -2,8 +2,8 @@
 title: 2021년 Workfront 유지 보수 업데이트
 description: 2021  [!DNL Adobe Workfront] 유지 보수 업데이트 내역
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
-workflow-type: ht
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -970,7 +970,7 @@ _요청_
 
 **열이 표시되지 않음**
 
-_Kanban_
+_간판_
 
 새 [!DNL Adobe Workfront] 경험의 사용자가 사용자 정의된 [!UICONTROL 추가 필드] 열을 Kanban 보드에 추가하면 보드에서 모든 열 머리글 표시가 중지됩니다.
 
