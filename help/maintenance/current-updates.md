@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
+source-wordcount: '14718'
 ht-degree: 92%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->이 문제는 2022년 10월 13일 미리 보기에서 수정되었습니다. 2022년 10월 27일에 프로덕션에서 수정됩니다.
+>이 문제는 2022년 10월 13일 미리 보기에서 수정되었습니다. 2022년 10월 27일에 프로덕션에서 수정되었습니다.
 
 사용자가 &quot;[!UICONTROL 핀 제거]핀의 &quot; 옵션을 선택하고 제거에 대한 메시지를 받은 다음 &quot;[!UICONTROL 실행 취소]&quot; 메시지에서 핀은 위쪽 탐색에서 바뀌지 않으며 핀의 핀 목록에 추가되지 않습니다 [!UICONTROL 추가 핀] 목록(세 점 메뉴 [!UICONTROL 핀] 영역 참조).
 

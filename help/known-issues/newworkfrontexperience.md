@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 57%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 57%
 | [문제: 문제가 있을 때 왼쪽 탐색에 &quot;(0)&quot; 문제가 표시됩니다](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 2022년 10월 27일 |
 | [요청: [!UICONTROL 전자 메일 큐 설정] 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022년 10월 27일 |
 | [[!UICONTROL 보드]: [!UICONTROL 흡수] 열 검색은 비효율적입니다](known-issues-workfront/wf-boards-search-returns-no-results.md) | 2022년 10월 26일 |
-| [[!UICONTROL 설정]: 목록 로드 속도 [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022년 10월 24일 |
 | [애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않습니다](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022년 10월 20일 |
 | [증명: 인쇄 요약에 증명 페이지가 모두 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
 | [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 29월 9일 |
@@ -44,6 +43,7 @@ ht-degree: 57%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자 지정 양식: [!UICONTROL 시간] 계산된 필드의 함수는 UTC를 사용합니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 28일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 성능 문제 및 오류 메시지가 표시됩니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |
 | [문서: 외부 문서 요청 링크는 로그인 페이지로 이동합니다](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
 | [[!UICONTROL 보드]: [!UICONTROL 보드] 페이지가 로드되지 않음](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022년 10월 20일 |
@@ -54,7 +54,6 @@ ht-degree: 57%
 | [보고서: 문제 보고서에서 &quot;이동 위치&quot; 옵션을 사용할 수 없습니다](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022년 10월 13일 |
 | [애자일: 반복에 추가된 작업 문제](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022년 10월 13일 |
 | [사용자 지정 양식: 계산된 필드를 설정할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022년 10월 13일 |
-| [탐색: 페이지가 핀 제거 후 페이지를 다시 고정할 수 없습니다.](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022년 10월 11일 |
 | [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 30월 9일 |
 | [통합:  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)에서 요청을 제출할 때 오류 발생 | 2022년 8월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
@@ -67,6 +66,7 @@ ht-degree: 57%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 설정]: 목록 로드 속도 [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022년 10월 28일 |
 | [증명: 증명은 증명 워크플로우에서 사용자에게 공유되지 않습니다](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 18월 9일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
