@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
-source-wordcount: '608'
-ht-degree: 57%
+source-wordcount: '615'
+ht-degree: 56%
 
 ---
 
@@ -66,6 +66,7 @@ ht-degree: 57%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [API: 동적 필드로 정렬할 수 없습니다.](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
 | [[!UICONTROL 설정]: 목록 로드 속도 [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022년 10월 28일 |
 | [증명: 증명은 증명 워크플로우에서 사용자에게 공유되지 않습니다](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 18월 9일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
