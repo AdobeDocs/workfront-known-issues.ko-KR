@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
 workflow-type: tm+mt
-source-wordcount: '1537'
+source-wordcount: '1542'
 ht-degree: 74%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [검색: 검색은 매우 느립니다](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: 404 오류 [!DNL Workfront] 모듈](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: 동적 필드로 정렬할 수 없습니다.](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [증명: 증명 생성은 매우 느리다](known-issues-workfront/wf-proofs-slow-proof-generation.md)
