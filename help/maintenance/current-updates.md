@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '14718'
+source-wordcount: '14801'
 ht-degree: 92%
 
 ---
@@ -28,6 +28,32 @@ ht-degree: 92%
 -->
 
 2022년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
+
+## 2022년 10월 업데이트
+
++++**2022년 11월 3일 유지 보수 업데이트**
+
+**전자 메일 알림 설정에 액세스할 때 오류 발생**
+
+*알림*
+
+>[!NOTE]
+>
+>이 문제는 프로덕션 환경과 미리 보기 환경 둘 다에 있습니다.
+
+사용자가 이메일 알림 설정을 변경하려고 하면 다음 오류 중 하나가 표시될 수 있습니다.
+
+* “[!UICONTROL 다시 시도해 보겠습니다. 죄송합니다. 문제가 발생했습니다. 무엇이 잘못되었는지 파악하여 수정할 수 있도록 [!DNL Workfront]에 문의해 주시기 바랍니다.]”
+
+* “[!UICONTROL 이메일 알림을 가져오지 못함]”
+
+이 문제는 다음 영역에서 보고되었습니다.
+
+* [!UICONTROL 설정] > [!UICONTROL 이메일 알림]
+* [!UICONTROL 사용자] > [!UICONTROL 사용자 편집]
+* [!UICONTROL 그룹]
+
++++
 
 ## 2022년 10월 업데이트
 

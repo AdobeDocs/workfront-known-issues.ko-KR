@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '1528'
-ht-degree: 75%
+source-wordcount: '1537'
+ht-degree: 74%
 
 ---
 
@@ -180,6 +180,7 @@ ht-degree: 75%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Workfront Fusion]: 의 배열 요소 [!UICONTROL 반복기] 모듈로 표시[!UICONTROL 개체]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: 시나리오 실행 내역에서 오류를 보는 동안 오류가 발생했습니다.](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409 오류 [!DNL Fusion] 시나리오](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: &quot;[!UICONTROL 데이터를 로드하지 못했습니다.]&quot; 오류](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
