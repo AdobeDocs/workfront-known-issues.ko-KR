@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1560'
 ht-degree: 73%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 73%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [요청: 요청 큐를 편집할 때 &quot;Whoops&quot; 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [목록: 사용자별 인라인 편집 오류로 인해 오류 메시지가 발생하지 않습니다](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [검색: 검색은 매우 느립니다](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: 404 오류 [!DNL Workfront] 모듈](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)

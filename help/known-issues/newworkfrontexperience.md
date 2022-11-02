@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 55%
+source-wordcount: '641'
+ht-degree: 54%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 55%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [요청: 요청 큐를 편집할 때 &quot;Whoops&quot; 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022년 11월 2일 |
 | [목록: 사용자별 인라인 편집 오류로 인해 오류 메시지가 발생하지 않습니다](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022년 11월 2일 |
 | [검색: 검색은 매우 느립니다](known-issues-workfront/wf-search-basic-search-is-slow.md) | 2022년 11월 1일 |
 | [증명: 증명 생성은 매우 느리다](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
