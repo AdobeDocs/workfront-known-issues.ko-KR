@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 56%
+source-wordcount: '633'
+ht-degree: 55%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 56%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [목록: 사용자별 인라인 편집 오류로 인해 오류 메시지가 발생하지 않습니다](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022년 11월 2일 |
 | [검색: 검색은 매우 느립니다](known-issues-workfront/wf-search-basic-search-is-slow.md) | 2022년 11월 1일 |
 | [증명: 증명 생성은 매우 느리다](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [요청: 페이지에서 100개 이상의 큐 항목을 볼 수 없습니다](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022년 10월 27일 |

@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
+source-wordcount: '14844'
 ht-degree: 92%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 92%
 ## 2022년 10월 업데이트
 
 +++**2022년 11월 3일 유지 보수 업데이트**
+
+**레이아웃 템플릿에서 팀 및 프로젝트에 대한 &quot;예약&quot; 및 &quot;예약&quot; 섹션의 이름을 변경합니다**
+
+*레이아웃 템플릿*
+
+팀 또는 프로젝트의 왼쪽 패널에 레이아웃 템플릿에 추가할 수 있는 &quot;예약&quot; 및 &quot;예약&quot; 탭의 이름이 &quot;작업 로드 밸런서&quot;로 변경되었습니다.
 
 **전자 메일 알림 설정에 액세스할 때 오류 발생**
 
