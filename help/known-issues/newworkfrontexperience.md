@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 54%
+source-wordcount: '633'
+ht-degree: 87%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 54%
 
 ## 신규
 
-최근에 보고된 이러한 문제는 현재 검토 중입니다.
+최근에 보고된 문제는 현재 검토 중입니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
@@ -31,47 +31,46 @@ ht-degree: 54%
 | [요청: 페이지에서 100개 이상의 큐 항목을 볼 수 없습니다](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022년 10월 27일 |
 | [문제: 문제가 있을 때 왼쪽 탐색에 &quot;(0)&quot; 문제가 표시됩니다](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 2022년 10월 27일 |
 | [요청: [!UICONTROL 전자 메일 큐 설정] 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022년 10월 27일 |
-| [[!UICONTROL 보드]: [!UICONTROL 흡수] 열 검색은 비효율적입니다](known-issues-workfront/wf-boards-search-returns-no-results.md) | 2022년 10월 26일 |
-| [애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않습니다](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022년 10월 20일 |
-| [증명: 인쇄 요약에 증명 페이지가 모두 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
-| [알림: 언급되거나 댓글에 포함되지 않은 사용자에게 알림](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 29월 9일 |
-| [알림: 이메일 알림 설정에 액세스할 때 문제 발생](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022년 9월 15일 |
+| [[!UICONTROL 보드]: [!UICONTROL Intake]열 검색이 효과가 없음](known-issues-workfront/wf-boards-search-returns-no-results.md) | 2022년 10월 26일 |
+| [애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않음](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022년 10월 20일 |
+| [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
+| [알림: 댓글에 언급되거나 포함되면 사용자에게 알림이 전송되지 않음](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 9월 29일 |
 
 {style=&quot;table-layout:auto&quot;}
 
 
 ## 진행 중
 
-이러한 문제에 대한 수정 사항이 현재 진행 중이거나 가까운 미래에 예약되어 있습니다.
+이러한 문제에 대한 수정이 현재 진행 중이거나 가까운 미래에 수정될 예정입니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [사용자 지정 양식: [!UICONTROL 시간] 계산된 필드의 함수는 UTC를 사용합니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 28일 |
+| [사용자 정의 양식: 계산된 필드의 [!UICONTROL HOUR] 함수가 UTC를 사용함](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 28일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 성능 문제 및 오류 메시지가 표시됩니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |
-| [문서: 외부 문서 요청 링크는 로그인 페이지로 이동합니다](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
+| [문서: 외부 문서 요청 링크가 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
 | [[!UICONTROL 보드]: [!UICONTROL 보드] 페이지가 로드되지 않음](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022년 10월 20일 |
 | [보고서: 보고서 사용 정보가 업데이트되지 않음](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022년 10월 19일 |
-| [탐색: 개체를 고정할 수 없습니다.](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022년 10월 19일 |
-| [증명: &quot;새 증명 수신자&quot; 텍스트 상자가 너무 작습니다.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 18일 |
-| [프로그램: 할당 시 발생하는 문제 [!UICONTROL 프로그램 소유자]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022년 10월 17일 |
-| [보고서: 문제 보고서에서 &quot;이동 위치&quot; 옵션을 사용할 수 없습니다](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022년 10월 13일 |
+| [탐색: 개체를 고정할 수 없음](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022년 10월 19일 |
+| [증명: “새 증명 수신자“ 텍스트 상자가 너무 작음](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 18일 |
+| [프로그램: [!UICONTROL 프로그램 소유자 할당 시 문제 발생]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022년 10월 17일 |
+| [보고서: 문제 보고서에서 “이동” 옵션을 사용할 수 없음](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022년 10월 13일 |
 | [애자일: 반복에 추가된 작업 문제](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022년 10월 13일 |
-| [사용자 지정 양식: 계산된 필드를 설정할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022년 10월 13일 |
-| [작업: 작업에 시간을 입력할 때 시간이 저장되지 않습니다 [!UICONTROL 요약 패널]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 30월 9일 |
+| [사용자 정의 양식: 계산된 필드를 설정할 때 “죄송합니다” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022년 10월 13일 |
+| [작업: 작업 [!UICONTROL 요약 패널에 시간을 입력할 때 시간이 저장되지 않음]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 9월 30일 |
 | [통합:  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)에서 요청을 제출할 때 오류 발생 | 2022년 8월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
 {style=&quot;table-layout:auto&quot;}
 
-## 수정 사항 없음
+## 수정 없음
 
-이러한 문제에 대한 수정 사항은 현재 로드맵에 없습니다. 경우에 따라 이러한 문제는 새로운 기능 또는 기능 업데이트로 수정됩니다.
+현재 로드맵에는 이러한 문제에 대한 수정 사항이 없습니다. 경우에 따라 이러한 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [API: 동적 필드로 정렬할 수 없습니다.](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
-| [[!UICONTROL 설정]: 목록 로드 속도 [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022년 10월 28일 |
-| [증명: 증명은 증명 워크플로우에서 사용자에게 공유되지 않습니다](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 18월 9일 |
+| [[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md)에서 느리게 로드됨 | 2022년 10월 28일 |
+| [증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
 | [[!UICONTROL 홈]: 사용자 정의 용어가 홈 영역에 적용되지 않음](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022년 6월 3일 |
@@ -87,7 +86,7 @@ ht-degree: 54%
 | [이메일 알림: “[!UICONTROL 문제에 할당됨]” 설정이 표시됨](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021년 6월 2일 |
 | [이메일 알림: 사용자가 댓글 스레드로 이동되지 않음](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021년 4월 23일 |
 | [캘린더: [!DNL OR] 필터 문이 필터 규칙을 제외함](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021년 4월 23일 |
-| [[!UICONTROL Workfront 증명]: [!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
+| [[!UICONTROL Workfront Proof]: [!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
 | [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2021년 6월 14일 |
 | [보고서: 대시보드에서 볼 때 보고서를 가로로 스크롤할 수 없음](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021년 3월 30일 |
 | [[!UICONTROL 홈]: 프로젝트 이름이 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)에 GUID로 표시됨 | 2021년 2월 11일 |
