@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 87%
+source-wordcount: '645'
+ht-degree: 86%
 
 ---
 
@@ -45,6 +45,8 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업: 변경할 수 없음 [!UICONTROL 계획 완료 일자] 작업](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md) | 2022년 11월 3일 |
+| [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] 개체](known-issues-workfront/wf-500-error-when-making-changes.md) | 2022년 11월 3일 |
 | [사용자 정의 양식: 계산된 필드의 [!UICONTROL HOUR] 함수가 UTC를 사용함](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 28일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 성능 문제 및 오류 메시지가 표시됩니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |
 | [문서: 외부 문서 요청 링크가 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
