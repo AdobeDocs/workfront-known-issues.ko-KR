@@ -2,15 +2,19 @@
 title: "증명: 증명 생성은 매우 느립니다."
 description: "사용자가 자동 워크플로우를 사용하여 새로 추가 > 증명 선택 사항을 통해 Workfront 작업 항목에 증명을 추가하려고 하면 증명을 생성하는 데 몇 분이 걸립니다."
 hidefromtoc: true
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 10%
 
 ---
 
 
 # 증명: 증명 생성은 매우 느리다
+
+>[!NOTE]
+>
+>이 문제는 2022년 10월 31일에 수정되었습니다.
 
 <!--This article is on the WF and WFP TOCs-->
 

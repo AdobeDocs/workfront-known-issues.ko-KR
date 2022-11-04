@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 53%
+ht-degree: 94%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 53%
 
 ## 신규
 
-최근에 보고된 이러한 문제는 현재 검토 중입니다.
+최근에 보고된 문제는 현재 검토 중입니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
@@ -32,23 +32,23 @@ ht-degree: 53%
 
 ## 진행 중
 
-이러한 문제에 대한 수정 사항이 현재 진행 중이거나 가까운 미래에 예약되어 있습니다.
+이러한 문제에 대한 수정이 현재 진행 중이거나 가까운 미래에 수정될 예정입니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] 모듈로 표시[!UICONTROL 개체]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022년 11월 1일 |
-| [[!DNL Workfront Fusion]: 시나리오 실행 내역에서 오류를 보는 동안 오류가 발생했습니다.](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022년 10월 19일 |
+| **** | [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] 모듈로 표시[!UICONTROL 개체]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022년 11월 1일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022년 8월 2일 |
 
 {style=&quot;table-layout:auto&quot;}
 
-## 수정 사항 없음
+## 수정 없음
 
-이러한 문제에 대한 수정 사항은 현재 로드맵에 없습니다. 경우에 따라 이러한 문제는 새로운 기능 또는 기능 업데이트로 수정됩니다.
+현재 로드맵에는 이러한 문제에 대한 수정 사항이 없습니다. 경우에 따라 이러한 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: &quot;연결을 확인하지 못했습니다.&quot; 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022년 29월 9일 |
+| [[!DNL Workfront Fusion]: 시나리오 실행 기록에서 오류를 볼 때 오류 발생](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022년 11월 4일 |
+| [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022년 9월 29일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022년 9월 9일 |
 
 {style=&quot;table-layout:auto&quot;}

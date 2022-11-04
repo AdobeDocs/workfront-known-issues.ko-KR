@@ -2,15 +2,19 @@
 title: "작업: 작업의 계획 완료 날짜를 변경할 수 없습니다."
 description: '"사용자가 작업의 계획된 완료 날짜를 변경하려고 하면 필드가 응답하지 않습니다. ”'
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 16%
+source-wordcount: '118'
+ht-degree: 24%
 
 ---
 
 
 # 작업: 변경할 수 없음 [!UICONTROL 계획 완료 일자] 작업
+
+>[!NOTE]
+>
+>이 문제는 설계대로 작동하는 것이므로 종결되었습니다.
 
 사용자가 [!UICONTROL 계획 완료 일자] 작업 중 필드가 응답하지 않습니다.
 
