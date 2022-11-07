@@ -1,12 +1,12 @@
 ---
-title: '타임시트: 타임시트에 변경 내용을 자동 저장할 때 최근 변경 내용이 저장되지 않음 오류 발생'
+title: '“타임시트: 타임시트에 변경 내용을 자동 저장할 때 최근 변경 내용이 저장되지 않음 오류 발생”'
 description: 사용자가 자동 저장을 트리거하는 방식으로 타임시트를 편집하려고 하면 “변경 내용이 저장되지 않으며 사용자에게 최근 변경 내용이 저장되지 않았습니다”라는 메시지가 표시됩니다. 보려는 페이지를 새로 고칩니다.
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
