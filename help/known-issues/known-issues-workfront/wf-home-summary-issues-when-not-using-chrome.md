@@ -1,16 +1,16 @@
 ---
-title: '홈: Chrome 이외의 브라우저 사용 시 홈 요약 문제 발생'
+title: '“홈: Chrome 이외의 브라우저 사용 시 홈 요약 문제 발생”'
 description: 사용자가 홈 페이지를 볼 때 Chrome 이외의 브라우저를 사용하면 다양한 문제가 발생할 수 있습니다.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL 홈]: [!UICONTROL  이외의 브라우저 사용 시 ]홈[!DNL Chrome] 요약 문제 발생 
+# [!UICONTROL 홈]: [!DNL Chrome] 이외의 브라우저 사용 시 [!UICONTROL 홈] 요약 문제 발생
 
 >[!NOTE]
 >
