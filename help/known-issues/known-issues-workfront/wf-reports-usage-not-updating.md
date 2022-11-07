@@ -2,15 +2,19 @@
 title: '“보고서: 보고서 사용 정보가 업데이트되지 않음”'
 description: “사용자가 보고서를 볼 때 마지막 조회 일자 및 마지막 조회인과 같은 마지막 조회 정보가 업데이트되지 않습니다. 이는 모든 사용 정보가 정확하지 않을 수 있음을 의미합니다.”
 hidefromtoc: true
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
-workflow-type: ht
-source-wordcount: '109'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 보고서: 보고서 사용 정보가 업데이트되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2022년 11월 4일에 수정되었습니다.
 
 사용자가 보고서를 볼 때 마지막 조회 일자 및 마지막 조회인과 같은 마지막 조회 정보가 업데이트되지 않습니다. 이는 모든 사용 정보가 정확하지 않을 수 있음을 의미합니다.
 

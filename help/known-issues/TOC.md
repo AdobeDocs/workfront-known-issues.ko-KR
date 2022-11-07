@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [애자일: 태스크에 간판 백로그 순서가 0입니다.](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [작업: 변경할 수 없음 [!UICONTROL 계획 완료 일자] 작업](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: Workfront 개체를 변경할 때 500 오류가 발생합니다](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [요청: 요청 큐를 편집할 때 &quot;Whoops&quot; 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)

@@ -2,15 +2,19 @@
 title: '”애자일: 반복에 추가된 작업 문제”'
 description: ”반복에 추가된 문제와 관련하여 여러 건의 보고가 있었습니다.”
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 애자일: 반복에 추가된 작업 문제
+
+>[!NOTE]
+>
+>이 문제는 2022년 11월 4일에 수정되었습니다.
 
 반복에 추가된 문제와 관련하여 다음 문제가 보고되었습니다.
 

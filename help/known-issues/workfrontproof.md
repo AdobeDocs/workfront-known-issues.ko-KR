@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +36,6 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof]: 대화형 증명을 열 수 없습니다.](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 2022년 11월 3일 |
 | [문서: 외부 문서 요청 링크가 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
-| [증명: “새 증명 수신자“ 텍스트 상자가 너무 작음](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 18일 |
 
 {style=&quot;table-layout:auto&quot;}
 

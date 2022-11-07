@@ -2,15 +2,19 @@
 title: '“애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않음”'
 description: “사용자가 벌크 편집을 사용하여 스크럼 팀에 작업을 할당하면 해당 작업이 팀의 백로그에 표시되지 않습니다.”
 hidefromtoc: true
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: ht
-source-wordcount: '86'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2022년 11월 4일에 수정되었습니다.
 
 사용자가 벌크 편집을 사용하여 스크럼 팀에 작업을 할당하면 해당 작업이 팀의 백로그에 표시되지 않습니다.
 
