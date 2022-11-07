@@ -3,8 +3,8 @@ title: '“설정: 설정에서 느리게 로드됨”'
 description: “사용자가 설정 영역에 있는 상태에서 목록을 로드하려고 할 때 목록이 매우 느리게 로드됩니다. 이 문제는 설정 전반에 걸쳐 다양한 영역에서 보고되었습니다.”
 hidefromtoc: true
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
-workflow-type: tm+mt
-source-wordcount: '100'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
