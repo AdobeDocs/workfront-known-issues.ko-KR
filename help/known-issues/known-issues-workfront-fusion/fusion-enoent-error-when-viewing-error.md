@@ -3,8 +3,8 @@ title: '“Workfront Fusion: 시나리오 실행 기록에서 오류를 볼 때 
 description: “사용자가 시나리오 실행 기록을 보고 오류를 클릭하여 오류에 대한 자세한 내용을 보려고 하면 세부 정보가 열리지 않고 사용자에게 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
-source-wordcount: '154'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
