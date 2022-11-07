@@ -4,7 +4,7 @@ description: 사용자가 [!DNL Workfront] Proof 대시보드를 볼 때 [!UICON
 exl-id: 0f378fef-4d0d-414d-a51f-a5c3beda2f46
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
