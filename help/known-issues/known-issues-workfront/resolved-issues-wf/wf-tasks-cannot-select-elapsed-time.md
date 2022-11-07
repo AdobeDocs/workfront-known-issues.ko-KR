@@ -1,10 +1,10 @@
 ---
-title: '작업: 작업 기간을 인라인 편집할 때 경과 시간을 선택할 수 없음'
+title: '“작업: 작업 기간을 인라인 편집할 때 경과 시간을 선택할 수 없음”'
 description: 사용자가 작업 목록을 보면서 작업 기간을 편집하려고 할 때 경과된 기간 단위를 사용할 수 없습니다.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
