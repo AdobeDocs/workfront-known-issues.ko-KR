@@ -46,7 +46,7 @@ ht-degree: 89%
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 성능 문제 및 오류 메시지가 표시됩니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |
 | [문서: 외부 문서 요청 링크가 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
 | [보고서: 보고서 사용 정보가 업데이트되지 않음](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022년 10월 19일 |
-| [탐색: 개체를 고정할 수 없음](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022년 10월 19일 |
+| [탐색: 오브젝트를 고정할 수 없음](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022년 10월 19일 |
 | [증명: “새 증명 수신자“ 텍스트 상자가 너무 작음](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022년 10월 18일 |
 | [프로그램: [!UICONTROL 프로그램 소유자 할당 시 문제 발생]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022년 10월 17일 |
 | [보고서: 문제 보고서에서 “이동” 옵션을 사용할 수 없음](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022년 10월 13일 |
@@ -91,7 +91,7 @@ ht-degree: 89%
 | [이메일 알림:  [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)에서 이메일 서식이 올바르게 지정되지 않음 | 2021년 3월 30일 |
 | [[!UICONTROL 홈]: [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-unable-to-view-document-image.md)에서 문서 이미지를 볼 수 없음 | 2020년 11월 9일 |
 | [목록: 표시 이름이 사용자 정의 필드 그룹화에 적용되지 않음](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 2020년 11월 9일 |
-| [&#39;홈: 새로 고침 후 승인 위임 날짜가 변경되고 이메일 2개가 전송됨](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020년 11월 9일 |
+| [홈: 새로 고침 후 승인 위임 날짜가 변경되고 이메일 2개가 전송됨](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020년 11월 9일 |
 | [캘린더: 작업이 표시되지 않음](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 2020년 11월 9일 |
 
 {style=&quot;table-layout:auto&quot;}
