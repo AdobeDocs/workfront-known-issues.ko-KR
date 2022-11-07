@@ -1,10 +1,10 @@
 ---
-title: '증명: 홈 작업 목록에 부정확한 증명 승인 기한이 표시됨'
+title: '“증명: 홈 작업 목록에 부정확한 증명 승인 기한이 표시됨”'
 description: 사용자에게 증명 승인이 할당되면 해당 증명 승인이 할당된 단계에 관계없이 향후 가장 먼 단계의 기한과 함께 사용자의 홈 작업 목록에 표시됩니다.
 exl-id: 60dcc9c3-6c60-488e-921d-453d4b011f1b
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
 
