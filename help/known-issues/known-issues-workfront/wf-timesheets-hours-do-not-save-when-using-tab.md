@@ -1,20 +1,20 @@
 ---
-title: '“타임시트: Tab 키를 사용할 때 시간이 절약되지 않음”'
+title: '“타임시트: Tab 키를 사용할 때 시간이 저장되지 않음”'
 description: “사용자가 타임시트를 작성하고 Tab 키로 셀 사이를 이동할 때, 시간은 저장되지 않습니다. 자동 저장 알림은 화면 하단에 표시되지 않으며 사용자가 페이지를 새로 고치면 저장되지 않은 시간을 볼 수 있습니다.”
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
 
-# 타임시트: [!UICONTROL Tab] 키를 사용할 때 시간이 절약되지 않음
+# 타임시트: [!UICONTROL Tab] 키를 사용할 때 시간이 저장되지 않음
 
 >[!NOTE]
 >
->이 문제는 2022년 29월 9일에 수정되었습니다.
+>이 문제는 2022년 9월 29일에 수정되었습니다.
 
 사용자가 타임시트를 작성하고 [!UICONTROL Tab] 키로 셀 사이를 이동할 때, 시간은 저장되지 않습니다. [!UICONTROL 자동 저장] 알림은 화면 하단에 표시되지 않으며 사용자가 페이지를 새로 고치면 저장되지 않은 시간을 볼 수 있습니다.
 
