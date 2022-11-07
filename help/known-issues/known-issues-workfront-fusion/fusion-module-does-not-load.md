@@ -3,7 +3,7 @@ title: '“Workfront Fusion: 시나리오를 만들거나 편집할 때 모듈�
 description: “사용자가 시나리오를 만들거나 편집할 때 모듈을 열려고 하면 모듈이 열리지 않습니다. 사용자에게 모듈이 로드 중임을 나타내는 회전하는 원이 표시되지만 모듈에서 로드가 완료되지 않았습니다.”
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2022년 16월 9일에 수정되었습니다.
+>이 문제는 2022년 9월 16일에 수정되었습니다.
 
 사용자가 시나리오를 만들거나 편집할 때 모듈을 열려고 하면 모듈이 열리지 않습니다. 사용자에게 모듈이 로드 중임을 나타내는 회전하는 원이 표시되지만 모듈에서 로드가 완료되지 않았습니다.
 
