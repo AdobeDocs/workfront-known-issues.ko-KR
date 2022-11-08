@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '15236'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,18 @@ ht-degree: 0%
 2022년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2022년 11월 업데이트
+
++++**(예정) 2022년 11월 10일 유지 관리 업데이트**
+
+**대화형 증명을 열 수 없습니다.**
+
+*Workfront Proof*
+
+사용자가 대화형 증명을 열려고 할 때 증명은 열리지 않고 사용자에게 다음 메시지가 표시됩니다.
+
+&quot;[!UICONTROL 증명을 로드할 수 없습니다(501). 다시 시도하십시오]&quot;
+
++++
 
 +++**2022년 11월 4일 유지 관리 업데이트(핫픽스)**
 
@@ -298,7 +310,7 @@ MP4 파일을 업로드하려고 할 때 이 문제가 보고되었습니다.
 
 **이메일 알림이 지연됨**
 
-*Workfront Proof*
+*Workfront 증명*
 
 [!DNL Workfront Proof]에서 이메일 알림을 트리거하는 이벤트가 발생할 때 사용자에게 알림이 즉시 전송되지 않습니다. 알림은 몇 시간 가량 지연될 수 있습니다.
 
