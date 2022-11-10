@@ -4,7 +4,7 @@ description: 사용자가 프로젝트 헤더에서 프로젝트 소유자를 �
 hidefromtoc: true
 exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
 source-git-commit: a033108ac2c267d36e6bec1cdc53b5917b61bd16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 **해결 방법**
 
-프로젝트의 [!UICONTROL 세부 정보] 영역에서[!UICONTROL  프로젝트 소유자]를 제거합니다.
+프로젝트의 [!UICONTROL 세부 정보] 영역에서[!UICONTROL 프로젝트 소유자]를 제거합니다.
 
 _2022년 8월 9일에 처음 보고되었습니다._
