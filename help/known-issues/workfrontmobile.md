@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] 모바일 앱에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 source-git-commit: ea7b66fa2ef7d3a93250c7fe3b3ae804cad3bfb5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
 ht-degree: 100%
 
