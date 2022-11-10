@@ -1,9 +1,9 @@
 ---
-title: "[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL 사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함"
+title: '“[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL 사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함”'
 description: “Workfront > 사용자 정의 API 모듈이 오류를 반환합니다.”
 hidefromtoc: true
 source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
