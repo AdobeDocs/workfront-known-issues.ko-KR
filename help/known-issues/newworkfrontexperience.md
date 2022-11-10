@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 98%
+source-wordcount: '564'
+ht-degree: 96%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 98%
 
 >[!IMPORTANT]
 >
->서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com)을 참조하십시오. 최근 수정된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 보수 업데이트](../maintenance/current-updates.md)를 참조하십시오.
+>서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com)을 참조하십시오. 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 보수 업데이트](../maintenance/current-updates.md)를 참조하십시오.
 
 ## 신규
 
@@ -40,6 +40,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [레이아웃 템플릿: 항목을 숨기면 잘못된 항목이 숨겨집니다](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022년 11월 10일 |
 | [목록: 사용자의 인라인 편집 시 오류에 오류 메시지가 표시하지 않습니다.](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022년 11월 4일 |
 | [요청: 페이지에서 100개 이상의 대기열 주제를 볼 수 없음](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022년 11월 4일 |
 | [프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 문제 및 오류 메시지](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |

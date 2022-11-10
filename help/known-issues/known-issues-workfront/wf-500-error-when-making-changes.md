@@ -1,31 +1,30 @@
 ---
-title: "Workfront: Workfront 개체를 변경할 때 500 오류"
-description: "사용자가 Workfront 개체를 변경하려고 하면 변경 내용이 저장되지 않고 사용자에게 오류가 표시됩니다."
+title: 'Workfront: Workfront 오브젝트를 변경할 때 500 오류 발생'
+description: 사용자가 Workfront 개체를 변경하려고 하면 변경 내용이 저장되지 않고 사용자에게 오류가 표시됩니다
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 77%
 
 ---
 
-
-# [!DNL Workfront]: 변경 시 500 오류 [!DNL Workfront] 개체
+# [!DNL Workfront]: [!DNL Workfront] 오브젝트를 변경할 때 500 오류 발생
 
 >[!NOTE]
 >
 >이 문제는 2022년 11월 4일에 수정되었습니다.
 
-사용자가 [!DNL Workfront] 개체를 변경하면 변경 내용이 저장되지 않고 사용자에게 다음 오류가 표시됩니다.
+사용자가 [!DNL Workfront] 오브젝트를 변경하려 할 때 변경 사항이 저장되지 않고 사용자에게 다음 오류가 표시됩니다.
 
-&quot;[!UICONTROL 500: 잘못된 SQL 문으로 인해 데이터베이스 오류가 발생했습니다.]&quot;
+“[!UICONTROL 500: 잘못된 SQL 문으로 인한 데이터베이스 오류.]”
 
-다음과 같은 상황에서 이 문제가 보고되었습니다.
+이 문제는 다음 상황에서 보고되었습니다.
 
-* 객체의 상태 변경
-* 타임라인 다시 계산
-* 템플릿 첨부
-* 로깅 시간
+* 오브젝트의 상태 변경 중
+* 타임라인 다시 계산 중
+* 템플릿 첨부 중
+* 시간 로깅 중
 
 _2022년 11월 3일에 처음 보고되었습니다._
-

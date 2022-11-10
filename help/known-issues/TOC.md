@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 92%
+source-wordcount: '1607'
+ht-degree: 98%
 
 ---
 
@@ -16,20 +16,21 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [레이아웃 템플릿: 항목을 숨기면 잘못된 항목이 숨겨집니다](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [작업: 일괄 편집 작업 변경 작업 할당](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [애자일: 태스크에 간판 백로그 순서가 0입니다.](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [작업: 변경할 수 없음 [!UICONTROL 계획 완료 일자] 작업](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
-      + [Workfront: Workfront 개체를 변경할 때 500 오류가 발생합니다](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [요청: 요청 큐를 편집할 때 &quot;Whoops&quot; 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [목록: 사용자별 인라인 편집 오류로 인해 오류 메시지가 발생하지 않습니다](known-issues-workfront/wf-lists-error-messages-not-generated.md)
-      + [검색: 검색은 매우 느립니다](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]: 404 오류 [!DNL Workfront] 모듈](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
-      + [API: 동적 필드로 정렬할 수 없습니다.](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [증명: 증명 생성은 매우 느리다](known-issues-workfront/wf-proofs-slow-proof-generation.md)
-      + [프로젝트: 템플릿에서 프로젝트를 만들 때 성능 문제 및 오류 메시지가 표시됩니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [요청: 페이지에서 100개 이상의 큐 항목을 볼 수 없습니다](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [문제: 문제가 있을 때 왼쪽 탐색에 &quot;(0)&quot; 문제가 표시됩니다](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [요청: [!UICONTROL 전자 메일 큐 설정] 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: Workfront 오브젝트를 변경할 때 500 오류 발생](known-issues-workfront/wf-500-error-when-making-changes.md)
+      + [요청: 요청 대기열을 편집할 때 “죄송합니다” 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [목록: 사용자의 인라인 편집 중 오류에 오류 메시지가 표시하지 않습니다.](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [검색: 검색이 매우 느립니다.](known-issues-workfront/wf-search-basic-search-is-slow.md)
+      + [[!DNL Workfront Fusion]:  [!DNL Workfront] 모듈에서 404 오류](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
+      + [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 문제 및 오류 메시지](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [요청: 페이지에서 100개 이상의 대기열 주제를 볼 수 없음](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [문제: 문제가 있지만 왼쪽 탐색에 “(0)” 문제로 표시됨](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [“요청: [!UICONTROL 이메일 대기열 설정]을 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL 보드]: [!UICONTROL Intake] 열 검색이 효과가 없음](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [사용자 정의 양식: 계산된 필드의 [!UICONTROL HOUR] 함수가 UTC를 사용함](known-issues-workfront/wf-custom-form-hours-use-utc.md)
@@ -153,7 +154,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [[!DNL Workfront Proof]: 대화형 증명을 열 수 없습니다.](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
+      + [[!DNL Workfront Proof]: 대화형 증명을 열 수 없음](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: 여러 페이지로 된 증명을 볼 때 빈 페이지가 표시됨](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
@@ -188,7 +189,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [[!DNL Workfront Fusion]: 의 배열 요소 [!UICONTROL 반복기] 모듈로 표시[!UICONTROL 개체]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]: [!UICONTROL 반복자] 모듈의 배열 요소가 “[!UICONTROL 오브젝트 오브젝트]”로 표시됨](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: 시나리오 실행 기록에서 오류를 볼 때 오류 발생](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]:  [!DNL Fusion] 시나리오에서 409 오류](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL 페이지 로드 실패]” 오류](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
