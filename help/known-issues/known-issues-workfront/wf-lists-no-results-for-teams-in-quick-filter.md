@@ -3,7 +3,7 @@ title: '“목록: 팀을 검색할 때 빠른 필터가 결과를 반환하지 
 description: '“사용자가 목록에서 빠른 필터를 사용하여 팀을 검색하려고 할 때 팀 이름을 입력하면 팀이 목록(예: 할당 대상 필드)에 표시되더라도 결과가 반환되지 않습니다. 팀이라는 단어를 검색해도 결과가 반환되지 않습니다.”'
 hidefromtoc: true
 source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 
