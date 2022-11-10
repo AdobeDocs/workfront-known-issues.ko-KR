@@ -2,15 +2,19 @@
 title: '“프로그램: 프로그램 소유자 할당 시 문제 발생”'
 description: “사용자가 프로그램을 만들고 프로그램 소유자를 지정할 때 이 문서에서 설명하는 문제가 발생합니다.”
 hidefromtoc: true
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # 프로그램: [!UICONTROL 프로그램 소유자] 할당 시 문제 발생
+
+>[!NOTE]
+>
+>이 문제는 2022년 11월 7일에 수정되었습니다.
 
 사용자가 프로그램을 만들고 [!UICONTROL 프로그램 소유자]를 지정할 때 다음 문제가 발생합니다.
 

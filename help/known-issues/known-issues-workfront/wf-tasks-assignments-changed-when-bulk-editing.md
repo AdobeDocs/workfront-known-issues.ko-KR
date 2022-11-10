@@ -2,15 +2,20 @@
 title: "작업: 일괄 편집 작업 변경 작업 할당"
 description: "사용자가 작업 집합에 대한 필드를 벌크 편집하면 첫 번째 작업의 할당이 모든 작업에 적용됩니다. 이전 할당이 삭제됩니다."
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '78'
+ht-degree: 12%
 
 ---
 
 
 # 작업: 일괄 편집 작업 변경 작업 할당
+
+>[!NOTE]
+>
+>이 문제는 2022년 11월 10일에 수정되었습니다.
+
 
 사용자가 작업 집합에 대한 필드를 벌크 편집하면 첫 번째 작업의 할당이 모든 작업에 적용됩니다. 이렇게 하면 이전 할당이 삭제됩니다.
 

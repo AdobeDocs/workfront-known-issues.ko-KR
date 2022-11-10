@@ -1,22 +1,26 @@
 ---
-title: "Workfront 증명: 대화형 증명을 열 수 없습니다."
+title: '“Workfront Proof: 대화형 증명을 열 수 없음”'
 description: "사용자가 대화형 증명을 열려고 하면 증표가 열리지 않고 사용자에게 오류 메시지가 표시됩니다."
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 5%
+source-wordcount: '79'
+ht-degree: 73%
 
 ---
 
 
-# [!DNL Workfront Proof]: 대화형 증명을 열 수 없습니다.
+# [!DNL Workfront Proof]: 대화형 증명을 열 수 없음
 
-사용자가 대화형 증명을 열려고 할 때 증명은 열리지 않고 사용자에게 다음 메시지가 표시됩니다.
+>[!NOTE]
+>
+>이 문제는 2022년 11월 10일에 수정되었습니다.
 
-&quot;[!UICONTROL 증명을 로드할 수 없습니다(501). 다시 시도하십시오]&quot;
+사용자가 대화형 증명을 열려고 할 때 증명이 열리지 않고 다음과 같은 메시지가 표시됩니다.
 
-이 문제는 사용자가 해당 버전의 [!DNL Workfront Proof].
+“[!UICONTROL 증명이 로드되지 않음(501) 다시 시도]”
+
+이 문제는 사용자가 [!DNL Workfront Proof] 버전을 업데이트한 후 발생합니다.
 
 _2022년 11월 3일에 처음 보고되었습니다._
 

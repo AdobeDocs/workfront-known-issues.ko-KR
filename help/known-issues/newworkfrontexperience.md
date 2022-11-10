@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 86%
+source-wordcount: '554'
+ht-degree: 98%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 86%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [애자일: 태스크에 간판 백로그 순서가 0입니다.](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022년 11월 7일 |
-| [요청: 요청 큐를 편집할 때 &quot;Whoops&quot; 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022년 11월 2일 |
-| [증명: 증명 생성은 매우 느리다](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
-| [요청: [!UICONTROL 전자 메일 큐 설정] 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022년 10월 27일 |
+| [요청: 요청 대기열을 편집할 때 “죄송합니다” 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022년 11월 2일 |
+| [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
+| [요청: [!UICONTROL 이메일 대기열 설정]을 사용할 수 없음](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022년 10월 27일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
 | [알림: 댓글에 언급되거나 포함되면 사용자에게 알림이 전송되지 않음](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 9월 29일 |
 
@@ -40,13 +40,11 @@ ht-degree: 86%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [작업: 일괄 편집 작업 변경 작업 할당](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 2022년 11월 7일 |
-| [목록: 사용자별 인라인 편집 오류로 인해 오류 메시지가 발생하지 않습니다](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022년 11월 4일 |
-| [요청: 페이지에서 100개 이상의 큐 항목을 볼 수 없습니다](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022년 11월 4일 |
-| [프로젝트: 템플릿에서 프로젝트를 만들 때 성능 문제 및 오류 메시지가 표시됩니다](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |
+| [목록: 사용자의 인라인 편집 시 오류에 오류 메시지가 표시하지 않습니다.](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022년 11월 4일 |
+| [요청: 페이지에서 100개 이상의 대기열 주제를 볼 수 없음](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022년 11월 4일 |
+| [프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 문제 및 오류 메시지](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |
 | [문서: 외부 문서 요청 링크가 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
 | [탐색: 오브젝트를 고정할 수 없음](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022년 10월 19일 |
-| [프로그램: [!UICONTROL 프로그램 소유자 할당 시 문제 발생]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022년 10월 17일 |
 | [보고서: 문제 보고서에서 “이동” 옵션을 사용할 수 없음](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022년 10월 13일 |
 | [사용자 정의 양식: 계산된 필드를 설정할 때 “죄송합니다” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022년 10월 13일 |
 | [작업: 작업 [!UICONTROL 요약 패널에 시간을 입력할 때 시간이 저장되지 않음]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 9월 30일 |
@@ -61,7 +59,7 @@ ht-degree: 86%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: 동적 필드로 정렬할 수 없습니다.](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
+| [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
 | [[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md)에서 느리게 로드됨 | 2022년 10월 28일 |
 | [증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
