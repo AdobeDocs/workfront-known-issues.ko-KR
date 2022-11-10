@@ -3,7 +3,7 @@ title: 2021년 Workfront 유지 보수 업데이트
 description: 2021  [!DNL Adobe Workfront] 유지 보수 업데이트 내역
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -335,7 +335,7 @@ _[!UICONTROL 업무 균형자]_
 
 _[!UICONTROL 업무 균형자]_
 
-[!UICONTROL 기간]을 기준으로 [!UICONTROL 업무 균형자]를 필터링할 때의 필터 연산자를 업데이트했습니다.
+[!UICONTROL 기간]을 기준으로 [!UICONTROL 업무 균형자]를 필터링할 때 필터 연산자를 업데이트했습니다.
 
 +++
 
@@ -970,7 +970,7 @@ _요청_
 
 **열이 표시되지 않음**
 
-_간판_
+_Kanban_
 
 새 [!DNL Adobe Workfront] 경험의 사용자가 사용자 정의된 [!UICONTROL 추가 필드] 열을 Kanban 보드에 추가하면 보드에서 모든 열 머리글 표시가 중지됩니다.
 
@@ -1574,7 +1574,7 @@ _프로젝트_
 
 _보고서_
 
-새 [!DNL Workfront] 경험의 사용자가 [!UICONTROL 상단 상위 ID] 필드를 포함하는 필터 규칙을 사용하여 사용자 보고서를 만들 경우 보고서의 다른 필터 규칙은 적용되지 않습니다.
+새 [!DNL Workfront] 경험의 사용자가 [!UICONTROL 최상위 ID] 필드를 포함하는 필터 규칙을 사용하여 사용자 보고서를 만들 경우 보고서의 다른 필터 규칙은 적용되지 않습니다.
 
 **편집 후 계산된 필드가 다시 계산되지 않음**
 
