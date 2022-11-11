@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '157'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 100%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] 모듈](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 2022년 10월 31일 |
-| [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] 시나리오](known-issues-workfront-fusion/fusion-409-error.md) | 2022년 10월 6일 |
 
 {style=&quot;table-layout:auto&quot;}
 
