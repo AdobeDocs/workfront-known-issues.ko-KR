@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1653'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 문제 보고서에 새 문제를 추가할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [보고서: 조합 차트에는 동일한 데이터가 두 번 표시됩니다](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [증명: 사용자 지정 메시지를 추가하면 증명 뷰어에서 문제가 발생합니다](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [증명: 인쇄 요약에 이미지 축소판이 표시되지 않습니다](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [통합: [!UICONTROL 홈 달력] 보다 1시간 후 이벤트 표시 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [레이아웃 템플릿: 항목을 숨기면 잘못된 항목이 숨겨집니다](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
