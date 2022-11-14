@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: ht
-source-wordcount: '196'
-ht-degree: 100%
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+workflow-type: tm+mt
+source-wordcount: '204'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 |  |
+| [증명: [!UICONTROL 인쇄 요약] 이미지 축소판 표시 안 함](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022년 11월 14일 |
 
 {style=&quot;table-layout:auto&quot;}
 

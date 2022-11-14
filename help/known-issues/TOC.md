@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '1616'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 인쇄 요약에 이미지 축소판이 표시되지 않습니다](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [통합: [!UICONTROL 홈 달력] 보다 1시간 후 이벤트 표시 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [레이아웃 템플릿: 항목을 숨기면 잘못된 항목이 숨겨집니다](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [작업: 일괄 편집 작업 변경 작업 할당](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
