@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '15269'
+source-wordcount: '15307'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,17 @@ ht-degree: 99%
 2022년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2022년 11월 업데이트
+
++++**(예정) 2022년 11월 17일 유지 관리 업데이트**
+
+**항목을 숨기면 잘못된 항목이 숨겨집니다**
+
+*레이아웃 템플릿*
+
+사용자가 항목의 숨김 또는 표시 여부를 변경하면 해당 변경 사항이 레이아웃 템플릿의 다른 항목에 반영됩니다.
+
+
++++
 
 +++**2022년 11월 10일 유지 보수 업데이트**
 
