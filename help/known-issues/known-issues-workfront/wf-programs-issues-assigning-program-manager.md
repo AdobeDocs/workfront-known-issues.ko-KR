@@ -3,7 +3,7 @@ title: '“프로그램: 프로그램 소유자 할당 시 문제 발생”'
 description: “사용자가 프로그램을 만들고 프로그램 소유자를 지정할 때 이 문서에서 설명하는 문제가 발생합니다.”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
