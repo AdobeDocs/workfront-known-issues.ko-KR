@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '1653'
-ht-degree: 95%
+source-wordcount: '1666'
+ht-degree: 96%
 
 ---
 
@@ -16,14 +16,15 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 지정 양식: &quot;[!UICONTROL 잘못된 사용자 지정 식]&quot; &quot;[!UICONTROL 소유자]계산된 필드의 &quot;](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [보고서: 문제 보고서에 새 문제를 추가할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [보고서: 조합 차트에는 동일한 데이터가 두 번 표시됩니다](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [증명: 사용자 지정 메시지를 추가하면 증명 뷰어에서 문제가 발생합니다](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [증명: 인쇄 요약에 이미지 축소판이 표시되지 않습니다](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [통합: [!UICONTROL 홈 달력] 보다 1시간 후 이벤트 표시 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [레이아웃 템플릿: 항목을 숨기면 잘못된 항목이 숨겨집니다](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [작업: 일괄 편집 작업 변경 작업 할당](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [애자일: 태스크에 간판 백로그 순서가 0입니다.](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [레이아웃 템플릿: 항목을 숨길 때 잘못된 항목이 숨겨짐](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [작업: 일괄 편집 작업이 작업 할당을 변경함](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [애자일: 작업에 순서가 0인 Kanban 백로그 순서가 있음](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: Workfront 오브젝트를 변경할 때 500 오류 발생](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [요청: 요청 대기열을 편집할 때 “죄송합니다” 메시지](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
