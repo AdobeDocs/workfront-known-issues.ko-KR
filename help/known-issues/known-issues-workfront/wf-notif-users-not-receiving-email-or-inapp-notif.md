@@ -3,7 +3,7 @@ title: '“알림: 댓글에 언급되거나 포함되면 사용자가 이메일
 description: “사용자가 오브젝트의 업데이트 스트림에 대한 댓글 또는 업데이트에 언급되거나 포함되면 예상과 달리 댓글에 대한 이메일 또는 인앱 알림을 받지 못할 수 있습니다.”
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
