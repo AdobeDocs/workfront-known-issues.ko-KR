@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 90%
+source-wordcount: '643'
+ht-degree: 88%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자 지정 양식: &quot;[!UICONTROL 충분한 액세스 권한이 없습니다.]&quot; 사용자 지정 양식을 편집할 때 오류가 발생했습니다.](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022년 11월 16일 |
 | [증명: [!UICONTROL 인쇄 요약] 이미지 축소판 표시 안 함](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022년 11월 14일 |
 | [통합: [!UICONTROL 홈 달력] 보다 1시간 후 이벤트 표시 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 2022년 11월 11일 |
 | [애자일: 작업에 순서가 0인 Kanban 백로그 순서가 있음](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022년 11월 7일 |

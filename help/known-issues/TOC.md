@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '1666'
-ht-degree: 96%
+source-wordcount: '1679'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 지정 양식: &quot;[!UICONTROL 충분한 액세스 권한이 없습니다.]&quot; 사용자 지정 양식을 편집할 때 오류가 발생했습니다.](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [사용자 지정 양식: &quot;[!UICONTROL 잘못된 사용자 지정 식]&quot; &quot;[!UICONTROL 소유자]계산된 필드의 &quot;](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [보고서: 문제 보고서에 새 문제를 추가할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [보고서: 조합 차트에는 동일한 데이터가 두 번 표시됩니다](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
