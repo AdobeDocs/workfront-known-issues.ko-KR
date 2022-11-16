@@ -1,12 +1,12 @@
 ---
-title: 'Workfront: Workfront 오브젝트를 변경할 때 500 오류 발생'
-description: 사용자가 Workfront 개체를 변경하려고 하면 변경 내용이 저장되지 않고 사용자에게 오류가 표시됩니다
+title: '“Workfront: Workfront 오브젝트를 변경할 때 500 오류 발생”'
+description: 사용자가 Workfront 오브젝트를 변경하려 할 때 변경 사항이 저장되지 않고 사용자에게 오류가 표시됨
 hidefromtoc: true
 exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
