@@ -1,11 +1,11 @@
 ---
 title: '“Workfront Proof: 대화형 증명을 열 수 없음”'
-description: "사용자가 대화형 증명을 열려고 하면 증표가 열리지 않고 사용자에게 오류 메시지가 표시됩니다."
+description: “사용자가 대화형 증명을 열려고 할 때 증명이 열리지 않고 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
