@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 99%
 ## 2022년 11월 업데이트
 
 +++**2022년 11월 17일 유지 보수 업데이트**
+
+**에 배치된 문서 [!UICONTROL 휴지통] 작업 또는 문제를 이동할 때 선택하지 않은 경우**
+
+*문서*
+
+이제, [!UICONTROL 문서] 작업 또는 문제를 이동하는 과정에서, 작업에 첨부된 문서 또는 문제가 [!UICONTROL 휴지통] 30일 동안 필요한 경우 관리자가 복원할 수 있습니다. 이동 프로세스에서 문서 를 선택 취소한 사용자는에서 이 동작에 대한 경고를 받습니다 [!UICONTROL 작업 이동] 또는 [!UICONTROL 문제 이동] 상자. 이 개선 사항 전에 문서가 영구적으로 삭제되었습니다.
 
 **항목을 숨기면 잘못된 항목이 숨겨집니다**
 
