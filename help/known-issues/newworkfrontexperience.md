@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '633'
 ht-degree: 88%
 
 ---
@@ -46,7 +46,6 @@ ht-degree: 88%
 | [보고서: 문제 보고서에 새 문제를 추가할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |
 | [보고서: 조합 차트에는 동일한 데이터가 두 번 표시됩니다](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022년 11월 14일 |
 | [증명: 사용자 지정 메시지를 추가하면 증명 뷰어에서 문제가 발생합니다](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022년 11월 14일 |
-| [레이아웃 템플릿: 항목을 숨길 때 잘못된 항목이 숨겨짐](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022년 11월 10일 |
 | [목록: 사용자의 인라인 편집 시 오류에 오류 메시지가 표시하지 않습니다.](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022년 11월 4일 |
 | [요청: 페이지에서 100개 이상의 대기열 주제를 볼 수 없음](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022년 11월 4일 |
 | [프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 문제 및 오류 메시지](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 10월 27일 |
