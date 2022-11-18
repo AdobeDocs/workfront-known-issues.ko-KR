@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '1679'
-ht-degree: 95%
+source-wordcount: '1691'
+ht-degree: 98%
 
 ---
 
@@ -16,13 +16,14 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 증명을 증명 뷰어에 원본 이미지보다 더 선명하지 않게 표시합니다](known-issues-workfront/wf-proofs-are-blurry.md)
       + [사용자 지정 양식: &quot;[!UICONTROL 충분한 액세스 권한이 없습니다.]&quot; 사용자 지정 양식을 편집할 때 오류가 발생했습니다.](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
-      + [사용자 지정 양식: &quot;[!UICONTROL 잘못된 사용자 지정 식]&quot; &quot;[!UICONTROL 소유자]계산된 필드의 &quot;](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [보고서: 문제 보고서에 새 문제를 추가할 때 &quot;Whoops&quot; 오류가 발생합니다](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
-      + [보고서: 조합 차트에는 동일한 데이터가 두 번 표시됩니다](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
-      + [증명: 사용자 지정 메시지를 추가하면 증명 뷰어에서 문제가 발생합니다](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [증명: 인쇄 요약에 이미지 축소판이 표시되지 않습니다](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [통합: [!UICONTROL 홈 달력] 보다 1시간 후 이벤트 표시 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
+      + [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [보고서: 조합 차트에 동일한 데이터가 두 번 표시됩니다.](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [증명: 사용자 정의 메시지를 추가하면 증명 뷰어에 오류가 발생합니다.](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
+      + [증명: 인쇄 요약에 이미지 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [통합: [!UICONTROL 홈 캘린더]에 이벤트가  [!DNL Outlook]보다 1시간 늦게 표시됩니다.](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [레이아웃 템플릿: 항목을 숨길 때 잘못된 항목이 숨겨짐](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [작업: 일괄 편집 작업이 작업 할당을 변경함](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [애자일: 작업에 순서가 0인 Kanban 백로그 순서가 있음](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
