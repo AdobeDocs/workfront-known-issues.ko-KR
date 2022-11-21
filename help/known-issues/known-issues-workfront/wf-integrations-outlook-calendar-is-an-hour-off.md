@@ -1,18 +1,18 @@
 ---
-title: "통합: Home Calendar는 Outlook보다 1시간 늦게 이벤트를 표시합니다."
-description: "사용자가 홈 달력을 Workfront과 통합하여 일정을 보고 있으면 이벤트는 Outlook에 표시되는 것보다 1시간 늦게 Workfront에 표시됩니다. 예를 들어 Outlook에서 10:00으로 표시되는 이벤트는 Workfront에서 11:00으로 표시됩니다."
+title: '“통합: 홈 캘린더에 이벤트가 Outlook보다 1시간 늦게 표시됩니다.”'
+description: “사용자가 홈 캘린더를 Workfront와 통합하고 캘린더를 보면 이벤트가 Outlook에 표시되는 것보다 1시간 늦게 Workfront에 표시됩니다. 예를 들어 Outlook에서 10시에 표시되는 이벤트가 Workfront에서 11시에 표시됩니다.”
 hidefromtoc: true
 source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# 통합: [!UICONTROL 홈 달력] 보다 1시간 후 이벤트 표시 [!DNL Outlook]
+# 통합: [!UICONTROL 홈 캘린더]에 이벤트가 [!DNL Outlook]보다 1시간 늦게 표시됩니다.
 
-사용자가 자신의 홈 달력을 [!DNL Workfront], 달력 보기, 이벤트 표시 [!DNL Workfront] 한 시간 뒤에 그들이 [!DNL Outlook]. 예를 들어 [!DNL Outlook] 다음과 같이 10:00이 [!DNL Workfront] 11시에
+“사용자가 홈 캘린더를 [!DNL Workfront]와 통합하고 캘린더를 보면 이벤트가 [!DNL Outlook]에 표시되는 것보다 1시간 늦게 [!DNL Workfront]에 표시됩니다. 예를 들어 [!DNL Outlook]에서 10시에 표시되는 이벤트가 [!DNL Workfront]에서 11시에 표시됩니다.
 
 _2022년 11월 4일에 처음 보고되었습니다._
 
