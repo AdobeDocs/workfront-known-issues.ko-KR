@@ -2,15 +2,19 @@
 title: '“요청: 요청 대기열을 편집할 때 죄송합니다 메시지”'
 description: “사용자가 요청 대기열을 편집하고 변경 사항을 저장하려고 할 때 오류가 표시됩니다.”
 hidefromtoc: true
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: ht
-source-wordcount: '115'
-ht-degree: 100%
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 요청: 요청 대기열을 편집할 때 “죄송합니다” 메시지
+
+>[!NOTE]
+>
+>이 문제는 2022년 11월 10일에 수정되었습니다.
 
 사용자가 요청 대기열을 편집하고 변경 사항을 저장하려고 할 때 다음 오류가 표시됩니다.
 
