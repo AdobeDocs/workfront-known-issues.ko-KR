@@ -1,12 +1,12 @@
 ---
-title: '''Workfront Fusion: Fusion 시나리오에서 409 오류 발생'
-description: Workfront Fusion 시나리오는 다음 오류를 반환합니다. 409 중복 키 값이 고유 제약 조건을 위반합니다.
+title: '“Workfront Fusion: Fusion 시나리오에서 409 오류 발생”'
+description: Workfront Fusion 시나리오는 다음 오류 409를 반환합니다. 중복 키 값이 고유 제약 사항을 위반합니다.
 hidefromtoc: true
 exl-id: 8571d3f8-58c7-455f-b5a4-a91d1d1195a9
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
