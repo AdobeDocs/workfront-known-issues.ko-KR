@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '214'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: [!UICONTROL 인쇄 요약] 이미지 축소판 표시 안 함](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022년 11월 14일 |
+| [증명: [!UICONTROL 인쇄 요약]에 이미지 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022년 11월 14일 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -34,7 +34,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 사용자 지정 메시지를 추가하면 증명 뷰어에서 문제가 발생합니다](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022년 11월 14일 |
+| [증명: 사용자 정의 메시지를 추가하면 증명 뷰어에 오류가 발생합니다.](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022년 11월 14일 |
 | [문서: 외부 문서 요청 링크가 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022년 10월 20일 |
 
 {style=&quot;table-layout:auto&quot;}
