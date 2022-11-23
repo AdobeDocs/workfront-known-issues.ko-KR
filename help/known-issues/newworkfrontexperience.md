@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 93%
+source-wordcount: '640'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명을 증명 뷰어에 원본 이미지보다 더 선명하지 않게 표시합니다](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 18월 11일 |
+| [애자일: 작업 항목을 반복으로 이동하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022년 11월 23일 |
+| [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 11월 18일 |
 | [통합: [!UICONTROL 홈 캘린더]에 이벤트가  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)보다 1시간 늦게 표시됩니다. | 2022년 11월 11일 |
 | [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
@@ -38,8 +39,9 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [사용자 지정 양식: &quot;[!UICONTROL 충분한 액세스 권한이 없습니다.]&quot; 사용자 지정 양식을 편집할 때 오류가 발생했습니다.](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022년 21월 11일 |
-| [애자일: 작업에 순서가 0인 Kanban 백로그 순서가 있음](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022년 21월 11일 |
+| [작업표: 작업표 승인자를 선택할 때 비활성화된 사용자를 사용할 수 있습니다](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022년 11월 23일 |
+| [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “[!UICONTROL 권한이 없습니다]” 오류 발생](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022년 11월 21일 |
+| [애자일: 작업에 순서가 0인 Kanban 백로그 순서가 있음](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022년 11월 21일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 11월 15일 |
 | [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |
 | [보고서: 조합 차트에 동일한 데이터가 두 번 표시됩니다.](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022년 11월 14일 |
@@ -61,7 +63,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [사용자 지정 양식: 개체 간 사용자 지정 양식에는 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 필드 편집 액세스](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022년 21월 11일 |
+| [사용자 지정 양식: 개체 간 사용자 지정 양식에는 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 필드 편집 액세스](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022년 11월 21일 |
 | [알림: 댓글에 언급되거나 포함되었을 때 사용자에게 알림이 전송되지 않습니다.](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 11월 11일 |
 | [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
 | [[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md)에서 느리게 로드됨 | 2022년 10월 28일 |
