@@ -45,7 +45,7 @@ ht-degree: 98%
       + [[!UICONTROL 보드]: [!UICONTROL Intake] 열 검색이 효과가 없음](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [사용자 정의 양식: 계산된 필드의 [!UICONTROL HOUR] 함수가 UTC를 사용함](known-issues-workfront/wf-custom-form-hours-use-utc.md)
-      + [애자일: 벌크 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않음](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
+      + [애자일: 일괄 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않음](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [보고서: 보고서 사용 정보가 업데이트되지 않음](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [탐색: 오브젝트를 고정할 수 없음](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL 보드]: [!UICONTROL 보드] 페이지가 로드되지 않음](known-issues-workfront/wf-boards-boards-do-not-load.md)
