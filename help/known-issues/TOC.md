@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1751'
 ht-degree: 98%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업표: 작업표가 생성되지 않았습니다.](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [통합: 의 요소에 액세스할 수 없음 [!DNL Workfront for Jira] 통합](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [사용자 지정 양식: 필드 이름에 아포스트로피나 큰따옴표가 포함되어 있으면 계산에 필드를 사용할 수 없습니다](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [애자일: 작업 항목을 반복으로 이동할 때 오류 발생](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
