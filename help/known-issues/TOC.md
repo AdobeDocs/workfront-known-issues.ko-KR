@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '1721'
+source-wordcount: '1746'
 ht-degree: 98%
 
 ---
@@ -16,9 +16,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [애자일: 작업 항목을 반복으로 이동하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [작업표: 작업표 승인자를 선택할 때 비활성화된 사용자를 사용할 수 있습니다](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [사용자 지정 양식: 개체 간 사용자 지정 양식에는 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 필드 편집 액세스](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [통합: 의 요소에 액세스할 수 없음 [!DNL Workfront for Jira] 통합](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [사용자 지정 양식: 필드 이름에 아포스트로피나 큰따옴표가 포함되어 있으면 계산에 필드를 사용할 수 없습니다](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [애자일: 작업 항목을 반복으로 이동할 때 오류 발생](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [타임시트: 타임시트 승인자를 선택할 때 사용 가능한 비활성화된 사용자](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md)
       + [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “[!UICONTROL 권한이 없습니다]” 오류 발생](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
@@ -200,6 +202,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Workfront Fusion]: 연결을 만들 수 없습니다. [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: [!UICONTROL 반복자] 모듈의 배열 요소가 “[!UICONTROL 오브젝트 오브젝트]”로 표시됨](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: 시나리오 실행 기록에서 오류를 볼 때 오류 발생](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]:  [!DNL Fusion] 시나리오에서 409 오류](known-issues-workfront-fusion/fusion-409-error.md)
