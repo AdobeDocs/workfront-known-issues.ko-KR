@@ -3,9 +3,9 @@ title: '“증명: [!UICONTROL 인쇄 요약]에 이미지 썸네일이 표시�
 description: “사용자가  [!DNL Workfront]에서 증명의 [!UICONTROL 인쇄 요약] 페이지를 볼 때 증명의 썸네일이 표시되지 않습니다. 대신 간단한 자리 표시자 이미지가 나타납니다.”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 
