@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 96%
+source-wordcount: '678'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: 에서 문제 할당을 제거할 수 없습니다. [!UICONTROL 홈]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 2022년 11월 29일 |
 | [작업표: 작업표가 생성되지 않았습니다.](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 2022년 11월 28일 |
 | [애자일: 작업 항목을 반복으로 이동할 때 오류 발생](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022년 11월 23일 |
 | [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 11월 18일 |
