@@ -2,10 +2,10 @@
 title: '“증명: 사용자 정의 메시지를 추가하면 증명 뷰어에 오류가 발생합니다.”'
 description: “사용자가 증명을 공유하고 사용자 정의 메시지를 추가하려고 하면 오류가 발생합니다.”
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+workflow-type: tm+mt
+source-wordcount: '78'
+ht-degree: 92%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 100%
 # 증명: 사용자 정의 메시지를 추가하면 증명 뷰어에 오류가 발생합니다.
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>이 문제는 2022년 12월 1일에 수정되었습니다.
 
 사용자가 증명을 공유하고 사용자 정의 메시지를 추가하려고 하면 다음 오류가 발생합니다.
 

@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: ht
-source-wordcount: '208'
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+workflow-type: tm+mt
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -30,17 +30,17 @@ ht-degree: 100%
 
 ## 진행 중
 
-이러한 문제에 대한 수정이 현재 진행 중이거나 가까운 미래에 수정될 예정입니다.
+이들 문제에 대한 수정이 현재 진행 중이거나 가까운 미래에 해결될 예정입니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 사용자 정의 메시지를 추가하면 증명 뷰어에 오류가 발생합니다.](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022년 11월 14일 |
+| 없음 |  |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## 수정 없음
 
-현재 로드맵에는 이러한 문제에 대한 수정 사항이 없습니다. 경우에 따라 이러한 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
+현재 로드맵에는 이들 문제에 대한 수정 사항이 없습니다. 경우에 따라 이들 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
