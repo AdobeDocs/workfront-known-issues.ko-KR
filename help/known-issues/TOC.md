@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 97%
+source-wordcount: '1778'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않습니다.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [프로젝트: 템플릿에서 프로젝트를 작성할 때 &quot;작업&quot; 오류가 발생합니다](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL 홈]: 에서 문제 할당을 제거할 수 없습니다. [!UICONTROL 홈]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [작업표: 작업표가 생성되지 않았습니다.](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [통합: 의 요소에 액세스할 수 없음 [!DNL Workfront for Jira] 통합](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)

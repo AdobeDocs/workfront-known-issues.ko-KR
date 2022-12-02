@@ -3,14 +3,18 @@ title: '“애자일: 작업 항목을 반복으로 이동할 때 오류 발생�
 description: 사용자가 작업 또는 문제를 반복으로 이동하려고 하면 작업 항목이 이동하지 않고 오류 메시지가 표시됩니다.
 hidefromtoc: true
 exl-id: f83d946d-04ec-4c0d-9b07-a44c439f99b0
-source-git-commit: fbf501c23b2dcaee5e7de5b752cb39221bfb4a1f
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 94%
 
 ---
 
 # 애자일: 작업 항목을 반복으로 이동할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2022년 12월 1일에 수정되었습니다.
 
 사용자가 작업 또는 문제를 반복으로 이동하려고 하면 작업 항목이 이동하지 않고 다음과 같은 메시지가 표시됩니다.
 

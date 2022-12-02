@@ -2,15 +2,19 @@
 title: '“목록: 사용자의 인라인 편집 중 오류에 오류 메시지가 표시하지 않습니다.”'
 description: “사용자가 오브젝트를 인라인 편집하는 동안 오류 메시지를 생성해야 하는 오류를 범해도 오류 메시지가 나타나지 않습니다. 오류 자체가 Workfront에 저장되지 않아 데이터에는 영향을 미치지 않지만 오류 메시지가 없으면 혼동을 일으킬 수 있습니다.”
 hidefromtoc: true
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 96%
 
 ---
 
 
 # 목록: 사용자의 인라인 편집 중 오류에 오류 메시지가 표시하지 않습니다.
+
+>[!NOTE]
+>
+>이 문제는 2022년 12월 1일에 수정되었습니다.
 
 사용자가 오브젝트를 인라인 편집하는 동안 오류 메시지를 생성해야 하는 오류를 범해도 오류 메시지가 나타나지 않습니다. 오류 자체가 Workfront에 저장되지 않아 데이터에는 영향을 미치지 않지만 오류 메시지가 없으면 혼동을 일으킬 수 있습니다.
 

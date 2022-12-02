@@ -3,18 +3,20 @@ title: '“사용자 정의 양식: 계산된 필드에서 소유자를 참조�
 description: '“사용자가 문제 수준 사용자 정의 양식에 계산된 필드를 추가하고 소유자에 대한 참조(예: “ownerID”)를 추가하려고 하면 필드가 저장되지 않고 사용자에게 다음 메시지가 표시됩니다. 잘못된 사용자 정의 표현식입니다. 다시 시도해 주십시오.”'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 95%
+source-wordcount: '129'
+ht-degree: 100%
 
 ---
 
 # 사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지
 
+<!--
 >[!NOTE]
 >
->이 문제는 2022년 12월 1일에 수정되었습니다.
+>This issue was fixed on December 1, 2022.
+-->
 
 사용자가 문제 수준 사용자 정의 양식에 계산된 필드를 추가하고 “[!UICONTROL 소유자]”에 대한 참조(예: `ownerID`)를 추가하려고 하면 필드가 저장되지 않고 사용자에게 다음 메시지가 표시됩니다.
 
