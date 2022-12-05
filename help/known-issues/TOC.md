@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
-source-wordcount: '1778'
-ht-degree: 96%
+source-wordcount: '1793'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업표: 작업표의 시간을 입력할 수 없습니다.](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [증명: 증명 상태는에서 업데이트되지 않습니다. [!UICONTROL 문서] 목록](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않습니다.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [프로젝트: 템플릿에서 프로젝트를 작성할 때 &quot;작업&quot; 오류가 발생합니다](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL 홈]: 에서 문제 할당을 제거할 수 없습니다. [!UICONTROL 홈]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
