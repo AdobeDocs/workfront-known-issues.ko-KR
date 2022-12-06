@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
 workflow-type: tm+mt
-source-wordcount: '15901'
+source-wordcount: '15954'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,18 @@ ht-degree: 99%
 2022년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2022년 12월 업데이트
+
++++**(예정) 2022년 12월 8일 유지 관리 업데이트**
+
++++
+
+**프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않습니다.**
+
+*프로젝트*
+
+사용자가 템플릿에서 프로젝트를 작성할 때 새 프로젝트는 그룹 프로젝트 환경 설정에서 설정된 상태를 가져오지 않습니다. 템플릿 없이 프로젝트를 만들 경우 상태는 예상대로 그룹 프로젝트 환경 설정을 반영합니다.
+
++++
 
 +++**2022년 12월 1일 유지 보수 업데이트 (핫픽스)**
 
@@ -82,10 +94,10 @@ ht-degree: 99%
 
 *통합*
 
-현재 다음 요소는 [!DNL Workfront for Jira] 통합 [!DNL Jira Cloud]:
+다음 요소는 현재 [!DNL Jira Cloud]용 [!DNL Workfront for Jira] 통합에서 액세스할 수 없습니다.
 
-* 다음 [!UICONTROL 구성] 페이지
-* &quot;[!UICONTROL Workfront 열기]&quot; 단추 [!DNL Jira] 문제
+* [!UICONTROL 구성] 페이지
+* [!DNL Jira] 문제의 “[!UICONTROL Workfront 열기]” 버튼
 
 **사용자 지정 메시지를 추가하면 증명 뷰어에서 문제가 발생합니다**
 
@@ -110,7 +122,7 @@ ht-degree: 99%
 
 *타임시트*
 
-작업표 프로필 설정에도 불구하고 작업표가 생성되지 않습니다. 작업표는 생성되지 않으므로 사용자가 시간을 입력할 수 없으며 목록에 표시되지 않습니다.
+타임시트 프로필 설정에도 불구하고 타임시트가 생성되지 않습니다. 타임시트는 생성되지 않으므로 사용자가 시간을 입력할 수 없으며 목록에 표시되지 않습니다.
 
 +++
 
