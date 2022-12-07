@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
 source-wordcount: '1793'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 95%
       + [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않습니다.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [프로젝트: 템플릿에서 프로젝트를 작성할 때 &quot;작업&quot; 오류가 발생합니다](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL 홈]: 에서 문제 할당을 제거할 수 없습니다. [!UICONTROL 홈]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [작업표: 작업표가 생성되지 않았습니다.](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [통합: 의 요소에 액세스할 수 없음 [!DNL Workfront for Jira] 통합](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [사용자 지정 양식: 필드 이름에 아포스트로피나 큰따옴표가 포함되어 있으면 계산에 필드를 사용할 수 없습니다](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [타임시트: 타임시트가 생성되지 않음](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [통합: [!DNL Workfront for Jira] 통합 요소에 액세스할 수 없음](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [애자일: 작업 항목을 반복으로 이동할 때 오류 발생](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [타임시트: 타임시트 승인자를 선택할 때 사용 가능한 비활성화된 사용자](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -208,7 +208,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [[!DNL Workfront Fusion]: 연결을 만들 수 없습니다. [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]:  [!DNL Google]에 대한 연결을 만들 수 없음](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: [!UICONTROL 반복자] 모듈의 배열 요소가 “[!UICONTROL 오브젝트 오브젝트]”로 표시됨](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: 시나리오 실행 기록에서 오류를 볼 때 오류 발생](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]:  [!DNL Fusion] 시나리오에서 409 오류](known-issues-workfront-fusion/fusion-409-error.md)
