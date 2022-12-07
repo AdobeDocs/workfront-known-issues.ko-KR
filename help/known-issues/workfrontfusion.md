@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: 연결을 만들 수 없습니다. [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md) | 2022년 11월 28일 |
+| [[!DNL Workfront Fusion]:  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)에 대한 연결을 만들 수 없음 | 2022년 11월 28일 |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] 모듈](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 2022년 10월 31일 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -32,7 +32,7 @@ ht-degree: 97%
 
 ## 진행 중
 
-이러한 문제에 대한 수정이 현재 진행 중이거나 가까운 미래에 수정될 예정입니다.
+이들 문제에 대한 수정이 현재 진행 중이거나 가까운 미래에 해결될 예정입니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
@@ -43,7 +43,7 @@ ht-degree: 97%
 
 ## 수정 없음
 
-현재 로드맵에는 이러한 문제에 대한 수정 사항이 없습니다. 경우에 따라 이러한 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
+현재 로드맵에는 이들 문제에 대한 수정 사항이 없습니다. 경우에 따라 이들 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
