@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '1793'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업: 하위 작업을 추가할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [작업표: 작업표의 시간을 입력할 수 없습니다.](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [증명: 증명 상태는에서 업데이트되지 않습니다. [!UICONTROL 문서] 목록](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않습니다.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)

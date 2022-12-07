@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 92%
+source-wordcount: '636'
+ht-degree: 91%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업: 하위 작업을 추가할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022년 12월 7일 |
 | [작업표: 작업표의 시간을 입력할 수 없습니다.](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022년 12월 5일 |
 | [타임시트: 타임시트 승인자를 선택할 때 사용 가능한 비활성화된 사용자](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 12월 2일 |
