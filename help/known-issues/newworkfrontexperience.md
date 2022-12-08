@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 90%
+source-wordcount: '646'
+ht-degree: 89%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: MP4 파일을 업로드할 수 없습니다.](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022년 12월 8일 |
 | [작업: 하위 작업을 추가할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022년 12월 7일 |
 | [작업표: 작업표의 시간을 입력할 수 없습니다.](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022년 12월 5일 |
 | [타임시트: 타임시트 승인자를 선택할 때 사용 가능한 비활성화된 사용자](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022년 12월 2일 |
