@@ -2,15 +2,19 @@
 title: "작업: 하위 작업을 추가할 수 없습니다."
 description: "사용자가 +새로 만들기 단추를 사용하여 하위 작업을 추가하려고 하면 새 작업 창에 옵션이 표시되지 않고 사용자에게 오류 메시지가 표시됩니다."
 hidefromtoc: true
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 
 
 # 작업: 하위 작업을 추가할 수 없습니다.
+
+>[!NOTE]
+>
+>이 문제는 2022년 12월 8일에 수정되었습니다.
 
 사용자가 &quot;[!UICONTROL +새로 만들기]&quot; 단추에는 옵션이 표시되지 않습니다. [!UICONTROL 새 작업] 창이 열리면 다음 메시지가 표시됩니다.
 

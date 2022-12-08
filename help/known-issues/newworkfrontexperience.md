@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
+source-git-commit: 1dac681ce138ca2aec65c47833de02cfa1d3fd8f
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 89%
+source-wordcount: '636'
+ht-degree: 91%
 
 ---
 
@@ -44,7 +44,6 @@ ht-degree: 89%
 | [작업표: 작업표의 시간을 입력할 수 없습니다.](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022년 12월 5일 |
 | [타임시트: 타임시트 승인자를 선택할 때 사용 가능한 비활성화된 사용자](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 12월 2일 |
-| [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않습니다.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2022년 12월 2일 |
 | [프로젝트: 템플릿에서 프로젝트를 작성할 때 &quot;작업&quot; 오류가 발생합니다](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022년 11월 28일 |
 | [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “[!UICONTROL 권한이 없습니다]” 오류 발생](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022년 11월 21일 |
