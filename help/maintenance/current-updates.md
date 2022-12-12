@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '16044'
-ht-degree: 99%
+source-wordcount: '16198'
+ht-degree: 98%
 
 ---
 
@@ -276,6 +276,21 @@ ht-degree: 99%
 * [!UICONTROL 설정] > [!UICONTROL 이메일 알림]
 * [!UICONTROL 사용자] > [!UICONTROL 사용자 편집]
 * [!UICONTROL 그룹]
+
+**작업표, 작업표 프로필 및 작업표 환경 설정에 대한 새 정보 아이콘**
+
+*Workfront*
+
+>[!NOTE]
+>
+>이 업데이트는 미리 보기 환경에서만 릴리스되었습니다. 23.1 릴리스와 함께 프로덕션에 릴리스됩니다.
+
+다음 설정에 몇 가지 정보 아이콘을 추가했습니다.
+
+* 작업표 또는 작업표 프로필을 만들거나 편집할 때 &quot;시간 편집 가능&quot; 확인란은 사용 가능한 경우 관리자가 설치 프로그램의 작업표 기본 설정 영역에서 이러한 작업을 제한하지 않는 한 승인자도 작업표를 제출, 다시 열기 또는 편집할 수 있음을 나타냅니다.
+* 작업표 및 시간 기본 설정 영역의 &quot;작업표 편집을 소유자 및 관리자로 제한&quot;을 사용하여 사용하지 않을 경우 다음 사용자가 작업표를 편집할 수도 있음을 나타냅니다. 작업표 및 시간에 대한 관리자 액세스 권한, 작업표 승인자, 작업표 소유자 관리자
+
+이러한 설정의 기능은 변경되지 않고 설정 범위에 명확성을 추가하기 위해 정보 아이콘만 추가되었습니다.
 
 +++
 
