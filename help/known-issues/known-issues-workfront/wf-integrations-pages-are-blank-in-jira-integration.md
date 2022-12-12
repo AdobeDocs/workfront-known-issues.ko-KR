@@ -3,9 +3,9 @@ title: '“통합: Workfront for Jira 통합 요소에 액세스할 수 없음�
 description: “일부 요소는 현재 Jira Cloud용 Workfront for Jira 통합에서 액세스할 수 없습니다.”
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->이 문제는 2022년 12월 1일에 수정되었습니다.
+>이 문제는 2022년 12월 1일에 해결되었습니다.
 
 다음 요소는 현재 [!DNL Jira Cloud]용 [!DNL Workfront for Jira] 통합에서 액세스할 수 없습니다.
 
