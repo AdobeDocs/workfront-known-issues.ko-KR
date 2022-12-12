@@ -4,9 +4,9 @@ description: 사용자가 작업 또는 문제를 반복으로 이동하려고 �
 hidefromtoc: true
 exl-id: f83d946d-04ec-4c0d-9b07-a44c439f99b0
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->이 문제는 2022년 12월 1일에 수정되었습니다.
+>이 문제는 2022년 12월 1일에 해결되었습니다.
 
 사용자가 작업 또는 문제를 반복으로 이동하려고 하면 작업 항목이 이동하지 않고 다음과 같은 메시지가 표시됩니다.
 
