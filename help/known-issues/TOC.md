@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
 source-wordcount: '1805'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 97%
       + [문서: MP4 파일을 업로드할 수 없습니다.](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [통합: 열 수 없음 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [작업: 하위 작업을 추가할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
-      + [작업표: 작업표의 시간을 입력할 수 없습니다.](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
-      + [증명: 증명 상태는에서 업데이트되지 않습니다. [!UICONTROL 문서] 목록](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
-      + [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않습니다.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
-      + [프로젝트: 템플릿에서 프로젝트를 작성할 때 &quot;작업&quot; 오류가 발생합니다](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
-      + [[!UICONTROL 홈]: 에서 문제 할당을 제거할 수 없습니다. [!UICONTROL 홈]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
+      + [타임시트: 타임시트에 시간을 입력할 수 없음](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
+      + [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않음](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [프로젝트: 템플릿에서 프로젝트를 생성할 때 “죄송합니다” 오류 발생](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
+      + [[!UICONTROL 홈]: [!UICONTROL 홈]에서 문제 할당을 제거할 수 없음](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [타임시트: 타임시트가 생성되지 않음](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [통합: [!DNL Workfront for Jira] 통합 요소에 액세스할 수 없음](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)

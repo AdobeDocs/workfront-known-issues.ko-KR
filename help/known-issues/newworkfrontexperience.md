@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
 workflow-type: tm+mt
 source-wordcount: '627'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -40,10 +40,10 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [문서: MP4 파일을 업로드할 수 없습니다.](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022년 12월 8일 |
 | [작업: 하위 작업을 추가할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022년 12월 7일 |
-| [작업표: 작업표의 시간을 입력할 수 없습니다.](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022년 12월 5일 |
-| [타임시트: 타임시트 승인자를 선택할 때 사용 가능한 비활성화된 사용자](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022년 12월 2일 |
+| [타임시트: 타임시트에 시간을 입력할 수 없음](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022년 12월 5일 |
+| [타임시트: 타임시트 승인자를 선택할 때 비활성화된 사용자 사용 가능](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 12월 2일 |
-| [프로젝트: 템플릿에서 프로젝트를 작성할 때 &quot;작업&quot; 오류가 발생합니다](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022년 12월 2일 |
+| [프로젝트: 템플릿에서 프로젝트를 생성할 때“죄송합니다” 오류 발생](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022년 11월 28일 |
 | [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “[!UICONTROL 권한이 없습니다]” 오류 발생](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022년 11월 21일 |
 | [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |
@@ -60,7 +60,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명 상태는에서 업데이트되지 않습니다. [!UICONTROL 문서] 목록](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022년 12월 5일 |
+| [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022년 12월 5일 |
 | [작업: 작업 [!UICONTROL 요약 패널에 시간을 입력할 때 시간이 저장되지 않음]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 12월 2일 |
 | [프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 문제 및 오류 메시지](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022년 11월 21일 |
