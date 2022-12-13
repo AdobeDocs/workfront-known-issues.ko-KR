@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '16388'
+source-wordcount: '16460'
 ht-degree: 98%
 
 ---
@@ -60,6 +60,14 @@ ht-degree: 98%
 +++
 
 +++**2022년 12월 8일 유지 관리 업데이트**
+
+**승인 경로에 승인자를 추가할 때 스마트 사용자 선택**
+
+*승인*
+
+Adobe는 사용자가 다음에 추가될 때 표시되는 방식을 개선했습니다. [!UICONTROL 승인자] 새 승인 필드입니다.
+
+이제 사용자를 [!UICONTROL 승인자] 이름 및 아바타 외에 시스템 수준 또는 단일 사용 승인 필드이며 기본 역할 및 전자 메일도 표시됩니다. 따라서 이름이 유사하거나 동일한 여러 사용자를 구분하는 데 도움이 됩니다.
 
 **프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않음**
 
