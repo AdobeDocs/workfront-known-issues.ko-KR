@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '1805'
-ht-degree: 99%
+source-wordcount: '1814'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 보고서는 와일드카드 &quot;$$ 대신 보고서 작성기를 사용합니다.[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [문서: MP4 파일을 업로드할 수 없습니다.](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [통합: 열 수 없음 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [작업: 하위 작업을 추가할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
