@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
-workflow-type: ht
-source-wordcount: '209'
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+workflow-type: tm+mt
+source-wordcount: '200'
 ht-degree: 100%
 
 ---
@@ -51,7 +51,6 @@ ht-degree: 100%
 | [[!UICONTROL 홈]: [!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021년 6월 21일 |
 | [[!DNL Workfront Proof]: 증명에 대한 자동 액세스가 지연됨](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021년 6월 14일 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
-| [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2021년 6월 14일 |
 | [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
 
 {style=&quot;table-layout:auto&quot;}

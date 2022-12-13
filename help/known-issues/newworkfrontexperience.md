@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '628'
 ht-degree: 96%
 
 ---
@@ -85,7 +85,6 @@ ht-degree: 96%
 | [이메일 알림: 사용자가 댓글 스레드로 이동되지 않음](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021년 4월 23일 |
 | [캘린더: [!DNL OR] 필터 문이 필터 규칙을 제외함](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021년 4월 23일 |
 | [[!UICONTROL Workfront Proof]: [!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
-| [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2021년 6월 14일 |
 | [보고서: 대시보드에서 볼 때 보고서를 가로로 스크롤할 수 없음](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021년 3월 30일 |
 | [[!UICONTROL 홈]: 프로젝트 이름이 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)에 GUID로 표시됨 | 2021년 2월 11일 |
 | [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 1월 25일 |
