@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 2f8dbcb2fc5a2184b084aa87120b826d33f33d86
+workflow-type: tm+mt
+source-wordcount: '156'
 ht-degree: 100%
 
 ---
@@ -36,7 +36,6 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] 모듈이 “[!UICONTROL 오브젝트 오브젝트]”로 표시됨](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022년 11월 1일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022년 8월 2일 |
 
 {style=&quot;table-layout:auto&quot;}
