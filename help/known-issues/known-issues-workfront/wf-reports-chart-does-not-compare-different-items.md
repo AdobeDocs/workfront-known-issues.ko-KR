@@ -2,15 +2,19 @@
 title: '“보고서: 조합 차트에 동일한 데이터가 두 번 표시됩니다.”'
 description: “사용자가 조합 차트를 볼 때 차트가 두 값 집합을 비교하는 대신 하나의 값 집합을 두 번 표시합니다. 보고서 세부 정보에서 올바른 값 집합을 찾을 수 있습니다.”
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 
 # 보고서: 조합 차트에 동일한 데이터가 두 번 표시됩니다.
+
+>[!NOTE]
+>
+>이 문제는 2022년 12월 15일에 해결되었습니다.
 
 사용자가 조합 차트를 볼 때 차트가 두 값 집합을 비교하는 대신 하나의 값 집합을 두 번 표시합니다. 보고서 세부 정보에서 올바른 값 집합을 찾을 수 있습니다.
 
