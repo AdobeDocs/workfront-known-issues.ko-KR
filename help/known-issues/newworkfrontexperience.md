@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 96%
+source-wordcount: '594'
+ht-degree: 95%
 
 ---
 
@@ -42,10 +42,8 @@ ht-degree: 96%
 | -----------------------------------------------------------------| ----------------- |
 | [문서: MP4 파일을 업로드할 수 없음](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022년 12월 8일 |
 | [작업: 하위 작업을 추가할 수 없음](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022년 12월 7일 |
-| [타임시트: 타임시트에 시간을 입력할 수 없음](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022년 12월 5일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022년 11월 28일 |
-| [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “[!UICONTROL 권한이 없습니다]” 오류 발생](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022년 11월 21일 |
 | [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |
 | [사용자 정의 양식: 계산된 필드를 설정할 때 “죄송합니다” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022년 10월 13일 |
 | [통합:  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)에서 요청을 제출할 때 오류 발생 | 2022년 8월 30일 |
