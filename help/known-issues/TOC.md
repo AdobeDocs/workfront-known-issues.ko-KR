@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 7452df87a128b5e6524d205c9114101dc295ad2d
+source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1237'
 ht-degree: 98%
 
 ---
@@ -16,10 +16,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: 문서 권한은 상위 문제가 프로젝트로 변환될 때 상속되지 않습니다](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [보고서: 보고서는 와일드카드 &quot;$$ 대신 보고서 작성기를 사용합니다.[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
-      + [문서: MP4 파일을 업로드할 수 없습니다.](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
-      + [통합: 열 수 없음 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
-      + [작업: 하위 작업을 추가할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
+      + [문서: MP4 파일을 업로드할 수 없음](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
+      + [통합: [!DNL Workfront for G Suite]를 열 수 없음](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
+      + [작업: 하위 작업을 추가할 수 없음](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [타임시트: 타임시트에 시간을 입력할 수 없음](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않음](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
