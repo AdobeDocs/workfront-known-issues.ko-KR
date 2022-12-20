@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '1237'
-ht-degree: 98%
+source-wordcount: '1243'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 보고서 편집 화면이 비어 있습니다.](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [문서: 문서 권한은 상위 문제가 프로젝트로 변환될 때 상속되지 않습니다](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [보고서: 보고서는 와일드카드 &quot;$$ 대신 보고서 작성기를 사용합니다.[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [문서: MP4 파일을 업로드할 수 없음](known-issues-workfront/wf-documents-cannot-upload-mp4.md)

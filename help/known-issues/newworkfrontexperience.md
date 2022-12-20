@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 95%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 보고서 편집 화면이 비어 있습니다.](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022년 12월 20일 |
 | [문서: MP4 파일을 업로드할 수 없음](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022년 12월 8일 |
 | [작업: 하위 작업을 추가할 수 없음](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022년 12월 7일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 12월 2일 |
