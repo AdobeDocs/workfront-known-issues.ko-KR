@@ -3,7 +3,7 @@ title: '“타임시트: 타임시트 승인자를 선택할 때 사용 가능�
 description: “사용자가 타임시트를 만들고 승인자를 지정하려고 하면 드롭다운 목록에 비활성화된 사용자가 포함됩니다. 비활성화된 사용자를 선택하면 타임시트가 저장되지 않고 해당 사용자에게 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
