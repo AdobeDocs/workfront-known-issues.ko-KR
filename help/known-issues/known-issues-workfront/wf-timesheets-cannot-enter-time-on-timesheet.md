@@ -3,7 +3,7 @@ title: '“타임시트: 타임시트에 시간을 입력할 수 없음”'
 description: “사용자가 타임시트에 시간을 추가하려고 하면 프로젝트 시간 또는 작업 시간 행의 시간 상자가 회색으로 표시되고 이 상자에 시간을 입력할 수 없습니다. 일반 시간 영역에서만 시간을 입력할 수 있습니다.”
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
