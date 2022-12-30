@@ -4,7 +4,7 @@ description: 사용자가 증명을 완료한 후에도 증명이 [!UICONTROL �
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
 source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 
