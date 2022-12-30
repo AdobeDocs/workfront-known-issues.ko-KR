@@ -3,7 +3,7 @@ title: '“사용자 정의 양식: 사용자 정의 양식을 편집할 때 액
 description: “사용자가 사용자 정의 양식을 변경하려고 시도하면 변경 사항이 저장되지 않고 사용자에게 다음 오류가 표시됩니다. 액세스 권한이 부족하여 이 매개변수를 편집할 수 없습니다.”
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
