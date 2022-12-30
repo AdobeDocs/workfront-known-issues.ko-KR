@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 에서 문서를 추가할 수 없습니다. [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 2022년 12월 20일 |
-| [문서: 문서 권한은 상위 문제가 프로젝트로 변환될 때 상속되지 않습니다](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022년 12월 16일 |
+| [문서: [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)에서 문서를 추가할 수 없음 | 2022년 12월 20일 |
+| [문서: 상위 문제가 프로젝트로 변환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022년 12월 16일 |
 | [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 11월 18일 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +36,7 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명을 보관하지 않습니다](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022년 12월 20일 |
+| [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022년 12월 20일 |
 
 {style=&quot;table-layout:auto&quot;}
 
