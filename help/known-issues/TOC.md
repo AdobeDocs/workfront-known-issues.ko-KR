@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: ht
-source-wordcount: '1253'
-ht-degree: 100%
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+workflow-type: tm+mt
+source-wordcount: '1268'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 지정 Forms: 드롭다운 필드에서 Ctrl+F 또는 Cmd+F가 예상대로 작동하지 않습니다](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [문서: [!DNL Google Drive]에서 문서를 추가할 수 없음](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [보고서: 보고서 편집 화면이 비어 있음](known-issues-workfront/wf-reports-edit-report-is-blank.md)
