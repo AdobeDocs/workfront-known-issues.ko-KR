@@ -1,10 +1,10 @@
 ---
 user-guide-title: 유지 보수 릴리스
 user-guide-description: ' [!DNL Adobe Workfront]의 유지 보수 릴리스'
-source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
+source-git-commit: c8bc7cea9ea8d1f6486a1d0c0caf90c2e4cd82c1
 workflow-type: tm+mt
-source-wordcount: '10'
-ht-degree: 100%
+source-wordcount: '11'
+ht-degree: 90%
 
 ---
 
@@ -12,6 +12,7 @@ ht-degree: 100%
 # 유지 보수 릴리스 {#releases}
 
 + [최신 업데이트](current-updates.md)
++ [2022년 업데이트](2022-updates.md)
 + [2021년 업데이트](2021-updates.md)
 
 <!--
