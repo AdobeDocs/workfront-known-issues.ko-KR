@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 81%
+source-wordcount: '130'
+ht-degree: 52%
 
 ---
 
@@ -23,7 +23,15 @@ ht-degree: 81%
 
 +++**(예정) 2023년 1월 5일 유지 관리 업데이트**
 
-이 업데이트에는 중요한 사소한 버그 수정만 포함되어 있습니다.
+**핀 기능은에서 사용할 수 있습니다. [!UICONTROL 자세히] 메뉴**
+
+_탐색_
+
+이제 다음 기능을 [!UICONTROL 자세히] 미리 보기 환경에서만 핀의 메뉴:
+
+* 핀 이름 바꾸기
+* 핀 순서 조정 [!UICONTROL 자세히] 메뉴
+* 핀에서 분리 [!UICONTROL 자세히] 메뉴(이렇게 하면 맨 위 탐색 막대의 마지막 핀이 [!UICONTROL 자세히] 메뉴)
 
 +++
 
