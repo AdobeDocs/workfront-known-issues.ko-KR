@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 52%
+ht-degree: 56%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 52%
 
 ## 2022년 1월 업데이트
 
-+++**(예정) 2023년 1월 5일 유지 관리 업데이트**
++++**(예정) 2023년 1월 5일 유지 보수 업데이트**
 
 **핀 기능은에서 사용할 수 있습니다. [!UICONTROL 자세히] 메뉴**
 
