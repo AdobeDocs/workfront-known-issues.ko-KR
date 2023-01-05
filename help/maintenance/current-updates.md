@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
+source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 55%
+source-wordcount: '188'
+ht-degree: 38%
 
 ---
 
@@ -32,6 +32,12 @@ _탐색_
 * 핀 이름 바꾸기
 * 핀 순서 조정 [!UICONTROL 자세히] 메뉴
 * 핀에서 분리 [!UICONTROL 자세히] 메뉴(이렇게 하면 맨 위 탐색 막대의 마지막 핀이 [!UICONTROL 자세히] 메뉴)
+
+**프로젝트 그룹에 사용자를 프로젝트 팀에 추가하지 못하던 프로젝트 그룹 제한이 삭제되었습니다**
+
+_팀_
+
+프로젝트 팀에 추가해야 하는 사용자가 프로젝트와 연결된 그룹에 있어야 하는 제한을 제거했습니다. 이제 활성 사용자를 해당 사용자가 속한 그룹에 관계없이 프로젝트 팀에 추가할 수 있습니다.
 
 +++
 
