@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '629'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [사용자 지정 Forms: 드롭다운 필드에서 Ctrl+F 또는 Cmd+F가 예상대로 작동하지 않습니다](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023년 1월 3일 |
+| [사용자 정의 양식: Ctrl+F 또는 Cmd+F가 드롭다운 필드에서 예상대로 작동하지 않음](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023년 1월 3일 |
 | [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022년 12월 20일 |
 | [보고서: 보고서 편집 화면이 비어 있음](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022년 12월 20일 |
 | [문서: MP4 파일을 업로드할 수 없음](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022년 12월 8일 |
