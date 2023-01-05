@@ -2,7 +2,7 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 68caf4b13a94d3cfeee33603331984719811fa78
+source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 55%
@@ -19,7 +19,7 @@ ht-degree: 55%
 
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
-## 2022년 1월 업데이트
+## 2023년 1월 업데이트
 
 +++**2023년 1월 5일 유지 보수 업데이트**
 
