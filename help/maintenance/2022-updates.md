@@ -1,10 +1,10 @@
 ---
-title: Workfront 유지 보수 업데이트 2022년
-description: 2022년 유지 관리 업데이트 [!DNL Adobe Workfront]
+title: Workfront 유지 보수 업데이트 (2022년)
+description: ' [!DNL Adobe Workfront]에 대한 2022년 유지 보수 업데이트'
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16739'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
