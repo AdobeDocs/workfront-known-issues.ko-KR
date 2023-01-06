@@ -4,8 +4,8 @@ description: "사용자가 업데이트에 응답하여 제출하면 화면이 �
 hidefromtoc: true
 source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1ebc908cb8b1b78155b66418caeea4bca2402e52
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 # 기여
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ## 콘텐츠 작가 안내서 설명서
 
-[콘텐츠 작가 안내서](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+[콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 ## 질문이 있습니까?
 

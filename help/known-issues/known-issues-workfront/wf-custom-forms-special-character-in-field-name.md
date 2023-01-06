@@ -4,8 +4,8 @@ description: “사용자가 계산된 표현식을 만들 때 이름에 아포�
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '176'
+ht-degree: 100%
 
 ---
 

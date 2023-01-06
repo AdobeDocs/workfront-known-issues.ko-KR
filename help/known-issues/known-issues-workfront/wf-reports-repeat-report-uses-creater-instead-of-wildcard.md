@@ -4,8 +4,8 @@ description: “보고서가 반복 게재이고 와일드카드 $$USERID를 포
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

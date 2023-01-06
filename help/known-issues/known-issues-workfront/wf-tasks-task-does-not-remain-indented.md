@@ -4,8 +4,8 @@ description: "사용자가 작업 목록을 보고 작업을 나타내는 경우
 hidefromtoc: true
 source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

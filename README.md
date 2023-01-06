@@ -1,8 +1,8 @@
 ---
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
-source-wordcount: '427'
-ht-degree: 100%
+source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 # 콘텐츠 제공 문서
@@ -15,13 +15,13 @@ ht-degree: 100%
 
 ## Adobe 콘텐츠에 대한 제공 정보
 
-[Adobe 문서 콘텐츠 작가 가이드](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+[Adobe 문서 콘텐츠 작가 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 제공하는 방식은 여러분이 누구이며 제공하고자 하는 변경 사항의 종류에 따라 달라집니다.
 
 ### 사소한 변경 사항
 
-단순한 선의에서 사소한 업데이트를 제공하는 경우 문서를 방문하여 문서의 GitHub 소스로 이동하는 문서에서 **편집** 링크를 클릭하십시오. 그런 다음 GitHub UI를 사용하여 업데이트하십시오. 자세한 내용은 일반 [Adobe 문서 콘텐츠 작가 가이드](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+단순한 선의에서 사소한 업데이트를 제공하는 경우 문서를 방문하여 문서의 GitHub 소스로 이동하는 문서에서 **편집** 링크를 클릭하십시오. 그런 다음 GitHub UI를 사용하여 업데이트하십시오. 자세한 내용은 일반 [Adobe 문서 콘텐츠 작가 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 이 스토리지의 문서 및 코드 예제를 위해 제출한 사소한 수정 또는 설명은 Adobe 사용 약관의 적용을 받습니다.
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 커뮤니티 콘텐츠 작가는 기본 편집에 GitHub UI를 사용하거나 저장소를 포크하여 주요 콘텐츠를 제공할 수 있습니다.
 
-자세한 내용은 [Adobe Docs 기여자 안내서](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+자세한 내용은 [Adobe Docs 기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 ## 마크다운을 사용하여 주제 형식을 지정하는 방법
 
