@@ -2,15 +2,19 @@
 title: '“보고서: 문제 보고서에 새 문제를 추가할 때 죄송합니다 오류가 발생합니다.”'
 description: “사용자가 작업에 추가된 문제 보고서를 보고 새 문제를 추가하려고 하면 문제가 추가되지 않고 사용자에게 오류가 표시됩니다.”
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: ht
-source-wordcount: '117'
-ht-degree: 100%
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.
+
+>[!NOTE]
+>
+>이 문제는 재현할 수 없어 종결되었습니다.
 
 사용자가 작업에 추가된 문제 보고서를 보고 새 문제를 추가하려고 하면 문제가 추가되지 않고 사용자에게 다음 오류가 표시됩니다.
 
