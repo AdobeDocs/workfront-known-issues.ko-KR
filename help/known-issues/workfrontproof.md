@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: ht
-source-wordcount: '227'
-ht-degree: 100%
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API: &quot;[!UICONTROL 본문이 올바른 XML이 아닙니다.]&quot; 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 10일 |
 | [문서: [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)에서 문서를 추가할 수 없음 | 2022년 12월 20일 |
 | [문서: 상위 문제가 프로젝트로 변환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022년 12월 16일 |
 | [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 11월 18일 |
@@ -46,6 +47,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2023년 1월 10일 |
 | [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022년 12월 5일 |
 | [증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |

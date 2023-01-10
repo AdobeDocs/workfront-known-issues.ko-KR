@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 97%
 
 ---
 
@@ -44,7 +44,6 @@ ht-degree: 0%
 | [사용자 정의 양식: Ctrl+F 또는 Cmd+F가 드롭다운 필드에서 예상대로 작동하지 않음](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023년 1월 3일 |
 | [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022년 12월 20일 |
 | [보고서: 보고서 편집 화면이 비어 있음](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022년 12월 20일 |
-| [작업: 하위 작업을 추가할 수 없음](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022년 12월 7일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 12월 2일 |
 | [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |
 | [통합:  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)에서 요청을 제출할 때 오류 발생 | 2022년 8월 30일 |
@@ -58,6 +57,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2023년 1월 10일 |
 | [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023년 1월 6일 |
 | [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않음](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023년 1월 6일 |
 | [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022년 12월 5일 |
