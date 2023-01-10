@@ -3,9 +3,9 @@ title: '“프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설�
 description: “사용자가 템플릿에서 프로젝트를 만들 때 새 프로젝트가 그룹 프로젝트 환경 설정에 설정된 상태와 다릅니다. 템플릿 없이 프로젝트를 만든 경우 예상대로 그룹 프로젝트 환경 설정이 상태에 반영됩니다.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '128'
+ht-degree: 100%
 
 ---
 
