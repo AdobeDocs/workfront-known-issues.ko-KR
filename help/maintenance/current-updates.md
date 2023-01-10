@@ -4,8 +4,8 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '341'
+ht-degree: 77%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 +++**2023년 1월 5일 유지 보수 업데이트**
 
-**핀 기능은에서 사용할 수 있습니다. [!UICONTROL 자세히] 메뉴**
+**[!UICONTROL 더 보기] 메뉴에서 사용할 수 있는 고정 기능**
 
 _탐색_
 
-이제 다음 기능을 [!UICONTROL 자세히] 미리 보기 환경에서만 핀의 메뉴:
+다음 기능은 이제 미리보기 환경에서만 고정 항목의 [!UICONTROL 더 보기] 메뉴에서 사용할 수 있습니다.
 
-* 핀 이름 바꾸기
-* 핀 순서 조정 [!UICONTROL 자세히] 메뉴
-* 핀에서 분리 [!UICONTROL 자세히] 메뉴(이렇게 하면 맨 위 탐색 막대의 마지막 핀이 [!UICONTROL 자세히] 메뉴)
+* 고정 항목 이름 바꾸기
+* [!UICONTROL 더 보기] 메뉴에서 고정 항목 재정렬
+* 고정 항목을 [!UICONTROL 더 보기] 메뉴 밖으로 이동(이렇게 하면 상단 탐색 막대의 마지막 고정 항목이 [!UICONTROL 더 보기] 메뉴로 이동함)
 
 **프로젝트 그룹에 사용자를 프로젝트 팀에 추가하지 못하던 프로젝트 그룹 제한이 삭제되었습니다**
 
