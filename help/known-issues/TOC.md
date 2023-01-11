@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
 source-wordcount: '1292'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [작업: 들여쓴 작업은 들여쓴 상태로 유지되지 않습니다](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
-      + [업데이트: 응답이 제출되면 일시적으로 화면이 비어 있게 됩니다](known-issues-workfront/wf-updates-reply-goes-blank.md)
+      + [작업: 들여쓴 작업이 들여쓴 상태로 유지되지 않음](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [업데이트: 회신을 제출하면 화면이 일시적으로 깜박임](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [사용자 정의 양식: Ctrl+F 또는 Cmd+F가 드롭다운 필드에서 예상대로 작동하지 않음](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [문서: [!DNL Google Drive]에서 문서를 추가할 수 없음](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)

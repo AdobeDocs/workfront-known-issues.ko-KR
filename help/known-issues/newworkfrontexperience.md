@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [업데이트: 응답이 제출되면 일시적으로 화면이 비어 있게 됩니다](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023년 1월 6일 |
+| [업데이트: 회신을 제출하면 화면이 일시적으로 깜박임](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023년 1월 6일 |
 | [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 11월 18일 |
 | [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
@@ -40,7 +40,7 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 1월 6일 |
 | [문서: 상위 문제가 프로젝트로 변환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022년 12월 16일 |
-| [작업: 들여쓴 작업은 들여쓴 상태로 유지되지 않습니다](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 2023년 1월 6일 |
+| [작업: 들여쓴 작업이 들여쓴 상태로 유지되지 않음](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 2023년 1월 6일 |
 | [사용자 정의 양식: Ctrl+F 또는 Cmd+F가 드롭다운 필드에서 예상대로 작동하지 않음](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023년 1월 3일 |
 | [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022년 12월 20일 |
 | [보고서: 보고서 편집 화면이 비어 있음](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022년 12월 20일 |
