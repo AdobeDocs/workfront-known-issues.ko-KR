@@ -3,9 +3,9 @@ title: '“보고서: 문제 보고서에 새 문제를 추가할 때 죄송합�
 description: “사용자가 작업에 추가된 문제 보고서를 보고 새 문제를 추가하려고 하면 문제가 추가되지 않고 사용자에게 오류가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '128'
+ht-degree: 100%
 
 ---
 
