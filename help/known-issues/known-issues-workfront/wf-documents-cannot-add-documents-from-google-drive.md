@@ -3,9 +3,9 @@ title: '“문서: Google Drive에서 문서를 추가할 수 없음”'
 description: “사용자가 Google Drive에서 Workfront에 문서를 추가하려고 할 때 파일 선택기에 파일이 표시되지 않고 사용자가 원하는 파일을 선택할 수 없습니다.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
