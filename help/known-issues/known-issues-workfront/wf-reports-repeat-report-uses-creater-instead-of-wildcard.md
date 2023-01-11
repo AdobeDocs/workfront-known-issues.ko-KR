@@ -3,9 +3,9 @@ title: '“보고서: 보고서가 와일드카드 $$USERID 대신 보고서 작
 description: “보고서가 반복 게재이고 와일드카드 $$USERID를 포함하는 경우 보고서는 와일드카드 대신 보고서 작성자를 사용하여 실행됩니다. 이는 반복 게재일 경우에만 발생합니다. 보고서는 수동으로 실행하거나 즉시 전송을 사용할 때 예상대로 작동합니다.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
