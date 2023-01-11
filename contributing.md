@@ -1,8 +1,8 @@
 ---
 source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '294'
+ht-degree: 100%
 
 ---
 # 기여
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 콘텐츠 작가 안내서 설명서
 
-[콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
+[콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko-KR)를 참조하십시오.
 
 ## 질문이 있습니까?
 
@@ -53,4 +53,4 @@ Adobe는 커뮤니티의 기여를 환영합니다. 콘텐츠 작가를 넘어 �
 
 ## 보안 문제
 
-보안 문제는 이 문제 추적기에서 보고할 수 없습니다. 대신, [보안 전문가에게 문제를 제기](https://helpx.adobe.com/security/alertus.html)하십시오.
+보안 문제는 이 문제 추적기에서 보고할 수 없습니다. 대신, [보안 전문가에게 문제를 제기](https://helpx.adobe.com/kr/security/alertus.html)하십시오.
