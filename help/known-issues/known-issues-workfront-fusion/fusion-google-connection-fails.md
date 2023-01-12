@@ -1,16 +1,20 @@
 ---
-title: '“Workfront Fusion: Google에 대한 연결을 만들 수 없음”'
-description: '“사용자가 Google 커넥터(예: Google Sheets 또는 Google Drive)에서 연결을 만들려고 하면 연결이 만들어지지 않고 사용자에게 다양한 오류 메시지가 표시됩니다.”'
+title: '''Workfront Fusion: Google에 대한 연결을 만들 수 없습니다.'
+description: '사용자가 Google 커넥터(예: Google 시트 또는 Google 드라이브)에서 연결을 만들려고 하면 연결이 만들어지지 않고 사용자에게 다양한 오류 메시지가 표시됩니다.'
 hidefromtoc: true
-source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
+source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 57%
 
 ---
 
-
 # [!DNL Workfront Fusion]: [!DNL Google]에 대한 연결을 만들 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2023년 1월 9일에 수정되었습니다.
 
 사용자가 [!DNL Google] 커넥터(예: [!DNL Google Sheets] 또는 [!DNL Google Drive])에서 연결을 만들려고 하면 다음 오류가 표시된 창이 열립니다.
 
@@ -26,4 +30,3 @@ ht-degree: 100%
 “[!UICONTROL 오류: 이전 요청의 실패로 인해 요청이 실패했습니다. 액세스 토큰이 지정되지 않았습니다.]”
 
 _2022년 11월 21일에 처음 보고되었습니다._
-
