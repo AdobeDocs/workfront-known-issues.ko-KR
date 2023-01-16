@@ -3,7 +3,7 @@ title: '“통합: G Suite용 Workfront를 열 수 없음”'
 description: “사용자가 G Suite 앱을 실행 중이며 G Suite용 Workfront 추가 기능을 열려고 하면 추가 기능이 열리지 않고 사용자에게 “문제가 발생했습니다. 다시 시도해 주십시오”라는 메시지가 표시됩니다. 다시 시도해 보아도 문제가 지속됩니다. ”
 hidefromtoc: true
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
