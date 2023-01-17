@@ -1,12 +1,12 @@
 ---
-title: '''Workfront Fusion: Google에 대한 연결을 만들 수 없습니다.'
-description: '사용자가 Google 커넥터(예: Google 시트 또는 Google 드라이브)에서 연결을 만들려고 하면 연결이 만들어지지 않고 사용자에게 다양한 오류 메시지가 표시됩니다.'
+title: '“Workfront Fusion: Google에 대한 연결을 만들 수 없음”'
+description: '사용자가 Google 커넥터(예: Google Sheets 또는 Google Drive)에서 연결을 만들려고 하면 연결이 만들어지지 않고 사용자에게 다양한 오류 메시지가 표시됩니다.'
 hidefromtoc: true
 exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 57%
 
 >[!NOTE]
 >
->이 문제는 2023년 1월 9일에 수정되었습니다.
+>이 문제는 2023년 1월 9일에 해결되었습니다.
 
 사용자가 [!DNL Google] 커넥터(예: [!DNL Google Sheets] 또는 [!DNL Google Drive])에서 연결을 만들려고 하면 다음 오류가 표시된 창이 열립니다.
 
