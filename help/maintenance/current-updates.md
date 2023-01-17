@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: ht
-source-wordcount: '662'
-ht-degree: 100%
+source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
+workflow-type: tm+mt
+source-wordcount: '771'
+ht-degree: 87%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 1월 업데이트
+
++++**(예정) 2023년 1월 19일 유지 보수 업데이트**
+
+**와일드카드가 있는 표현식은 사용자 지정 필드에 사용할 수 없습니다**
+
+_사용자 정의 양식_
+
+사용자가 사용자 지정 필드에서 $$TODAY 또는 $$NOW 등의 와일드카드를 수정자(예: &quot;-30d&quot;)와 함께 사용하는 경우 유효성 검사기는 와일드카드를 유효한 것으로 허용하지 않습니다. 한정자가 없는 와일드카드는 유효하다고 합니다.
+
+**[!UICONTROL 작업 로드 밸런서] 프로젝트/작업/문제와 연관되지 않은 시간 표시**
+
+_[!UICONTROL 업무 균형자]_
+
+사용자가 를 볼 때 [!UICONTROL 작업 로드 밸런서]로 설정되면 프로젝트, 작업 또는 문제와 연관되지 않은 사용자 또는 로 기록되지 않은 사용자에 대해 로그된 시간이 표시됩니다 [!UICONTROL 일반] 시간. 이 시간은 4주 또는 6주 보기에서만 표시될 수 있습니다.
+
++++
 
 +++**[!DNL Adobe Workfront Fusion]2023년 1월 12일 유지 보수 업데이트 (핫픽스)**
 
