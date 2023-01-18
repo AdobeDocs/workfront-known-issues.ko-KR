@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 99%
+source-wordcount: '1316'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [설정: 전자 메일 템플릿을 저장할 수 없습니다.](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [사용자: 사용자는 자신의 사용자 설정을 편집할 수 없습니다](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [문서: 삭제된 문서를 복원할 수 없습니다.](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [문서: 큰 파일을 업로드하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [작업: 들여쓴 작업이 들여쓴 상태로 유지되지 않음](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
