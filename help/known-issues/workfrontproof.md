@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 삭제된 문서를 복원할 수 없습니다.](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 18일 |
+| [문서: 큰 파일을 업로드하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023년 1월 18일 |
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 10일 |
 | [문서: [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)에서 문서를 추가할 수 없음 | 2022년 12월 20일 |
 | [문서: 상위 문제가 프로젝트로 변환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022년 12월 16일 |

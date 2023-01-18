@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: ht
-source-wordcount: '597'
-ht-degree: 100%
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [업데이트: 회신을 제출하면 화면이 일시적으로 깜박임](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023년 1월 6일 |
+| [문서: 삭제된 문서를 복원할 수 없습니다.](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 18일 |
+| [문서: 큰 파일을 업로드하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023년 1월 18일 |
 | [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 11월 18일 |
 | [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |

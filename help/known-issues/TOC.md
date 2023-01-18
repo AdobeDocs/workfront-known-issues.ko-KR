@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
-workflow-type: ht
-source-wordcount: '1292'
-ht-degree: 100%
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+workflow-type: tm+mt
+source-wordcount: '1303'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: 삭제된 문서를 복원할 수 없습니다.](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [문서: 큰 파일을 업로드하는 동안 오류가 발생했습니다.](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [작업: 들여쓴 작업이 들여쓴 상태로 유지되지 않음](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [업데이트: 회신을 제출하면 화면이 일시적으로 깜박임](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [사용자 정의 양식: Ctrl+F 또는 Cmd+F가 드롭다운 필드에서 예상대로 작동하지 않음](known-issues-workfront/wf-custom-forms-dropdown-search.md)
