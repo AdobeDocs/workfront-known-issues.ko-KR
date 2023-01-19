@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 95%
+source-wordcount: '879'
+ht-degree: 89%
 
 ---
 
@@ -20,6 +20,26 @@ ht-degree: 95%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 1월 업데이트
+
++++**2023년 1월 19일 유지 보수 업데이트**
+
+**이제 흡기 열 필터를 공유할 수 있습니다**
+
+_보드_
+
+취기 열 기능이 보드에 릴리스되면 취기 열 설정을 위한 필터는 해당 필터를 만든 사용자만 볼 수 있습니다. 이제 작성자가 다른 사용자 또는 팀과 필터를 공유할 수 있습니다.
+
+**[!UICONTROL 더 보기] 메뉴에서 사용할 수 있는 고정 기능**
+
+_탐색_
+
+이제 다음 기능을 [!UICONTROL 자세히] 프로덕션 환경에서 핀의 메뉴:
+
+* 고정 항목 이름 바꾸기
+* [!UICONTROL 더 보기] 메뉴에서 고정 항목 재정렬
+* 고정 항목을 [!UICONTROL 더 보기] 메뉴 밖으로 이동(이렇게 하면 상단 탐색 막대의 마지막 고정 항목이 [!UICONTROL 더 보기] 메뉴로 이동함)
+
++++
 
 +++**2023년 1월 18일 유지 보수 업데이트**
 
