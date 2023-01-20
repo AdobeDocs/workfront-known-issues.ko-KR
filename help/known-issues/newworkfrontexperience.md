@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '585'
 ht-degree: 97%
 
 ---
@@ -24,10 +24,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [설정: 전자 메일 템플릿을 저장할 수 없습니다.](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023년 1월 18일 |
 | [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 18일 |
-| [문서: 대형 파일을 업로드할 때 오류 발생](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023년 1월 18일 |
-| [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md) | 2022년 11월 18일 |
 | [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
 
@@ -40,10 +37,10 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [설정: 전자 메일 템플릿을 저장할 수 없습니다.](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023년 1월 20일 |
+| [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 20일 |
 | [사용자: 사용자는 자신의 사용자 설정을 편집할 수 없습니다](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 2023년 1월 18일 |
-| [문서: 상위 문제가 프로젝트로 변환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022년 12월 16일 |
 | [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022년 12월 20일 |
-| [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022년 12월 2일 |
 | [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |
 | [통합:  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)에서 요청을 제출할 때 오류 발생 | 2022년 8월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
@@ -56,6 +53,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023년 1월 20일 |
 | [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 1월 12일 |
 | [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2023년 1월 10일 |
 | [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023년 1월 6일 |
