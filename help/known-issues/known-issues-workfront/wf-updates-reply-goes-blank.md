@@ -3,7 +3,7 @@ title: '“업데이트: 회신을 제출하면 화면이 일시적으로 깜박
 description: “사용자가 업데이트에 회신하고 회신을 제출하면 화면이 일시적으로 깜박입니다. 화면은 7초 동안 깜박이며, 그동안 사용자는 회신을 실행 취소할 수 있습니다. 7초 후에는 실행 취소 옵션을 더 이상 사용할 수 없으며 화면이 예상대로 표시됩니다.”
 hidefromtoc: true
 source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
