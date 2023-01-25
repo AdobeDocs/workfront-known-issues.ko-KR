@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 99%
+source-wordcount: '1000'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ _통합_
 “[!UICONTROL 다음 오류 발생: 핸들이 xxxx인 파일이 존재하지 않습니다.]”
 
 이 문제는 새 요청에 대해 요청 대기열을 통해 또는 요청을 만들 때 수동으로 할당이 이루어졌을 때만 발생합니다.
+
+**사용자는 자신의 사용자 설정을 편집할 수 없습니다**
+
+_사용자_
+
+작업, 검토 또는 요청 라이선스를 보유한 사용자가 자신의 사용자 설정을 편집하려고 하면 빈 팝업이 표시되고 사용자는 이를 편집할 수 없습니다. 팝업을 종료하려면 사용자가 페이지를 새로 고침해야 합니다.
 
 +++
 
