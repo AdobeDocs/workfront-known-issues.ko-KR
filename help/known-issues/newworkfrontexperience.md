@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,9 +37,9 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [설정: 전자 메일 템플릿을 저장할 수 없습니다.](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023년 1월 20일 |
+| [설정: 이메일 템플릿을 저장할 수 없음](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023년 1월 20일 |
 | [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 20일 |
-| [사용자: 사용자는 자신의 사용자 설정을 편집할 수 없습니다](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 2023년 1월 18일 |
+| [사용자: 사용자가 자신의 사용자 설정을 편집할 수 없음](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 2023년 1월 18일 |
 | [증명: 증명이 보관 해제되지 않음](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022년 12월 20일 |
 | [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |
 | [통합:  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)에서 요청을 제출할 때 오류 발생 | 2022년 8월 30일 |
