@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 99%
+source-wordcount: '1071'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,17 @@ _통합_
 “[!UICONTROL 다음 오류 발생: 핸들이 xxxx인 파일이 존재하지 않습니다.]”
 
 이 문제는 새 요청에 대해 요청 대기열을 통해 또는 요청을 만들 때 수동으로 할당이 이루어졌을 때만 발생합니다.
+
+**새 데스크탑 언어 교정 뷰어 버전**
+
+_증명_
+
+데스크탑 언어 교정 뷰어의 고정 문제를 해결하기 위해 최신 버전의 데스크탑 교정 뷰어를 배포했습니다. 이미 Desktop Proofing Viewer가 설치된 사용자는 이 업데이트를 자동으로 받게 됩니다.
+
+사용자는 최신 버전을 수동으로 다운할 수도 있습니다. 자세한 내용은 [데스크탑 교정 뷰어 설치](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* 이전 버전: 2.1.19
+* 새 버전: 2.1.20
 
 **사용자는 자신의 사용자 설정을 편집할 수 없습니다**
 

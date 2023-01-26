@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
-workflow-type: ht
-source-wordcount: '1316'
-ht-degree: 100%
+source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+workflow-type: tm+mt
+source-wordcount: '1323'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자: 예약된 비활성화는 사용자를 비활성화하지 않습니다](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [설정: 이메일 템플릿을 저장할 수 없음](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [사용자: 사용자가 자신의 사용자 설정을 편집할 수 없음](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md)
