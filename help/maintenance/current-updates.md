@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 98%
+source-wordcount: '999'
+ht-degree: 99%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 98%
 
 ## 2023년 1월 업데이트
 
-+++**(예정) 2023년 1월 26일 유지 보수 업데이트**
++++**2023년 1월 26일 유지 보수 업데이트**
 
-**다음에서 요청을 제출하는 동안 오류가 발생했습니다.[!DNL Outlook]**
+**[!DNL Outlook]**&#x200B;에서 요청을 제출할 때 오류 발생
 
 _통합_
 
