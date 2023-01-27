@@ -3,7 +3,7 @@ title: '“문서: 대형 파일을 업로드할 때 오류 발생”'
 description: “사용자가 대형 파일(25MB 초과)을 업로드하려고 하면 파일이 업로드되지 않고 “파일 업로드 실패” 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 문제가 아니므로 종결되었습니다.
+>이는 문제가 아닌 것으로 판명되어 종결되었습니다.
 
 사용자가 대형 파일(25MB 초과)을 업로드하려고 하면 파일이 업로드되지 않고 “[!UICONTROL 파일 업로드 실패]” 오류 메시지가 표시됩니다.
 
