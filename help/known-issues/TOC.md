@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
 workflow-type: tm+mt
-source-wordcount: '1323'
-ht-degree: 99%
+source-wordcount: '1361'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 문제가 변환된 프로젝트는 포트폴리오 또는 프로그램의 권한을 상속하지 않습니다](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL 설정]: 감사 로그는 내보내지지 않습니다](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL 요약]: 스크롤할 수 없음 [!UICONTROL 요약] 패널](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [문서: 문서를 열거나 다운로드할 때 &quot;잘못된 응답&quot; 오류](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [사용자: 예약된 비활성화는 사용자를 비활성화하지 않습니다](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [설정: 이메일 템플릿을 저장할 수 없음](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [사용자: 사용자가 자신의 사용자 설정을 편집할 수 없음](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -167,6 +171,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Adobe Workfront Fusion]: Workfront 모듈의 404 오류](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]:  [!DNL Google]에 대한 연결을 만들 수 없음](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: [!UICONTROL 반복자] 모듈의 배열 요소가 “[!UICONTROL 오브젝트 오브젝트]”로 표시됨](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: 시나리오 실행 기록에서 오류를 볼 때 오류 발생](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
