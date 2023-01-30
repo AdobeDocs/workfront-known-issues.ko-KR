@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 98%
+source-wordcount: '609'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로젝트: 문제가 변환된 프로젝트는 포트폴리오 또는 프로그램의 권한을 상속하지 않습니다](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 1월 30일 |
+| [문서: 문서를 열거나 다운로드할 때 &quot;잘못된 응답&quot; 오류](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023년 1월 30일 |
 | [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 18일 |
 | [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
@@ -36,6 +38,8 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 설정]: 감사 로그는 내보내지지 않습니다](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023년 1월 30일 |
+| [[!UICONTROL 요약]: 스크롤할 수 없음 [!UICONTROL 요약] 패널](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023년 1월 30일 |
 | [사용자: 예약된 비활성화는 사용자를 비활성화하지 않습니다](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023년 1월 26일 |
 | [설정: 이메일 템플릿을 저장할 수 없음](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023년 1월 20일 |
 | [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 20일 |
