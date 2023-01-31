@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
+source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
 workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 96%
+source-wordcount: '1383'
+ht-degree: 95%
 
 ---
 
@@ -16,11 +16,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: 세 점 메뉴를 클릭하면 요약 패널이 맨 위로 돌아갑니다](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [문서: 문서를 열거나 다운로드할 때 &quot;해당 페이지가 없습니다&quot; 오류가 발생합니다](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [프로젝트: 문제가 변환된 프로젝트는 포트폴리오 또는 프로그램의 권한을 상속하지 않습니다](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [[!UICONTROL 설정]: 감사 로그는 내보내지지 않습니다](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL 요약]: 스크롤할 수 없음 [!UICONTROL 요약] 패널](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [문서: 문서를 열거나 다운로드할 때 &quot;잘못된 응답&quot; 오류](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [사용자: 예약된 비활성화는 사용자를 비활성화하지 않습니다](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [사용자: 예약된 비활성화가 사용자를 비활성화하지 않음](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [설정: 이메일 템플릿을 저장할 수 없음](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [사용자: 사용자가 자신의 사용자 설정을 편집할 수 없음](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md)

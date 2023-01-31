@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 95%
+source-wordcount: '251'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 세 점 메뉴를 클릭하면 요약 패널이 맨 위로 돌아갑니다](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023년 1월 31일 |
+| [문서: 문서를 열거나 다운로드할 때 &quot;해당 페이지가 없습니다&quot; 오류가 발생합니다](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023년 1월 31일 |
 | [문서: 문서를 열거나 다운로드할 때 &quot;잘못된 응답&quot; 오류](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023년 1월 30일 |
 | [문서: [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)에서 문서를 추가할 수 없음 | 2022년 12월 20일 |
 
