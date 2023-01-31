@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1319'
-ht-degree: 79%
+source-wordcount: '1351'
+ht-degree: 85%
 
 ---
 
@@ -19,7 +19,17 @@ ht-degree: 79%
 
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
-## 2023년 1월 업데이트
+## 2023년 2월 업데이트
+
++++**2023년 2월 2일 유지 보수 업데이트**
+
+**전자 메일 템플릿을 저장할 수 없습니다.**
+
+_설정_
+
+사용자가 이메일 템플릿을 만들거나 편집하려고 하면 [!UICONTROL 저장] 버튼이 응답하지 않고 사용자는 해당 템플릿을 저장할 수 없습니다.
+
++++
 
 +++**2023년 1월 30일 유지 보수 업데이트**
 
@@ -68,18 +78,18 @@ _통합_
 
 이 문제는 새 요청에 대해 요청 대기열을 통해 또는 요청을 만들 때 수동으로 할당이 이루어졌을 때만 발생합니다.
 
-**새 데스크탑 언어 교정 뷰어 버전**
+**새로운 데스크탑 증명 뷰어 버전**
 
 _증명_
 
-데스크탑 언어 교정 뷰어의 고정 문제를 해결하기 위해 최신 버전의 데스크탑 교정 뷰어를 배포했습니다. 이미 Desktop Proofing Viewer가 설치된 사용자는 이 업데이트를 자동으로 받게 됩니다.
+데스크탑 증명 뷰어의 작동 중단 문제를 해결하기 위해 데스크탑 증명 뷰어의 새로운 버전이 배포되었습니다. 이미 데스크탑 증명 뷰어를 설치한 사용자는 이 업데이트를 자동으로 받게 됩니다.
 
-사용자는 최신 버전을 수동으로 다운할 수도 있습니다. 자세한 내용은 [데스크탑 교정 뷰어 설치](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [데스크탑 증명 뷰어 설치](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko)를 참조하십시오.
 
 * 이전 버전: 2.1.19
-* 새 버전: 2.1.20
+* 신규 버전: 2.1.20
 
-**사용자는 자신의 사용자 설정을 편집할 수 없습니다**
+**사용자가 자신의 사용자 설정을 편집할 수 없음**
 
 _사용자_
 
