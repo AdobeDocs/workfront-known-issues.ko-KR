@@ -84,7 +84,7 @@ _증명_
 
 데스크탑 증명 뷰어의 작동 중단 문제를 해결하기 위해 데스크탑 증명 뷰어의 새로운 버전이 배포되었습니다. 이미 데스크탑 증명 뷰어를 설치한 사용자는 이 업데이트를 자동으로 받게 됩니다.
 
-사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [데스크탑 증명 뷰어 설치](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko)를 참조하십시오.
+사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [데스크탑 증명 뷰어 설치](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko-KR)를 참조하십시오.
 
 * 이전 버전: 2.1.19
 * 신규 버전: 2.1.20
