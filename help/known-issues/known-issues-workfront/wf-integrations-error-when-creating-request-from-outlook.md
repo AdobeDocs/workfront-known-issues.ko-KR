@@ -3,7 +3,7 @@ title: '“통합: Outlook에서 요청을 제출할 때 오류 발생”'
 description: “사용자가 [!DNL Outlook] 이메일의 첨부 파일을 사용해 요청을 제출하려고 할 때 첨부 파일이 업로드되지 않고 오류가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
