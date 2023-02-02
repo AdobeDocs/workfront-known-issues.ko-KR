@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: 9cd28fae4c6e1a3c6759353351de4b09a46984f3
 workflow-type: tm+mt
-source-wordcount: '1402'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,9 @@ ht-degree: 96%
 
 _보드_
 
-이제 레이아웃 템플릿이 없는 사용자를 위한 기본 메뉴에 보드 아이콘이 표시됩니다. 보드는 기본적으로 주 메뉴에 포함되어 있으며 새로 만들어지는 레이아웃 템플릿에 대해서도 포함됩니다. 기존 레이아웃 템플릿은 변경되지 않았습니다.**이메일 템플릿을 저장할 수 없음**
+이제 레이아웃 템플릿이 없는 사용자를 위한 기본 메뉴에 보드 아이콘이 표시됩니다. 보드는 기본적으로 주 메뉴에 포함되어 있으며 새로 만들어지는 레이아웃 템플릿에 대해서도 포함됩니다. 기존 레이아웃 템플릿은 변경되지 않았습니다.
+
+**이메일 템플릿을 저장할 수 없음**
 
 _설정_
 
