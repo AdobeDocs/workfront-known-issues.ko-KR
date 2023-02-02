@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 100%
+source-wordcount: '640'
+ht-degree: 97%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [그룹: 하위 그룹은 그룹 이벤트 알림 설정에 따라 알림을 받지 않습니다](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2023년 2월 2일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보내지 않음](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023년 1월 30일 |
 | [[!UICONTROL 요약]: [!UICONTROL 요약] 패널을 스크롤할 수 없음](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023년 1월 30일 |
 | [사용자: 예약된 비활성화가 사용자를 비활성화하지 않음](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023년 1월 26일 |
