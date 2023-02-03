@@ -1,22 +1,22 @@
 ---
-title: "문서: 문서를 열거나 다운로드할 때 잘못된 응답 오류"
-description: "사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없으며 오류가 표시됩니다."
+title: '“문서: 문서를 열거나 다운로드할 때 잘못된 응답 오류 발생”'
+description: “사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없으며 오류가 발생합니다.”
 hidefromtoc: true
 source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 문서: 문서를 열거나 다운로드할 때 &quot;잘못된 응답&quot; 오류
+# 문서: 문서를 열거나 다운로드할 때 “잘못된 응답” 오류 발생
 
 <!--This article is on the WF and WFP TOC-->
 
-사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없으며 다음 오류가 표시됩니다.
+사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없으며 다음 오류가 발생합니다.
 
-&quot;[!UICONTROL 업스트림 서버에서 잘못된 응답을 받았습니다.]&quot;
+“[!UICONTROL 업스트림 서버에서 잘못된 응답이 수신되었음]”
 
 **해결 방법**
 
