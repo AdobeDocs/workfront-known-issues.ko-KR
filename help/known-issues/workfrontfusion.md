@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Adobe Workfront Fusion]: Workfront 모듈의 404 오류](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md) | 2023년 1월 30일 |
+| [[!DNL Adobe Workfront Fusion]: Workfront 모듈의 404 오류 발생](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md) | 2023년 1월 30일 |
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022년 8월 2일 |
 
