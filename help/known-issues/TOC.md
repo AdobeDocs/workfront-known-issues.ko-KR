@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '1422'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: 문서를 새 프로젝트로 이동할 때 권한은 상속되지 않습니다](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [작업 로드 밸런서: 여러 필터를 한 번에 사용할 때 부정확한 결과](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [그룹: 하위 그룹은 그룹 이벤트 알림 설정에 따라 알림을 받지 않습니다](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
