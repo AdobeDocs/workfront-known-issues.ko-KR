@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 |  |
+| [[!DNL Adobe Workfront Fusion]: Workfront Fusion의 시간 초과 오류](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023년 2월 3일 |
 
 {style=&quot;table-layout:auto&quot;}
 

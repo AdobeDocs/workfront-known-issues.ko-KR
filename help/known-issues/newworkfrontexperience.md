@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
-source-wordcount: '623'
-ht-degree: 97%
+source-wordcount: '634'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업 로드 밸런서: 여러 필터를 한 번에 사용할 때 부정확한 결과](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 2023년 2월 3일 |
 | [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023년 1월 31일 |
 | [문서: 문서를 열거나 다운로드할 때 “해당 페이지가 존재하지 않음” 오류 발생](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023년 1월 31일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 1월 30일 |

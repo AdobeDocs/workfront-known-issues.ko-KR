@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
-source-wordcount: '1407'
-ht-degree: 99%
+source-wordcount: '1422'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업 로드 밸런서: 여러 필터를 한 번에 사용할 때 부정확한 결과](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [그룹: 하위 그룹은 그룹 이벤트 알림 설정에 따라 알림을 받지 않습니다](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [문서: 문서를 열거나 다운로드할 때 “해당 페이지가 존재하지 않음” 오류 발생](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
@@ -175,6 +176,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Adobe Workfront Fusion]: Workfront Fusion의 시간 초과 오류](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: Workfront 모듈의 404 오류 발생](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]:  [!DNL Google]에 대한 연결을 만들 수 없음](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: [!UICONTROL 반복자] 모듈의 배열 요소가 “[!UICONTROL 오브젝트 오브젝트]”로 표시됨](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
