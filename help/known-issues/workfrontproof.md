@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '247'
 ht-degree: 99%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 99%
 | -----------------------------------------------------------------| ----------------- |
 | [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023년 1월 31일 |
 | [문서: 문서를 열거나 다운로드할 때 “해당 페이지가 존재하지 않음” 오류 발생](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023년 1월 31일 |
-| [문서: 문서를 열거나 다운로드할 때 “잘못된 응답” 오류 발생](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023년 1월 30일 |
 | [문서: [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)에서 문서를 추가할 수 없음 | 2022년 12월 20일 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,7 +37,6 @@ ht-degree: 99%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |
-| [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 20일 |
 
 {style=&quot;table-layout:auto&quot;}
 
