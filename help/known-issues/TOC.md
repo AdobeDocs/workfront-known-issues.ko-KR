@@ -3,8 +3,8 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1436'
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [문서: 문서를 새 프로젝트로 이동할 때 권한은 상속되지 않습니다](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [작업 로드 밸런서: 여러 필터를 한 번에 사용할 때 부정확한 결과](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [그룹: 하위 그룹은 그룹 이벤트 알림 설정에 따라 알림을 받지 않습니다](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [그룹: 하위 그룹이 그룹 이벤트 알림 설정에 따라 알림을 수신하지 않음](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [문서: 문서를 열거나 다운로드할 때 “해당 페이지가 존재하지 않음” 오류 발생](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
