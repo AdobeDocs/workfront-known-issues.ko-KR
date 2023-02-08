@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 98%
+source-wordcount: '1482'
+ht-degree: 95%
 
 ---
 
@@ -24,6 +24,16 @@ ht-degree: 98%
 +++**(예정) 2023년 2월 9일 유지 관리 업데이트**
 
 이 업데이트에는 사소한 또는 작은 버그 수정만 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
+
++++
+
++++**2023년 8월 2일 유지 보수 업데이트**
+
+**흡입 열의 필터 단추**
+
+_보드_
+
+이제 보드에 있는 취침 열에는 **필터 추가** 열이 비어 있고 필터가 만들어지지 않은 경우의 단추. 이 단추를 클릭하면 구성 영역이 열리고 필터를 추가하여 작업과 문제를 가져오기 열로 가져올 수 있습니다.
 
 +++
 
