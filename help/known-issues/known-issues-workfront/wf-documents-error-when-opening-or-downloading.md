@@ -3,9 +3,9 @@ title: '“문서: 문서를 열거나 다운로드할 때 잘못된 응답 오�
 description: “사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없으며 오류가 발생합니다.”
 hidefromtoc: true
 source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 문제는 2023년 2월 2일에 수정되었습니다.
+>이 문제는 2023년 2월 2일에 해결되었습니다.
 
 사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없으며 다음 오류가 발생합니다.
 
