@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
-workflow-type: ht
-source-wordcount: '649'
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
+workflow-type: tm+mt
+source-wordcount: '606'
 ht-degree: 100%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 100%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 3월 2일 |
-| [워크로드 밸런서: 한 번에 여러 필터를 사용하는 경우 결과가 정확하지 않음](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 2023년 3월 2일 |
 | [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023년 1월 31일 |
-| [문서: 문서를 열거나 다운로드할 때 “해당 페이지가 존재하지 않음” 오류 발생](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023년 1월 31일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 1월 30일 |
 | [증명: 증명 생성이 매우 느립니다.](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022년 10월 27일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
@@ -40,9 +38,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [그룹: 하위 그룹이 그룹 이벤트 알림 설정에 따라 알림을 수신하지 않음](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2023년 2월 2일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보내지 않음](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023년 1월 30일 |
-| [[!UICONTROL 요약]: [!UICONTROL 요약] 패널을 스크롤할 수 없음](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023년 1월 30일 |
 | [사용자: 예약된 비활성화가 사용자를 비활성화하지 않음](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023년 1월 26일 |
 | [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 20일 |
 | [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022년 11월 14일 |

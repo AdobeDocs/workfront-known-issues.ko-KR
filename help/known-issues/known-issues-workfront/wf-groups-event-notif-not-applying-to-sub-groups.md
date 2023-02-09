@@ -1,16 +1,20 @@
 ---
-title: '“그룹: 하위 그룹이 그룹 이벤트 알림 설정에 따라 알림을 수신하지 않음”'
+title: "그룹: 하위 그룹은 그룹 이벤트 알림 설정에 따라 알림을 받지 않습니다."
 description: “그룹 이벤트 알림 설정에 따라 알림을 트리거하는 이벤트가 발생해도 해당 그룹의 하위 그룹에 알림이 수신되지 않습니다. Workfront에서 이들 하위 그룹이 그룹 알림 설정을 상속하지 않습니다.”
 hidefromtoc: true
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+source-git-commit: 209a6610fec9743c817ecb8bb9899f21a1c4762e
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 76%
 
 ---
 
 
-# 그룹: 하위 그룹이 그룹 이벤트 알림 설정에 따라 알림을 수신하지 않음
+# 그룹: 하위 그룹은 그룹 이벤트 알림 설정에 따라 알림을 받지 않습니다
+
+>[!NOTE]
+>
+>이 문제는 2023년 9월 2일에 해결되었습니다.
 
 그룹 이벤트 알림 설정에 따라 알림을 트리거하는 이벤트가 발생해도 해당 그룹의 하위 그룹에 알림이 수신되지 않습니다. Workfront에서 이들 하위 그룹이 그룹 알림 설정을 상속하지 않습니다.
 
