@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
 workflow-type: tm+mt
 source-wordcount: '1506'
-ht-degree: 92%
+ht-degree: 95%
 
 ---
 
@@ -33,11 +33,11 @@ _보고서_
 
 +++**2023년 8월 2일 유지 보수 업데이트**
 
-**흡입 열의 필터 단추**
+**Intake 열의 필터 버튼**
 
 _보드_
 
-이제 보드에 있는 취침 열에는 **[!UICONTROL 필터 추가]** 열이 비어 있고 필터가 만들어지지 않은 경우의 단추. 이 단추를 클릭하면 구성 영역이 열리고 필터를 추가하여 작업과 문제를 가져오기 열로 가져올 수 있습니다.
+열이 비어 있고 필터가 생성되지 않은 경우 이제 보드의 Intake 열에 **[!UICONTROL 필터 추가]** 버튼이 포함됩니다. 이 버튼을 클릭하면 구성 영역이 열리며, 여기에서 필터를 추가하여 작업 및 문제를 Intake 열로 가져올 수 있습니다.
 
 +++
 
@@ -68,8 +68,8 @@ _타임시트_
 * 행 추가 (Cmd+Option++ 키 / Ctrl+Option++ 키)
 * 행 삭제 (Cmd+Option+- 키 / Ctrl+Option+- 키)
 * 작업 항목 고정 또는 고정 해제 (Option+P 키 / Option+P 키)
-* 주석 열기 (Shift+F2 키 / Shift+F2 키)
-* 주석 저장 (Cmd+Enter 키 / Ctrl+Enter 키)
+* 댓글 열기 (Shift+F2 키 / Shift+F2 키)
+* 댓글 저장 (Cmd+Enter 키 / Ctrl+Enter 키)
 * 확장 (Shift+Option+위쪽 화살표 키 / Shift+Alt+위쪽 화살표 키)
 * 축소 (Shift+Option+아래쪽 화살표 키/ Shift+Alt+아래쪽 화살표 키)
 
@@ -237,7 +237,7 @@ _팀_
 
 >[!NOTE]
 >
->이 업데이트는 2022년 11월 3일에 미리보기 환경에 미리 릴리스되었으며 이제 프로덕션 환경에 배포됩니다.
+>이 업데이트는 2022년 11월 3일에 미리보기 환경에 이미 릴리스되었으며 이제 프로덕션 환경에 배포됩니다.
 
 _Workfront_
 
