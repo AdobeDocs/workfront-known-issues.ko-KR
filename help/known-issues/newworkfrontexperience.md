@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
-source-wordcount: '606'
-ht-degree: 100%
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+workflow-type: tm+mt
+source-wordcount: '615'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자: 사용자가 자신의 알림 설정을 편집할 수 없습니다](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 2023년 10월 2일 |
 | [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 3월 2일 |
 | [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023년 1월 31일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 1월 30일 |
