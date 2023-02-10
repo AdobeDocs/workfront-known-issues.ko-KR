@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
 workflow-type: tm+mt
-source-wordcount: '1444'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 주석 리디렉션에 연결 [!UICONTROL 세부 사항] 페이지](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [사용자: 사용자가 자신의 알림 설정을 편집할 수 없습니다](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [워크로드 밸런서: 한 번에 여러 필터를 사용하는 경우 결과가 정확하지 않음](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
