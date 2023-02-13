@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d91c84f60680c78b9e34481bd6435f5dad234358
+source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자: 사용자를 다시 활성화할 때 액세스 수준이 할당되지 않습니다](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023년 13월 2일 |
 | [업데이트: 주석 리디렉션에 연결 [!UICONTROL 세부 사항] 페이지](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023년 10월 2일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보내지 않음](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023년 1월 30일 |
 | [사용자: 예약된 비활성화가 사용자를 비활성화하지 않음](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023년 1월 26일 |
