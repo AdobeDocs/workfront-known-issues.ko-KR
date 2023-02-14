@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
+source-git-commit: a02311dcf01d961cc55e4faa7b26661154055578
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '635'
+ht-degree: 95%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 14월 2일 |
 | [사용자: 사용자를 다시 활성화할 때 액세스 수준이 할당되지 않습니다](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023년 13월 2일 |
 | [업데이트: 주석 리디렉션에 연결 [!UICONTROL 세부 사항] 페이지](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023년 10월 2일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보내지 않음](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023년 1월 30일 |
@@ -56,7 +57,6 @@ ht-degree: 0%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023년 1월 20일 |
-| [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 1월 12일 |
 | [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2023년 1월 10일 |
 | [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023년 1월 6일 |
 | [프로젝트: 프로젝트 상태가 그룹 프로젝트 환경 설정을 따르지 않음](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023년 1월 6일 |
