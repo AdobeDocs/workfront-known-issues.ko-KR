@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1538'
-ht-degree: 99%
+source-wordcount: '1582'
+ht-degree: 97%
 
 ---
 
@@ -21,9 +21,21 @@ ht-degree: 99%
 
 ## 2023년 2월 업데이트
 
-+++**(예정) 2023년 2월 16일 유지 보수 업데이트**
++++**2023년 16월 2일 유지 보수 업데이트**
 
-**예약된 비활성화는 사용자를 비활성화하지 않습니다**
+**보드에 여러 팀 할당**
+
+_보드_
+
+이제 보드에 있는 작업 또는 문제와 보드 자체에 여러 팀을 할당할 수 있습니다.
+
+**카드 폴아웃 제한 증가**
+
+_보드_
+
+카드 할인 시간 제한은 4주/30일 대신 8주/60일로 늘어났습니다.
+
+**예약된 비활성화가 사용자를 비활성화하지 않음**
 
 _사용자_
 

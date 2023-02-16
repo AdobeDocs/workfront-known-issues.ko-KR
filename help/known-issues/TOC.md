@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: ae624c4cf75d907613bd0fc7f2efbedf73b1c35d
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1075'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,9 +16,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [사용자: 사용자를 다시 활성화할 때 액세스 수준이 할당되지 않습니다](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [업데이트: 주석 리디렉션에 연결 [!UICONTROL 세부 사항] 페이지](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
-      + [사용자: 사용자가 자신의 알림 설정을 편집할 수 없습니다](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
+      + [[!UICONTROL 보드]: 그룹을 적용할 때 카드를 추가할 수 없습니다](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [사용자: 사용자를 다시 활성화하는 경우 액세스 수준이 할당되지 않음](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
+      + [업데이트: 댓글 링크를 클릭하면 [!UICONTROL 세부 정보] 페이지로 리디렉션됨](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [사용자: 사용자가 자신의 알림 설정을 편집할 수 없음](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [워크로드 밸런서: 한 번에 여러 필터를 사용하는 경우 결과가 정확하지 않음](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [그룹: 하위 그룹이 그룹 이벤트 알림 설정에 따라 알림을 수신하지 않음](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)

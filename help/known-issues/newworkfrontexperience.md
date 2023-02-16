@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b164121c0d7aa1c57fa23160ba37796fef2fa151
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [사용자: 사용자가 자신의 알림 설정을 편집할 수 없습니다](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 2023년 10월 2일 |
-| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 3월 2일 |
+| [[!UICONTROL 보드]: 그룹을 적용할 때 카드를 추가할 수 없습니다](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023년 2월 16일 |
+| [사용자: 사용자가 자신의 알림 설정을 편집할 수 없음](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 2023년 2월 10일 |
+| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
 | [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023년 1월 31일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 1월 30일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
@@ -38,9 +39,9 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 14월 2일 |
-| [사용자: 사용자를 다시 활성화할 때 액세스 수준이 할당되지 않습니다](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023년 13월 2일 |
-| [업데이트: 주석 리디렉션에 연결 [!UICONTROL 세부 사항] 페이지](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023년 10월 2일 |
+| [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 2월 14일 |
+| [사용자: 사용자를 다시 활성화하는 경우 액세스 수준이 할당되지 않음](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023년 2월 13일 |
+| [업데이트: 댓글 링크를 클릭하면 [!UICONTROL 세부 정보] 페이지로 리디렉션됨](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023년 2월 10일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보내지 않음](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023년 1월 30일 |
 | [사용자: 예약된 비활성화가 사용자를 비활성화하지 않음](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023년 1월 26일 |
 | [문서: 삭제된 문서를 복원할 수 없음](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023년 1월 20일 |
