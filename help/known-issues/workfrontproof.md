@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
-source-wordcount: '249'
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+workflow-type: tm+mt
+source-wordcount: '238'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 3월 2일 |
-| [문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단으로 돌아감](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023년 1월 31일 |
+| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
 | [문서: [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)에서 문서를 추가할 수 없음 | 2022년 12월 20일 |
 
 {style=&quot;table-layout:auto&quot;}

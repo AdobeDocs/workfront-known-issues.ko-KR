@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '1083'
-ht-degree: 99%
+source-wordcount: '1088'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 프로젝트 헤더에 504 오류 발생](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL 보드]: 그룹을 적용할 때 카드를 추가할 수 없습니다](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [사용자: 사용자를 다시 활성화하는 경우 액세스 수준이 할당되지 않음](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [업데이트: 댓글 링크를 클릭하면 [!UICONTROL 세부 정보] 페이지로 리디렉션됨](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
