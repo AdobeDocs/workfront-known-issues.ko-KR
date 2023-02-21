@@ -5,8 +5,8 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '617'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [프로젝트: 프로젝트 헤더에 504 오류 발생](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023년 2월 17일 |
-| [[!UICONTROL 보드]: 그룹을 적용할 때 카드를 추가할 수 없습니다](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023년 2월 16일 |
+| [[!UICONTROL 보드]: 그룹화가 적용되면 카드를 추가할 수 없습니다.](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023년 2월 16일 |
 | [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 1월 30일 |
 | [증명: 인쇄 요약에 모든 증명 페이지가 표시되지 않음](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022년 10월 19일 |
