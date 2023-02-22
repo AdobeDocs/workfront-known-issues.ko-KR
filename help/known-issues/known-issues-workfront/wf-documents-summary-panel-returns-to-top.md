@@ -3,9 +3,9 @@ title: '“문서: 점 3개 메뉴를 클릭하면 때 요약 패널이 상단�
 description: “”
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '73'
+ht-degree: 100%
 
 ---
 
