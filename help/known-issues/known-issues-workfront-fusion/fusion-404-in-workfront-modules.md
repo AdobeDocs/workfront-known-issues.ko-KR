@@ -3,7 +3,7 @@ title: '“Adobe Workfront Fusion: Workfront 모듈의 404 오류 발생”'
 description: “Workfront 모듈에서 404 오류가 반환될 수 있습니다. 모듈에서 404 오류가 발생하면 시나리오 실행이 실패합니다.”
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
