@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1693'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 98%
 
 +++**(예정) 2023년 2월 23일 유지 보수 업데이트**
 
-**주석 리디렉션에 연결 [!UICONTROL 세부 사항] 페이지**
+**댓글 링크를 클릭하면 [!UICONTROL 세부 정보] 페이지로 리디렉션됨**
 
 _업데이트_
 
@@ -31,7 +31,7 @@ _업데이트_
 
 현재 이 문제는 문서 오브젝트에만 영향을 미칩니다.
 
-**사용자가 자신의 알림 설정을 편집할 수 없습니다**
+**사용자가 자신의 알림 설정을 편집할 수 없음**
 
 _사용자_
 
