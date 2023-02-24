@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
 workflow-type: tm+mt
-source-wordcount: '1114'
-ht-degree: 98%
+source-wordcount: '1107'
+ht-degree: 99%
 
 ---
 
@@ -120,7 +120,6 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [통합: 에 로그인하는 동안 오류가 발생했습니다. [!DNL Workfront] 변환 전: [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md)
       + [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
