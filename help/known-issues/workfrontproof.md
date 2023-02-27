@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 2023년 2월 24일 |
+| [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023년 2월 27일 |
 | [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
 
 {style=&quot;table-layout:auto&quot;}

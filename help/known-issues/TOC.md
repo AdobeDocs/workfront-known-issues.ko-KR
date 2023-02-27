@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [통합: 에 로그인하는 동안 오류가 발생했습니다. [!DNL Workfront] 변환 전: [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [프로젝트: 프로젝트 헤더의 504 오류](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL 보드]: 그룹화가 적용되면 카드를 추가할 수 없음](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
