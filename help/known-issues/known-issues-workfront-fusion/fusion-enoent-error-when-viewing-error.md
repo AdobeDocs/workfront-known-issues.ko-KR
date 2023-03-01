@@ -1,16 +1,16 @@
 ---
-title: '''Workfront Fusion: 시나리오 실행 내역에서 오류를 보는 동안 오류가 발생했습니다.'
-description: 사용자가 시나리오 실행 내역을 보고 오류를 클릭하여 오류에 대한 세부 사항을 확인하려고 하면 세부 사항이 열리지 않고 사용자에게 오류 메시지가 표시됩니다.
+title: '“Workfront Fusion: 시나리오 실행 기록에서 오류를 조회할 때 오류 발생”'
+description: 사용자가 시나리오 실행 기록을 보고 오류를 클릭하여 오류에 대한 자세한 내용을 보려고 하면 세부 정보가 열리지 않고 사용자에게 오류 메시지가 표시됩니다.
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]: 시나리오 실행 기록에서 오류를 볼 때 오류 발생
+# [!DNL Workfront Fusion]: 시나리오 실행 기록에서 오류를 조회할 때 오류 발생
 
 >[!NOTE]
 >
