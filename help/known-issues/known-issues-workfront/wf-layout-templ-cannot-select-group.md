@@ -4,7 +4,7 @@ description: 그룹 관리자인 사용자가 설정의 [!UICONTROL 인터페이
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2022년 6월 6일에 수정되었습니다.
+>이 문제는 2022년 6월 6일에 해결되었습니다.
 
 그룹 관리자인 사용자가 [!UICONTROL 설정]의 [!UICONTROL 인터페이스] 영역에서 레이아웃 템플릿을 만들려고 할 때 [!UICONTROL 관리 액세스] 필드의 그룹을 선택하라는 메시지가 표시됩니다. 사용자가 그룹 이름을 입력해도 그룹이 드롭다운에 표시되지 않고 선택 불가능합니다. 따라서 사용자가 레이아웃 템플릿을 저장할 수 없습니다.
 
