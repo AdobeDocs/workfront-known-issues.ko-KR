@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
 workflow-type: tm+mt
 source-wordcount: '583'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
-| [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023년 2월 27일 |
-| [통합: 에 로그인하는 동안 오류가 발생했습니다. [!DNL Workfront] 변환 전: [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2023년 2월 24일 |
+| [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
+| [증명: 증명 역할이 다음으로 변경됨 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023년 2월 27일 |
+| [통합 기능: [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)에서 [!DNL Workfront] 에 로그인할 때 오류 발생 | 2023년 2월 24일 |
 | [프로젝트: 프로젝트 헤더의 504 오류](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023년 2월 17일 |
 | [[!UICONTROL 보드]: 그룹화가 적용되면 카드를 추가할 수 없습니다.](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023년 2월 16일 |
 | [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
