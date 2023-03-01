@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 93%
+source-wordcount: '285'
+ht-degree: 91%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: [!UICONTROL Reports] 영역이 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023년 3월 1일 |
 | [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023년 2월 23일 |
 | [증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/proof-new-stage-created.md) | 2023년 2월 2일 |
 | [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2023년 1월 10일 |

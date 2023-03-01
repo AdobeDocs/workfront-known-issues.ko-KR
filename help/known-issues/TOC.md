@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 98%
+source-wordcount: '1135'
+ht-degree: 97%
 
 ---
 
@@ -122,6 +122,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+      + [[!DNL Workfront Proof]: [!UICONTROL 보고서] 영역이 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 인쇄 요약] 이(가) 로드되지 않음](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/proof-new-stage-created.md)
