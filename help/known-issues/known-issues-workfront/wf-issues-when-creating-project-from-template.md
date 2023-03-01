@@ -3,7 +3,7 @@ title: '“프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 �
 description: “사용자가 템플릿에서 프로젝트를 생성하고 프로젝트를 저장할 때 프로젝트 생성 시간이 평소보다 3~5배 더 걸립니다. 또한 프로젝트가 실제로 생성되었지만 프로젝트가 생성되지 않았음을 알리는 가져오기 실패 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
