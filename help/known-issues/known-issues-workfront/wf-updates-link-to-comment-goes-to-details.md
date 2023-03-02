@@ -2,15 +2,19 @@
 title: '“업데이트: 댓글 링크를 클릭하면 세부 정보 페이지로 리디렉션됨”'
 description: “사용자가 Workfront의 오브젝트에 대한 댓글 링크를 따라가면 업데이트 스트림이 잠시 로드된 다음 해당 오브젝트의 세부 정보 영역으로 리디렉션됩니다. 이는 사용자가 이메일에서 링크를 클릭하거나 링크를 브라우저에 붙여넣는 경우에 발생할 수 있습니다.”
 hidefromtoc: true
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 업데이트: 댓글 링크를 클릭하면 [!UICONTROL 세부 정보] 페이지로 리디렉션됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 3월 2일에 수정되었습니다.
 
 사용자가 Workfront의 오브젝트에 대한 댓글 링크를 따라가면 업데이트 스트림이 잠시 로드된 다음 해당 오브젝트의 [!UICONTROL 세부 정보] 영역으로 리디렉션됩니다. 이는 사용자가 이메일에서 링크를 클릭하거나 링크를 브라우저에 붙여넣는 경우에 발생할 수 있습니다.
 

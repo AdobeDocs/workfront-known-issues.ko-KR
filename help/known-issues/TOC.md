@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,8 +16,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 문제를 프로젝트로 전환할 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
-      + [증명: 증명 역할이 다음으로 변경됨 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
+      + [증명: 증명 역할이 [!UICONTROL 읽기 전용]으로 변경됨](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [통합 기능: [!DNL Jira]에서 [!DNL Workfront] 에 로그인할 때 오류 발생](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [프로젝트: 프로젝트 헤더의 504 오류](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL 보드]: 그룹화가 적용되면 카드를 추가할 수 없음](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
@@ -123,7 +124,7 @@ ht-degree: 97%
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
       + [[!DNL Workfront Proof]: [!UICONTROL 보고서] 영역이 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL 인쇄 요약] 이(가) 로드되지 않음](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL Print Summary]가 로드되지 않음](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
@@ -145,6 +146,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Workfront Fusion]: 시나리오 실행 기록에 전체 기록이 표시되지 않음](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: Workfront Fusion의 시간 초과 오류](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: Workfront 모듈의 404 오류 발생](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]:  [!DNL Google]에 대한 연결을 만들 수 없음](known-issues-workfront-fusion/fusion-google-connection-fails.md)

@@ -2,15 +2,19 @@
 title: '“보드: 그룹화가 적용되면 카드를 추가할 수 없음”'
 description: “사용자가 그룹화가 적용된 게시판을 보고 카드를 추가하려고 할 때 카드 이름만 입력할 수 있습니다. 저장 버튼을 포함한 나머지 카드 필드는 비활성화됩니다.”
 hidefromtoc: true
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL 보드]: 그룹화가 적용되면 카드를 추가할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2023년 3월 2일에 수정되었습니다.
 
 사용자가 그룹화가 적용된 게시판을 보고 카드를 추가하려고 할 때 카드 이름만 입력할 수 있습니다. [!UICONTROL 저장] 버튼을 포함한 나머지 카드 필드는 비활성화됩니다.
 

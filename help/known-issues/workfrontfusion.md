@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: 시나리오 실행 기록에 전체 기록이 표시되지 않음](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 2023년 3월 3일 |
 | [[!DNL Adobe Workfront Fusion]: Workfront Fusion의 시간 초과 오류](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023년 3월 2일 |
 
 {style=&quot;table-layout:auto&quot;}
