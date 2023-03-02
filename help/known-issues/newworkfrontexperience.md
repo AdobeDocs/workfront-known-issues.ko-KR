@@ -3,7 +3,7 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
+source-git-commit: b5172e5c4991f4ea6a5bf05b92bfb419c1e95a35
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 97%
@@ -38,7 +38,7 @@ ht-degree: 97%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [통합 기능: [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)에서 [!DNL Workfront] 에 로그인할 때 오류 발생 | 2023년 3월 2일 |
-| [프로젝트: 문제를 프로젝트로 전환할 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023년 3월 23일 |
+| [프로젝트: 문제를 프로젝트로 전환할 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023년 3월 2일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 2월 23일 |
 | [사용자: 사용자를 다시 활성화하는 경우 액세스 수준이 할당되지 않음](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023년 2월 13일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
