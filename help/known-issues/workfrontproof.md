@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 97%
+source-wordcount: '282'
+ht-degree: 93%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: [!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 넓습니다.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023년 3월 3일 |
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |
 
 {style=&quot;table-layout:auto&quot;}

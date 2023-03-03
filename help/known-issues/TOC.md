@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 96%
+source-wordcount: '1192'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [문서: [!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 넓습니다.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [프로젝트: 문제를 프로젝트로 전환할 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [증명: 증명 역할이 [!UICONTROL 읽기 전용]으로 변경됨](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
