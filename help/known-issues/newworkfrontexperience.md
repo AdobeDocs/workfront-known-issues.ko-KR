@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b5172e5c4991f4ea6a5bf05b92bfb419c1e95a35
+source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
 workflow-type: tm+mt
-source-wordcount: '576'
-ht-degree: 97%
+source-wordcount: '585'
+ht-degree: 96%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 사용자 정의 메시지가 이메일 알림에 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023년 3월 3일 |
 | [통합 기능: [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)에서 [!DNL Workfront] 에 로그인할 때 오류 발생 | 2023년 3월 2일 |
 | [프로젝트: 문제를 프로젝트로 전환할 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023년 3월 2일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 2월 23일 |

@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
+source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
 workflow-type: tm+mt
-source-wordcount: '1167'
+source-wordcount: '1175'
 ht-degree: 96%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+      + [증명: 사용자 정의 메시지가 이메일 알림에 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: &quot;&quot;을(를) 사용할 때 증명이 로드되지 않음[!UICONTROL 증명으로 이동]이메일 알림의 &quot;버튼](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 보고서] 영역이 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Print Summary]가 로드되지 않음](known-issues-workfront-proof/proof-print-summary-not-loading.md)
