@@ -3,14 +3,16 @@ title: '“이메일 알림: 사용자가 댓글 스레드로 이동되지 않�
 description: 사용자가 이메일 알림의 댓글 링크를 클릭하면 답글을 달려는 댓글 스레드 대신 [!UICONTROL 업데이트] 영역의 상단으로 이동됩니다.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 # 이메일 알림: 사용자가 댓글 스레드로 이동되지 않음
+
+<!--Article created by request-->
 
 >[!NOTE]
 >

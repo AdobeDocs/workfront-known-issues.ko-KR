@@ -3,14 +3,16 @@ title: '홈: 작업 목록에서 문서 이미지를 볼 수 없음'
 description: 사용자가 문서 미리보기를 보기 위해 .docx 썸네일을 클릭하면 비디오 플레이어가 열리고 문서를 볼 수 없습니다.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL 홈]: [!UICONTROL 작업 목록]에서 문서 이미지를 볼 수 없음
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
