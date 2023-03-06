@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 93%
+source-wordcount: '579'
+ht-degree: 92%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 93%
 | [프로젝트: 프로젝트 헤더의 504 오류](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023년 2월 17일 |
 | [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 진행 중
 
@@ -46,7 +46,7 @@ ht-degree: 93%
 | [사용자: 사용자를 다시 활성화하는 경우 액세스 수준이 할당되지 않음](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023년 2월 13일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 수정 없음
 
@@ -58,7 +58,6 @@ ht-degree: 93%
 | [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023년 2월 23일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023년 1월 20일 |
 | [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2023년 1월 10일 |
-| [사용자 정의 양식: 필드 이름에 아포스트로피 또는 큰따옴표가 포함된 경우 계산에 필드를 사용할 수 없음](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023년 1월 6일 |
 | [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022년 12월 5일 |
 | [작업: 작업 [!UICONTROL 요약 패널에 시간을 입력할 때 시간이 저장되지 않음]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022년 11월 21일 |
@@ -91,5 +90,5 @@ ht-degree: 93%
 | [홈: 새로 고침 후 승인 위임 날짜가 변경되고 이메일 2개가 전송됨](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020년 11월 9일 |
 | [캘린더: 작업이 표시되지 않음](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 2020년 11월 9일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
