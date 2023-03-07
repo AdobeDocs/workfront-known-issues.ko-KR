@@ -2,10 +2,10 @@
 title: '“문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음”'
 description: “사용자가 문서를 다른 프로젝트로 이동하는 경우 해당 문서가 새 프로젝트에서 공유 권한을 상속받지 않습니다. 이 문서는 프로젝트를 공유하는 사용자들에게 공유되지 않습니다. ”
 hidefromtoc: true
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: 05592905aecebd7c6f99f4ffa7513630baae5692
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 65%
+source-wordcount: '180'
+ht-degree: 57%
 
 ---
 
@@ -23,6 +23,8 @@ ht-degree: 65%
 1. 상속된 권한 옆에 있는 &quot;x&quot;를 클릭하여 상위 개체의 공유 목록에서 상속된 권한을 제거한 다음 **[!UICONTROL 저장]**.
 
 1. 상위 개체의 공유 목록으로 다시 이동하고 을 클릭하여 상속된 권한을 다시 추가합니다. **[!UICONTROL 실행 취소]** 상속된 권한 옆에 있는 을(를) 클릭한 다음 **[!UICONTROL 저장]**.
+
+또는 문서 세부 정보 페이지의 URL에 있는 문서 ID를 기록하고 Workfront 고객 지원 센터에 문의할 수 있습니다.
 
 _2023년 1월 6일에 처음 보고되었습니다._
 
