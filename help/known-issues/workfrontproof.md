@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '273'
 ht-degree: 93%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 93%
 |  | 2023년 2월 24일 |
 | [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
 | [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)으로 변경됨 | 2023년 2월 27일 |
-| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 진행 중
 
@@ -40,7 +39,7 @@ ht-degree: 93%
 | [문서: [!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 넓습니다.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023년 3월 3일 |
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 수정 없음
 
@@ -48,6 +47,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 3월 7일 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] 영역이 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023년 3월 1일 |
 | [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023년 2월 23일 |
 | [증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/proof-new-stage-created.md) | 2023년 2월 2일 |
@@ -61,5 +61,5 @@ ht-degree: 93%
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
 | [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 

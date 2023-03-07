@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '1905'
-ht-degree: 98%
+source-wordcount: '1979'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,16 @@ ht-degree: 98%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 3월 업데이트
+
++++**(예정) 2023년 3월 9일 유지 보수 업데이트**
+
+**사용자를 다시 활성화할 때 액세스 수준이 할당되지 않음**
+
+_사용자_
+
+사용자가 비활성화된 사용자를 다시 활성화하고 [!UICONTROL 사용자 재활성화] 창에서 액세스 수준을 할당하려고 하면 사용자 유형으로 액세스 수준 드롭다운이 채워지지 않고 사용자는 액세스 수준을 선택할 수 없습니다. 사용자가 액세스 수준을 입력하고 저장해도 재활성화된 사용자에게 해당 액세스 수준이 할당되지 않습니다.
+
++++
 
 +++**2023년 2월 3일 유지 보수 업데이트**
 

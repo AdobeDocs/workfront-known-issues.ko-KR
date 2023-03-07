@@ -3,7 +3,7 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 92%
@@ -27,7 +27,6 @@ ht-degree: 92%
 | [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
 | [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)으로 변경됨 | 2023년 2월 27일 |
 | [프로젝트: 프로젝트 헤더의 504 오류](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023년 2월 17일 |
-| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 2월 3일 |
 
 {style="table-layout:auto"}
 
@@ -54,6 +53,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 3월 7일 |
 | [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 2월 24일 |
 | [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023년 2월 23일 |
 | [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023년 1월 20일 |
