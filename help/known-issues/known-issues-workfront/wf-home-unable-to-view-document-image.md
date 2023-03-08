@@ -4,7 +4,7 @@ description: 사용자가 문서 미리보기를 보기 위해 .docx 썸네일�
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
