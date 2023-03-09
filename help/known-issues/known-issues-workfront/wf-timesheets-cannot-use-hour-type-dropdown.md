@@ -2,15 +2,19 @@
 title: "타임시트: 시간 유형 드롭다운이 열리지 않음"
 description: "사용자가 타임시트에서 시간 유형 드롭다운을 열려고 하면 화면이 깜박이지만 드롭다운이 열리지 않습니다. 이 문제는 모니터가 비정상적인 해상도로 설정되었거나 브라우저 창의 확대/축소가 100%로 설정되지 않은 경우에 발생합니다."
 hidefromtoc: true
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 3%
+source-wordcount: '140'
+ht-degree: 11%
 
 ---
 
 
 # 타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음
+
+>[!NOTE]
+>
+>이 문제는 재현할 수 없어 종결되었습니다.
 
 사용자가 를 열려고 할 때 [!UICONTROL 시간 유형] 타임시트의 드롭다운에서 화면이 깜박이지만 드롭다운이 열리지 않습니다. 이 문제는 모니터가 비정상적인 해상도로 설정되었거나 브라우저 창의 확대/축소가 100%로 설정되지 않은 경우에 발생합니다.
 
