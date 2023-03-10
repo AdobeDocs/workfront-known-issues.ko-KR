@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 97%
+source-wordcount: '1213'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 열 헤더별로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL 업데이트]: 다음에서 현재 날짜의 시간을 기록할 수 없음: [!UICONTROL 업데이트] 영역](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [문서: [!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 넓습니다.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [프로젝트: 문제가 프로젝트로 변환될 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)

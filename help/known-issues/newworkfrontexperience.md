@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+source-git-commit: 5e967c740d4facb3cb2f401aecb057d78f074da0
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 95%
+source-wordcount: '570'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 열 헤더별로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023년 3월 10일 |
+| [[!UICONTROL 업데이트]: 다음에서 현재 날짜의 시간을 기록할 수 없음: [!UICONTROL 업데이트] 영역](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023년 3월 10일 |
 | [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
 | [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)으로 변경됨 | 2023년 2월 27일 |
 | [프로젝트: 프로젝트 헤더의 504 오류](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023년 2월 17일 |
