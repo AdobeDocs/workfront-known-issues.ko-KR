@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
+source-git-commit: a91992049d298aaa47dc5510d0bb6af850cf314e
 workflow-type: tm+mt
-source-wordcount: '1213'
-ht-degree: 96%
+source-wordcount: '1225'
+ht-degree: 97%
 
 ---
 
@@ -16,10 +16,11 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업무 균형자: 사용자 휴무 시간을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [보고서: 열 헤더별로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL 업데이트]: 다음에서 현재 날짜의 시간을 기록할 수 없음: [!UICONTROL 업데이트] 영역](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
-      + [문서: [!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 넓습니다.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
+      + [문서: [!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [프로젝트: 문제가 프로젝트로 변환될 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [증명: 증명 역할이 [!UICONTROL 읽기 전용]으로 변경됨](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
@@ -127,7 +128,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [증명: 사용자 정의 메시지가 이메일 알림에 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
+      + [증명: 이메일 알림에 사용자 정의 메시지가 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: 이메일 알림에서 “[!UICONTROL 증명으로 이동]” 버튼 사용 시 증명이 로드되지 않음](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 보고서] 영역은 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Print Summary]가 로드되지 않음](known-issues-workfront-proof/proof-print-summary-not-loading.md)

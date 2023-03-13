@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5e967c740d4facb3cb2f401aecb057d78f074da0
+source-git-commit: a91992049d298aaa47dc5510d0bb6af850cf314e
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 91%
+source-wordcount: '583'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [업무 균형자: 사용자 휴무 시간을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023년 3월 13일 |
 | [보고서: 열 헤더별로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023년 3월 10일 |
 | [[!UICONTROL 업데이트]: 다음에서 현재 날짜의 시간을 기록할 수 없음: [!UICONTROL 업데이트] 영역](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023년 3월 10일 |
 | [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
@@ -38,8 +39,8 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: [!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 넓습니다.](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023년 3월 3일 |
-| [증명: 사용자 정의 메시지가 이메일 알림에 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023년 3월 3일 |
+| [문서: [!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023년 3월 3일 |
+| [증명: 이메일 알림에 사용자 정의 메시지가 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023년 3월 3일 |
 | [프로젝트: 문제가 프로젝트로 변환될 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023년 3월 2일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 2월 23일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
@@ -54,7 +55,7 @@ ht-degree: 91%
 | -----------------------------------------------------------------| ----------------- |
 | [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 9일 |
 | [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023년 3월 7일 |
-| [통합: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)를 열 수 없음 | 2023년 2월 24일 |
+| [통합: 열 수 없음 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023년 2월 24일 |
 | [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023년 2월 23일 |
 | [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음 | 2023년 1월 10일 |
 | [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022년 12월 5일 |
