@@ -3,9 +3,9 @@ title: '“통합 기능: Jira에서 Workfront에 로그인할 때 오류 발생
 description: “사용자가 Workfront for Jira 통합 기능을 사용하여 Jira에서 Workfront에 로그인하려고 하면 페이지가 로드되지 않고 사용자에게 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->이 문제는 3월 8일에 수정되었습니다. 2023.
+>이 문제는 3월 8일에 해결되었습니다. 2023.
 
 “사용자가 Workfront for Jira 통합 기능을 사용하여 [!DNL Jira]에서 [!DNL Workfront]에 로그인하려고 하면 페이지가 로드되지 않고 사용자에게 다음과 같은 오류 메시지가 표시됩니다.”
 
