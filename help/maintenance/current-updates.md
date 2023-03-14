@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 95%
+source-wordcount: '2223'
+ht-degree: 94%
 
 ---
 
@@ -22,6 +22,12 @@ ht-degree: 95%
 ## 2023년 3월 업데이트
 
 +++**(예정) 2023년 3월 16일 유지 보수 업데이트**
+
+**카드 복사 시 복사되지 않은 체크리스트 항목**
+
+_보드_
+
+Ad Hoc 카드를 복사할 때(연결된 카드는 복사할 수 없음) 체크리스트 항목이 새 카드에 복사되지 않습니다.
 
 **[!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 넓습니다.**
 
