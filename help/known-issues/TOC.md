@@ -16,9 +16,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [[!UICONTROL 업무 균형자]: 시간이 사용자 휴무 계정에 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [보고서: 열 헤더별로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
-      + [[!UICONTROL 업데이트]: 다음에서 현재 날짜의 시간을 기록할 수 없음: [!UICONTROL 업데이트] 영역](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [[!UICONTROL 작업 로드 밸런서]: 시간은 사용자 휴가에 대한 계산에 조정되지 않습니다](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [보고서: 열 머리글로 정렬하면 이전 정렬로 되돌아갑니다](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL 업데이트]: 에서 현재 날짜에 대한 시간을 기록할 수 없습니다. [!UICONTROL 업데이트] 영역](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [문서: [!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [프로젝트: 문제가 프로젝트로 변환될 때 사용자 정의 필드가 누락됨](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
