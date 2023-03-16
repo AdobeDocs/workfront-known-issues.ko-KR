@@ -1,18 +1,18 @@
 ---
-title: "업데이트: 업데이트 영역에 현재 날짜의 시간을 기록할 수 없음"
-description: "사용자가 업데이트 영역에서 현재 날짜의 시간을 기록하려고 하면 현재 날짜가 회색으로 표시되고 시간을 입력할 수 없습니다."
+title: '“업데이트: 업데이트 영역에서 현재 날짜의 시간을 기록할 수 없음”'
+description: “사용자가 업데이트 영역에서 현재 날짜의 시간을 기록하려고 하면 현재 날짜가 회색으로 표시되고 사용자가 시간을 입력할 수 없습니다.”
 hidefromtoc: true
 source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL 업데이트]: 다음에서 현재 날짜의 시간을 기록할 수 없음: [!UICONTROL 업데이트] 영역
+# [!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음
 
-사용자가 현재 날짜의 시간을 [!UICONTROL 업데이트] 영역에 현재 날짜가 회색으로 표시되고 사용자가 시간을 입력할 수 없습니다.
+사용자가 [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록하려고 하면 현재 날짜가 회색으로 표시되고 사용자가 시간을 입력할 수 없습니다.
 
 **해결 방법**
 
