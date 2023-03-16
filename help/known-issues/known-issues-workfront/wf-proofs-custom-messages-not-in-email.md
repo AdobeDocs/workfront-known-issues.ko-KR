@@ -2,15 +2,19 @@
 title: '“증명: 이메일 알림에 사용자 정의 메시지가 표시되지 않음”'
 description: “사용자가 증명을 공유하고 사용자 정의 메시지를 추가하면 해당 사용자 정의 메시지가 수신자에게 전송되는 알림 이메일에 표시되지 않습니다. 제목은 증명 이름이며 이메일에는 해당 메시지가 표시되지 않습니다.”
 hidefromtoc: true
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 
 # 증명: 이메일 알림에 사용자 정의 메시지가 표시되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2023년 3월 16일에 해결되었습니다.
 
 사용자가 증명을 공유하고 사용자 정의 메시지를 추가하면 해당 사용자 정의 메시지가 수신자에게 전송되는 알림 이메일에 표시되지 않습니다. 제목은 증명 이름이며 이메일에는 해당 메시지가 표시되지 않습니다.
 

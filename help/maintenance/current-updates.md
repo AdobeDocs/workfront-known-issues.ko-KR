@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2148'
+ht-degree: 97%
 
 ---
 
@@ -28,12 +28,6 @@ ht-degree: 0%
 _보드_
 
 임시 카드(연결된 카드를 복사할 수 없음)를 복사할 때 검사 목록 항목이 새 카드에 복사되지 않습니다.
-
-**[!UICONTROL 요약] 패널 컨텐츠가 패널에 비해 너무 큽니다.**
-
-_문서_
-
-사용자가 문서의 [!UICONTROL 요약] 패널을 볼 때 콘텐츠가 너무 넓어서 패널에서 볼 수 없습니다. 이제 패널에는 가로 스크롤 막대가 있으며 사용자는 [!UICONTROL 요약] 패널 콘텐츠를 보려면 가로로 스크롤해야 합니다. 이는 문서의 파일 이름이 래핑되지 않기 때문에 발생합니다. 이러한 문제는 파일 이름에 HTML 파일 확장명이 있는 파일로 제한됩니다.
 
 **문제가 프로젝트로 변환되면 사용자 지정 필드가 누락됩니다**
 
