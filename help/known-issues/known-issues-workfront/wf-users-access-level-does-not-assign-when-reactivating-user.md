@@ -3,7 +3,7 @@ title: '사용자: 사용자를 다시 활성화하는 경우 액세스 수준�
 description: “사용자가 비활성화된 사용자를 다시 활성화하고 사용자 재활성화 창에서 액세스 수준을 할당하려고 하면 사용자 유형으로 액세스 수준 드롭다운이 채워지지 않고 사용자는 액세스 수준을 선택할 수 없습니다. 사용자가 액세스 수준을 입력하고 저장해도 재활성화된 사용자에게 해당 액세스 수준이 할당되지 않습니다.”
 hidefromtoc: true
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
 ht-degree: 100%
 
