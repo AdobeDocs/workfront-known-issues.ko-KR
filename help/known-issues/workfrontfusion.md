@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: 시나리오 실행 기록에 전체 기록이 표시되지 않음](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 2023년 3월 3일 |
 | [[!DNL Adobe Workfront Fusion]: Workfront Fusion의 시간 초과 오류](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023년 3월 2일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 
 ## 진행 중
@@ -39,7 +38,7 @@ ht-degree: 100%
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022년 8월 2일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 수정 없음
 
@@ -50,4 +49,4 @@ ht-degree: 100%
 | [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022년 9월 29일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022년 9월 9일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}

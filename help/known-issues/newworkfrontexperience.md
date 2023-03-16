@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '555'
 ht-degree: 98%
 
 ---
@@ -24,12 +24,9 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 16일 |
 | [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023년 3월 13일 |
-| [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023년 3월 10일 |
 | [[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023년 3월 10일 |
-| [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
-| [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)으로 변경됨 | 2023년 2월 27일 |
-| [프로젝트: 프로젝트 헤더의 504 오류](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023년 2월 17일 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +36,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023년 3월 16일 |
 | [필터: 페이지를 새로 고칠 때에는 필터가 적용되지 않습니다](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023년 3월 16일 |
 | [문서: [!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023년 3월 3일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 2월 23일 |

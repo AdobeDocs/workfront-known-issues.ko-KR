@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '259'
 ht-degree: 98%
 
 ---
@@ -24,10 +24,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-|  | 2023년 2월 24일 |
 | [[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023년 3월 15일 |
-| [증명: 증명 워크플로에 사용자 또는 그룹을 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023년 2월 27일 |
-| [증명: 증명 역할이 [!UICONTROL 읽기 전용]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)으로 변경됨 | 2023년 2월 27일 |
 
 {style="table-layout:auto"}
 
