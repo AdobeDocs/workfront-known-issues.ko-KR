@@ -4,7 +4,7 @@ description: '“사용자가 문제 수준 사용자 정의 양식에 계산된
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
