@@ -4,9 +4,9 @@ description: 'Workfront 계정에 대한 Workfront Fusion 연결이 인증에 �
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
