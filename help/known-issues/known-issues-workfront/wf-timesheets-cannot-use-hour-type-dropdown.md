@@ -3,7 +3,7 @@ title: '“타임시트: 시간 유형 드롭다운이 열리지 않음”'
 description: “사용자가 타임시트에서 [시간 유형] 드롭다운을 열려고 하면 화면이 깜박이지만 드롭다운이 열리지 않습니다. 이러한 문제는 모니터가 비정상적인 해상도로 설정되어 있거나 브라우저 창의 확대/축소 비율이 100%로 설정되어 있지 않은 경우에 발생합니다.”
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
