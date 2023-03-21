@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: b2270697c3d01883a6680a67cd20d34db85db2a4
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 94%
+source-wordcount: '288'
+ht-degree: 90%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 이전 단계 마감일이 경과해도 증명 단계가 활성화되지 않습니다](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 21일 |
 | [문서: 다음에서 연결된 문서에 액세스하는 동안 404 오류가 발생했습니다. [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023년 3월 17일 |
 | [문서: [!UICONTROL 교정 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 | [[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023년 3월 15일 |

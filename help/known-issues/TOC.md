@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
+source-git-commit: b2270697c3d01883a6680a67cd20d34db85db2a4
 workflow-type: tm+mt
-source-wordcount: '1280'
-ht-degree: 96%
+source-wordcount: '1291'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 이전 단계 마감일이 경과해도 증명 단계가 활성화되지 않습니다](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [사용자: 변경 기록 없이 시스템에 의해 변경된 액세스 수준](known-issues-workfront/wf-users-access-level-is-changed.md)
       + [문서: 다음에서 연결된 문서에 액세스하는 동안 404 오류가 발생했습니다. [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [문서: [!UICONTROL 교정 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md)
