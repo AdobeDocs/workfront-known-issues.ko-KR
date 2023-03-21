@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2148'
+source-wordcount: '2227'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,17 @@ ht-degree: 100%
 
 ## 2023년 3월 업데이트
 
-+++**(예정) 2023년 3월 16일 유지 보수 업데이트**
++++**(예정) 2023년 3월 23일 유지 보수 업데이트**
+
+**[!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음**
+
+_문서_
+
+사용자가 문서의 [!UICONTROL 요약] 패널을 볼 때 콘텐츠가 너무 넓어서 패널에서 볼 수 없습니다. 이제 패널에는 가로 스크롤 막대가 있으며 사용자는 [!UICONTROL 요약] 패널 콘텐츠를 보려면 가로로 스크롤해야 합니다. 이는 문서의 파일 이름이 래핑되지 않기 때문에 발생합니다. 이러한 문제는 파일 이름에 HTML 파일 확장명이 있는 파일로 제한됩니다.
+
++++
+
++++**2023년 3월 16일 유지 보수 업데이트**
 
 **카드 복사 시 복사되지 않는 체크리스트 항목**
 
