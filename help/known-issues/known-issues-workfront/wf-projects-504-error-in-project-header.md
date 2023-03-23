@@ -2,7 +2,7 @@
 title: '“프로젝트: 프로젝트 헤더의 504 오류”'
 description: “사용자가 프로젝트를 조회할 때 프로젝트 헤더에 이름 또는 데이터가 없습니다. 대신 사용자에게 오류 메시지가 표시됩니다.”
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
