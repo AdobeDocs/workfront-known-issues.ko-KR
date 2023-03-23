@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
 workflow-type: tm+mt
 source-wordcount: '1297'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 94%
       + [문서: 문서 목록 문제](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [증명: 이전 단계 마감일이 경과해도 증명 단계가 활성화되지 않습니다](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [사용자: 변경 기록 없이 시스템에 의해 변경된 액세스 수준](known-issues-workfront/wf-users-access-level-is-changed.md)
-      + [문서: 다음에서 연결된 문서에 액세스하는 동안 404 오류가 발생했습니다. [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [문서: [!UICONTROL 교정 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [업데이트: 사용자를 대신하여 수행된 업데이트는 사용자를 대신하여 직접 표시합니다](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
-      + [필터: 페이지를 새로 고칠 때에는 필터가 적용되지 않습니다](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
+      + [문서: [!DNL SharePoint]에서 연결되어 있는 문서에 액세스할 때 404 오류 발생](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [업데이트: 사용자를 대신하여 수행된 업데이트가 사용자가 직접 수행한 것으로 표시됨](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
+      + [필터: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)

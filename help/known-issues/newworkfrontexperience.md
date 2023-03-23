@@ -5,8 +5,8 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 89%
 | [문서: 문서 목록 문제](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023년 3월 22일 |
 | [증명: 이전 단계 마감일이 경과해도 증명 단계가 활성화되지 않습니다](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 21일 |
 | [사용자: 변경 기록 없이 시스템에 의해 변경된 액세스 수준](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023년 3월 20일 |
-| [문서: 다음에서 연결된 문서에 액세스하는 동안 404 오류가 발생했습니다. [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023년 3월 17일 |
-| [문서: [!UICONTROL 교정 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
-| [업데이트: 사용자를 대신하여 수행된 업데이트는 사용자를 대신하여 직접 표시합니다](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023년 3월 17일 |
+| [문서: [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 17일 |
+| [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
+| [업데이트: 사용자를 대신하여 수행된 업데이트가 사용자가 직접 수행한 것으로 표시됨](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023년 3월 17일 |
 | [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 16일 |
 | [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023년 3월 13일 |
 | [[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023년 3월 10일 |
@@ -43,7 +43,7 @@ ht-degree: 89%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023년 3월 16일 |
-| [필터: 페이지를 새로 고칠 때에는 필터가 적용되지 않습니다](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023년 3월 16일 |
+| [필터: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023년 3월 16일 |
 | [문서: [!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023년 3월 3일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 2월 23일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
