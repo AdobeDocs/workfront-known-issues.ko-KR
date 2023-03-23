@@ -3,7 +3,7 @@ title: '“프로젝트: 문제가 프로젝트로 변환될 때 사용자 정�
 description: “사용자가 템플릿을 사용하여 문제를 프로젝트로 변환하는 경우 해당 문제에 있던 사용자 정의 필드가 프로젝트에 표시되지 않습니다. 이 문제는 관리자가 아닌 사용자에게만 영향을 미칩니다.”
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
