@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,26 @@ ht-degree: 100%
 
 ## 2023년 3월 업데이트
 
-+++**(예정) 2023년 3월 23일 유지 보수 업데이트**
++++**2023년 3월 23일 유지 보수 업데이트**
 
 **[!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음**
 
 _문서_
 
 사용자가 문서의 [!UICONTROL 요약] 패널을 볼 때 콘텐츠가 너무 넓어서 패널에서 볼 수 없습니다. 이제 패널에는 가로 스크롤 막대가 있으며 사용자는 [!UICONTROL 요약] 패널 콘텐츠를 보려면 가로로 스크롤해야 합니다. 이는 문서의 파일 이름이 래핑되지 않기 때문에 발생합니다. 이러한 문제는 파일 이름에 HTML 파일 확장명이 있는 파일로 제한됩니다.
+
+**새로운 데스크탑 증명 뷰어 버전**
+
+_증명_
+
+에서 주석 달기 문제를 해결하려면 [!UICONTROL 데스크탑 언어 교정 보기]r, 데스크탑 교정 뷰어의 새 버전을 배포했습니다.
+
+이미 다음 권한이 있는 사용자 [!UICONTROL 데스크탑 언어 교정 뷰어] 설치된 경우 이 업데이트가 자동으로 제공됩니다.
+
+사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [[!UICONTROL 데스크탑 증명 뷰어 설치를 참조하십시오]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* 이전 버전: 2.1.22
+* 신규 버전: 2.1.23
 
 +++
 

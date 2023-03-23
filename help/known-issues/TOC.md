@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '1297'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 사용자가 증명 워크플로우에서 비활성화되고 &quot;[!UICONTROL 액세스가 허용되지 않음]&quot;증명 액세스 시&quot;](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [문서: 문서 목록 문제](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [증명: 이전 단계 마감일이 경과해도 증명 단계가 활성화되지 않습니다](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [사용자: 변경 기록 없이 시스템에 의해 변경된 액세스 수준](known-issues-workfront/wf-users-access-level-is-changed.md)
