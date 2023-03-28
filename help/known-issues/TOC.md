@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1357'
+ht-degree: 96%
 
 ---
 
@@ -16,11 +16,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 증표에 주석을 달 때 폴리라인 도구를 사용할 수 없습니다](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [증명: 측정 도구는 소수점을 허용하지 않습니다](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md)
       + [증명: 증명을 볼 때 증명 버전을 전환할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [증명: 사용자가 증명에 추가될 때 졸음이 열리지 않습니다](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
-      + [증명: 사용자가 증명 워크플로우에서 비활성화되고 &quot;[!UICONTROL 액세스가 허용되지 않음]&quot;증명 액세스 시&quot;](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
+      + [증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [문서: 문서 목록 관련 문제](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨](known-issues-workfront/wf-users-access-level-is-changed.md)

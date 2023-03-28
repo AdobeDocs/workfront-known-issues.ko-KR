@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '2297'
-ht-degree: 98%
+source-wordcount: '2379'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 98%
 
 ## 2023년 3월 업데이트
 
++++**(예정) 2023년 3월 23일 유지 보수 업데이트**
+
+**증명을 볼 때 증명 버전을 전환할 수 없습니다.**
+
+_증명_
+
+사용자가 [!UICONTROL 교정 뷰어], 및 를 다른 버전으로 전환하면 버전 드롭다운이 비활성화되고 사용자가 보고 있던 원래 버전 또는 증명의 다른 버전으로 다시 전환할 수 없습니다.
+
+**보고서를 내보낼 때 504 오류 발생**
+
+_보고서_
+
+사용자가 항목이 많은 보고서를 내보내려고 하면 504 오류가 발생하여 보고서를 내보낼 수 없습니다.
+
++++
+
 +++**2023년 3월 23일 유지 보수 업데이트**
 
 **[!UICONTROL 요약] 패널 콘텐츠가 패널에 비해 너무 넓음**
@@ -33,9 +49,9 @@ _문서_
 
 _증명_
 
-에서 주석 달기 문제를 해결하려면 [!UICONTROL 데스크탑 언어 교정 보기]r, 데스크탑 교정 뷰어의 새 버전을 배포했습니다.
+[!UICONTROL 데스크탑 증명 뷰어]에서의 댓글 문제를 해결하기 위해 데스크탑 증명 뷰어의 새로운 버전이 배포되었습니다.
 
-이미 다음 권한이 있는 사용자 [!UICONTROL 데스크탑 언어 교정 뷰어] 설치된 경우 이 업데이트가 자동으로 제공됩니다.
+이미 [!UICONTROL 데스크탑 증명 뷰어]를 설치한 사용자는 이 업데이트를 자동으로 받게 됩니다.
 
 사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [[!UICONTROL 데스크탑 증명 뷰어 설치를 참조하십시오]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 

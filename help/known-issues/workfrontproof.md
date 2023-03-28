@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 90%
+source-wordcount: '329'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증표에 주석을 달 때 폴리라인 도구를 사용할 수 없습니다](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 3월 28일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 
 {style="table-layout:auto"}

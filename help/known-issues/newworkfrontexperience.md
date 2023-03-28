@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 92%
+source-wordcount: '674'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증표에 주석을 달 때 폴리라인 도구를 사용할 수 없습니다](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 3월 28일 |
 | [사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023년 3월 20일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 | [업데이트: 사용자를 대신하여 수행된 업데이트가 사용자가 직접 수행한 것으로 표시됨](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023년 3월 17일 |
@@ -43,7 +44,7 @@ ht-degree: 92%
 | [증명: 사용자가 증명에 추가될 때 졸음이 열리지 않습니다](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023년 3월 27일 |
 | [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 23일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
-| [증명: 사용자가 증명 워크플로우에서 비활성화되고 &quot;[!UICONTROL 액세스가 허용되지 않음]&quot;증명 액세스 시&quot;](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023년 3월 23일 |
+| [증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023년 3월 23일 |
 | [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023년 3월 16일 |
 | [필터: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023년 3월 16일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 2월 23일 |
