@@ -4,8 +4,8 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2297'
+ht-degree: 98%
 
 ---
 
