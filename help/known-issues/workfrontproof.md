@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '320'
+ht-degree: 89%
 
 ---
 
@@ -35,7 +35,6 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명을 볼 때 증명 버전을 전환할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 2023년 3월 27일 |
 | [증명: 사용자가 증명에 추가될 때 졸음이 열리지 않습니다](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023년 3월 27일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |

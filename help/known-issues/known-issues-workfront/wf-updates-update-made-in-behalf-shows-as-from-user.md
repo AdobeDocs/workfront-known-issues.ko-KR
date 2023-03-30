@@ -2,15 +2,19 @@
 title: '“업데이트: 사용자를 대신하여 수행된 업데이트가 사용자가 직접 수행한 것으로 표시됨”'
 description: “관리자가 사용자로 로그인하고 댓글을 작성하면 해당 댓글이 사용자를 대신하여 관리자가 작성한 것이 아니라 사용자가 직접 작성한 것으로 표시됩니다.”
 hidefromtoc: true
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 
 # 업데이트: 사용자를 대신하여 수행된 업데이트가 사용자가 직접 수행한 것으로 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 3월 30일에 해결되었습니다.
 
 관리자가 사용자로 로그인하고 댓글을 작성하면 해당 댓글이 사용자를 대신하여 관리자가 작성한 것이 아니라 사용자가 직접 작성한 것으로 표시됩니다.
 

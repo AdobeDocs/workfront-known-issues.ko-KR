@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '674'
-ht-degree: 93%
+source-wordcount: '650'
+ht-degree: 94%
 
 ---
 
@@ -27,7 +27,6 @@ ht-degree: 93%
 | [증명: 증표에 주석을 달 때 폴리라인 도구를 사용할 수 없습니다](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 3월 28일 |
 | [사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023년 3월 20일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
-| [업데이트: 사용자를 대신하여 수행된 업데이트가 사용자가 직접 수행한 것으로 표시됨](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023년 3월 17일 |
 | [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023년 3월 13일 |
 | [[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023년 3월 10일 |
 
@@ -40,7 +39,6 @@ ht-degree: 93%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 3월 27일 |
-| [증명: 증명을 볼 때 증명 버전을 전환할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 2023년 3월 27일 |
 | [증명: 사용자가 증명에 추가될 때 졸음이 열리지 않습니다](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023년 3월 27일 |
 | [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 23일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
