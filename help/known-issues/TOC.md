@@ -1,7 +1,7 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: [!UICONTROL 홈 그룹] 템플릿에서 프로젝트를 만들 때 사용자 지정 상태를 사용할 수 없습니다](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [증명: 증표에 주석을 달 때 폴리라인 도구를 사용할 수 없습니다](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [증명: 측정 도구는 소수점을 허용하지 않습니다](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md)
