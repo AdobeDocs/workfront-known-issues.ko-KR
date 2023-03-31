@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 92%
+source-wordcount: '672'
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증표에 주석을 달 때 폴리라인 도구를 사용할 수 없습니다](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 3월 28일 |
+| [증명: 텍스트 옵션 상자에 &quot;textAnnotations&quot;가 표시됩니다](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023년 3월 31일 |
+| [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 3월 28일 |
 | [사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023년 3월 20일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 | [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023년 3월 13일 |
@@ -40,7 +41,7 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [프로젝트: [!UICONTROL 홈 그룹] 템플릿에서 프로젝트를 만들 때 사용자 지정 상태를 사용할 수 없습니다](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 3월 27일 |
-| [증명: 사용자가 증명에 추가될 때 졸음이 열리지 않습니다](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023년 3월 27일 |
+| [증명: 사용자가 증명에 추가될 때 드롭다운이 열리지 않음](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023년 3월 27일 |
 | [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 23일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
 | [증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023년 3월 23일 |
@@ -57,7 +58,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 측정 도구는 소수점을 허용하지 않습니다](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
+| [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
 | [문서: [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 23일 |
 | [문서: 문서 목록 관련 문제](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023년 3월 23일 |
 | [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 9일 |

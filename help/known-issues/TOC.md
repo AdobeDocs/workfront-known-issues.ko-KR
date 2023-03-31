@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1377'
+ht-degree: 98%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [프로젝트: [!UICONTROL 홈 그룹] 템플릿에서 프로젝트를 만들 때 사용자 지정 상태를 사용할 수 없습니다](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
-      + [증명: 증표에 주석을 달 때 폴리라인 도구를 사용할 수 없습니다](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
-      + [증명: 측정 도구는 소수점을 허용하지 않습니다](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
+      + [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
+      + [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md)
-      + [증명: 증명을 볼 때 증명 버전을 전환할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [증명: 사용자가 증명에 추가될 때 졸음이 열리지 않습니다](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
+      + [증명: 증명을 볼 때 증명 버전을 전환할 수 없음](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [증명: 사용자가 증명에 추가될 때 드롭다운이 열리지 않음](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [문서: 문서 목록 관련 문제](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
@@ -142,6 +142,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+      + [증명: 텍스트 옵션 상자에 &quot;textAnnotations&quot;가 표시됩니다](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [증명: 이메일 알림에 사용자 정의 메시지가 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: 이메일 알림에서 “[!UICONTROL 증명으로 이동]” 버튼 사용 시 증명이 로드되지 않음](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
