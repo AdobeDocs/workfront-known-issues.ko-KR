@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
+source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
 workflow-type: tm+mt
-source-wordcount: '1377'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [프로젝트: [!UICONTROL 홈 그룹] 템플릿에서 프로젝트를 만들 때 사용자 지정 상태를 사용할 수 없습니다](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
+      + [사용자: 선택할 수 없음 [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
+      + [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md)
@@ -142,7 +143,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [증명: 텍스트 옵션 상자에 &quot;textAnnotations&quot;가 표시됩니다](known-issues-workfront-proof/proof-text-shows-textannotation.md)
+      + [증명: 텍스트 옵션 상자에 “textAnnotations”가 표시됨](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [증명: 이메일 알림에 사용자 정의 메시지가 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: 이메일 알림에서 “[!UICONTROL 증명으로 이동]” 버튼 사용 시 증명이 로드되지 않음](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
