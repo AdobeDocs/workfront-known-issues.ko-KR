@@ -3,9 +3,9 @@ title: '“Workfront Proof: 목록이 올바르게 정렬되지 않음”'
 description: '“사용자가 Workfront Proof에서 정렬이 적용된 목록(예: 이름)을 볼 때 정렬이 정확하지 않습니다.”'
 hidefromtoc: true
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
