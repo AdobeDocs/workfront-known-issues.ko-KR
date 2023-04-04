@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: ht
-source-wordcount: '2423'
-ht-degree: 100%
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+workflow-type: tm+mt
+source-wordcount: '2493'
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,21 @@ ht-degree: 100%
 
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
+## 2023년 4월 업데이트
+
++++**2023년 4월 4일 유지 보수 업데이트**
+
+**사용자가 증명에 추가되면 드롭다운이 열리지 않습니다**
+
+_증명_
+
+사용자가 [!UICONTROL 증명 뷰어]의 증명에 다른 사용자를 추가할 때 “[!UICONTROL 증명 역할]” 및 “[!UICONTROL 이메일 경고]” 드롭다운을 열 수 없습니다. 해당 사용자는 증명 역할 또는 이메일 경고를 할당할 수 없습니다. 이 문제는 댓글을 통해 사용자를 추가하거나 해당 사용자와 증명을 공유할 때 발생할 수 있습니다.
+
++++
+
 ## 2023년 3월 업데이트
 
-+++**2023년 3월 23일 유지 보수 업데이트**
++++**2023년 3월 30일 유지 보수 업데이트**
 
 **증명을 볼 때 증명 버전을 전환할 수 없음**
 
