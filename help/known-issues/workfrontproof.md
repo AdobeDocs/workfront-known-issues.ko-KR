@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 텍스트 옵션 상자에 &quot;textAnnotations&quot;가 표시됩니다](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023년 3월 31일 |
+| [증명: 텍스트 옵션 상자에 “textAnnotations”가 표시됨](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023년 3월 31일 |
 | [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 3월 28일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 
