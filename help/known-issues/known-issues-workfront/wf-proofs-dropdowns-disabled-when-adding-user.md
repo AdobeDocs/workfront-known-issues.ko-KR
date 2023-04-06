@@ -2,15 +2,19 @@
 title: "증명: 사용자가 증명에 추가되면 드롭다운이 열리지 않습니다."
 description: “사용자가 증명 뷰어의 증명에 다른 사용자를 추가할 때 증명 역할 및 이메일 경고 드롭다운을 열 수 없습니다. 해당 사용자는 증명 역할 또는 이메일 경고를 할당할 수 없습니다. 이 문제는 댓글을 통해 사용자를 추가하거나 해당 사용자와 증명을 공유할 때 발생할 수 있습니다.”
 hidefromtoc: true
-source-git-commit: 0f3a4dd2201c8e612db50fe8f15342801192af3b
+source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 80%
+source-wordcount: '136'
+ht-degree: 76%
 
 ---
 
 
 # 증명: 사용자가 증명에 추가되면 드롭다운이 열리지 않습니다
+
+>[!NOTE]
+>
+>이 문제는 2023년 4월 6일에 수정되었습니다.
 
 <!--This article is on WF and WFP TOCs-->
 
