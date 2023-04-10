@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1413'
+ht-degree: 99%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [사용자 지정 양식: 사용자 지정 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
+      + [[!UICONTROL 홈]: 에서 축소판 가까운 클릭 [!UICONTROL 작업 목록] 빈 페이지로 리드](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [증명: [!UICONTROL 증명 뷰어]에서 증명 사이를 전환할 수 없음](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [사용자: [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]을 선택할 수 없음](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)

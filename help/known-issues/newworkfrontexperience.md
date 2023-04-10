@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '672'
 ht-degree: 98%
 
 ---
@@ -35,10 +35,11 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: 에서 축소판 가까운 클릭 [!UICONTROL 작업 목록] 빈 페이지로 리드](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023년 4월 10일 |
 | [사용자: [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]](known-issues-workfront/wf-user-cannot-select-hour-type.md)을 선택할 수 없음 | 2023년 4월 6일 |
 | [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 4월 6일 |
 | [증명: 텍스트 옵션 상자에 “textAnnotations”가 표시됨](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023년 4월 6일 |
-| [사용자 지정 양식: 사용자 지정 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023년 4월 5일 |
+| [사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023년 4월 5일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)에서 증명 사이를 전환할 수 없음 | 2023년 3월 31일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 3월 27일 |
