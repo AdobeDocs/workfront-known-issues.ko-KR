@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
-workflow-type: ht
-source-wordcount: '2493'
-ht-degree: 100%
+source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+workflow-type: tm+mt
+source-wordcount: '2573'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +21,22 @@ ht-degree: 100%
 
 ## 2023년 4월 업데이트
 
-+++**2023년 4월 4일 유지 보수 업데이트**
++++**2023년 13월 4일 유지 보수 업데이트**
+
+**필터가 요청 목록에 적용되지 않습니다**
+
+_요청_
+
+사용자가 필터가 적용된 요청 목록을 볼 때, 목록에는 필터가 제외해야 하는 요청이 포함됩니다.
+
+**선택할 수 없음 [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]**
+
+_사용자_
+
+관리자가 사용자를 편집하고 [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]을 선택하려고 하면 해당 필드에 대한 드롭다운이 비활성화되고 시간 유형을 선택할 수 없습니다.
++++
+
++++**2023년 6월 4일 유지 보수 업데이트**
 
 **사용자가 증명에 추가될 때 드롭다운이 열리지 않음**
 
