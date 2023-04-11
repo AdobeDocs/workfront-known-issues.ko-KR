@@ -2,7 +2,7 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
 ht-degree: 98%
@@ -34,6 +34,7 @@ _요청_
 _사용자_
 
 관리자가 사용자를 편집하고 [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]을 선택하려고 하면 해당 필드에 대한 드롭다운이 비활성화되고 시간 유형을 선택할 수 없습니다.
+
 +++
 
 +++**2023년 6월 4일 유지 보수 업데이트**
