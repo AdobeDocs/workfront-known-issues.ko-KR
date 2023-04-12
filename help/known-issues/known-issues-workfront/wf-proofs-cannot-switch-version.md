@@ -2,9 +2,9 @@
 title: '“증명: 증명을 볼 때 증명 버전을 전환할 수 없음”'
 description: “사용자가 [!UICONTROL 증명 뷰어]에서 증명을 보고 다른 버전으로 전환할 때 해당 버전 드롭다운이 비활성화되고 사용자는 보고 있던 원본 버전이나 다른 버전의 증명으로 다시 전환할 수 없습니다.”
 hidefromtoc: true
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 7b22b27cddb7a7cd21d3570a057a33753b2e0be3
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
@@ -12,9 +12,12 @@ ht-degree: 100%
 
 # 증명: 증명을 볼 때 증명 버전을 전환할 수 없음
 
+
+<!--
 >[!NOTE]
 >
->이 문제는 2023년 3월 30일에 해결되었습니다.
+>This issue was fixed on March 30, 2023.
+-->
 
 사용자가 [!UICONTROL 증명 뷰어]에서 증명을 보고 다른 버전으로 전환할 때 해당 버전 드롭다운이 비활성화되고 사용자는 보고 있던 원본 버전이나 다른 버전의 증명으로 다시 전환할 수 없습니다.
 
