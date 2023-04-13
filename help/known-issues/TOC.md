@@ -3,8 +3,8 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1431'
+ht-degree: 98%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [템플릿: 다음에서 템플릿을 선택할 수 없습니다. [!UICONTROL 즐겨찾는 템플릿]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [필터: 대시보드의 보고서에서 필터를 공유할 수 없습니다](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [[!UICONTROL 홈]: 에서 축소판 가까운 클릭 [!UICONTROL 작업 목록] 빈 페이지로 리드](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [[!UICONTROL 홈]: [!UICONTROL 작업 목록]에서 썸네일 근처를 클릭하면 빈 페이지로 연결됨](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [증명: [!UICONTROL 증명 뷰어]에서 증명 사이를 전환할 수 없음](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [사용자: [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]을 선택할 수 없음](known-issues-workfront/wf-user-cannot-select-hour-type.md)

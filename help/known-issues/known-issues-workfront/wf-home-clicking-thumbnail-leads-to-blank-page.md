@@ -4,8 +4,8 @@ description: “사용자가 홈 작업 목록에서 썸네일을 클릭하여 �
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 100%
 
 ---
 
