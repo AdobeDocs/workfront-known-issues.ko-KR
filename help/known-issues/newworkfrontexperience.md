@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,6 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023년 3월 20일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 
 {style="table-layout:auto"}
@@ -35,9 +34,8 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023년 4월 13일 |
 | [템플릿: 다음에서 템플릿을 선택할 수 없습니다. [!UICONTROL 즐겨찾는 템플릿]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023년 4월 12일 |
-| [[!UICONTROL 홈]: 에서 축소판 가까운 클릭 [!UICONTROL 작업 목록] 빈 페이지로 리드](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023년 4월 10일 |
-| [사용자: [!UICONTROL 기본 시간 유형] 또는 [!UICONTROL 사용 가능한 시간 유형]](known-issues-workfront/wf-user-cannot-select-hour-type.md)을 선택할 수 없음 | 2023년 4월 6일 |
 | [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 4월 6일 |
 | [증명: 텍스트 옵션 상자에 “textAnnotations”가 표시됨](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023년 4월 6일 |
 | [사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023년 4월 5일 |
@@ -47,7 +45,6 @@ ht-degree: 95%
 | [타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023년 3월 23일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
 | [증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023년 3월 23일 |
-| [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023년 3월 16일 |
 | [필터: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023년 3월 16일 |
 | [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023년 2월 23일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
@@ -60,6 +57,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 4월 13일 |
 | [필터: 대시보드의 보고서에서 필터를 공유할 수 없습니다](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023년 4월 11일 |
 | [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
 | [문서: [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 23일 |

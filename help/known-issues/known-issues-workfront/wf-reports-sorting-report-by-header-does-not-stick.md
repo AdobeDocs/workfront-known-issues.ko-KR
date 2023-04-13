@@ -2,15 +2,19 @@
 title: '“보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감”'
 description: “사용자가 열 헤더를 클릭하여 보고서를 정렬하려고 하면 보고서가 열에 따라 정렬되지만 빠르게 이전 정렬로 되돌아갑니다.”
 hidefromtoc: true
-source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
-workflow-type: ht
-source-wordcount: '87'
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
 
 
 # 보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감
+
+>[!NOTE]
+>
+>이 문제는 2023년 4월 6일에 해결되었습니다.
 
 사용자가 열 헤더를 클릭하여 보고서를 정렬하려고 하면 보고서가 열에 따라 정렬되지만 빠르게 이전 정렬로 되돌아갑니다.
 
