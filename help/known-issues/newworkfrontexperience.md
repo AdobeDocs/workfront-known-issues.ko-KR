@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '664'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023년 4월 13일 |
-| [템플릿: 다음에서 템플릿을 선택할 수 없습니다. [!UICONTROL 즐겨찾는 템플릿]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023년 4월 12일 |
+| [템플릿: [!UICONTROL 즐겨찾는 템플릿]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)에서 템플릿을 선택할 수 없음 | 2023년 4월 12일 |
 | [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023년 4월 6일 |
 | [증명: 텍스트 옵션 상자에 “textAnnotations”가 표시됨](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023년 4월 6일 |
 | [사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023년 4월 5일 |
@@ -58,7 +58,7 @@ ht-degree: 97%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 4월 13일 |
-| [필터: 대시보드의 보고서에서 필터를 공유할 수 없습니다](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023년 4월 11일 |
+| [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023년 4월 11일 |
 | [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
 | [문서: [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 23일 |
 | [문서: 문서 목록 관련 문제](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023년 3월 23일 |
