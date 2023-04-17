@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 97%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: [!UICONTROL 증명 활동] 탭 열기 [!UICONTROL 증명 세부 사항]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023년 4월 17일 |
 | [증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사용할 수 없음](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4월 6일 |
 | [증명: 텍스트 옵션 상자에 “textAnnotations”가 표시됨](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023년 4월 6일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)에서 증명 사이를 전환할 수 없음 | 2023년 3월 31일 |
