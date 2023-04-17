@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
+source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
 workflow-type: tm+mt
-source-wordcount: '2573'
-ht-degree: 100%
+source-wordcount: '2657'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,16 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 4월 업데이트
+
++++**2023년 4월 17일 유지 보수 업데이트**
+
+**에서 표시되는 화면 영역 외부에 새 주석 표시 [!UICONTROL 업데이트] 문제 섹션(새 주석 베타 경험) 및 [!UICONTROL 목표]**
+
+_업데이트_
+
+에 대한 알림 배너를 추가했습니다 [!UICONTROL 업데이트] 섹션에서 볼 수 있는 영역 밖에 있을 수 있는 항목에 대한 새 주석이 있을 때 사용자에게 알리는 섹션을 추가했습니다. 이 업데이트는 현재 [!UICONTROL 업데이트] 새 주석 달기 베타 경험이 문제에 대해 활성화되었을 때 목표 및 문제 섹션을 참조하십시오.
+
++++
 
 +++**2023년 4월 13일 유지 보수 업데이트**
 
