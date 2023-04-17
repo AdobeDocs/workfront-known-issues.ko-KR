@@ -3,7 +3,7 @@ title: '“사용자: 기본 시간 유형 또는 사용 가능한 시간 유형
 description: “관리자가 사용자를 편집하고 기본 시간 유형 또는 사용 가능한 시간 유형을 선택하려고 하면 해당 필드에 대한 드롭다운이 비활성화되고 시간 유형을 선택할 수 없습니다. ”
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
