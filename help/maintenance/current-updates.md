@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2657'
-ht-degree: 97%
+source-wordcount: '2757'
+ht-degree: 96%
 
 ---
 
@@ -20,6 +20,25 @@ ht-degree: 97%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 4월 업데이트
+
++++**(예정) 2023년 4월 20일 유지 관리 업데이트**
+
+**사용자 지정 드롭다운 필드의 문제**
+
+_사용자 정의 양식_
+
+다중 선택 필드로 활성화된 사용자 정의 드롭다운 필드에 다음과 같은 문제가 표시될 수 있습니다.
+
+* 양식이 편집 모드가 아닌 경우 “+[!UICONTROL 추가]” 버튼이 표시되지 않습니다.
+* 값이 없는 필드에는 “--[!UICONTROL 레이블 없음]--” 옵션이 표시됩니다.
+
+**텍스트 옵션 상자에 &quot;textAnnotations&quot;가 표시됩니다**
+
+_증명_
+
+사용자가 증명을 조회하고 댓글을 추가하기 시작하면서 텍스트 도구를 열면 도구의 옵션 옆에 “textAnnotation”이라는 단어가 나타납니다. 텍스트 도구는 여전히 예상대로 작동하며 댓글이 게시된 후 “textAnnotation”은 사라집니다.
+
++++
 
 +++**2023년 4월 17일 유지 보수 업데이트**
 
