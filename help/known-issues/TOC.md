@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1438'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [증명: [!UICONTROL 증명 활동] 탭 열기 [!UICONTROL 증명 세부 사항]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
+      + [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]가 열림](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [템플릿: [!UICONTROL 즐겨찾는 템플릿]에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL 홈]: [!UICONTROL 작업 목록]에서 썸네일 근처를 클릭하면 빈 페이지로 연결됨](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
