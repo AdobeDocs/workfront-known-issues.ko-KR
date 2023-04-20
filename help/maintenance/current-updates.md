@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
+source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
 workflow-type: tm+mt
-source-wordcount: '3021'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 93%
 
 ## 2023년 4월 업데이트
 
-+++**(예정) 2023년 4월 20일 유지 보수 업데이트**
++++**2023년 4월 20일 유지 보수 업데이트**
 
 **사용자 정의 드롭다운 필드의 문제**
 
