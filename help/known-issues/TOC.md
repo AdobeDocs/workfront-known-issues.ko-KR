@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
-workflow-type: ht
-source-wordcount: '1438'
-ht-degree: 100%
+source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 리소스 플래너]: 시간을 추가한 후에는 저장할 수 없습니다.](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]가 열림](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [템플릿: [!UICONTROL 즐겨찾는 템플릿]에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
