@@ -2,15 +2,19 @@
 title: '“사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제”'
 description: “다중 선택 필드로 활성화된 사용자 정의 드롭다운 필드에 문제가 표시될 수 있습니다.”
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
-workflow-type: ht
-source-wordcount: '89'
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
 
 
 # 사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제
+
+>[!NOTE]
+>
+>이 문제는 2023년 4월 20일에 해결되었습니다.
 
 다중 선택 필드로 활성화된 사용자 정의 드롭다운 필드에 다음과 같은 문제가 표시될 수 있습니다.
 
