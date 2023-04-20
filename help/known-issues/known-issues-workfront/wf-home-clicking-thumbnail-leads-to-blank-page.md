@@ -2,9 +2,9 @@
 title: '“홈: 작업 목록에서 썸네일 근처를 클릭하면 빈 페이지로 연결됨”'
 description: “사용자가 홈 작업 목록에서 썸네일을 클릭하여 문서나 증명을 보려고 하면 빈 페이지로 이동됩니다. 썸네일 이미지 바로 아래에 보이지 않는 URL이 있고 사용자가 이 URL을 클릭하면 빈 페이지로 이동하기 때문입니다.”
 hidefromtoc: true
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 재현할 수 없어 종결되었습니다.
+>이 문제는 2023년 4월 12일에 해결되었습니다.
 
 사용자가 [!UICONTROL 홈 작업 목록]에서 썸네일을 클릭하여 문서나 증명을 보려고 하면 빈 페이지로 이동됩니다. 썸네일 이미지 바로 아래에 보이지 않는 URL이 있고 사용자가 이 URL을 클릭하면 빈 페이지로 이동하기 때문입니다.
 
