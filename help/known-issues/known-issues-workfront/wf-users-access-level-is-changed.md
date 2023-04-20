@@ -2,15 +2,19 @@
 title: '“사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨”'
 description: “사용자의 액세스 수준은 시스템에 의해 예기치 않게 변경될 수 있습니다. 이 경우 업데이트가 표시되지 않으며 감사 로그에 변경 사항이 나타나지 않습니다.
 hidefromtoc: true
-source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
 
 # 사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 4월 20일에 해결되었습니다.
 
 사용자의 액세스 수준은 시스템에 의해 예기치 않게 변경될 수 있습니다. 이 경우 업데이트가 표시되지 않으며 감사 로그에 변경 사항이 나타나지 않습니다.
 
