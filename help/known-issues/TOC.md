@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
+source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1454'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 잠긴 증명 승인이 여전히 작업 목록에 표시됩니다.](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL 리소스 플래너]: 시간을 추가한 후에는 저장할 수 없습니다.](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]가 열림](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [템플릿: [!UICONTROL 즐겨찾는 템플릿]에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)

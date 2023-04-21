@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
+source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 98%
+source-wordcount: '641'
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 잠긴 증명 승인이 여전히 작업 목록에 표시됩니다.](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 4월 21일 |
 | [[!UICONTROL 리소스 플래너]: 시간을 추가한 후에는 저장할 수 없습니다.](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023년 4월 20일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 
