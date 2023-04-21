@@ -1,9 +1,9 @@
 ---
 title: '“사용자 정의 양식: Ctrl+F 또는 Cmd+F가 드롭다운 필드에서 예상대로 작동하지 않음”'
-description: “사용자가 사용자 정의 양식을 작성하고 Ctrl+F 또는 Cmd+F를 사용하여 드롭다운 목록을 검색한 다음 해당 검색의 다음 인스턴스로 이동하려고 하면 드롭다운 목록이 검색의 다음 인스턴스로 이동하지 않고 목록의 상단으로 돌아갑니다. 이는 드롭다운이 다중 선택을 허용하도록 설정된 경우에 발생합니다.
+description: “사용자가 사용자 정의 양식을 작성하고 Ctrl+F 또는 Cmd+F를 사용하여 드롭다운 목록을 검색한 다음 해당 검색의 다음 인스턴스로 이동하려고 하면 드롭다운 목록이 검색의 다음 인스턴스로 이동하지 않고 목록의 상단으로 돌아갑니다. 이는 드롭다운이 다중 선택을 허용하도록 설정된 경우에 발생합니다.”
 hidefromtoc: true
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: ht
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
+workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
 

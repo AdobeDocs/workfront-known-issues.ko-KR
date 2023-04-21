@@ -1,9 +1,9 @@
 ---
 title: '“타임시트: 타임시트가 생성되지 않음”'
-description: “타임시트 프로필 설정에도 불구하고 타임시트가 생성되지 않습니다.
+description: “타임시트 프로필 설정에도 불구하고 타임시트가 생성되지 않습니다.”
 hidefromtoc: true
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: ht
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
