@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
+source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 97%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 잠긴 증명 승인이 여전히 작업 목록에 표시됩니다.](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 4월 21일 |
-| [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 3월 17일 |
 
 {style="table-layout:auto"}
 
@@ -48,6 +47,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 4월 21일 |
 | [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
 | [문서: [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 23일 |
 | [문서: 문서 목록 관련 문제](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023년 3월 23일 |
