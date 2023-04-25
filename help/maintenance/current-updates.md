@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '3020'
-ht-degree: 100%
+source-wordcount: '3123'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 4월 업데이트
+
++++**(예정) 2023년 4월 27일 유지 보수 업데이트**
+
+**에서 증명 간을 전환할 수 없습니다. [!UICONTROL 증명 뷰어]**
+
+_증명_
+
+사용자가 [!UICONTROL 증명 뷰어]에서 증명을 조회하는 동안 다른 증명으로 전환하려고 할 때 증명 전환 버튼이 응답하지 않습니다. 사용자는 보고 있던 원래 증명으로 다시 돌아오거나 다른 증명으로 전환할 수 없습니다.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]2023년 4월 25일 유지 보수 업데이트**
+
+**[!DNL Fusion]앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음**
+
+_[!DNL Workfront Fusion]_
+
+사용자가 [!UICONTROL 증명 뷰어]에서 증명을 조회하는 동안 다른 증명으로 전환하려고 할 때 증명 전환 버튼이 응답하지 않습니다. 사용자는 보고 있던 원래 증명으로 다시 돌아오거나 다른 증명으로 전환할 수 없습니다.
+
++++
 
 +++**2023년 4월 20일 유지 보수 업데이트**
 
