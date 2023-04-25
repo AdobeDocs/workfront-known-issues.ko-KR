@@ -3,7 +3,7 @@ title: '“사용자 정의 양식: 사용자 정의 드롭다운 필드의 문�
 description: “다중 선택 필드로 활성화된 사용자 정의 드롭다운 필드에 문제가 표시될 수 있습니다.”
 hidefromtoc: true
 source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 
