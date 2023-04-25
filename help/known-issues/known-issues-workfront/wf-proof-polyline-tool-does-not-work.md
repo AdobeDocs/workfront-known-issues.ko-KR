@@ -3,7 +3,7 @@ title: '“증명: 증명에 대한 댓글을 달 때 폴리라인 도구를 사
 description: “사용자가 증명 뷰어에서 증명을 보고 폴리라인 도구를 사용하여 댓글을 작성하려고 할 때 도구가 해당 증명을 표시하지 않습니다. ”
 hidefromtoc: true
 source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
