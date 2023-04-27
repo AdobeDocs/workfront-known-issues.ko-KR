@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
-workflow-type: ht
-source-wordcount: '320'
-ht-degree: 100%
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: 검색 결과 없음](known-issues-workfront-proof/proof-search-returns-no-results.md) | 2023년 4월 27일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 4월 21일 |
 
 {style="table-layout:auto"}
@@ -35,7 +36,6 @@ ht-degree: 100%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)가 열림 | 2023년 4월 17일 |
-| [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)에서 증명 사이를 전환할 수 없음 | 2023년 3월 31일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
 | [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |
 

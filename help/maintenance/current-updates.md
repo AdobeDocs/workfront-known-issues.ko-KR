@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '3123'
-ht-degree: 99%
+source-wordcount: '3167'
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,19 @@ ht-degree: 99%
 
 ## 2023년 4월 업데이트
 
-+++**(예정) 2023년 4월 27일 유지 보수 업데이트**
++++**2023년 4월 27일 유지 보수 업데이트**
 
 **에서 증명 간을 전환할 수 없습니다. [!UICONTROL 증명 뷰어]**
 
 _증명_
 
 사용자가 [!UICONTROL 증명 뷰어]에서 증명을 조회하는 동안 다른 증명으로 전환하려고 할 때 증명 전환 버튼이 응답하지 않습니다. 사용자는 보고 있던 원래 증명으로 다시 돌아오거나 다른 증명으로 전환할 수 없습니다.
+
+**주석 편집 시 첨부된 이미지 편집**
+
+_업데이트_
+
+이제 주석을 편집할 때 주석에 첨부된 이미지를 편집할 수 있습니다. 이 기능은 Workfront 목표에 대한 업데이트 섹션과 주석 처리 베타 경험을 활성화할 때 발생하는 문제 섹션에서 사용할 수 있습니다.
 
 +++
 
