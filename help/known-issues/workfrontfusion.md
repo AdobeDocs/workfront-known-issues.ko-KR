@@ -4,8 +4,8 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: tm+mt
-source-wordcount: '138'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
