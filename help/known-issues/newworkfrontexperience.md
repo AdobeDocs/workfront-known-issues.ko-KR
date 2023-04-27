@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '634'
 ht-degree: 98%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [작업표: 페이지를 새로 고칠 때에는 필터가 적용되지 않습니다](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023년 4월 25일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 4월 21일 |
-| [[!UICONTROL 리소스 플래너]: 시간 추가 후 저장 불가](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023년 4월 20일 |
 
 {style="table-layout:auto"}
 

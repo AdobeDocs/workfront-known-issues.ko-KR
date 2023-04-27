@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023년 1월 20일 |
+| 없음 |  |
 
 {style="table-layout:auto"}
 

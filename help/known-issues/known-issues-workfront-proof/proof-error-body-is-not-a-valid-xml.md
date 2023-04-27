@@ -1,18 +1,22 @@
 ---
-title: '“Workfront Proof API: 본문이 유효한 XML이 아님 오류”'
-description: “Workfront Proof API 호출이 오류를 반환합니다.”
+title: 'Workfront 증명 API: 본문이 올바른 XML 오류가 아닙니다.'
+description: Workfront 증명 API를 호출하면 오류가 반환됩니다.
 hidefromtoc: true
-source-git-commit: 7f818ed2fccc7f345e22102605a2cf9c602a3242
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 72%
 
 ---
-
 
 # [!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류
 
 <!--On WFP and WFF TOCs-->
+
+>[!NOTE]
+>
+>이 문제는 재현할 수 없어 종결되었습니다.
 
 [!DNL Workfront Proof] API 호출이 다음과 같은 오류를 반환합니다.
 
@@ -21,4 +25,3 @@ ht-degree: 100%
 이는 [!DNL Workfront Proof] API에 직접 액세스하거나 [!DNL Workfront Fusion]을 통해 액세스할 때 발생할 수 있습니다.
 
 _2022년 9월 15일에 처음 보고되었습니다._
-
