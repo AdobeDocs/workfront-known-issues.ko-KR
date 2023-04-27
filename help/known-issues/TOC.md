@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '1463'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [작업표: 페이지를 새로 고칠 때에는 필터가 적용되지 않습니다](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
-      + [증명: 잠긴 증명 승인이 여전히 작업 목록에 표시됩니다.](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
+      + [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL 리소스 플래너]: 시간 추가 후 저장 불가](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]가 열림](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [템플릿: [!UICONTROL 즐겨찾는 템플릿]에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
