@@ -1,14 +1,14 @@
 ---
 title: '“문서: 증명 활동 옵션이 로그인 페이지로 연결됨”'
-description: “사용자가 문서 세부 정보 페이지를 보고 증명 활동 메뉴에서 옵션을 클릭하면 의도한 대상 페이지 대신 로그인 페이지로 이동합니다.”
+description: 사용자가 문서 세부 정보 페이지를 보고 증명 활동 메뉴에서 옵션을 클릭하면 의도한 대상 페이지 대신 로그인 페이지로 이동합니다.
 hidefromtoc: true
-source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
-workflow-type: tm+mt
+exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
 ---
-
 
 # 문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨
 
@@ -21,4 +21,3 @@ ht-degree: 100%
 사용자가 [!UICONTROL 문서 세부 정보] 페이지를 보고 [!UICONTROL 증명 활동] 메뉴에서 옵션을 클릭하면 의도한 대상 페이지 대신 로그인 페이지로 이동합니다.
 
 _2023년 3월 3일에 처음 보고되었습니다._
-
