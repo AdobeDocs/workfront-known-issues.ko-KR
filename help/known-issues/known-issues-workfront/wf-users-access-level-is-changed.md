@@ -1,10 +1,10 @@
 ---
-title: '사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨'
+title: '“사용자: 변경 기록 없이 시스템에 의해 액세스 수준이 변경됨”'
 description: 사용자의 액세스 수준은 시스템에 의해 예기치 않게 변경될 수 있습니다. 이 경우 업데이트가 표시되지 않으며 감사 로그에 변경 사항이 나타나지 않습니다.
 hidefromtoc: true
 exl-id: 273781aa-1770-4ac0-ac09-32e0b97dc922
 source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
