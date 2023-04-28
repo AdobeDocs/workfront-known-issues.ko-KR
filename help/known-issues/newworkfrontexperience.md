@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+source-git-commit: 7fc9e90be94c30dff1c8de17c033407c165b45f2
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 98%
+source-wordcount: '622'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [작업표: 페이지를 새로 고칠 때에는 필터가 적용되지 않습니다](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023년 4월 25일 |
+| [타임시트: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023년 4월 25일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 4월 21일 |
 
 {style="table-layout:auto"}
@@ -67,7 +67,6 @@ ht-degree: 98%
 | [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022년 12월 5일 |
 | [작업: 작업 [!UICONTROL 요약 패널에 시간을 입력할 때 시간이 저장되지 않음]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022년 12월 2일 |
 | [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022년 11월 21일 |
-| [알림: 댓글에 언급되거나 포함되었을 때 사용자에게 알림이 전송되지 않습니다.](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022년 11월 11일 |
 | [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
 | [[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md)에서 느리게 로드됨 | 2022년 10월 28일 |
 | [증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
