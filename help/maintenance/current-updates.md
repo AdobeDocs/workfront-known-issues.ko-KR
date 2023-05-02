@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '3167'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,23 @@ ht-degree: 98%
 
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
+## 2023년 5월 업데이트
+
++++**(예정) 2023년 5월 4일 유지 관리 업데이트**
+
+**다음에서 템플릿을 선택할 수 없습니다. [!UICONTROL 즐겨찾는 템플릿]**
+
+_템플릿_
+
+사용자가 작업(점 3개) 메뉴에서 템플릿을 선택하려고 할 때 마우스를 목록으로 가져가면 템플릿 목록이 사라지고 사용자가 템플릿을 선택할 수 없습니다. 이는 스크롤바가 메뉴와 템플릿 목록 사이에 있고, 마우스가 템플릿 목록으로 이동할 때 스크롤바에 포커스가 있기 때문입니다.
+
++++
+
 ## 2023년 4월 업데이트
 
 +++**2023년 4월 27일 유지 보수 업데이트**
 
-**에서 증명 간을 전환할 수 없습니다. [!UICONTROL 증명 뷰어]**
+**[!UICONTROL 증명 뷰어]**&#x200B;에서 증명 사이를 전환할 수 없음
 
 _증명_
 
