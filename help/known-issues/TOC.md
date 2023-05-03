@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: f63f33c4038da13d36d522754b9174b799c48599
+source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
 workflow-type: tm+mt
-source-wordcount: '1125'
-ht-degree: 99%
+source-wordcount: '1136'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업: 작업 순서를 변경할 때 오류 메시지가 표시되지 않습니다. [!UICONTROL 승인 보류 중] 상태](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [타임시트: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL 리소스 플래너]: 시간 추가 후 저장 불가](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
