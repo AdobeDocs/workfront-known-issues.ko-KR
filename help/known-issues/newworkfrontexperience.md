@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: 0a1b37c657f460ba5d6773e36e69de60f1efdddd
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '605'
 ht-degree: 98%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [작업: 작업 순서를 변경할 때 오류 메시지가 표시되지 않습니다. [!UICONTROL 승인 보류 중] 상태](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 3일 |
 | [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)가 열림 | 2023년 4월 17일 |
-| [템플릿: [!UICONTROL 즐겨찾는 템플릿]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)에서 템플릿을 선택할 수 없음 | 2023년 4월 12일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 3월 27일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |

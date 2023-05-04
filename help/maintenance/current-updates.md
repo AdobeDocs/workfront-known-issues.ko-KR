@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
+source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
-source-wordcount: '3246'
+source-wordcount: '3245'
 ht-degree: 98%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 98%
 
 ## 2023년 5월 업데이트
 
-+++**(예정) 2023년 5월 4일 유지 관리 업데이트**
++++**2023년 4월 5일 유지 보수 업데이트**
 
 **다음에서 템플릿을 선택할 수 없습니다. [!UICONTROL 즐겨찾는 템플릿]**
 
