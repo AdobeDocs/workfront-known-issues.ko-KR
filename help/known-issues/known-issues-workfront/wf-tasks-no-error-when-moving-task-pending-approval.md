@@ -2,15 +2,19 @@
 title: '"작업: "승인 보류 중" 상태에서 작업 순서를 변경할 때 오류 메시지가 표시되지 않습니다.'
 description: “”
 hidefromtoc: true
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 작업: 작업 순서를 변경할 때 오류 메시지가 표시되지 않습니다. [!UICONTROL 승인 보류 중] 상태
+
+>[!NOTE]
+>
+>이 문제는 2023년 5월 4일에 수정되었습니다.
 
 사용자가 작업 목록에서 작업 순서를 변경하려고 하면 작업이 [!UICONTROL 승인 보류 중] 상태, 작업이 작업 목록에서 이동하는 것처럼 나타납니다. 새로 고치면 항목이 이동되지 않은 것으로 표시됩니다. 항목에 있으므로 이동할 수 없습니다. [!UICONTROL 승인 보류 중] 상태이지만 사용자에게 항목을 이동할 수 없다는 메시지가 없으므로 혼동될 수 있습니다.
 

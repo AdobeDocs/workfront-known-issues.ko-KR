@@ -1,16 +1,20 @@
 ---
-title: '“필터: 페이지를 새로 고칠 때 필터가 적용되지 않음”'
-description: “사용자가 필터가 적용된 목록을 보고 페이지를 새로 고치면 새로 고친 페이지에 필터가 적용되지 않은 것처럼 결과가 표시됩니다.”
+title: '필터: 페이지를 새로 고칠 때 필터가 적용되지 않음'
+description: 사용자가 필터가 적용된 목록을 보고 페이지를 새로 고치면 새로 고친 페이지에 필터가 적용되지 않은 것처럼 결과가 표시됩니다.
 hidefromtoc: true
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+exl-id: 8a57b310-d23e-4751-a2e2-703ba7d94c0e
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
 # 필터: 페이지를 새로 고칠 때 필터가 적용되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2023년 4월 27일에 해결되었습니다.
 
 사용자가 필터가 적용된 목록을 보고 페이지를 새로 고치면 새로 고친 페이지에 필터가 적용되지 않은 것처럼 결과가 표시됩니다.
 
@@ -23,4 +27,3 @@ ht-degree: 100%
 필터를 제거하고 다시 적용합니다.
 
 _2023년 3월 13일에 처음 보고되었습니다._
-
