@@ -4,7 +4,7 @@ description: 사용자가 [!UICONTROL 증명 뷰어]에서 증명을 보고 다�
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
 source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
