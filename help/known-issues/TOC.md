@@ -22,7 +22,7 @@ ht-degree: 98%
       + [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL 리소스 플래너]: 시간 추가 후 저장 불가](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]가 열림](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [템플릿: [!UICONTROL 즐겨찾는 템플릿]에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [템플릿: [!UICONTROL 즐겨 찾는 템플릿]에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL 홈]: [!UICONTROL 작업 목록]에서 썸네일 근처를 클릭하면 빈 페이지로 연결됨](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
