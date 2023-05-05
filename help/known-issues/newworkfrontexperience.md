@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '571'
+ht-degree: 96%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로젝트: 를 사용하는 동안 오류가 발생했습니다. [!UICONTROL 이정표] 보기](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 2023년 5월 5일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
 | [작업: 작업 순서를 변경할 때 오류 메시지가 표시되지 않습니다. [!UICONTROL 승인 보류 중] 상태](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 3일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |

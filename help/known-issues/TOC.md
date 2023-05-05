@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '1136'
+source-wordcount: '1142'
 ht-degree: 98%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 를 사용하는 동안 오류가 발생했습니다. [!UICONTROL 이정표] 보기](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [작업: 작업 순서를 변경할 때 오류 메시지가 표시되지 않습니다. [!UICONTROL 승인 보류 중] 상태](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [타임시트: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
@@ -84,7 +85,7 @@ ht-degree: 98%
       + [작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 문제 및 오류 메시지](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [문제: 문제가 있지만 왼쪽 탐색에 “(0)” 문제로 표시됨](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [문제: 문제가 있지만 왼쪽 탐색에 “(0)”개 문제로 표시됨](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [작업: 작업 [!UICONTROL 요약 패널]에 시간을 입력할 때 시간이 저장되지 않음](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
@@ -118,7 +119,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [[!DNL Workfront Proof]: 검색 결과 없음](known-issues-workfront-proof/proof-search-returns-no-results.md)
+      + [[!DNL Workfront Proof]: 검색 결과 반환 없음](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [증명: 텍스트 옵션 상자에 “textAnnotations”가 표시됨](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [증명: 이메일 알림에 사용자 정의 메시지가 표시되지 않음](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
@@ -128,7 +129,7 @@ ht-degree: 98%
       + [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
-      + [증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
+      + [증명: 증명이 증명 Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [댓글에 사용자를 태그 지정하여 증명에 사용자를 추가할 수 없음](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [[!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [증명에 대한 자동 액세스가 지연됨](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
