@@ -1,12 +1,12 @@
 ---
 title: '문서: 문서 목록 관련 문제 '
-description: 이 문서에서는 문서 목록과 관련하여 보고된 최근 문제에 대해 설명합니다.
+description: 이 문서에서는 문서 목록과 관련하여 최근 보고된 문제에 대해 설명합니다.
 hidefromtoc: true
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
