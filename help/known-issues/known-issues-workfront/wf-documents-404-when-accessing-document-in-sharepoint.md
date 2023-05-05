@@ -1,12 +1,12 @@
 ---
-title: '''문서: SharePoint에서 연결된 문서에 액세스하는 동안 404 오류가 발생했습니다'
-description: 사용자가 SharePoint을 통해 연결된 문서에 액세스하려고 하면 404 오류가 있는 페이지로 이동합니다.
+title: '문서: SharePoint에서 연결되어 있는 문서에 액세스할 때 404 오류 발생'
+description: 사용자가 SharePoint를 통해 연결된 문서에 액세스하려고 하면 404 오류가 있는 페이지로 이동합니다.
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
