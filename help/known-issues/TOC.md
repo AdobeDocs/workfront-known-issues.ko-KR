@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
 source-wordcount: '1142'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [프로젝트: 를 사용하는 동안 오류가 발생했습니다. [!UICONTROL 이정표] 보기](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [작업: 작업 순서를 변경할 때 오류 메시지가 표시되지 않습니다. [!UICONTROL 승인 보류 중] 상태](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [프로젝트: [!UICONTROL 마일스톤] 보기 사용 시 오류](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [타임시트: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL 리소스 플래너]: 시간 추가 후 저장 불가](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
