@@ -3,7 +3,7 @@ title: '“사용자 정의 양식: 계산된 필드를 설정할 때 “죄송�
 description: 사용자가 사용자 정의 양식에서 계산된 필드를 만들거나 편집할 때 계산된 필드의 표현식에 사용자 정의 필드를 포함하면 표현식이 유효하지 않은 것으로 간주됩니다. 저장 버튼이 비활성화되고 사용자가 사용자 정의 필드에서 다른 곳으로 이동할 수 없습니다. 또한 필드 아래에 “죄송합니다” 메시지가 표시됩니다.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -11,6 +11,8 @@ ht-degree: 100%
 ---
 
 # 사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생
+
+<!--Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
