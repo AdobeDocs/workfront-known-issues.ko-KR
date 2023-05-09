@@ -1,12 +1,12 @@
 ---
-title: '프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음'
+title: '“프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음”'
 description: 문제가 프로젝트로 변환되면 새 프로젝트는 프로젝트가 생성된 포트폴리오 또는 프로그램에서 권한을 상속받지 않습니다.
 hidefromtoc: true
 exl-id: 39bb4231-2a31-4443-9af1-bf27d83437ae
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 문제는 2023년 5월 4일에 수정되었습니다.
+>이 문제는 2023년 5월 4일에 해결되었습니다.
 
 문제가 프로젝트로 변환되면 새 프로젝트는 프로젝트가 생성된 포트폴리오 또는 프로그램에서 권한을 상속받지 않습니다.
 
