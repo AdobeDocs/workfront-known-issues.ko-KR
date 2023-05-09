@@ -1,12 +1,12 @@
 ---
-title: '증명: 증명 활동 탭에 증명 세부 정보가 열림'
-description: 사용자가 증명을 조회하는 동안증명 활동 탭을 클릭하면 증명 세부 정보 탭이 대신 열립니다. 이 문제는 증명 단계가 워크플로에 수동으로 추가된 경우에 발생합니다.
+title: '“증명: 증명 활동 탭에 증명 세부 정보가 열림”'
+description: 사용자가 증명을 조회하는 도중 증명 활동 탭을 클릭하면 증명 세부 정보 탭이 대신 열립니다. 이 문제는 증명 단계가 워크플로에 수동으로 추가된 경우에 발생합니다.
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 문제는 종료되었습니다.
+>이 문제는 종결되었습니다.
 
 사용자가 증명을 조회하는 동안[!UICONTROL 증명 활동] 탭을 클릭하면 [!UICONTROL 증명 세부 정보] 탭이 대신 열립니다. 이 문제는 증명 단계가 워크플로에 수동으로 추가된 경우에 발생합니다.
 
