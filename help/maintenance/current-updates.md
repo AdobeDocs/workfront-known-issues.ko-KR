@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
-workflow-type: ht
-source-wordcount: '3245'
-ht-degree: 100%
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+workflow-type: tm+mt
+source-wordcount: '3456'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,52 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 5월 업데이트
+
++++**(예정) 2023년 5월 11일 유지 보수 업데이트**
+
+**[!DNL Workfront]검색 시간 초과**
+
+_검색_
+
+[!DNL Workfront] 검색 시간이 초과되었습니다. 검색에서 일부 결과가 반환되거나 전혀 반환되지 않을 수 있습니다.
+
+이 문제는 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 검색] 모듈의 기능에도 영향을 미칩니다.
+
+**증명을 볼 때 증명 버전을 전환할 수 없음**
+
+_증명_
+
+사용자가 [!UICONTROL 증명 뷰어]에서 증명을 보고 다른 버전으로 전환할 때 해당 버전 드롭다운이 비활성화되고 사용자는 보고 있던 원본 버전이나 다른 버전의 증명으로 다시 전환할 수 없습니다.
+
++++
+
++++**(계획됨) [!DNL Adobe Workfront Fusion] 2023년 5월 11일 유지 관리 업데이트**
+
+**시간 초과 오류 발생[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+시나리오가 실행 중일 때 시간 초과 오류가 발생할 수 있습니다. 오류가 있는 모듈의 정보가 대상에 도달하지 않습니다.
+
+**[!DNL Workfront]검색 시간 초과**
+
+_검색_
+
+[!DNL Workfront] 검색 시간이 초과되었습니다. 검색에서 일부 결과가 반환되거나 전혀 반환되지 않을 수 있습니다.
+
+이 문제는 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 검색] 모듈의 기능에도 영향을 미칩니다.
+
++++
+
++++**2023년 9월 5일 유지 보수 업데이트**
+
+**보드 취량 열에서 사용할 수 있는 저장된 필터**
+
+_보드_
+
+이제 보드에 대한 흡입 열을 구성할 때 기존 Workfront 작업 및 문제 필터를 사용할 수 있습니다. 그러나 이제 기존 취침 열 필터는 구성 패널에서 읽기 전용입니다. 기존 필터는 계속 흡입량 열에 적용되지만, 편집하려면 필터를 다시 만들어야 합니다.
+
++++
 
 +++**2023년 4월 5일 유지 보수 업데이트**
 
