@@ -4,9 +4,9 @@ description: 사용자가 필터를 사용하여 타임시트 목록을 조회�
 hidefromtoc: true
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
