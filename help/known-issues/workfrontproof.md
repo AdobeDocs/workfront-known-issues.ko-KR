@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
-source-wordcount: '282'
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+workflow-type: tm+mt
+source-wordcount: '270'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 100%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
-| [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
 
 {style="table-layout:auto"}
 

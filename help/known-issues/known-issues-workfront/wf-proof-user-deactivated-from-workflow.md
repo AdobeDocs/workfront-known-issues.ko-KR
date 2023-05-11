@@ -1,18 +1,22 @@
 ---
-title: '“증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “액세스 허용되지 않음” 메시지가 표시됨”'
-description: “사용자가 워크플로에 할당된 증명에 액세스하려고 하면 액세스가 허용되지 않는다는 메시지가 표시됩니다.”
+title: '''증명: 사용자가 증명 워크플로우에서 비활성화되어 ''증명''에 액세스할 때 액세스가 허용되지 않습니다.'
+description: 사용자가 워크플로우에서 지정한 증표에 액세스하려고 하면 액세스가 허용되지 않는 메시지가 표시됩니다.
 hidefromtoc: true
-source-git-commit: ff00c5295967aa0e06f26678286ec2cfafbc0356
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 64%
 
 ---
-
 
 # 증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>이 문제는 2023년 5월 4일에 수정되었습니다.
 
 사용자가 워크플로에 할당된 증명에 액세스하려고 하면 다음과 같은 메시지가 표시됩니다.
 
@@ -25,4 +29,3 @@ ht-degree: 100%
 사용자를 다시 활성화하면 일시적으로 액세스가 허용됩니다.
 
 _2023년 2월 22일에 처음 보고되었습니다._
-

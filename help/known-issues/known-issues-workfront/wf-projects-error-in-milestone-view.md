@@ -2,15 +2,19 @@
 title: '“프로젝트: 마일스톤 보기 사용 시 오류”'
 description: “사용자가 프로젝트 목록을 보고 마일스톤 보기를 사용하려고 하면 보기가 로드되지 않고 사용자에게 오류가 표시됩니다.”
 hidefromtoc: true
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 
 # 프로젝트: [!UICONTROL 마일스톤] 보기 사용 시 오류
+
+>[!NOTE]
+>
+>이 문제는 2023년 5월 4일에 해결되었습니다.
 
 사용자가 프로젝트 목록을 보고 [!UICONTROL 마일스톤] 보기를 사용하려고 하면 보기가 로드되지 않고 사용자에게 오류가 표시됩니다.
 
