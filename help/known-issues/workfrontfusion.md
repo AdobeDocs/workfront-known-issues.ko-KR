@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+workflow-type: tm+mt
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Adobe Workfront Fusion]: Workfront Fusion의 시간 초과 오류](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023년 2월 3일 |
+| 없음 |  |
 
 {style="table-layout:auto"}
 
@@ -45,7 +45,6 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 4월 13일 |
 | [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022년 9월 29일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022년 9월 9일 |
 

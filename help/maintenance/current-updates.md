@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
-workflow-type: ht
-source-wordcount: '3456'
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+workflow-type: tm+mt
+source-wordcount: '3454'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,13 @@ ht-degree: 100%
 
 ## 2023년 5월 업데이트
 
-+++**(예정) 2023년 5월 11일 유지 보수 업데이트**
++++**2023년 5월 11일 유지 보수 업데이트**
+
+**증명을 볼 때 증명 버전을 전환할 수 없음**
+
+_증명_
+
+사용자가 [!UICONTROL 증명 뷰어]에서 증명을 보고 다른 버전으로 전환할 때 해당 버전 드롭다운이 비활성화되고 사용자는 보고 있던 원본 버전이나 다른 버전의 증명으로 다시 전환할 수 없습니다.
 
 **[!DNL Workfront]검색 시간 초과**
 
@@ -31,15 +37,9 @@ _검색_
 
 이 문제는 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 검색] 모듈의 기능에도 영향을 미칩니다.
 
-**증명을 볼 때 증명 버전을 전환할 수 없음**
-
-_증명_
-
-사용자가 [!UICONTROL 증명 뷰어]에서 증명을 보고 다른 버전으로 전환할 때 해당 버전 드롭다운이 비활성화되고 사용자는 보고 있던 원본 버전이나 다른 버전의 증명으로 다시 전환할 수 없습니다.
-
 +++
 
-+++**(예정) [!DNL Adobe Workfront Fusion] 2023년 5월 11일 유지 보수 업데이트**
++++**[!DNL Adobe Workfront Fusion]2023년 5월 11일 유지 보수 업데이트**
 
 **[!DNL Workfront Fusion]**&#x200B;에서의 시간 초과 오류
 

@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
 workflow-type: tm+mt
-source-wordcount: '591'
-ht-degree: 100%
+source-wordcount: '592'
+ht-degree: 99%
 
 ---
 
@@ -34,11 +34,11 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업 로드 밸런서: 시간이 예기치 않게 재배포됩니다.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 5월 11일 |
 | [프로젝트: [!UICONTROL 마일스톤] 보기 사용 시 오류](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 2023년 5월 5일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
 | [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 3일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
-| [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md) | 2023년 3월 27일 |
 | [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023년 3월 23일 |
 | [증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023년 3월 23일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |

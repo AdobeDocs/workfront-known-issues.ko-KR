@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
 workflow-type: tm+mt
-source-wordcount: '1161'
-ht-degree: 100%
+source-wordcount: '1166'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업 로드 밸런서: 시간이 예기치 않게 재배포됩니다.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [프로젝트: [!UICONTROL 마일스톤] 보기 사용 시 오류](known-issues-workfront/wf-projects-error-in-milestone-view.md)
