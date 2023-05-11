@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3456'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ _증명_
 
 +++
 
-+++**(계획됨) [!DNL Adobe Workfront Fusion] 2023년 5월 11일 유지 관리 업데이트**
++++**(예정) [!DNL Adobe Workfront Fusion] 2023년 5월 11일 유지 보수 업데이트**
 
-**시간 초과 오류 발생[!DNL Workfront Fusion]**
+**[!DNL Workfront Fusion]**&#x200B;에서의 시간 초과 오류
 
 _Adobe Workfront Fusion_
 
@@ -57,13 +57,13 @@ _검색_
 
 +++
 
-+++**2023년 9월 5일 유지 보수 업데이트**
++++**2023년 5월 9일 유지 보수 업데이트**
 
-**보드 취량 열에서 사용할 수 있는 저장된 필터**
+**보드 Intake 열에서 사용할 수 있는 저장된 필터**
 
 _보드_
 
-이제 보드에 대한 흡입 열을 구성할 때 기존 Workfront 작업 및 문제 필터를 사용할 수 있습니다. 그러나 이제 기존 취침 열 필터는 구성 패널에서 읽기 전용입니다. 기존 필터는 계속 흡입량 열에 적용되지만, 편집하려면 필터를 다시 만들어야 합니다.
+이제 보드에 대한 Intake 열을 구성할 때 기존 Workfront 작업 및 문제 필터를 사용할 수 있습니다. 단, 기존 Intake 열 필터는 이제 구성 패널에서 읽기 전용으로 제공됩니다. 기존 필터는 Intake 열에 계속 적용되지만 이를 편집하려면 필터를 다시 생성해야 합니다.
 
 +++
 
