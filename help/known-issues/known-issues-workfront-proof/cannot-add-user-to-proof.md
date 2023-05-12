@@ -3,14 +3,16 @@ title: '증명: 댓글에 사용자를 태그 지정하여 증명에 사용자�
 description: 사용자가 댓글에 현재 증명에 없는 다른 사용자를 태그 지정할 때 해당 사용자에 대한 작업 역할 또는 이메일을 선택할 수 있는 옵션이 없으므로 증명에 사용자를 추가할 수 없습니다.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Proof]: 댓글에 사용자를 태그 지정하여 증명에 사용자를 추가할 수 없음
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

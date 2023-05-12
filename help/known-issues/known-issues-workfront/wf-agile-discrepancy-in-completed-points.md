@@ -3,14 +3,16 @@ title: '애자일: 반복에 대한 완료된 포인트의 불일치'
 description: 스토리 보드에서 완료된 포인트에 대해 표시되는 숫자가 종종 반복의 스토리에 대해 완료된 실제 숫자와 일치하지 않음
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 # 애자일: 반복에 대한 완료된 포인트의 불일치
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

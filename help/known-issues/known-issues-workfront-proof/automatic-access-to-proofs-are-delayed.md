@@ -3,14 +3,16 @@ title: 'Proof: 증명에 대한 자동 액세스가 지연됨'
 description: 사용자가 자동 워크플로를 사용하는 증명의 검토자 및 승인자로 할당되었을 때 액세스가 지연되고 사용자가 증명에 액세스할 수 없습니다.
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Proof]: 증명에 대한 자동 액세스가 지연됨
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

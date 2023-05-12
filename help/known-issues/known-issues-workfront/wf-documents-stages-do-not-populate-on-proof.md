@@ -3,8 +3,8 @@ title: '“증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음”'
 description: 사용자가 증명을 만든 다음 [!UICONTROL 문서 버전] 또는 [!UICONTROL 증명 승인] 보고서와 같은 보고서에서 해당 증명을 보면 [!UICONTROL 활성 증명 단계] 필드가 비어 있습니다. 이 문제는 문서를 업로드한 후 증명을 [!UICONTROL 단순 증명] 또는 [!UICONTROL 기본 워크플로]를 사용하는 [!UICONTROL 고급 증명]으로 만들 때 발생합니다.
 hidefromtoc: true
 exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
+<!--Requested article. This Known Issue is on the TOC for both Workfront and Workfront Proof.-->
 
 >[!NOTE]
 >

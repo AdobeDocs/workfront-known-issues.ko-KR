@@ -3,8 +3,8 @@ title: '문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되�
 description: '사용자가 문서를 다른 프로젝트로 이동하는 경우 해당 문서가 새 프로젝트에서 공유 권한을 상속받지 않습니다. 이 문서는 프로젝트를 공유하는 사용자들에게 공유되지 않습니다. '
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--Valid issue, won't fix.-->
+<!--Won't fix tab: Valid issue, won't fix.-->
 
 사용자가 문서를 다른 프로젝트로 이동하는 경우 해당 문서가 새 프로젝트에서 공유 권한을 상속받지 않습니다. 이 문서는 프로젝트를 공유하는 사용자들에게 공유되지 않습니다.
 

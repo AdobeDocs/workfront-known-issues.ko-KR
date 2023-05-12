@@ -3,8 +3,8 @@ title: '문서: SharePoint에서 연결되어 있는 문서에 액세스할 때 
 description: 사용자가 SharePoint를 통해 연결된 문서에 액세스하려고 하면 404 오류가 있는 페이지로 이동합니다.
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 문서: [!DNL SharePoint]에서 연결되어 있는 문서에 액세스할 때 404 오류 발생
 
-<!--This issue is on the WF and WFP TOCs. By request.-->
+<!--Requested article. This issue is on the WF and WFP TOCs.-->
 
 사용자가 [!DNL SharePoint]를 통해 연결된 문서에 액세스하려고 하면 다음 오류가 있는 페이지로 이동합니다.
 

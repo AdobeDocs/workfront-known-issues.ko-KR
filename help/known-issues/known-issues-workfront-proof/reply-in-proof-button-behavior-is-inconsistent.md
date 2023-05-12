@@ -3,14 +3,16 @@ title: '홈: 증명에서 답글 작성 버튼 동작이 일관적이지 않음'
 description: 새 [!DNL Adobe Workfront] 경험의 사용자가 [!UICONTROL 홈]의 오른쪽 패널에서 증명을 볼 때 댓글에 대해 [!UICONTROL 증명에서 답글 작성]을 클릭하면 의도한 대로 증명 뷰어로 이동하는 대신 [!UICONTROL 문서 업데이트] 영역에 업데이트를 남길 수 있는 텍스트 상자가 표시됩니다.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL 홈]: [!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음
+
+<!--Converted to story-->
 
 >[!NOTE]
 >
