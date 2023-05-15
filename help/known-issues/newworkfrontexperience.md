@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 99%
+source-wordcount: '565'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 |  |
+| [보고서: 필드를 기준으로 정렬할 때 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023년 5월 15일 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023년 5월 11일 |
+| [보고서: 사용자 지정 필드별로 정렬할 때에는 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023년 5월 11일 |
 | [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 11일 |
 | [작업 로드 밸런서: 시간이 예기치 않게 재배포됩니다.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 5월 11일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |

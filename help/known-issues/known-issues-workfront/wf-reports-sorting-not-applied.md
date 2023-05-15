@@ -1,16 +1,16 @@
 ---
-title: '“보고서: 보고서가 올바르게 정렬되지 않음”'
-description: “”
+title: '"보고서: 사용자 지정 필드별로 정렬할 때에는 보고서가 올바르게 정렬되지 않습니다'
+description: '"사용자가 작업 보고서를 실행하면 보고서가 로드되는 동안은 올바르게 정렬된 것처럼 보이지만 로딩이 완료되면 해당 보고서가 올바르게 정렬되지 않습니다. '
 hidefromtoc: true
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 81%
 
 ---
 
 
-# 보고서: 보고서가 올바르게 정렬되지 않음
+# 보고서: 사용자 지정 필드별로 정렬할 때에는 보고서가 올바르게 정렬되지 않습니다
 
 사용자가 작업 보고서를 실행하면 보고서가 로드되는 동안은 올바르게 정렬된 것처럼 보이지만 로딩이 완료되면 해당 보고서가 올바르게 정렬되지 않습니다.
 

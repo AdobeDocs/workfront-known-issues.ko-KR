@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 99%
+source-wordcount: '1176'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 필드를 기준으로 정렬할 때 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [작업 로드 밸런서: 시간이 예기치 않게 재배포됩니다.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-not-applied.md)
