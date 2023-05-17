@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보고서: 필드를 기준으로 정렬할 때 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023년 5월 15일 |
+| [보고서: 필드를 기준으로 정렬할 때 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023년 15월 5일 |
 
 {style="table-layout:auto"}
 
@@ -34,9 +34,9 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보고서: 사용자 지정 필드별로 정렬할 때에는 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023년 5월 11일 |
-| [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 11일 |
-| [작업 로드 밸런서: 시간이 예기치 않게 재배포됩니다.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 5월 11일 |
+| [보고서: 사용자 지정 필드별로 정렬할 때에는 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023년 11월 5일 |
+| [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 11월 5일 |
+| [작업 로드 밸런서: 시간이 예기치 않게 재배포됩니다.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 11월 5일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
