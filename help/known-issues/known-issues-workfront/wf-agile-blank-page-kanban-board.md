@@ -1,10 +1,10 @@
 ---
 title: "애자일: 카드를 편집할 때 간판 보드가 비어 있습니다."
-description: "사용자가 간판 보드에서 카드를 편집한 다음 카드에서 클릭하면, 편집을 사용하여 새로 고치는 대신 간판 보드가 공백으로 표시됩니다. 사용자가 페이지를 수동으로 새로 고치면 간판 보드가 반환되고 올바른 편집이 표시됩니다."
+description: "사용자가 카드의 내용을 [!UICONTROL 간판] 보드, [!UICONTROL 간판] 변경 사항으로 새로 고치는 대신 보드가 비어 있습니다. 사용자가 페이지를 수동으로 새로 고치는 경우, [!UICONTROL 간판] 올바른 변경을 보여주는 보드 반환"
 hidefromtoc: true
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 0463aa5cf7f786af9464ad3efb1d3d3929bcb1af
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '114'
 ht-degree: 7%
 
 ---
@@ -12,7 +12,12 @@ ht-degree: 7%
 
 # 애자일: [!UICONTROL 간판] 카드를 편집할 때 공백이 됩니다.
 
-사용자가 [!UICONTROL 간판] 보드를 타다가 카드를 클릭하여 [!UICONTROL 간판] 보드를 새로 고치는 대신 편집할 때 공백이 생깁니다. 사용자가 페이지를 수동으로 새로 고치는 경우, [!UICONTROL 간판] 보드가 반환되고 올바른 편집이 표시됩니다.
+사용자가 카드의 내용을 [!UICONTROL 간판] 보드, [!UICONTROL 간판] 변경 사항으로 새로 고치는 대신 보드가 비어 있습니다. 사용자가 페이지를 수동으로 새로 고치는 경우, [!UICONTROL 간판] 올바른 변경을 보여주는 보드 반환
+
+다음과 같은 상황에서 이 문제가 보고되었습니다.
+
+* 카드 편집
+* 카드 이동
 
 **해결 방법**
 
