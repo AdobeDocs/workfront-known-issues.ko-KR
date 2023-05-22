@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보고서: 필드를 기준으로 정렬할 때 보고서가 올바르게 정렬되지 않습니다](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023년 15월 5일 |
+| [보고서: 모든 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023년 5월 15일 |
 
 {style="table-layout:auto"}
 
@@ -34,9 +34,9 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [애자일: [!UICONTROL 간판] 카드를 편집할 때 공백이 됩니다.](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023년 18월 5일 |
-| [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 11월 5일 |
-| [작업 로드 밸런서: 시간이 예기치 않게 재배포됩니다.](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 11월 5일 |
+| [애자일: [!UICONTROL 칸반] 카드를 편집할 때 보드가 깜박임](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023년 5월 18일 |
+| [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 11일 |
+| [워크로드 밸런서: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 5월 11일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
@@ -63,7 +63,7 @@ ht-degree: 95%
 | [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022년 11월 21일 |
 | [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
 | [[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md)에서 느리게 로드됨 | 2022년 10월 28일 |
-| [증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
+| [증명: 증명이 증명 워크플로의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
 | [[!UICONTROL 홈]: 사용자 정의 용어가 홈 영역에 적용되지 않음](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022년 6월 3일 |

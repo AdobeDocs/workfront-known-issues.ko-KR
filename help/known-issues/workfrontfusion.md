@@ -6,7 +6,7 @@ exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: 실행이 중지되거나 지연됩니다.](known-issues-workfront-fusion/fusion-stuck-executions.md) | 2023년 17월 5일 |
+| [[!DNL Workfront Fusion]: 실행이 중단 또는 지연됨](known-issues-workfront-fusion/fusion-stuck-executions.md) | 2023년 5월 17일 |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] API 사용 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023년 15월 5일 |
+| API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통한 [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  | 2023년 5월 15일 |
 
 {style="table-layout:auto"}
 
