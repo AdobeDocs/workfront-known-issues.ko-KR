@@ -1,12 +1,12 @@
 ---
-title: 'Workfront 증명: 목록이 올바르게 정렬되지 않음'
-description: '사용자가 정렬(예: 이름)이 적용된 Workfront Proof의 목록을 볼 때 정렬이 정확하지 않습니다.'
+title: 'Workfront Proof: 목록이 올바르게 정렬되지 않음'
+description: '사용자가 Workfront Proof에서 정렬이 적용된 목록(예: 이름)을 볼 때 정렬이 정확하지 않습니다.'
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
