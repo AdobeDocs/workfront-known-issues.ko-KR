@@ -1,16 +1,16 @@
 ---
-title: '증명: 증명이 증명 Workflow의 사용자에게 공유되지 않음'
+title: '“증명: 증명이 증명 워크플로의 사용자에게 공유되지 않음”'
 description: 증명이 증명 생성 시 사용자가 추가한 워크플로의 단계에 도달하면 증명이 사용자와 공유되지 않으며 사용자가 증명에 액세스할 수 없습니다.
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
-# 증명: 증명이 Proof Workflow의 사용자에게 공유되지 않음
+# 증명: 증명이 증명 워크플로의 사용자에게 공유되지 않음
 
 <!--This issue is on the WF and WFP TOCs-->
 <!--Requested article-->
