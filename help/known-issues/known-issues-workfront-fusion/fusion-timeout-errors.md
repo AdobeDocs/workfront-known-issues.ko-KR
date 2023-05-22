@@ -4,7 +4,7 @@ description: 시나리오가 실행 중일 때 시간 초과 오류가 발생할
 hidefromtoc: true
 exl-id: 2bc0db8e-73bd-449b-9025-369c8c62dcc5
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
