@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 98%
+source-wordcount: '3646'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 98%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 5월 업데이트
+
++++**(예정) 2023년 5월 25일 유지 보수 업데이트**
+
+**[!UICONTROL 칸반] 카드를 편집할 때 보드가 깜박임**
+
+_애자일_
+
+사용자가 다음에 있는 카드에 대한 정보를 변경할 때 [!UICONTROL 칸반] 보드, [!UICONTROL 칸반] 변경 사항을 새로 고치는 대신 보드가 깜박입니다. 사용자가 페이지를 수동으로 새로 고치는 경우 [!UICONTROL 칸반] 보드가 반환되어 올바른 변경 사항을 표시합니다.
+
+이 문제는 다음 상황에서 보고되었습니다.
+
+* 카드 편집
+* 카드 이동
+
+
++++
 
 +++**2023년 5월 22일 유지 보수 업데이트**
 
