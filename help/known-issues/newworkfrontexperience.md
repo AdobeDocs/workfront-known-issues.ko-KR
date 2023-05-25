@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '570'
 ht-degree: 97%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 97%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [사용자 정의 양식: 새 양식 디자이너에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨(Beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023년 5월 24일 |
-| [Agile: 카드를 편집할 때 [!UICONTROL Kanban] 보드가 비어 있음](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023년 5월 18일 |
 | [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 11일 |
 | [워크로드 밸런서: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 5월 11일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
