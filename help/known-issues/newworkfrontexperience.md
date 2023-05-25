@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '560'
 ht-degree: 97%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보고서: 모든 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023년 5월 15일 |
+| 없음 |  |
 
 {style="table-layout:auto"}
 

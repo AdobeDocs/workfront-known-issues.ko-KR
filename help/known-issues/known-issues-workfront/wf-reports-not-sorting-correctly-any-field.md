@@ -2,9 +2,9 @@
 title: '“보고서: 모든 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음”'
 description: “”
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # 보고서: 모든 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음
 
+>[!NOTE]
+>
+>이는 문제가 아닌 것으로 판명되어 종결되었습니다.
 
 사용자가 작업 보고서를 실행하면 보고서가 로드되는 동안은 올바르게 정렬된 것처럼 보이지만 로딩이 완료되면 해당 보고서가 올바르게 정렬되지 않습니다.
 

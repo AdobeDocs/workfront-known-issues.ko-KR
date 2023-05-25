@@ -3,8 +3,8 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
-workflow-type: ht
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 100%
 
@@ -34,17 +34,17 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통한 [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  | 2023년 5월 15일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
 
 {style="table-layout:auto"}
 
-## 수정 없음
+## 수정 사항 없음
 
 현재 로드맵에는 이들 문제에 대한 수정 사항이 없습니다. 경우에 따라 이들 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통한 [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  | 2023년 5월 25일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 4월 21일 |
 | [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
 | [문서: [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 23일 |
