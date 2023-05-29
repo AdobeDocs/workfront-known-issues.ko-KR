@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [사용자 정의 양식: 새 양식 디자이너에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨(Beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Agile: 카드를 편집할 때 [!UICONTROL Kanban] 보드가 비어 있음](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [사용자 정의 양식: 새 양식 디자이너(Beta)에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
+      + [애자일: 카드를 편집할 때 [!UICONTROL Kanban] 보드가 비어 있음](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [보고서: 모든 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [워크로드 밸런서: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
