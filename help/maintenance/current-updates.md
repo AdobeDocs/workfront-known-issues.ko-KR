@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
+source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
 workflow-type: tm+mt
-source-wordcount: '3821'
+source-wordcount: '3820'
 ht-degree: 98%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 98%
 
 ## 2023년 6월 업데이트
 
-+++**(예정) 2023년 6월 1일 유지 보수 업데이트**
++++**2023년 6월 1일 유지 보수 업데이트**
 
 **에서 작업 재정렬 시 오류 메시지 없음 [!UICONTROL 승인 보류 중] 상태**
 

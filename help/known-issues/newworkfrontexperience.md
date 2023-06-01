@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '548'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 100%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [사용자 정의 양식: 새 양식 디자이너(Beta)에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023년 5월 24일 |
-| [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023년 5월 11일 |
 | [워크로드 밸런서: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 5월 11일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
