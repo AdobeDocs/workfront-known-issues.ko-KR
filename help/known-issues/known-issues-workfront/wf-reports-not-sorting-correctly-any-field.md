@@ -3,7 +3,7 @@ title: '“보고서: 모든 필드로 정렬할 때 보고서가 올바르게 �
 description: “”
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
