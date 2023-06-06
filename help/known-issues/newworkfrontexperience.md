@@ -3,9 +3,9 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
-workflow-type: ht
-source-wordcount: '548'
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
+workflow-type: tm+mt
+source-wordcount: '541'
 ht-degree: 100%
 
 ---
@@ -71,7 +71,6 @@ ht-degree: 100%
 | [승인: 승인 위임이 잘못된 일수로 설정됨](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022년 4월 20일 |
 | [[!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 새 작업 옵션](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 2021년 10월 1일 |
 | [업데이트: 팀 이름이 @mention에 표시되지 않음](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021년 10월 1일 |
-| [캘린더: [!UICONTROL 휴무] 캘린더 관련 문제](known-issues-workfront/wf-calendars-issue-time-off.md) | 2021년 6월 25일 |
 | [애자일: 반복에 대한 [!UICONTROL 완료된 포인트]의 불일치](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021년 6월 22일 |
 | [[!UICONTROL 홈]: [!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021년 6월 21일 |
 | [이메일 알림: “[!UICONTROL 문제에 할당됨]” 설정이 표시됨](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021년 6월 2일 |
