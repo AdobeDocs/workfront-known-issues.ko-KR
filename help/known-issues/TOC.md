@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 100%
+source-wordcount: '1221'
+ht-degree: 99%
 
 ---
 
@@ -150,6 +150,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL 업데이트를 실행할 수 없음]&quot; 오류](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: 알림 이메일이 전송되지 않음](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: 실행이 중단되거나 지연됨](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: 시나리오 실행 기록에 전체 기록이 표시되지 않음](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
