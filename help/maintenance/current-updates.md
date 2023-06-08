@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
+source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
-source-wordcount: '3845'
-ht-degree: 100%
+source-wordcount: '3889'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,14 @@ ht-degree: 100%
 +++**2023년 6월 8일 유지 보수 업데이트**
 
 이번 업데이트에는 사소하거나 부수적인 버그 수정만 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]2023년 6월 8일 유지 보수 업데이트**
+
+[!DNL Fusion] 에서 사용자가 제거되거나 비활성화될 때 사용자의 연결이 제거되지 않도록 하는 수정 사항이 배포되었습니다. [!UICONTROL Adobe Admin Console].
+
+[!DNL Fusion] 팀 관리자는 여전히 [!UICONTROL 연결] Fus의 페이지[!DNL]이온.
 
 +++
 
