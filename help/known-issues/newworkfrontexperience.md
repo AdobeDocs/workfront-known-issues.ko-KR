@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
-workflow-type: ht
-source-wordcount: '541'
-ht-degree: 100%
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+workflow-type: tm+mt
+source-wordcount: '551'
+ht-degree: 98%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
 | [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023년 5월 5일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 4월 21일 |
 | [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023년 4월 11일 |

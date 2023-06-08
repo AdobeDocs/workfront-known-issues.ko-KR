@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+workflow-type: tm+mt
+source-wordcount: '284'
+ht-degree: 96%
 
 ---
 
@@ -44,6 +44,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
 | API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통한 [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  | 2023년 5월 25일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 4월 21일 |
 | [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
