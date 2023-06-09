@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 98%
+source-wordcount: '1246'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: &quot;[!UICONTROL 죄송합니다.]매트릭스 보고서를 볼 때 &quot;오류 발생](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [사용자 정의 양식: 새 양식 디자이너(Beta)에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [애자일: 카드를 편집할 때 [!UICONTROL Kanban] 보드가 비어 있음](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
