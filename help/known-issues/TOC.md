@@ -1,9 +1,9 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '1255'
+source-wordcount: '1264'
 ht-degree: 96%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 홈]: 항목이에 표시되지 않음 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [보고서: &quot;[!UICONTROL 죄송합니다.]매트릭스 보고서를 볼 때 &quot;오류 발생](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)

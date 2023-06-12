@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 95%
+source-wordcount: '578'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: 항목이에 표시되지 않음 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023년 6월 12일 |
 | [보고서: &quot;[!UICONTROL 죄송합니다.]매트릭스 보고서를 볼 때 &quot;오류 발생](known-issues-workfront/wf-reports-error-matrix-report.md) | 2023년 6월 9일 |
 | [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 2023년 6월 9일 |
 
