@@ -35,7 +35,7 @@ ht-degree: 99%
 
 +++**[!DNL Adobe Workfront Fusion]2023년 6월 8일 유지 보수 업데이트**
 
-[!DNL Fusion] 에서 사용자가 제거되거나 비활성화될 때 사용자의 연결이 제거되지 않도록 하는 수정 사항이 배포되었습니다. [!UICONTROL Adobe Admin Console].
+[!DNL Fusion]은 [!UICONTROL Adobe Admin Console]에서 사용자가 제거되거나 비활성화될 때 사용자의 연결이 제거되지 않도록 하는 수정 사항을 배포했습니다.
 
 [!DNL Fusion] 팀 관리자는 여전히 [!UICONTROL 연결] 페이지 위치 [!DNL Fusion].
 
