@@ -2,10 +2,10 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
 workflow-type: tm+mt
-source-wordcount: '3912'
-ht-degree: 100%
+source-wordcount: '4010'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 6월 업데이트
+
++++**2023년 6월 22일 유지 보수 업데이트**
+
+**&quot;[!UICONTROL 죄송합니다.]매트릭스 보고서를 볼 때 &quot;오류 발생**
+
+_보고서_
+
+사용자가 매트릭스 보고서를 볼 때 다음 오류가 표시됩니다.
+
+“[!UICONTROL 죄송합니다. 문제가 발생했습니다. 무엇이 잘못되었는지 파악하여 수정할 수 있도록 Workfront에 문의해 주시기 바랍니다.]”
+
+보고서가 날짜별로 정렬되고 “[!UICONTROL 결과가 없는 주 표시]” 옵션이 활성화된 경우 이 문제가 보고되었습니다.
+
+**날짜가 매트릭스 보고서에 잘못 표시됨**
+
+_보고서_
+
+차트 또는 매트릭스 보고서가 날짜별로 그룹화되면 그룹화 가장자리 근처의 날짜가 올바른 그룹화, 이전/다음 그룹화 중 하나 또는 둘 다에 표시될 수 있습니다.
+
++++
 
 +++**2023년 6월 15일 유지 보수 업데이트**
 
