@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
-source-wordcount: '1264'
-ht-degree: 100%
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+workflow-type: tm+mt
+source-wordcount: '1287'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 활용성 보고서가 로드되지 않음](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [증명: 승인 옵션이에 표시되지 않음 [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [타임시트: 타임시트에 시간을 기록할 때 오류 발생](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]에 항목이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [보고서: 매트릭스 보고서를 볼 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
