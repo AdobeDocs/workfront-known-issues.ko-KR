@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '586'
-ht-degree: 96%
+source-wordcount: '604'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로젝트/작업/문제: 타임라인이 다시 계산되지 않음](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023년 6월 27일 |
 | [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)에 항목이 표시되지 않음 | 2023년 6월 12일 |
 
 {style="table-layout:auto"}
@@ -34,6 +35,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [필터: &quot;[!UICONTROL 시스템 전체에서 활성화]&quot; 및 &quot;[!UICONTROL 시스템 전체 보기]&quot;은 다른 기능을 나타냅니다.](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023년 6월 27일 |
 | [보고서: 활용성 보고서가 로드되지 않음](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023년 6월 26일 |
 | [증명: 승인 옵션이에 표시되지 않음 [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023년 6월 26일 |
 | [타임시트: 타임시트에 시간을 기록할 때 오류 발생](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 2023년 6월 26일 |
