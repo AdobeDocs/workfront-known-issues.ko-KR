@@ -3,9 +3,9 @@ title: '“보고서: 매트릭스 보고서를 볼 때 죄송합니다 오류 �
 description: “사용자가 매트릭스 보고서를 볼 때 죄송합니다 오류가 표시됩니다.”
 hidefromtoc: true
 source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
-> 이 문서는 2023년 6월 22일에 수정되었습니다
+> 이 문서는 2023년 6월 22일에 수정되었습니다.
 
 사용자가 매트릭스 보고서를 볼 때 다음 오류가 표시됩니다.
 
