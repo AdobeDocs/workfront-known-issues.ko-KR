@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
+source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 97%
+source-wordcount: '1309'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보드: 가로 스크롤 막대가 없음](known-issues-workfront/wf-board-no-scrollbar.md)
       + [프로젝트/작업/문제: 타임라인이 다시 계산되지 않음](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [필터: &quot;[!UICONTROL 시스템 전체에서 활성화]&quot; 및 &quot;[!UICONTROL 시스템 전체 보기]&quot;은 다른 기능을 나타냅니다.](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [보고서: 활용성 보고서가 로드되지 않음](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)

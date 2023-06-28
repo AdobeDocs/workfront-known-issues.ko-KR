@@ -3,10 +3,10 @@ title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
 description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
+source-git-commit: 040d45f467161a5c6609b21da38094499bd7fec6
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 93%
+source-wordcount: '607'
+ht-degree: 92%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 가로 스크롤 막대가 없음](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 6월 28일 |
 | [프로젝트/작업/문제: 타임라인이 다시 계산되지 않음](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023년 6월 27일 |
 | [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)에 항목이 표시되지 않음 | 2023년 6월 12일 |
 
