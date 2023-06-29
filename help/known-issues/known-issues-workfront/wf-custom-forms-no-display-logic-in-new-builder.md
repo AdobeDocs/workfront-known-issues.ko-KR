@@ -2,15 +2,19 @@
 title: '“사용자 정의 양식: 새 양식 디자이너(Beta)에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨”'
 description: “”
 hidefromtoc: true
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 
 # 사용자 정의 양식: 새 양식 디자이너(Beta)에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 14월 6일에 해결되었습니다.
 
 현재 새 양식 디자이너(Beta)에서는 표시 논리를 사용할 수 없습니다. 따라서 새 양식 디자이너(Beta)에서 기존 양식을 편집하면 양식의 기존 표시 논리가 손실됩니다.
 

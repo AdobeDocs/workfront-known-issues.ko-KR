@@ -2,15 +2,19 @@
 title: "타임시트: 타임시트에 시간을 기록할 때 오류 발생"
 description: "사용자가 타임시트의 작업에 시간을 기록하려고 할 때 시간이 저장되지 않고 오류 메시지가 표시됩니다."
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
 # 타임시트: 타임시트에 시간을 기록할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2023년 29월 6일에 해결되었습니다.
 
 사용자가 타임시트의 작업에 시간을 기록하려고 할 때 시간이 저장되지 않고 다음과 같은 메시지가 표시됩니다.
 

@@ -2,15 +2,19 @@
 title: '“Workfront Fusion: 업데이트를 실행할 수 없습니다 오류”'
 description: “읽기 전용 트랜잭션에서 업데이트를 실행할 수 없습니다 오류와 함께 시나리오 실행이 실패합니다.”
 hidefromtoc: true
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
-workflow-type: ht
-source-wordcount: '54'
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 
 # [!DNL Workfront Fusion]: “[!UICONTROL 업데이트를 실행할 수 없습니다]” 오류
+
+>[!NOTE]
+>
+>이 문제는 2023년 14월 6일에 해결되었습니다.
 
 다음 오류와 함께 시나리오 실행이 실패합니다.
 
