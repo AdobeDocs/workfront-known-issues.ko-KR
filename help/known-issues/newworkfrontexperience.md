@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
 source-wordcount: '581'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 93%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [보드: 가로 스크롤 막대가 없음](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 6월 28일 |
-| [프로젝트/작업/문제: 타임라인이 다시 계산되지 않음](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023년 6월 27일 |
+| [프로젝트/작업/문제: 타임라인이 재검토되지 않음](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023년 6월 27일 |
 | [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)에 항목이 표시되지 않음 | 2023년 6월 12일 |
 
 {style="table-layout:auto"}
@@ -36,9 +36,9 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [필터: &quot;[!UICONTROL 시스템 전체에서 활성화]&quot; 및 &quot;[!UICONTROL 시스템 전체 보기]&quot;은 다른 기능을 나타냅니다.](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023년 6월 27일 |
+| [필터: “[!UICONTROL 시스템 전체 활성화]” 및 “[!UICONTROL 시스템 전체 보기]”가 각각 다른 기능을 나타냄](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023년 6월 27일 |
 | [보고서: 활용성 보고서가 로드되지 않음](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023년 6월 26일 |
-| [증명: 승인 옵션이에 표시되지 않음 [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023년 6월 26일 |
+| [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 6월 26일 |
 | [워크로드 밸런서: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023년 5월 11일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 5월 4일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
