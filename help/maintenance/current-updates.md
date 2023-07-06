@@ -3,7 +3,7 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4035'
 ht-degree: 100%
 
