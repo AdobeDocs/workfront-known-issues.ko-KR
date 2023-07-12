@@ -2,9 +2,9 @@
 title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
+source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
 workflow-type: tm+mt
-source-wordcount: '4193'
+source-wordcount: '4227'
 ht-degree: 98%
 
 ---
@@ -48,6 +48,12 @@ _보고서_
 _사용자_
 
 사용자가 다른 사용자를 편집하려고 할 때 사용자 편집 페이지가 비어 있고 다른 사용자를 편집할 수 없습니다.
+
+**시간이 예기치 않게 재분배됨**
+
+_워크로드 밸런서_
+
+특정 작업에 시간 할당이 수행된 경우 해당 시간이 예기치 않게 다시 계산되고 재분배될 수 있습니다. 이 문제는 날짜나 페이지 사이를 이동하거나 페이지를 새로 고친 후에 발생할 수 있습니다.
 
 +++
 
