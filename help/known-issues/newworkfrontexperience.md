@@ -4,8 +4,8 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: tm+mt
-source-wordcount: '567'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
