@@ -1,10 +1,10 @@
 ---
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: ht
-source-wordcount: '1319'
-ht-degree: 100%
+source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+workflow-type: tm+mt
+source-wordcount: '1328'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록] 비어 있음/로드 속도가 느림](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md)
       + [프로젝트/작업/문제: 타임라인이 재검토되지 않음](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
