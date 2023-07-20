@@ -2,9 +2,10 @@
 title: '문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음'
 description: '사용자가 문서를 다른 프로젝트로 이동하는 경우 해당 문서가 새 프로젝트에서 공유 권한을 상속받지 않습니다. 이 문서는 프로젝트를 공유하는 사용자들에게 공유되지 않습니다. '
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 

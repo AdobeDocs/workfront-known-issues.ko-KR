@@ -1,10 +1,11 @@
 ---
 title: '이메일 알림: Outlook에서 이메일 서식이 올바르게 지정되지 않음'
 description: Outlook 이메일 주소가 있는 사용자가 이미지 자동 다운로드를 허용하지 않도록 이메일을 설정한 상태에서  [!DNL Workfront]의 이메일 알림을 수신하면 알림에서 사용자의 프로필 이미지가 제대로 표시되지 않습니다(이미지의 이름이 종종 세로로 표시됨). 이러한 이미지를 수동으로 다운로드해도 서식 문제가 수정되지 않습니다.
+feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 100%
 

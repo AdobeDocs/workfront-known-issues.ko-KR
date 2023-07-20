@@ -1,10 +1,11 @@
 ---
 title: '“이메일 알림: 문제에 할당됨 설정이 표시됨”'
 description: '[!UICONTROL 설정] 영역에서 검토 및 요청 라이선스를 가진 사용자에게 “문제에 할당됨” 이메일 알림 설정이 표시됩니다. 이러한 라이선스 유형에는 이 설정을 사용할 수 없으며 이 설정을 활성화해도 이 이벤트에 대한 이메일 알림이 트리거되지 않습니다.'
+feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 

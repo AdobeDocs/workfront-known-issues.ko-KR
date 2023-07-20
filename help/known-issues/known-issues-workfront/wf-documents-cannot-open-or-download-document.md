@@ -1,14 +1,15 @@
 ---
 title: '“문서: 문서를 열거나 다운로드할 때 해당 페이지가 존재하지 않음 오류 발생”'
-description: “사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없으며 오류가 발생합니다.”
+description: 사용자가 Workfront에서 문서를 열거나 다운로드하려고 하면 문서를 열거나 다운로드할 수 없고 오류가 표시됩니다
 hidefromtoc: true
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: 8d25c1a4-bd9d-48cf-8ebe-a9ff49335173
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
-
 
 # 문서: 문서를 열거나 다운로드할 때 “해당 페이지가 존재하지 않음” 오류 발생
 

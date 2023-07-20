@@ -1,14 +1,15 @@
 ---
-title: '“사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제”'
-description: “다중 선택 필드로 활성화된 사용자 정의 드롭다운 필드에 문제가 표시될 수 있습니다.”
+title: '사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제'
+description: 다중 선택 필드로 활성화된 사용자 정의 드롭다운 필드에 문제가 표시될 수 있습니다.
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: ht
+feature: Custom Forms
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
-
 
 # 사용자 정의 양식: 사용자 정의 드롭다운 필드의 문제
 
@@ -29,4 +30,3 @@ ht-degree: 100%
 * 기본값을 설정합니다.
 
 _2023년 3월 30일에 처음 보고되었습니다._
-

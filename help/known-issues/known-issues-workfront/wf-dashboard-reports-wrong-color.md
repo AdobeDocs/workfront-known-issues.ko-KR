@@ -2,9 +2,10 @@
 title: '대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함'
 description: 사용자가 대시보드에서 보고서 차트를 볼 때 사용되는 색상은 사용자가 보고서 자체를 볼 때와 다릅니다. 사용자가 지정된 색상에 지정된 의미가 있을 것으로 예상할 경우 혼동이 발생할 수 있습니다.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
+feature: Reports and Dashboards
 hidefromtoc: true
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: '문서: 문서 목록 관련 문제 '
 description: 이 문서에서는 문서 목록과 관련하여 최근 보고된 문제에 대해 설명합니다.
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 

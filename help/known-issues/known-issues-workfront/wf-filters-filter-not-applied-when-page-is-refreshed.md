@@ -3,8 +3,9 @@ title: '“필터: 페이지를 새로 고칠 때 필터가 적용되지 않음�
 description: 사용자가 필터가 적용된 목록을 보고 페이지를 새로 고치면 새로 고친 페이지에 필터가 적용되지 않은 것처럼 결과가 표시됩니다.
 hidefromtoc: true
 exl-id: 8a57b310-d23e-4751-a2e2-703ba7d94c0e
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Projects
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

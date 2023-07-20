@@ -2,9 +2,10 @@
 title: '승인: 승인 위임이 잘못된 일수로 설정됨'
 description: 사용자가 개인 휴무를 예약하고 해당 기간에 대한 승인을 위임할 때 예약된 휴무 앞뒤의 날짜가 승인 위임에 포함될 수 있습니다.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
+feature: Approvals
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 

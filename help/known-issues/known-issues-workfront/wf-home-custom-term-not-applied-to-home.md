@@ -3,8 +3,9 @@ title: '홈: 사용자 정의 용어가 홈 영역에 적용되지 않음'
 description: 홈 영역에는 조직에서 설정한 용어 대신 오브젝트의 기본 이름이 표시됩니다. 이 문제는 여러 영역에서 보고되었습니다.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 

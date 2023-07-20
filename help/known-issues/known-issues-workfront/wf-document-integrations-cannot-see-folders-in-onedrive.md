@@ -1,8 +1,9 @@
 ---
 title: "문서 통합: OneDrive에 있는 모든 폴더를 볼 수 없음"
 description: "사용자가 Workfront에서 OneDrive 통합을 통해 문서에 액세스하려고 하면 OneDrive 폴더가 모두 표시되지 않고 누락된 폴더의 문서에 액세스할 수 없습니다."
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 27%

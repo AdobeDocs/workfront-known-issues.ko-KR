@@ -2,9 +2,10 @@
 title: '캘린더: OR 필터 문이 필터 규칙을 제외함'
 description: 사용자가 사용자 정의 필터 선택 사항을 기반으로 작업을 가져오는 캘린더 보고서를 설정할 때 OR 문을 추가하면 첫 번째 섹션에서 필터 규칙의 기준을 충족하는 오브젝트가 결과에서 제외됩니다.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
+feature: Reports and Dashboards
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 

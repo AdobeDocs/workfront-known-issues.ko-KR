@@ -3,8 +3,9 @@ title: '홈: 새로 고침 후 승인 위임 날짜가 변경되고 이메일 2�
 description: 사용자가 다른 시간대의 사용자에게 승인을 위임하면 위임이 정상적으로 저장된 것으로 표시되고 위임받은 사용자가 올바른 날짜가 표시된 이메일 알림을 받게 됩니다. 그러나 사용자가 페이지를 새로 고치면 시작 일자가 1일 앞으로, 종료 일자가 1일 뒤로 이동하며 이동된 날짜로 사용자에게 새 이메일 알림이 전송됩니다.
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Approvals
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 

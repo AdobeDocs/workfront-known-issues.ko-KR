@@ -3,8 +3,9 @@ title: '홈: 프로젝트 이름이 작업 목록에 GUID로 표시됨'
 description: 사용자가 액세스 권한이 없는 증명을 승인하라는 요청을 받고 [!UICONTROL 홈]의 작업 목록이 프로젝트 이름별로 정렬되면 사용자는 프로젝트 이름을 볼 수 없고 대신 GUID가 표시됩니다.
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+feature: Get Started with Workfront, Projects
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 

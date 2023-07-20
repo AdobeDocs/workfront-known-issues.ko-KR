@@ -2,9 +2,10 @@
 title: '“문서: 증명 활동 옵션이 로그인 페이지로 연결됨”'
 description: 사용자가 문서 세부 정보 페이지를 보고 증명 활동 메뉴에서 옵션을 클릭하면 의도한 대상 페이지 대신 로그인 페이지로 이동합니다.
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
