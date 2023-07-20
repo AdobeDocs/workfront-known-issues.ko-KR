@@ -3,8 +3,9 @@ title: '“증명: 증명이 증명 워크플로의 사용자에게 공유되지
 description: 증명이 증명 생성 시 사용자가 추가한 워크플로의 단계에 도달하면 증명이 사용자와 공유되지 않으며 사용자가 증명에 액세스할 수 없습니다.
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 

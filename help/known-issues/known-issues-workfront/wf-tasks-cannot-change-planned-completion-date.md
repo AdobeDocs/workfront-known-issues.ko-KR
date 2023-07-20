@@ -1,14 +1,15 @@
 ---
-title: '“작업: 작업의 계획된 완료 일자를 변경할 수 없음”'
-description: “사용자가 작업의 계획된 완료 일자를 변경하려고 할 때 필드가 응답하지 않습니다. ”
+title: '작업: 작업의 계획된 완료 일자를 변경할 수 없음'
+description: '사용자가 작업의 계획된 완료 일자를 변경하려고 할 때 필드가 응답하지 않습니다. '
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: ht
+exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
 ---
-
 
 # 작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음
 
@@ -31,4 +32,3 @@ ht-degree: 100%
 * 작업 목록에서 [!UICONTROL 계획된 완료 일자] 인라인을 변경합니다.
 
 _2022년 10월 11일에 처음 보고되었습니다._
-

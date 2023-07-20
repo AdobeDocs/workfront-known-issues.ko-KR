@@ -3,8 +3,9 @@ title: '목록: 표시 이름이 사용자 정의 필드 그룹화에 적용되�
 description: 사용자가 사용자 정의 필드로 목록을 그룹화할 때 텍스트 모드에서 표시 이름을 변경하면 필드의 원래 이름이 대신 표시됩니다.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Text Mode Reporting
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 

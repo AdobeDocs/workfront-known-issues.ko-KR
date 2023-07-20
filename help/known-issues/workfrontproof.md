@@ -3,7 +3,8 @@ title: ' [!DNL Adobe Workfront Proof]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 94%

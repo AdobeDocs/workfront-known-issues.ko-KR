@@ -3,8 +3,9 @@ title: '“워크로드 밸런서: 사용자의 휴무 일정을 고려하여 �
 description: 사용자가 휴무를 예약하고 할당된 작업이 있는 경우 워크로드 밸런서는 휴무 일정을 고려하여 타임라인을 업데이트하지 않습니다. 대신 워크로드 밸런서는 사용자가 예약된 날짜에 대해 초과 할당되었음을 보여 줍니다. 시간을 조정하려면 관리자가 프로젝트로 이동하여 타임라인을 재검토해야 합니다.
 hidefromtoc: true
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

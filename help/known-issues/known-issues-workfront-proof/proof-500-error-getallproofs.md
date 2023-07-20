@@ -2,8 +2,9 @@
 title: '“Workfront Proof: API 또는 Workfront Fusion을 통해 Workfront Proof에 액세스할 때 500 오류 발생”'
 description: “사용자가 Proof API getAllProofs 작업에 액세스하면 Workfront Proof 서버에서 “500 내부 서버 오류” 메시지가 반환됨”
 hidefromtoc: true
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

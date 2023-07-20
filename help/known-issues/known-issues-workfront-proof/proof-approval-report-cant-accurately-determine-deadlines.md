@@ -3,8 +3,9 @@ title: '“증명: 증명 승인 보고서에서 기한을 정확하게 판단�
 description: 사용자가 증명 기한 날짜가 포함된 [!UICONTROL 증명 승인] 보고서를 만들 때 보고서에 표시되는 날짜가 올바르지 않아 보고 계산에 착오가 발생하고 결과 정보가 부정확합니다.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 

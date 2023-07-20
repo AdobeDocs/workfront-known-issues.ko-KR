@@ -2,8 +2,9 @@
 title: '“보고서: 활용성 보고서가 로드되지 않음”'
 description: “고객이 활용성 보고서를 보려고 할 때 회전하는 로드 표시기가 표시되지만 보고서가 로드되지 않습니다. 보고서에서 500 오류를 반환했으나 사용자에게 보고서가 실패했다는 알림이 표시되지 않습니다.”
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

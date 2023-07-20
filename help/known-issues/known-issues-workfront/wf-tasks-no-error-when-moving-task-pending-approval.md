@@ -2,8 +2,9 @@
 title: '“작업: 승인 대기 중인 상태에서 작업 순서를 변경할 때 오류 메시지가 표시되지 않음”'
 description: “사용자가 작업 목록에서 작업 순서를 변경하려고 하는데 해당 작업이 [!UICONTROL 승인 대기 중] 상태인 경우, 작업이 작업 목록에서 이동하는 것으로 나타납니다. 새로 고침 시 사용자는 항목이 이동하지 않았음을 확인할 수 있습니다. [!UICONTROL 승인 대기 중] 상태이므로 항목을 이동할 수 없지만 사용자에게 항목을 이동할 수 없다는 메시지가 표시되지 않아 혼동이 발생할 수 있습니다.”
 hidefromtoc: true
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
-workflow-type: ht
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%
 

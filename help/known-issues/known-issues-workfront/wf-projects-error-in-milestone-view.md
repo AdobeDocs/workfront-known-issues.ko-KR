@@ -2,8 +2,9 @@
 title: '“프로젝트: 마일스톤 보기 사용 시 오류”'
 description: “사용자가 프로젝트 목록을 보고 마일스톤 보기를 사용하려고 하면 보기가 로드되지 않고 사용자에게 오류가 표시됩니다.”
 hidefromtoc: true
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

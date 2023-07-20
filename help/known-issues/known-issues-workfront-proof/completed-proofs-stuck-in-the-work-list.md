@@ -3,8 +3,9 @@ title: '홈: 완료된 증명이 작업 목록에 남아 있음'
 description: 사용자가 증명을 완료한 후에도 증명이 [!UICONTROL 작업 목록]에 표시됩니다.
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 

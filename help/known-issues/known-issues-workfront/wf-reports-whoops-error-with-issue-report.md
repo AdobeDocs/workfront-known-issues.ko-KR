@@ -1,14 +1,15 @@
 ---
-title: '“보고서: 문제 보고서에 새 문제를 추가할 때 죄송합니다 오류가 발생합니다.”'
-description: “사용자가 작업에 추가된 문제 보고서를 보고 새 문제를 추가하려고 하면 문제가 추가되지 않고 사용자에게 오류가 표시됩니다.”
+title: "보고서: 문제 보고서에 새 문제를 추가할 때 죄송합니다 오류가 발생합니다."
+description: 사용자가 작업에 추가된 문제 보고서를 보고 새 문제를 추가하려고 하면 문제가 추가되지 않고 오류가 표시됩니다.
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+exl-id: e9035706-88a5-4e63-a252-a6478eefcd11
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # 보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 “다시 시도해 보겠습니다. 죄송합니다. 문제가 발생했습니다. 무엇이 잘못되었는지 파악하여 수정할 수 있도록 Workfront에 문의해 주시기 바랍니다.”
 
 _2022년 11월 1일에 처음 보고되었습니다._
-

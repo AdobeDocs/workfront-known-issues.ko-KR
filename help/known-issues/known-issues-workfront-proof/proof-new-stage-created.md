@@ -2,9 +2,10 @@
 title: '증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐'
 description: 새 증명을 만들 때 기한을 15분 단위(10:00, 10:15, 10:30, 20:45 등)로 설정할 수 있습니다. 그러나 증명을 만든 후 해당 증명에 사용자를 추가할 때는 30분 단위(10:00, 10:30, 11:00 등)로만 기한을 설정할 수 있습니다.
 hidefromtoc: true
+feature: Workfront Proof
 exl-id: dc0725f4-d31b-4f55-a3ea-24486ce73ebf
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 100%
 

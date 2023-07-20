@@ -3,8 +3,9 @@ title: '증명: 사용자가 증명 워크플로에서 비활성화되고 증명
 description: 사용자가 워크플로에 할당된 증명에 액세스하려고 하면 액세스가 허용되지 않는다는 메시지가 표시됩니다.
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

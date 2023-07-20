@@ -3,8 +3,9 @@ title: '“Workfront Fusion: 시나리오 실행 기록에서 오류를 조회�
 description: 사용자가 시나리오 실행 기록을 보고 오류를 클릭하여 오류에 대한 자세한 내용을 보려고 하면 세부 정보가 열리지 않고 사용자에게 오류 메시지가 표시됩니다.
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 

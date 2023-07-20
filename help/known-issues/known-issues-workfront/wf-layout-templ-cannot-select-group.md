@@ -2,9 +2,10 @@
 title: '레이아웃 템플릿: 레이아웃 템플릿을 만들 때 그룹을 선택할 수 없음'
 description: 그룹 관리자인 사용자가 설정의 [!UICONTROL 인터페이스] 영역에서 레이아웃 템플릿을 만들려고 할 때 [!UICONTROL 관리 액세스] 필드의 그룹을 선택하라는 메시지가 표시됩니다. 사용자가 그룹 이름을 입력해도 그룹이 드롭다운에 표시되지 않고 선택 불가능합니다. 따라서 사용자가 레이아웃 템플릿을 저장할 수 없습니다.
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
+feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: ht
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 

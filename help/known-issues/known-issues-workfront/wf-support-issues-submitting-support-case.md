@@ -3,8 +3,9 @@ title: '[!DNL Workfront]: Experience League에서 Workfront 지원 사례를 제
 description: “ [!DNL Workfront] 공인 지원 담당자이며 지원 사례를 제출하는 데 문제가 있는 경우 아래 번호로 전화하여 도움을 받으십시오.”
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
-source-git-commit: c619bd4970134541e5d9960cd140fdca13d33641
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 

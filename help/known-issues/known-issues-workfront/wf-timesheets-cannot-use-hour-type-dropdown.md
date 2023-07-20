@@ -1,14 +1,15 @@
 ---
-title: '“타임시트: 시간 유형 드롭다운이 열리지 않음”'
-description: “사용자가 타임시트에서 [시간 유형] 드롭다운을 열려고 하면 화면이 깜박이지만 드롭다운이 열리지 않습니다. 이러한 문제는 모니터가 비정상적인 해상도로 설정되어 있거나 브라우저 창의 확대/축소 비율이 100%로 설정되어 있지 않은 경우에 발생합니다.”
+title: '타임시트: 시간 유형 드롭다운이 열리지 않음'
+description: 사용자가 타임시트에서 시간 유형 드롭다운을 열려고 하면 화면이 깜박이지만 드롭다운이 열리지 않습니다. 이러한 문제는 모니터가 비정상적인 해상도로 설정되어 있거나 브라우저 창의 확대/축소 비율이 100%로 설정되어 있지 않은 경우에 발생합니다.
 hidefromtoc: true
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
-workflow-type: ht
+exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
-
 
 # 타임시트: [!UICONTROL 시간 유형] 드롭다운이 열리지 않음
 
@@ -26,4 +27,3 @@ ht-degree: 100%
 * 모니터 해상도 조정
 
 _2023년 1월 30일에 처음 보고되었습니다._
-

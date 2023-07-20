@@ -2,9 +2,10 @@
 title: '“타임시트: 페이지를 새로 고칠 때 필터가 적용되지 않음”'
 description: 사용자가 필터를 사용하여 타임시트 목록을 조회한 후 페이지를 새로 고치거나 다른 페이지로 이동하면 필터가 적용되지 않습니다. 필터가 필터 목록에서 선택된 것으로 표시됩니다.
 hidefromtoc: true
+feature: Timesheets
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

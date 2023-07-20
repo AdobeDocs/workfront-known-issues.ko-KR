@@ -3,8 +3,9 @@ title: '“워크로드 밸런서: 한 번에 여러 필터를 사용하는 경�
 description: 사용자가 워크로드 밸런서를 조회하면서 동시에 여러 필터를 사용하면 결과가 정확하지 않습니다. 예를 들어 필터 A를 사용할 때와 필터 B를 사용할 때 표시되는 결과가 필터 A와 B를 동시에 사용할 때는 표시되지 않습니다.
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 

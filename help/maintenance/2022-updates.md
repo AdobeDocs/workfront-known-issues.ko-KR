@@ -1,8 +1,10 @@
 ---
 title: Workfront 유지 보수 업데이트 (2022년)
 description: ' [!DNL Adobe Workfront]에 대한 2022년 유지 보수 업데이트'
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ ht-degree: 100%
 * 반복에 추가된 작업의 일부 하위 작업이 [!UICONTROL 반복] 페이지에 표시되지 않습니다.
 * 사용자가 누락된 작업을 반복에 추가하려고 하면 작업이 추가되지 않고 사용자에게 다음 메시지가 표시됩니다.
 
-   “[!UICONTROL 다음 오류 발생: 선택한 항목은 애자일 팀에 할당되지 않았거나 애자일 항목이 아니므로 이동할 수 없습니다.]”
+  “[!UICONTROL 다음 오류 발생: 선택한 항목은 애자일 팀에 할당되지 않았거나 애자일 항목이 아니므로 이동할 수 없습니다.]”
 
 **일괄 편집을 통해 할당된 작업이 팀의 백로그에 표시되지 않음**
 

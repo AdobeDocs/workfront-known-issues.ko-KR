@@ -2,8 +2,9 @@
 title: '“증명: 증명 뷰어에 승인 옵션이 표시되지 않음”'
 description: “사용자가 데스크탑 증명 뷰어에서 증명을 승인하려고 할 때 승인이 요청된 직후 승인 옵션이 표시되지 않으며 사용자는 증명을 승인할 수 없습니다. 승인이 요청되고 몇 시간 후에 승인 옵션이 표시됩니다.”
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

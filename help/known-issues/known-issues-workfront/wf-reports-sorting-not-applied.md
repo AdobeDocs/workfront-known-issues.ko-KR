@@ -2,8 +2,9 @@
 title: '“보고서: 사용자 정의 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음'
 description: “사용자가 작업 보고서를 실행하면 보고서가 로드되는 동안은 올바르게 정렬된 것처럼 보이지만 로딩이 완료되면 해당 보고서가 올바르게 정렬되지 않습니다.
 hidefromtoc: true
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 

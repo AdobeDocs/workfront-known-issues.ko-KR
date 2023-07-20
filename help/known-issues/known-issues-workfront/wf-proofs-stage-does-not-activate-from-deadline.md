@@ -3,8 +3,9 @@ title: '증명: 이전 단계의 기한이 지나면 증명 단계가 활성화�
 description: 증명이 여러 단계로 구성되어 있고 이후 단계의 “활성화 단계” 설정이 “이전 단계 기한 경과 시”로 설정된 경우, 해당 이후 단계는 기한 경과 시 활성화되지 않습니다.
 hidefromtoc: true
 exl-id: c3a16e21-f645-4382-94d8-9836a773132f
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: '보고서: 캘린더에 이전 날짜가 기본으로 표시됨'
 description: '사용자가 캘린더로 이동하면 캘린더에 임의의 과거 날짜 범위(예: 1800년의 한 주)가 로드됩니다.'
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true
-source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

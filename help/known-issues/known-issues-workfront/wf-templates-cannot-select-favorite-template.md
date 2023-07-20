@@ -3,8 +3,9 @@ title: '“템플릿: 즐겨 찾는 템플릿에서 템플릿을 선택할 수 �
 description: 사용자가 작업(점 3개) 메뉴에서 템플릿을 선택하려고 할 때 마우스를 목록으로 가져가면 템플릿 목록이 사라지고 사용자가 템플릿을 선택할 수 없습니다. 이는 스크롤바가 메뉴와 템플릿 목록 사이에 있고, 마우스가 템플릿 목록으로 이동할 때 스크롤바에 포커스가 있기 때문입니다.
 hidefromtoc: true
 exl-id: 2be285e6-c09c-4eb4-b383-7237a5ae6bbb
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Projects
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
 

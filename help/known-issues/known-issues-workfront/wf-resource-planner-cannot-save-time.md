@@ -3,8 +3,9 @@ title: '리소스 플래너: 시간 추가 후 저장 불가'
 description: '[!UICONTROL 리소스 플래너]의 사용자가 시간을 추가한 다음 저장하려고 하면 [!UICONTROL 저장] 버튼이 응답하지 않습니다. 사용자가 [!UICONTROL 취소] 버튼을 클릭하면 저장되지 않은 변경 사항에 대한 메시지가 표시됩니다.'
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

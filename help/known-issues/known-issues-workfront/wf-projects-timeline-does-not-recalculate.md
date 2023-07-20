@@ -2,8 +2,9 @@
 title: '“프로젝트/작업/문제: 타임라인이 재검토되지 않음”'
 description: “타임라인 계산을 트리거해야 하는 이벤트가 발생할 때 타임라인이 재검토되지 않습니다. 이는 변경 시 발생하는 재검토 및 예약된 재검토에 영향을 줍니다. 이는 워크로드 밸런서의 정확도에 영향을 줄 수 있습니다.”
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Projects, Tasks
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

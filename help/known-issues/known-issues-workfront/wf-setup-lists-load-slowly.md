@@ -3,8 +3,9 @@ title: '설정: 설정에서 느리게 로드됨'
 description: 사용자가 설정 영역에 있는 상태에서 목록을 로드하려고 할 때 목록이 매우 느리게 로드됩니다. 이 문제는 설정 전반에 걸쳐 다양한 영역에서 보고되었습니다.
 hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

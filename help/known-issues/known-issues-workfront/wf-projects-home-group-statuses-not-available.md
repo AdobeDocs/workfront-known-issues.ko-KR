@@ -1,14 +1,15 @@
 ---
-title: '“프로젝트: 템플릿에서 프로젝트를 만들 때 홈 그룹 사용자 정의 상태를 사용할 수 없음”'
-description: “”
+title: '프로젝트: 템플릿에서 프로젝트를 만들 때 홈 그룹 사용자 정의 상태를 사용할 수 없음'
+description: ''
 hidefromtoc: true
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
-workflow-type: ht
+exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # 프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 프로젝트를 저장한 다음 상태를 편집합니다. 프로젝트를 저장하고 나면 [!UICONTROL 홈 그룹] 사용자 정의 상태가 표시됩니다.
 
 _2023년 3월 30일에 처음 보고되었습니다._
-

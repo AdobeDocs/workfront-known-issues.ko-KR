@@ -1,14 +1,15 @@
 ---
-title: '“업데이트: 업데이트 영역에서 현재 날짜의 시간을 기록할 수 없음”'
-description: “사용자가 업데이트 영역에서 현재 날짜의 시간을 기록하려고 하면 현재 날짜가 회색으로 표시되고 사용자가 시간을 입력할 수 없습니다.”
+title: '업데이트: 업데이트 영역에서 현재 날짜의 시간을 기록할 수 없음'
+description: 사용자가 업데이트 영역에서 현재 날짜의 시간을 기록하려고 하면 현재 날짜가 회색으로 표시되고 사용자가 시간을 입력할 수 없습니다.
 hidefromtoc: true
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
-workflow-type: ht
+exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc
+feature: Updates and Notifications
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음
 
@@ -23,4 +24,3 @@ ht-degree: 100%
 브라우저의 캐시를 지우거나 시크릿 창을 사용하면 일시적으로 문제를 해결할 수 있습니다.
 
 _2023년 3월 7일에 처음 보고되었습니다._
-

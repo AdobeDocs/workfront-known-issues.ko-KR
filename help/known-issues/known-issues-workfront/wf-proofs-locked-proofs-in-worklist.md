@@ -3,8 +3,9 @@ title: '“증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨”'
 description: 기한이 지났고 잠겨 있는 증명 승인이 기한이 지났음에도 불구하고 목록에서 삭제되지 않고 승인자의 홈 작업 목록에 계속 표시됩니다.
 hidefromtoc: true
 exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

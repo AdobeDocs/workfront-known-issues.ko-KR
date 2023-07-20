@@ -3,8 +3,9 @@ title: Fusion 앱 내 도움말 링크가 특정 도움말 페이지로 연결�
 description: ' [!DNL Workfront Fusion] 의 도움말 링크는 현재 원하는 도움말 페이지로 연결되지 않습니다. 대신 모든 Fusion 도움말 링크가 Workfront 설명서 홈 페이지로 연결됩니다. 이 랜딩 페이지에서 필요한 정보를 검색할 수 있습니다.'
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 

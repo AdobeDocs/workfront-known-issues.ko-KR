@@ -2,8 +2,9 @@
 title: '“타임시트: 타임시트에 시간 로깅 시 오류 발생”'
 description: “사용자가 타임시트의 작업에 시간을 기록하려고 할 때 시간이 저장되지 않고 오류 메시지가 표시됩니다.”
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
