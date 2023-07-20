@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1357'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [증명: 증명이 승인된 상태로 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [증명: 증명을 클릭할 때 &quot;이미지 없음&quot; 메시지](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [문서 통합:에서 모든 폴더를 볼 수 없음 [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)

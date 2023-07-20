@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 94%
+source-wordcount: '610'
+ht-degree: 93%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023년 7월 20일 |
 | [문서 통합:에서 모든 폴더를 볼 수 없음 [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 2023년 7월 18일 |
 | [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
 | [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023년 5월 5일 |
