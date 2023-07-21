@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '1370'
-ht-degree: 96%
+source-wordcount: '1376'
+ht-degree: 97%
 
 ---
 
@@ -17,12 +17,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: EPS 파일은 현재 지원되지 않습니다.](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [문서: 다운로드 시 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [프로젝트 / 문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [증명: 증명이 승인된 상태로 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [증명: 증명을 클릭할 때 &quot;이미지 없음&quot; 메시지](known-issues-workfront/wf-proofs-no-image-on-comment.md)
-      + [문서 통합:  [!DNL OneDrive]의 모든 폴더를 볼 수 없음](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [문서 통합: [!DNL OneDrive]의 모든 폴더를 볼 수 없음](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]이 비어 있음 / 로드 속도가 느림](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md)

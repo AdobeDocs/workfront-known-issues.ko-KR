@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 93%
+source-wordcount: '335'
+ht-degree: 91%
 
 ---
 
@@ -37,6 +37,8 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: EPS 파일은 현재 지원되지 않습니다.](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023년 7월 21일 |
+| [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 7월 21일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 6월 26일 |
 
 {style="table-layout:auto"}

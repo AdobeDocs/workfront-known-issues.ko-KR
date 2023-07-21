@@ -3,9 +3,9 @@ title: '“설정: 작업 역할 비용/시간 또는 과금/시간을 편집할
 description: “사용자가 작업 역할을 편집하는 과정에서 비용/시간 또는 과금/시간 필드를 편집하려고 할 때 필드가 비어 있으며 사용자가 이를 편집할 수 없습니다.”
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 100%
 
 # 설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음
 
+
+
 >[!NOTE]
 >
->이 문제는 미리보기 환경에서만 발견됩니다.
+>제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
 
 사용자가 작업 역할을 편집하는 과정에서 비용/시간 또는 과금/시간 필드를 편집하려고 할 때 필드가 비어 있으며 사용자가 이를 편집할 수 없습니다.
 
