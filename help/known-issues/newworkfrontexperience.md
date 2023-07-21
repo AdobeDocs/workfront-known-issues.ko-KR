@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 93%
+source-wordcount: '625'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,11 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 다운로드 시 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 7월 21일 |
+| [프로젝트 / 문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md) | 2023년 7월 21일 |
 | [증명: 증명이 승인된 상태로 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 7월 20일 |
 | [증명: 증명을 클릭할 때 &quot;이미지 없음&quot; 메시지](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023년 7월 20일 |
-| [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록] 비어 있음/로드 속도가 느림](known-issues-workfront/wf-home-blank-slow-to-load.md) | 2023년 7월 18일 |
+| [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]이 비어 있음 / 로드 속도가 느림](known-issues-workfront/wf-home-blank-slow-to-load.md) | 2023년 7월 18일 |
 | [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 6월 28일 |
 | [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)에 항목이 표시되지 않음 | 2023년 6월 12일 |
 
@@ -55,7 +57,7 @@ ht-degree: 93%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023년 7월 20일 |
-| [문서 통합:에서 모든 폴더를 볼 수 없음 [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 2023년 7월 18일 |
+| [문서 통합:  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)의 모든 폴더를 볼 수 없음 | 2023년 7월 18일 |
 | [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
 | [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023년 5월 5일 |
 | [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023년 4월 21일 |

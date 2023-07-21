@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '4258'
-ht-degree: 98%
+source-wordcount: '4218'
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,7 @@ ht-degree: 98%
 
 +++**2023년 7월 20일 유지 보수 업데이트**
 
-**다음과 같은 하위 반복 작업의 계획된 시간 설정 [!UICONTROL 단순] 할당이 없는 기간 유형**
-
-_작업_
-
-이제 이(가) 있는 새 상위 반복 작업에 대해 계획된 시간을 설정할 때 [!UICONTROL 단순] 기간 유형은 할당되지 않으며, 시간은 개별 반복에도 추가됩니다. 이 변경 이전에는 상위 작업이 할당 해제된 경우 반복에 대한 시간이 저장되지 않았습니다.
+이번 업데이트에는 사소하거나 부수적인 버그 수정만 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
 
 +++
 
