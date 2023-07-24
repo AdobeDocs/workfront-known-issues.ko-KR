@@ -4,7 +4,7 @@ description: “사용자가 MP4를 업로드하려고 할 때 해당 파일이 
 feature: Digital Content and Documents
 hidefromtoc: true
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
