@@ -4,7 +4,7 @@ description: “차트 또는 매트릭스 보고서가 날짜별로 그룹화�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
