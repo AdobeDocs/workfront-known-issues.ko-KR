@@ -4,7 +4,7 @@ description: “사용자가 프로젝트 목록을 보고 마일스톤 보기�
 hidefromtoc: true
 feature: Projects
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
