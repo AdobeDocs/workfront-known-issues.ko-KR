@@ -4,7 +4,7 @@ description: “사용자가 [!UICONTROL Kanban] 보드에서 카드에 대한 �
 feature: Agile
 hidefromtoc: true
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
