@@ -2,7 +2,7 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 96%
@@ -17,7 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [문서: 문서 승인이 승인 영역에 표시되지 않음](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [문서: 문서 승인이에 표시되지 않음 [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [문서: EPS 파일은 현재 지원되지 않습니다.](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [문서: 다운로드 시 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [프로젝트 / 문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md)

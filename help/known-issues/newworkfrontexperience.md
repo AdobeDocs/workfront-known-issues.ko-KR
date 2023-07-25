@@ -4,7 +4,7 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 92%
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 문서 승인이 승인 영역에 표시되지 않음](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023년 7월 25일 |
+| [문서: 문서 승인이에 표시되지 않음 [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023년 7월 25일 |
 | [문서: 다운로드 시 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 7월 21일 |
 | [프로젝트 / 문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md) | 2023년 7월 21일 |
 | [증명: 증명이 승인된 상태로 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 7월 20일 |
