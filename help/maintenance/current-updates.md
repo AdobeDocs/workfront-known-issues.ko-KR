@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '4218'
-ht-degree: 100%
+source-wordcount: '4304'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,16 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 7월 업데이트
+
++++**(예정) 2023년 7월 27일 유지 보수 업데이트**
+
+**&quot;[!UICONTROL 시스템 전체에서 활성화]&quot; 및 &quot;[!UICONTROL 시스템 전체 보기]&quot;은 다른 기능을 나타냅니다.**
+
+_필터_
+
+사용자가 필터를 공유하고 “[!UICONTROL 시스템 전체 보기]” 옵션을 활성화하면 필터가 시스템의 모든 사용자와 공유됩니다. 그러나 관리자가 [!UICONTROL 설정]에서 이 필터를 보면 “[!UICONTROL 시스템 전체 표시]” 열에 필터가 “[!UICONTROL false]”로 표시됩니다. 이 필터를 시스템 기본값으로 만들려면 관리자가 [!UICONTROL 설정]에서 “[!UICONTROL 시스템 전체 활성화]” 옵션을 활성화해야 합니다. 이는 문구의 유사성으로 인해 혼동을 야기할 수 있습니다.
+
++++
 
 +++**2023년 7월 20일 유지 보수 업데이트**
 
