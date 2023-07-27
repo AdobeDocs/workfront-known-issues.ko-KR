@@ -1,17 +1,17 @@
 ---
-title: '문제: 문제가 있을 때 왼쪽 탐색에 (0) 문제가 표시됨'
+title: '문제: 문제가 있는 경우에도 왼쪽 탐색 메뉴에 (0)개 문제로 표시됨'
 description: 사용자가 문제가 있는 작업을 볼 때 작업의 왼쪽 탐색 영역에 문제가 없음을 나타내는 (0)이 표시됩니다. 사용자가 작업의 문제 영역을 보면 문제가 있습니다.
 hidefromtoc: true
 exl-id: 96fd8e29-3184-4423-bf6e-dbe2f9d8e154
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
-# 문제: 문제가 있지만 왼쪽 탐색에 “(0)” 문제로 표시됨
+# 문제: 문제가 있는 경우에도 왼쪽 탐색 메뉴에 “(0)”개 문제로 표시됨
 
 >[!NOTE]
 >
