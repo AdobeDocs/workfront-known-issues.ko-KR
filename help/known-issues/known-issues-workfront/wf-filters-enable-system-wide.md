@@ -3,15 +3,19 @@ title: '“필터: 시스템 전체 활성화 및 시스템 전체 보기가 각
 description: “사용자가 필터를 공유하고 [!UICONTROL 시스템 전체 보기] 옵션을 활성화하면 필터가 시스템의 모든 사용자와 공유됩니다. 그러나 관리자가 [!UICONTROL 설정]에서 이 필터를 보면 [!UICONTROL 시스템 전체 표시] 열에 필터가 [!UICONTROL false]로 표시됩니다. 이 필터를 시스템 기본값으로 만들려면 관리자가 설정에서 [!UICONTROL 시스템 전체 활성화] 옵션을 활성화해야 합니다. 이는 문구의 유사성으로 인해 혼동을 야기할 수 있습니다.”
 feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: ht
-source-wordcount: '190'
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+workflow-type: tm+mt
+source-wordcount: '196'
 ht-degree: 100%
 
 ---
 
 
 # 필터: “[!UICONTROL 시스템 전체 활성화]” 및 “[!UICONTROL 시스템 전체 보기]”가 각각 다른 기능을 나타냄
+
+>[!NOTE]
+>
+>이 문제는 2023년 7월 27일에 해결되었습니다
 
 사용자가 필터를 공유하고 “[!UICONTROL 시스템 전체 보기]” 옵션을 활성화하면 필터가 시스템의 모든 사용자와 공유됩니다. 그러나 관리자가 [!UICONTROL 설정]에서 이 필터를 보면 “[!UICONTROL 시스템 전체 표시]” 열에 필터가 “[!UICONTROL false]”로 표시됩니다. 이 필터를 시스템 기본값으로 만들려면 관리자가 [!UICONTROL 설정]에서 “[!UICONTROL 시스템 전체 활성화]” 옵션을 활성화해야 합니다. 이는 문구의 유사성으로 인해 혼동을 야기할 수 있습니다.
 

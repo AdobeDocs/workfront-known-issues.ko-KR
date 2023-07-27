@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 89%
+source-wordcount: '332'
+ht-degree: 97%
 
 ---
 
@@ -26,9 +26,8 @@ ht-degree: 89%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [문서: 문서 승인이에 표시되지 않음 [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023년 7월 25일 |
-| [문서: 다운로드 시 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 7월 21일 |
-| [증명: 증명이 승인된 상태로 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 7월 20일 |
-| [증명: 증명을 클릭할 때 &quot;이미지 없음&quot; 메시지](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023년 7월 20일 |
+| [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 7월 20일 |
+| [증명: 증명을 클릭할 때 “이미지 없음” 메시지가 표시됨](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023년 7월 20일 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +37,6 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: EPS 파일은 현재 지원되지 않습니다.](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023년 7월 21일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 7월 21일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 6월 26일 |
 
