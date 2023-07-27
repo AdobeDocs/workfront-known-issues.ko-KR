@@ -4,7 +4,7 @@ description: “사용자가 홈 작업 목록을 조회하려는 경우 페이�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
