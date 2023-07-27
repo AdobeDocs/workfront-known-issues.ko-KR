@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 95%
+source-wordcount: '1402'
+ht-degree: 98%
 
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업/문제: 할당된 사용자가 오브젝트에 대한 액세스 권한을 받지 않음](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [문서: 문서 승인이에 표시되지 않음 [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [문서: EPS 파일은 현재 지원되지 않습니다.](known-issues-workfront/wf-documents-not-supporting-eps.md)
-      + [문서: 다운로드 시 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [프로젝트 / 문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [문서: 현재 지원되지 않는 EPS 파일](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [프로젝트/문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [증명: 증명이 승인된 상태로 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [증명: 증명을 클릭할 때 &quot;이미지 없음&quot; 메시지](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [증명: 증명을 클릭할 때 “이미지 없음” 메시지가 표시됨](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [문서 통합: [!DNL OneDrive]의 모든 폴더를 볼 수 없음](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]이 비어 있음 / 로드 속도가 느림](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
@@ -106,13 +107,13 @@ ht-degree: 95%
       + [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md)
       + [사용자 정의 양식: 계산된 필드에서 “[!UICONTROL 소유자]”를 참조할 때 “[!UICONTROL 잘못된 사용자 정의 표현식]” 메시지](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류가 발생합니다.](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [보고서: 문제 보고서에 새 문제를 추가할 때 “죄송합니다” 오류 발생](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [증명: 인쇄 요약에 이미지 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [통합: [!UICONTROL 홈 캘린더]에 이벤트가  [!DNL Outlook]보다 1시간 늦게 표시됩니다.](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [프로젝트: 템플릿에서 프로젝트를 생성할 때 성능 문제 및 오류 메시지](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [문제: 문제가 있지만 왼쪽 탐색에 “(0)”개 문제로 표시됨](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [문제: 문제가 있는 경우에도 왼쪽 탐색 메뉴에 “(0)”개 문제로 표시됨](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [작업: 작업 [!UICONTROL 요약 패널]에 시간을 입력할 때 시간이 저장되지 않음](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
