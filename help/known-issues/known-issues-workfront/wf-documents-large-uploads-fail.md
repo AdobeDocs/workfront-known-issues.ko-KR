@@ -1,13 +1,13 @@
 ---
 title: '문서: 대형 파일을 업로드할 때 오류 발생'
-description: 사용자가 대형 파일(25MB 초과)을 업로드하려고 할 때 파일이 업로드되지 않고 파일 업로드 실패 오류 메시지가 표시됩니다.
+description: 사용자가 대형 파일(25MB 초과)을 업로드하려고 하면 파일이 업로드되지 않고 “파일 업로드 실패” 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6887a0a1-4f0b-4c91-b20f-664dd5f94470
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
