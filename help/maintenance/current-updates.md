@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4303'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 +++**2023년 7월 27일 유지 보수 업데이트**
 
-**&quot;[!UICONTROL 시스템 전체에서 활성화]&quot; 및 &quot;[!UICONTROL 시스템 전체 보기]&quot;은 다른 기능을 나타냅니다.**
+**“[!UICONTROL 시스템 전체 활성화]” 및 “[!UICONTROL 시스템 전체 보기]”가 각각 다른 기능을 나타냄**
 
 _필터_
 
