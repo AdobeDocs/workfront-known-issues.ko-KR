@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] 필터](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md) | 2023년 7월 26일 |
+| [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] 필터링](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md) | 2023년 7월 26일 |
 
 {style="table-layout:auto"}
 
