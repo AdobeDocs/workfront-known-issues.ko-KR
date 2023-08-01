@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 99%
+source-wordcount: '4451'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 99%
 
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
-## 2023년 7월 업데이트
+## 2023년 8월 업데이트
 
-+++**(예정) 2023년 7월 27일 유지 보수 업데이트**
++++**(예정) 2023년 8월 3일 유지 보수 업데이트**
 
 **프로젝트가 문제를 올바르게 해결하지 않음**
 
@@ -45,6 +45,12 @@ _보고서_
 ## 2023년 7월 업데이트
 
 +++**2023년 7월 27일 유지 보수 업데이트**
+
+**프로젝트 보드 보기에서 태그 및 체크리스트 항목이 올바르게 작동하지 않음**
+
+_보드_
+
+태그와 체크리스트 항목은 Workfront 작업의 일부가 아니며 사용자 간에 공유할 수 없기 때문에 프로젝트의 보드 보기에서 제거되었습니다.
 
 **“[!UICONTROL 시스템 전체 활성화]” 및 “[!UICONTROL 시스템 전체 보기]”가 각각 다른 기능을 나타냄**
 
