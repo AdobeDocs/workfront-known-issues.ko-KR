@@ -4,7 +4,7 @@ description: “현재 Workfront에서는 EPS 파일에서 증명을 만들 수 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
