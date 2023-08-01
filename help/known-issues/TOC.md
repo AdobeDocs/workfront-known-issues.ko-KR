@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1001'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [작업/문제: 할당된 사용자가 오브젝트에 대한 액세스 권한을 받지 않음](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [문서: 문서 승인이에 표시되지 않음 [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [작업/문제: 할당된 사용자가 오브젝트에 대한 액세스 권한을 받지 못함](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
+      + [문서: [!UICONTROL 승인] 영역에 문서 승인이 표시되지 않음](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [문서: 현재 지원되지 않는 EPS 파일](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [프로젝트/문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -132,7 +132,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [[!DNL Workfront Fusion]:에 값을 입력할 수 없음 [!DNL Workfront] > [!UICONTROL 이벤트 보기] 필터](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 이벤트 보기] 필터에 값을 입력할 수 없습니다.](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL 업데이트를 실행할 수 없습니다]” 오류](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: 알림 이메일이 전송되지 않음](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: 실행이 중단되거나 지연됨](known-issues-workfront-fusion/fusion-stuck-executions.md)
