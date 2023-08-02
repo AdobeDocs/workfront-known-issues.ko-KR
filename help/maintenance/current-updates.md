@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 98%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ ht-degree: 98%
 ## 2023년 8월 업데이트
 
 +++**(예정) 2023년 8월 3일 유지 보수 업데이트**
+
+**접수 열에서 항목을 찾는 데 어려움**
+
+_보드_
+
+보드의 접수 열은 이전에 작업 및 문제에 정의된 우선 순위별로 정렬되어 특정 항목을 찾는 데 어려움이 있었습니다.
+
+이제 기본 순서는 다음과 같습니다.
+
+작업:
+
+* 기본 순서: 프로젝트 이름
+* 2차 주문: 작업 분류 구조
+
+문제
+
+* 기본 순서: 프로젝트 이름
+* 2차 주문: 참조 번호
 
 **프로젝트가 문제를 올바르게 해결하지 않음**
 

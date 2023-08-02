@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
-workflow-type: ht
-source-wordcount: '1001'
-ht-degree: 100%
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+workflow-type: tm+mt
+source-wordcount: '1046'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 새 증명 버전을 만들면 증명의 모든 버전이 삭제됩니다](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [증명: 승인된 증명이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [증명: 증명이 상단이 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [홈: 삭제할 수 없음 [!UICONTROL 할 일] 새 항목 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [작업/문제: 할당된 사용자가 오브젝트에 대한 액세스 권한을 받지 못함](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [문서: [!UICONTROL 승인] 영역에 문서 승인이 표시되지 않음](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [문서: 현재 지원되지 않는 EPS 파일](known-issues-workfront/wf-documents-not-supporting-eps.md)
