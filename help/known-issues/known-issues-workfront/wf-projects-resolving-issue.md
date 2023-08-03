@@ -3,15 +3,19 @@ title: '“프로젝트/문제: 프로젝트가 문제를 올바르게 해결하
 description: “사용자가 문제에 대해 해결 중인 오브젝트인 프로젝트의 상태를 변경하면 문제 상태가 프로젝트의 상태와 동일한 키와 일치하지 않는 상태로 변경됩니다.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
 
 # 프로젝트/문제: 프로젝트가 문제를 올바르게 해결하지 않음
+
+>[!NOTE]
+>
+>이 문제는 2023년 8월 3일에 수정되었습니다.
 
 사용자가 문제에 대해 해결 중인 오브젝트인 프로젝트의 상태를 변경하면 문제 상태가 프로젝트의 상태와 동일한 키와 일치하지 않는 상태로 변경됩니다.
 

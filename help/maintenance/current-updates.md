@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '4509'
-ht-degree: 96%
+source-wordcount: '4508'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
 
 ## 2023년 8월 업데이트
 
-+++**(예정) 2023년 8월 3일 유지 보수 업데이트**
++++**2023년 8월 3일 유지 보수 업데이트**
 
 **접수 열에서 항목을 찾는 데 어려움**
 
@@ -48,15 +48,15 @@ _프로젝트 / 문제_
 
 사용자가 문제에 대해 해결 중인 오브젝트인 프로젝트의 상태를 변경하면 문제 상태가 프로젝트의 상태와 동일한 키와 일치하지 않는 상태로 변경됩니다.
 
-**매트릭스 보고서의 &quot;죄송합니다&quot; 오류**
+**매트릭스 보고서의 “죄송합니다” 오류**
 
 _보고서_
 
-사용자가 매트릭스 보고서를 보려고 할 때 보고서가 로드되지 않고 다음과 같은 오류가 표시됩니다.
+사용자가 매트릭스 보고서를 조회하려고 할 때 보고서가 로드되지 않고 다음과 같은 오류가 표시됨:
 
 “[!UICONTROL 죄송합니다. 문제가 발생했습니다. 무엇이 잘못되었는지 파악하여 수정할 수 있도록 Workfront에 문의해 주시기 바랍니다.]”
 
-이 문제는 EMEA의 사용자에 대해 보고되었습니다.
+이는 EMEA 사용자에 대해 보고되었습니다.
 
 +++
 

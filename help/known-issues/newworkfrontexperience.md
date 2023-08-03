@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '656'
 ht-degree: 93%
 
 ---
@@ -43,7 +43,6 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 새 증명 버전을 만들면 증명의 모든 버전이 삭제됩니다](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023년 8월 2일 |
 | [홈: 삭제할 수 없음 [!UICONTROL 할 일] 새 항목 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023년 8월 2일 |
-| [프로젝트/문제: 프로젝트가 문제를 올바르게 해결하지 않음](known-issues-workfront/wf-projects-resolving-issue.md) | 2023년 7월 27일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 7월 21일 |
 | [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)에 항목이 표시되지 않음 | 2023년 7월 21일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 6월 26일 |
