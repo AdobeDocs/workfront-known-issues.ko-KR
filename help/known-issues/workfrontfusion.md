@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,8 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 |  |
+| [[!DNL Workfront Fusion]: 시나리오를 중단시키는 절전 모드 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 2023년 8월 3일 |
+| [[!DNL Workfront Fusion]: 시나리오가 실패하고 &quot;[!UICONTROL ECONNRESET 읽기]&quot; 오류](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023년 8월 3일 |
 
 {style="table-layout:auto"}
 

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 93%
+source-wordcount: '668'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명이 생성되지 않음](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
 | [증명: 승인된 증명이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023년 8월 2일 |
 | [증명: 증명이 상단이 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 8월 2일 |
 | [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023년 8월 2일 |
@@ -41,6 +42,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023년 8월 3일 |
 | [증명: 새 증명 버전을 만들면 증명의 모든 버전이 삭제됩니다](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023년 8월 2일 |
 | [홈: 삭제할 수 없음 [!UICONTROL 할 일] 새 항목 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023년 8월 2일 |
 | [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023년 7월 21일 |
