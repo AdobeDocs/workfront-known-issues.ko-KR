@@ -4,7 +4,7 @@ description: “사용자가 증명 승인 결정이 포함된 보고서를 볼 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
 
