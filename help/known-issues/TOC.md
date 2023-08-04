@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 93%
+source-wordcount: '1078'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 고정된 프로젝트가 일부 열에 정보를 표시하지 않음](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [증명: 증명이 생성되지 않음](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [증명: 새 증명 버전을 만들면 증명의 모든 버전이 삭제됩니다](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
