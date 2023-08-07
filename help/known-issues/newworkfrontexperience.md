@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
+source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 89%
+source-wordcount: '668'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 보드를 로드할 때 문제 발생](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 7일 |
 | [증명: 증명이 생성되지 않음](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
 | [증명: 승인된 증명이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023년 8월 2일 |
 | [증명: 증명이 상단이 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 8월 2일 |
