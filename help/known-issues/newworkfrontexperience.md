@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 88%
+source-wordcount: '680'
+ht-degree: 96%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 88%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [보드: 보드를 로드할 때 문제 발생](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 7일 |
-| [증명: 증명이 생성되지 않음](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
-| [증명: 승인된 증명이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023년 8월 2일 |
-| [증명: 증명이 상단이 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 8월 2일 |
+| [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
+| [증명: 승인된 증빙이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)에 남아 있음 | 2023년 8월 2일 |
+| [증명: 상단이 잘린 증명 디스플레이](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 8월 2일 |
 | [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023년 8월 2일 |
 | [작업/문제: 할당된 사용자가 오브젝트에 대한 액세스 권한을 받지 못함](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023년 7월 27일 |
 | [문서: [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)에 문서 승인이 표시되지 않음 | 2023년 7월 25일 |
@@ -41,11 +41,12 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로젝트: 을 사용하는 URL이 있는 프로젝트로 이동할 수 없음 [!UICONTROL 참조 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 2023년 8월 8일 |
 | [프로젝트: 고정된 프로젝트가 일부 열에 정보를 표시하지 않음](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 2023년 8월 4일 |
 | [증명: 증명을 클릭할 때 “이미지 없음” 메시지가 표시됨](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023년 8월 3일 |
 | [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023년 8월 3일 |
-| [증명: 새 증명 버전을 만들면 증명의 모든 버전이 삭제됩니다](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023년 8월 2일 |
-| [홈: 삭제할 수 없음 [!UICONTROL 할 일] 새 항목 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023년 8월 2일 |
+| [증명: 새 증명 버전 생성 시 증명의 모든 버전이 삭제됨](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023년 8월 2일 |
+| [홈: 새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023년 8월 2일 |
 | [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)에 항목이 표시되지 않음 | 2023년 7월 21일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |

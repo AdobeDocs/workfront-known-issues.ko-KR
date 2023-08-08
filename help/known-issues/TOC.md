@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 92%
+source-wordcount: '1095'
+ht-degree: 97%
 
 ---
 
@@ -17,14 +17,15 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 을 사용하는 URL이 있는 프로젝트로 이동할 수 없음 [!UICONTROL 참조 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [보드: 보드를 로드할 때 문제 발생](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [프로젝트: 고정된 프로젝트가 일부 열에 정보를 표시하지 않음](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md)
-      + [증명: 증명이 생성되지 않음](known-issues-workfront/wf-proofs-fail-to-generate.md)
-      + [증명: 새 증명 버전을 만들면 증명의 모든 버전이 삭제됩니다](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
-      + [증명: 승인된 증명이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
-      + [증명: 증명이 상단이 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
-      + [홈: 삭제할 수 없음 [!UICONTROL 할 일] 새 항목 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md)
+      + [증명: 새 증명 버전 생성 시 증명의 모든 버전이 삭제됨](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [증명: 승인된 증빙이 승인자의 [!UICONTROL 홈 작업 목록]에 남아 있음](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [증명: 상단이 잘린 증명 디스플레이](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [홈: 새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음](known-issues-workfront/wf-home-cannot-delete-todo.md)
       + [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [작업/문제: 할당된 사용자가 오브젝트에 대한 액세스 권한을 받지 못함](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [문서: [!UICONTROL 승인] 영역에 문서 승인이 표시되지 않음](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
@@ -141,8 +142,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [[!DNL Workfront Fusion]: 시나리오를 중단시키는 절전 모드 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
-      + [[!DNL Workfront Fusion]: 시나리오가 실패하고 &quot;[!UICONTROL ECONNRESET 읽기]&quot; 오류](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
+      + [[!DNL Workfront Fusion]: 시나리오 중단을 유발하는 수면 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]: “[!UICONTROL ECONNRESET 읽기]” 오류로 인해 시나리오 실패](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 이벤트 보기] 필터에 값을 입력할 수 없습니다.](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL 업데이트를 실행할 수 없습니다]” 오류](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: 알림 이메일이 전송되지 않음](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
