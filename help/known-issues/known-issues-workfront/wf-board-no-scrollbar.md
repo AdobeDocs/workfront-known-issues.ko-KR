@@ -4,7 +4,7 @@ description: “사용자가 보드를 보던 중 가로로 스크롤하려고 �
 feature: Agile
 hidefromtoc: true
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
