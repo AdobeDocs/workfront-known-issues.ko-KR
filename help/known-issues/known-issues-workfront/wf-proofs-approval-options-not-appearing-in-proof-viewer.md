@@ -4,7 +4,7 @@ description: “사용자가 데스크탑 증명 뷰어에서 증명을 승인�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
