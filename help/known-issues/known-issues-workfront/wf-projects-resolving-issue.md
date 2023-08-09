@@ -4,7 +4,7 @@ description: “사용자가 문제에 대해 해결 중인 오브젝트인 프�
 hidefromtoc: true
 feature: Projects
 source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
