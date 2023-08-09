@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
 workflow-type: tm+mt
-source-wordcount: '703'
-ht-degree: 93%
+source-wordcount: '716'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 업무 균형자]: [!UICONTROL 총 시간] 의 합계와 일치하지 않음 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 2023년 8월 9일 |
 | [보고서: 매트릭스 보고서를 로드할 때 문제 발생](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023년 8월 8일 |
 | [보드: 보드를 로드할 때 문제 발생](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 7일 |
 | [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
