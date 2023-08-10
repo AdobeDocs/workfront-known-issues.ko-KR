@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '380'
 ht-degree: 95%
 
 ---
@@ -27,11 +27,7 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 8월 10일 |
 | [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
-| [증명: 승인된 증빙이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)에 남아 있음 | 2023년 8월 2일 |
-| [증명: 상단이 잘린 증명 디스플레이](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 8월 2일 |
-| [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023년 8월 2일 |
 | [문서: [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)에 문서 승인이 표시되지 않음 | 2023년 7월 25일 |
-| [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 7월 20일 |
 
 {style="table-layout:auto"}
 
@@ -41,6 +37,10 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 상단이 잘린 증명 디스플레이](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 8월 10일 |
+| [증명: 승인된 증빙이 승인자의 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)에 남아 있음 | 2023년 8월 10일 |
+| [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 10일 |
+| [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023년 8월 10일 |
 | [증명: 증명에 텍스트가 겹침](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023년 8월 8일 |
 | [증명: &quot;[!UICONTROL 증명 이메일 알림 비활성화]&quot;설정이 잘못 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023년 8월 8일 |
 | [증명: 증명을 클릭할 때 “이미지 없음” 메시지가 표시됨](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023년 8월 3일 |

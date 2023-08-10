@@ -3,9 +3,9 @@ title: '“증명: 증명 뷰어에 승인 옵션이 표시되지 않음”'
 description: “사용자가 데스크탑 증명 뷰어에서 증명을 승인하려고 할 때 승인이 요청된 직후 승인 옵션이 표시되지 않으며 사용자는 증명을 승인할 수 없습니다. 승인이 요청되고 몇 시간 후에 승인 옵션이 표시됩니다.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 재현할 수 없어 종결되었습니다.
+>제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
 
 사용자가 [!UICONTROL 데스크탑 증명 뷰어]에서 증명을 승인하려고 할 때 승인이 요청된 직후 승인 옵션이 표시되지 않으며 사용자는 증명을 승인할 수 없습니다. 승인이 요청되고 몇 시간 후에 승인 옵션이 표시됩니다.
 
