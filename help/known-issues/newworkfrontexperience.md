@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '695'
-ht-degree: 92%
+source-wordcount: '717'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 8월 10일 |
+| [[!UICONTROL 홈]: &quot;[!UICONTROL 언급]새로운 &quot;위젯 [!UICONTROL 홈] 사용자가 태그 지정된 메시지로 제한되지 않음](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 8월 10일 |
 | [[!UICONTROL 업무 균형자]: [!UICONTROL 총 시간] 의 합계와 일치하지 않음 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 2023년 8월 9일 |
 | [보고서: 매트릭스 보고서를 로드할 때 문제 발생](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023년 8월 8일 |
 | [보드: 보드를 로드할 때 문제 발생](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 7일 |

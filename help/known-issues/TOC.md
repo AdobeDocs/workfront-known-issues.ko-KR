@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1127'
-ht-degree: 94%
+source-wordcount: '1147'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL 홈]: &quot;[!UICONTROL 언급]새로운 &quot;위젯 [!UICONTROL 홈] 사용자가 태그 지정된 메시지로 제한되지 않음](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 업무 균형자]: [!UICONTROL 총 시간] 의 합계와 일치하지 않음 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [보고서: 매트릭스 보고서를 로드할 때 문제 발생](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [증명: 증명에 텍스트가 겹침](known-issues-workfront/wf-proofs-overlapping-text.md)
