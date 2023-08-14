@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
 source-wordcount: '1147'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 93%
       + [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 홈]: &quot;[!UICONTROL 언급]새로운 &quot;위젯 [!UICONTROL 홈] 사용자가 태그 지정된 메시지로 제한되지 않음](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 업무 균형자]: [!UICONTROL 총 시간] 의 합계와 일치하지 않음 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
-      + [보고서: 매트릭스 보고서를 로드할 때 문제 발생](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [증명: 증명에 텍스트가 겹침](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [증명: &quot;[!UICONTROL 증명 이메일 알림 비활성화]&quot;설정이 잘못 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [프로젝트: 을 사용하는 URL이 있는 프로젝트로 이동할 수 없음 [!UICONTROL 참조 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
-      + [보드: 보드를 로드할 때 문제 발생](known-issues-workfront/wf-boards-issues-with-loading.md)
-      + [프로젝트: 고정된 프로젝트가 일부 열에 정보를 표시하지 않음](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
+      + [보고서: 매트릭스 보고서 로드 시 문제](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [증명: 증명에 겹치는 텍스트](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [증명: “[!UICONTROL 증명 이메일 알림 비활성화]” 설정이 부정확하게 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [프로젝트: [!UICONTROL 참조 ID]를 사용하는 URL로 프로젝트를 탐색할 수 없음](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [보드: 보드 로드 시 문제](known-issues-workfront/wf-boards-issues-with-loading.md)
+      + [프로젝트: 고정된 프로젝트의 일부 열에 정보가 표시되지 않음](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [증명: 새 증명 버전 생성 시 증명의 모든 버전이 삭제됨](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
