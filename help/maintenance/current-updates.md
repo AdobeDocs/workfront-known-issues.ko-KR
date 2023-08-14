@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4657'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 
 +++**(예정) 2023년 8월 10일 유지 보수 업데이트**
 
-**삭제할 수 없음 [!UICONTROL 할 일] 새 항목 [!UICONTROL 홈] 경험**
+**새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음**
 
 _홈_
 
@@ -34,11 +34,11 @@ _홈_
 
 [!UICONTROL 할 일] 항목에 시간이 기록된 경우 이러한 문제가 발생할 수 있습니다.
 
-**고정된 프로젝트가 일부 열에 정보를 표시하지 않음**
+**고정된 프로젝트의 일부 열에 정보가 표시되지 않음**
 
 _프로젝트_
 
-사용자가 핀을 사용하여 고정된 프로젝트로 이동하면 오브젝트 목록(예: 작업 목록)에 빈 열이 표시될 수 있습니다. 예: [!UICONTROL 할당] 할당이 수행되었더라도 열에 할당이 표시되지 않을 수 있습니다.
+사용자가 핀을 사용하여 고정된 프로젝트로 이동하면 오브젝트 목록(예: 작업 목록)에 빈 열이 표시될 수 있습니다. 예를 들어 할당이 이루어졌더라도 [!UICONTROL 할당] 열에 할당이 표시되지 않을 수 있습니다.
 
 **시나리오 중단을 유발하는 수면 모듈**
 
