@@ -4,9 +4,9 @@ description: “새 홈 환경의 사용자가 할 일 위젯에서 항목을 �
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
