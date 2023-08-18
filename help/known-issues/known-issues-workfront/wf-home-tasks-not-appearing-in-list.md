@@ -4,7 +4,7 @@ description: “사용자가 홈 작업 목록을 볼 때 작업 목록에 표�
 feature: Get Started with Workfront
 hidefromtoc: true
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
