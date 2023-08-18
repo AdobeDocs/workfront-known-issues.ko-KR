@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1147'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md)
-      + [[!UICONTROL 홈]: &quot;[!UICONTROL 언급]새로운 &quot;위젯 [!UICONTROL 홈] 사용자가 태그 지정된 메시지로 제한되지 않음](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 업무 균형자]: [!UICONTROL 총 시간] 의 합계와 일치하지 않음 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 멘션]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]의 합계와 일치하지 않음](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [보고서: 매트릭스 보고서 로드 시 문제](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [증명: 증명에 겹치는 텍스트](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [증명: “[!UICONTROL 증명 이메일 알림 비활성화]” 설정이 부정확하게 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
