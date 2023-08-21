@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: ht
-source-wordcount: '723'
+source-wordcount: '696'
 ht-degree: 100%
 
 ---
@@ -47,10 +47,7 @@ ht-degree: 100%
 | [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023년 10월 8일 |
 | [문서: [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)에 문서 승인이 표시되지 않음 | 2023년 10월 8일 |
 | [증명: 증명에 겹치는 텍스트](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023년 8월 8일 |
-| [증명: “[!UICONTROL 증명 이메일 알림 비활성화]” 설정이 부정확하게 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023년 8월 8일 |
-| [프로젝트: [!UICONTROL 참조 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)를 사용하는 URL로 프로젝트를 탐색할 수 없음 | 2023년 8월 8일 |
 | [증명: 증명을 클릭할 때 “이미지 없음” 메시지가 표시됨](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023년 8월 3일 |
-| [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023년 8월 3일 |
 | [증명: 새 증명 버전 생성 시 증명의 모든 버전이 삭제됨](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023년 8월 2일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
