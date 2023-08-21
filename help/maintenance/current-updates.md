@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4799'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 99%
 
 +++**2023년 8월 17일 유지 보수 업데이트**
 
-**을 사용하는 URL이 있는 프로젝트로 이동할 수 없음 [!UICONTROL 참조 ID]**
+**[!UICONTROL 참조 ID]**&#x200B;를 사용하는 URL로 프로젝트를 탐색할 수 없음
 
 _프로젝트_
 
 사용자가 [!UICONTROL 참조 ID] 번호가 포함된 URL을 사용하여 프로젝트로 이동하려고 하면 오류 메시지가 표시되는 페이지로 리디렉션됩니다. [!UICONTROL 참조 ID]가 있는 URL을 사용하여 작업으로 이동하면 예상대로 작동합니다.
 
-**&quot;[!UICONTROL 증명 이메일 알림 비활성화]&quot;설정이 잘못 표시됨**
+**“[!UICONTROL 증명 이메일 알림 비활성화]” 설정이 부정확하게 표시됨**
 
 _증명_
 
