@@ -3,9 +3,9 @@ title: '“증명: 증명 마크업을 조정할 수 없음”'
 description: “사용자가 증명 뷰어에서 댓글을 작성하고 증명에 마크업을 표시한 다음 클릭하면 사용자가 더 이상 해당 마크업을 조정할 수 없습니다. ”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # 증명: 증명 마크업을 조정할 수 없음
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>이 문제는 2023년 8월 17일에 수정되었습니다.
 
 사용자가 증명 뷰어에서 댓글을 작성하고 증명에 마크업을 표시한 다음 클릭하면 사용자가 더 이상 해당 마크업을 조정할 수 없습니다.
 

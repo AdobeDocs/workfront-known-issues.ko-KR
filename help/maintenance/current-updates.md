@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
-workflow-type: ht
-source-wordcount: '4657'
-ht-degree: 100%
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+workflow-type: tm+mt
+source-wordcount: '4799'
+ht-degree: 99%
 
 ---
 
@@ -22,7 +22,29 @@ ht-degree: 100%
 
 ## 2023년 8월 업데이트
 
-+++**(예정) 2023년 8월 10일 유지 보수 업데이트**
++++**2023년 8월 17일 유지 보수 업데이트**
+
+**을 사용하는 URL이 있는 프로젝트로 이동할 수 없음 [!UICONTROL 참조 ID]**
+
+_프로젝트_
+
+사용자가 [!UICONTROL 참조 ID] 번호가 포함된 URL을 사용하여 프로젝트로 이동하려고 하면 오류 메시지가 표시되는 페이지로 리디렉션됩니다. [!UICONTROL 참조 ID]가 있는 URL을 사용하여 작업으로 이동하면 예상대로 작동합니다.
+
+**&quot;[!UICONTROL 증명 이메일 알림 비활성화]&quot;설정이 잘못 표시됨**
+
+_증명_
+
+사용자가 [!DNL Workfront]에서 증명 설정을 조회할 때 “[!UICONTROL 증명 이메일 알림 비활성화]” 확인란이 올바른 현재 설정을 정확하게 표시하지 않습니다. 증명 이메일 알림이 비활성화되었음을 나타내는 확인란을 선택하면 알림이 실제로 활성화됩니다. 그 반대의 경우도 마찬가지입니다.
+
+**증명 마크업을 조정할 수 없음**
+
+_증명_
+
+사용자가 증명 뷰어에서 댓글을 작성하고 증명에 마크업을 표시한 다음 클릭하면 사용자가 더 이상 해당 마크업을 조정할 수 없습니다.
+
++++
+
++++**2023년 8월 10일 유지 보수 업데이트**
 
 **새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음**
 
