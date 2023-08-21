@@ -4,7 +4,7 @@ description: “사용자가 증명 뷰어에서 댓글을 작성하고 증명�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
