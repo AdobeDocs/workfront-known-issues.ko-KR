@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: ht
-source-wordcount: '1147'
-ht-degree: 100%
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
+workflow-type: tm+mt
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 리소스 플래너]: 필터가 적용될 때 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
       + [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 멘션]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]의 합계와 일치하지 않음](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
