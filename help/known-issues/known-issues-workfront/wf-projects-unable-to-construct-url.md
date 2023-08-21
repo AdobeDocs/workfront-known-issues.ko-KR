@@ -4,7 +4,7 @@ description: “사용자가 참조 ID 번호가 포함된 URL을 사용하여 �
 hidefromtoc: true
 feature: Projects
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
