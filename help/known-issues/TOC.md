@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 98%
+source-wordcount: '1171'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [레이아웃 템플릿: 보고서에서 불일치를 발생하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md)
       + [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 리소스 플래너]: 필터가 적용될 때 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md)
