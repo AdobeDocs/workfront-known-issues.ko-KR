@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: ht
-source-wordcount: '4799'
-ht-degree: 100%
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+workflow-type: tm+mt
+source-wordcount: '4918'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 8월 업데이트
+
++++**(예정) 2023년 8월 24일 유지 보수 업데이트**
+
+**목록 또는 글머리 기호에서 텍스트를 선택할 수 없음**
+
+_증명_
+
+사용자가 증명 뷰어에서 증명을 보고 목록이나 글머리 기호에 있는 텍스트를 선택하려고 하면 텍스트 선택 도구가 효과가 없으며 텍스트를 선택할 수 없습니다.
+
+**새 증명 버전을 만들면 모든 증명 버전이 삭제됩니다.**
+
+_증명_
+
+사용자가 문서에서 증명을 만들면 증명이 생성됩니다. 그러나 사용자가 다른 버전의 증명을 만들면 이전 버전과 새 버전이 모두 삭제됩니다. 원본 문서에는 [!UICONTROL 증명 만들기] 옵션이 있으며, 증명 버전은 [!DNL Workfront]의 [!UICONTROL 증명] 영역에 있는 [!UICONTROL 휴지통] 영역에서 찾을 수 있습니다.
+
++++
 
 +++**2023년 8월 17일 유지 보수 업데이트**
 

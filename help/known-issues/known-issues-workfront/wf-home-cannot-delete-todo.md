@@ -3,9 +3,9 @@ title: '“홈: 새 홈 경험에서 할 일 항목을 삭제할 수 없음”'
 description: “새 홈 환경의 사용자가 할 일 위젯에서 항목을 삭제하려고 하면 항목이 삭제되지 않고 사용자에게 오류가 표시됩니다.”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
-workflow-type: ht
-source-wordcount: '107'
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 100%
 
 # 홈: 새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음
 
+<!--
 >[!NOTE]
 >
->이 문제는 2023년 8월 10일에 해결되었습니다.
+>This issue was resolved on August 10, 2023.
+-->
 
 새 [!UICONTROL 홈] 환경의 사용자가 [!UICONTROL 할 일] 위젯에서 항목을 삭제하려고 하면 항목이 삭제되지 않고 사용자에게 다음 오류가 표시됩니다.
 
