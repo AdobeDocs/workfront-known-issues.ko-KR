@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '4918'
+source-wordcount: '4917'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 99%
 
 ## 2023년 8월 업데이트
 
-+++**(예정) 2023년 8월 24일 유지 보수 업데이트**
++++**2023년 8월 24일 유지 보수 업데이트**
 
 **목록 또는 글머리 기호에서 텍스트를 선택할 수 없음**
 

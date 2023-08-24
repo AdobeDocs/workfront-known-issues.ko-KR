@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 98%
+source-wordcount: '358'
+ht-degree: 100%
 
 ---
 
@@ -36,11 +36,10 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 22월 8일 |
-| [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023년 21월 8일 |
+| [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 8월 22일 |
+| [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023년 8월 21일 |
 | [증명: 상단이 잘린 증명 디스플레이](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 10월 8일 |
 | [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 10월 8일 |
-| [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023년 10월 8일 |
 | [증명: 증명에 겹치는 텍스트](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023년 8월 8일 |
 | [증명: “[!UICONTROL 증명 이메일 알림 비활성화]” 설정이 부정확하게 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023년 8월 8일 |
 | [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023년 8월 3일 |

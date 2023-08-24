@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 96%
+source-wordcount: '705'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: 새 위젯에 필터가 적용되지 않음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023년 8월 23일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 멘션]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 10월 8일 |
 | [보고서: 매트릭스 보고서 로드 시 문제](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023년 8월 8일 |
 | [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
@@ -38,18 +39,16 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 22월 8일 |
-| [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 23월 8일 |
-| [홈: 새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 22월 8일 |
-| [보드: 보드 로드 시 문제](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 22월 8일 |
-| [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023년 21월 8일 |
-| [[!UICONTROL 리소스 플래너]: 필터가 적용될 때 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 21월 8일 |
+| [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 8월 22일 |
+| [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 8월 23일 |
+| [홈: 새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 22일 |
+| [보드: 보드 로드 시 문제](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 22일 |
+| [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023년 8월 21일 |
+| [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 8월 21일 |
 | [증명: 상단이 잘린 증명 디스플레이](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 10월 8일 |
 | [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 10월 8일 |
-| [증명: 목록 또는 글머리 기호에서 텍스트를 선택할 수 없음](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023년 10월 8일 |
 | [문서: [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)에 문서 승인이 표시되지 않음 | 2023년 10월 8일 |
 | [증명: 증명에 겹치는 텍스트](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023년 8월 8일 |
-| [증명: 새 증명 버전 생성 시 증명의 모든 버전이 삭제됨](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023년 8월 2일 |
 | [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023년 3월 30일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
@@ -61,7 +60,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [레이아웃 템플릿: 보고서에서 불일치를 발생하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 21월 8일 |
+| [레이아웃 템플릿: 보고서에서 불일치를 발생하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 8월 21일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 10월 8일 |
 | [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |
 | [설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023년 7월 21일 |
