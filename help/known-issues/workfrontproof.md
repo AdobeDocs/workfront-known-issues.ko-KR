@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '352'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 8월 3일 |
 | [문서: [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)에 문서 승인이 표시되지 않음 | 2023년 7월 25일 |
 
 {style="table-layout:auto"}

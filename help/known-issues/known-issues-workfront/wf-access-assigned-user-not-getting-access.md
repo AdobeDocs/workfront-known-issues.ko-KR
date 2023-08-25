@@ -3,15 +3,19 @@ title: '“작업/문제: 할당된 사용자가 오브젝트에 대한 액세�
 description: “사용자가 작업 오브젝트에 할당될 때 오브젝트에 대한 액세스 권한을 받지 못하며 할당을 완료할 수 없습니다. 사용자는 액세스를 요청할 수 있지만 이로 인해 작업 항목 완료에 시간과 복잡성이 추가됩니다.”
 hidefromtoc: true
 feature: Tasks
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # 작업/문제: 할당된 사용자가 오브젝트에 대한 액세스 권한을 받지 못함
+
+>[!NOTE]
+>
+>이 문제는 종결되었습니다.
 
 사용자가 작업 오브젝트에 할당될 때 오브젝트에 대한 액세스 권한을 받지 못하며 할당을 완료할 수 없습니다. 사용자는 액세스를 요청할 수 있지만 이로 인해 작업 항목 완료에 시간과 복잡성이 추가됩니다.
 
