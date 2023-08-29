@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
 source-wordcount: '673'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 홈]: 새 위젯에 필터가 적용되지 않음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023년 8월 25일 |
+| [[!UICONTROL 홈]: 새 [!UICONTROL 홈] 경험의 위젯에 필터가 적용되지 않음](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023년 8월 25일 |
 | [보고서: 매트릭스 보고서 로드 시 문제](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023년 8월 25일 |
 | [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 8월 22일 |
 | [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 8월 23일 |
@@ -57,7 +57,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [레이아웃 템플릿: 보고서에서 불일치를 발생하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 8월 21일 |
+| [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 8월 21일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 10월 8일 |
 | [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |
 | [설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023년 7월 21일 |

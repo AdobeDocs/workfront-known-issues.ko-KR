@@ -5,7 +5,7 @@ role: User
 source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
 workflow-type: tm+mt
 source-wordcount: '1183'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [[!UICONTROL 홈]: 새 위젯에 필터가 적용되지 않음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
-      + [레이아웃 템플릿: 보고서에서 불일치를 발생하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md)
+      + [[!UICONTROL 홈]: 새 [!UICONTROL 홈] 경험의 위젯에 필터가 적용되지 않음](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
+      + [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md)
       + [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md)
