@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4917'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ _증명_
 
 사용자가 증명 뷰어에서 증명을 보고 목록이나 글머리 기호에 있는 텍스트를 선택하려고 하면 텍스트 선택 도구가 효과가 없으며 텍스트를 선택할 수 없습니다.
 
-**새 증명 버전을 만들면 모든 증명 버전이 삭제됩니다.**
+**새 증명 버전 생성 시 증명의 모든 버전이 삭제됨**
 
 _증명_
 
