@@ -3,15 +3,19 @@ title: '“증명: 증명에 겹치는 텍스트”'
 description: “사용자가 증명 뷰어에서 증명을 조회할 때 원본 문서에서 텍스트가 겹치지 않음에도 불구하고 조회 중인 텍스트는 겹치는 것을 보게 됩니다. ”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
 
 
 # 증명: 증명에 겹치는 텍스트
+
+>[!NOTE]
+>
+>이 문제는 종결되었습니다.
 
 사용자가 증명 뷰어에서 증명을 조회할 때 원본 문서에서 텍스트가 겹치지 않음에도 불구하고 조회 중인 텍스트는 겹치는 것을 보게 됩니다.
 

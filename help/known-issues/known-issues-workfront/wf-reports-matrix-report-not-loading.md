@@ -3,15 +3,19 @@ title: '“보고서: 매트릭스 보고서 로드 시 문제”'
 description: “사용자가 매트릭스 보고서를 차트로 로드하려고 하면 문제가 발생할 수 있습니다.”
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 
 # 보고서: 매트릭스 보고서 로드 시 문제
+
+>[!NOTE]
+>
+>이 문제는 2023년 8월 31일에 수정되었습니다.
 
 사용자가 매트릭스 보고서를 차트로 로드하려고 하면 다음 중 하나의 문제가 발생할 수 있습니다.
 

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 100%
+source-wordcount: '648'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 모든 팀이 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 9월 7일 |
+| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 9월 1일 |
+| [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 9월 1일 |
+| [프로젝트: new에서 로드할 때 프로젝트가 비어 있음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023년 9월 1일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 멘션]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 10월 8일 |
 
 {style="table-layout:auto"}
@@ -35,18 +39,10 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 홈]: 새 [!UICONTROL 홈] 경험의 위젯에 필터가 적용되지 않음](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023년 8월 25일 |
-| [보고서: 매트릭스 보고서 로드 시 문제](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023년 8월 25일 |
+| [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 9월 7일 |
+| [사용자 정의 양식: 사용자 정의 필드를 삭제할 수 없음](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023년 9월 1일 |
 | [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 8월 22일 |
-| [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023년 8월 23일 |
-| [홈: 새 [!UICONTROL 홈] 경험에서 [!UICONTROL 할 일] 항목을 삭제할 수 없음](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 22일 |
 | [보드: 보드 로드 시 문제](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 22일 |
-| [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023년 8월 21일 |
-| [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 8월 21일 |
-| [증명: 상단이 잘린 증명 디스플레이](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023년 10월 8일 |
-| [증명: 증명 생성 실패](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023년 10월 8일 |
-| [문서: [!UICONTROL 승인] 영역](known-issues-workfront/wf-documents-approvals-not-on-tab.md)에 문서 승인이 표시되지 않음 | 2023년 10월 8일 |
-| [증명: 증명에 겹치는 텍스트](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023년 8월 8일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
 {style="table-layout:auto"}
@@ -57,10 +53,10 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 홈]: 새로 만들기 [!UICONTROL 홈] 위젯 미리 보기에 올바른 오브젝트 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023년 9월 7일 |
 | [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 8월 21일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 10월 8일 |
 | [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |
-| [설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023년 7월 21일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023년 7월 20일 |
 | [문서 통합: [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)의 모든 폴더를 볼 수 없음 | 2023년 7월 18일 |
 | [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |

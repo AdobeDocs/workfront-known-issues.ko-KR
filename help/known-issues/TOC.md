@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '1183'
-ht-degree: 100%
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 홈]: 새로 만들기 [!UICONTROL 홈] 위젯 미리 보기에 올바른 오브젝트 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 모든 팀이 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [사용자 정의 양식: 사용자 정의 필드를 삭제할 수 없음](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL 홈]: 검색 기능이 레거시에서 작동하지 않음 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [프로젝트: new에서 로드할 때 프로젝트가 비어 있음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL 홈]: 새 [!UICONTROL 홈] 경험의 위젯에 필터가 적용되지 않음](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md)
       + [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

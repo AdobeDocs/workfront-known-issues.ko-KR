@@ -3,8 +3,8 @@ title: '“Agile: 카드를 편집할 때 Kanban 보드가 비어 있음”'
 description: “사용자가 [!UICONTROL Kanban] 보드에서 카드에 대한 무언가를 변경하면 변경 내용을 새로 고치는 대신 [!UICONTROL Kanban] 보드가 공백이 됩니다. 사용자가 페이지를 수동으로 새로 고치면 [!UICONTROL Kanban] 보드가 복구되면서 올바른 변경 사항을 표시합니다.”
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
+source-git-commit: ec999273c30f4d0fad244f1977a50af1e68b5638
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -29,4 +29,7 @@ ht-degree: 100%
 페이지를 새로 고칩니다.
 
 _2023년 5월 14일에 처음 보고되었습니다._
+
+
+
 
