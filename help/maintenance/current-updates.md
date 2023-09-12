@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 97%
+source-wordcount: '5290'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,28 @@ ht-degree: 97%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 9월 업데이트
+
++++**(예정) 2023년 9월 14일 유지 보수 업데이트**
+
+**&quot;[!UICONTROL 팩터리 없음]문서를 추가할 때 &quot;오류 발생**
+
+_문서_
+
+사용자가 외부 소스에서 문서를 추가하려고 할 때 [!DNL Workfront] 은 소스에 액세스할 수 없으며 사용자에게 다음 오류가 표시됩니다.
+
+&quot;[!UICONTROL 다음 오류 발생: 인증 유형 null에 대한 팩토리를 찾을 수 없음]&quot;
+
+**매트릭스 보고서의 “죄송합니다” 오류**
+
+_보고서_
+
+사용자가 매트릭스 보고서를 조회하려고 할 때 보고서가 로드되지 않고 다음과 같은 오류가 표시됨:
+
+“[!UICONTROL 죄송합니다. 문제가 발생했습니다. 무엇이 잘못되었는지 파악하여 수정할 수 있도록 Workfront에 문의해 주시기 바랍니다.]”
+
+이 문제는 보고서를 날짜 범위별로 그룹화할 때 발생합니다.
+
++++
 
 +++**2023년 9월 11일 유지 보수 업데이트**
 
