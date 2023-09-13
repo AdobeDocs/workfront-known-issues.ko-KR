@@ -3,17 +3,17 @@ title: '“레이아웃 템플릿: 보고서에서 불일치를 유발하는 레
 description: '“Classic Workfront 경험의 레이아웃 템플릿은 더 이상 Workfront 인터페이스에서 사용할 수 없지만 여전히 Workfront 데이터에 영향을 줄 수 있습니다. 이로 인해 보고서 또는 대시보드의 레이아웃 템플릿(예: 다음 사용자와 공유)의 영향을 받는 필드에 불일치가 발생할 수 있습니다.”'
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
 
 # 레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿
 
-Classic Workfront 경험의 레이아웃 템플릿은 더 이상 Workfront 인터페이스에서 사용할 수 없지만 여전히 Workfront 데이터에 영향을 줄 수 있습니다. 이로 인해 보고서 또는 대시보드의 레이아웃 템플릿(예: 다음 사용자와 공유)의 영향을 받는 필드에 불일치가 발생할 수 있습니다.
+Classic의 레이아웃 템플릿 [!DNL Workfront] 경험은에서 더 이상 사용할 수 없습니다. [!DNL Workfront] 인터페이스, 그러나 여전히 영향을 미칠 수 있음 [!DNL Workfront] 데이터. 이로 인해 레이아웃 템플릿의 영향을 받는 필드가 일치하지 않을 수 있습니다(예: [!UICONTROL 다음 사용자와 공유]).
 
 **해결 방법**
 
