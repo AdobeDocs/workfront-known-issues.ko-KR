@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 95%
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 9월 1일 |
-| [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 9월 1일 |
+| 없음 |  |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,8 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 9월 14일 |
+| [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 9월 14일 |
 | [증명: “[!UICONTROL 증명 이메일 알림 비활성화]” 설정이 부정확하게 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023년 8월 8일 |
 | [증명: 증명 마크업을 조정할 수 없음](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023년 8월 3일 |
 

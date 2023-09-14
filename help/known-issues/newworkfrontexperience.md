@@ -4,7 +4,7 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
 source-wordcount: '648'
 ht-degree: 91%
@@ -26,8 +26,6 @@ ht-degree: 91%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 모든 팀이 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 9월 7일 |
-| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 9월 1일 |
-| [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 9월 1일 |
 | [프로젝트: new에서 로드할 때 프로젝트가 비어 있음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023년 9월 1일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 멘션]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 10월 8일 |
 
@@ -39,6 +37,8 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 9월 14일 |
+| [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 9월 14일 |
 | [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 9월 7일 |
 | [사용자 정의 양식: 사용자 정의 필드를 삭제할 수 없음](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023년 9월 1일 |
 | [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 8월 22일 |
