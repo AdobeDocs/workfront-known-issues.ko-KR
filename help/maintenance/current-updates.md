@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
+source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
 workflow-type: tm+mt
-source-wordcount: '5290'
+source-wordcount: '5289'
 ht-degree: 96%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 96%
 
 ## 2023년 9월 업데이트
 
-+++**(예정) 2023년 9월 14일 유지 보수 업데이트**
++++**2023년 9월 14일 유지 보수 업데이트**
 
 **&quot;[!UICONTROL 팩터리 없음]문서를 추가할 때 &quot;오류 발생**
 
