@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 91%
+source-wordcount: '709'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 모든 팀이 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 9월 7일 |
-| [프로젝트: new에서 로드할 때 프로젝트가 비어 있음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023년 9월 1일 |
+| [필터: 단추에 &quot;&quot;라는 레이블이 지정됨[!UICONTROL 더 이상 사용되지 않음]필터를 공유할 때 &quot;&quot;](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023년 15월 9일 |
+| [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 7월 9일 |
+| [프로젝트: 새 [!UICONTROL 홈] 환경](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)에서 프로젝트를 로드하면 프로젝트가 비어 있음 | 2023년 9월 1일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 멘션]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 10월 8일 |
 
 {style="table-layout:auto"}
@@ -37,9 +38,14 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 9월 14일 |
-| [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 9월 14일 |
-| [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 9월 7일 |
+| [문서: 문서를 다른 폴더로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023년 15월 9일 |
+| [증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023년 15월 9일 |
+| [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 15월 9일 |
+| [보드: 작업 스트림의 보드에서 사용자를 할당할 수 없음](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023년 15월 9일 |
+| [업데이트: 잘못된 사용자가 보낸 댓글이 표시됩니다.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023년 15월 9일 |
+| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 14월 9일 |
+| [증명: 정적 증명의 텍스트 형식이 웹 사이트의 형식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 14월 9일 |
+| [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 7월 9일 |
 | [사용자 정의 양식: 사용자 정의 필드를 삭제할 수 없음](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023년 9월 1일 |
 | [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 8월 22일 |
 | [보드: 보드 로드 시 문제](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023년 8월 22일 |
@@ -53,7 +59,7 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 홈]: 새로 만들기 [!UICONTROL 홈] 위젯 미리 보기에 올바른 오브젝트 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023년 9월 7일 |
+| [[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023년 7월 9일 |
 | [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 8월 21일 |
 | [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 10월 8일 |
 | [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |

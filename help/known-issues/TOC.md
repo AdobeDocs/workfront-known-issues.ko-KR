@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1297'
 ht-degree: 95%
 
 ---
@@ -17,12 +17,18 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [[!UICONTROL 홈]: 새로 만들기 [!UICONTROL 홈] 위젯 미리 보기에 올바른 오브젝트 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 모든 팀이 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [문서: 문서를 다른 폴더로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+      + [증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [업데이트: 잘못된 사용자가 보낸 댓글이 표시됩니다.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [보드: 작업 스트림의 보드에서 사용자를 할당할 수 없음](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [필터: 단추에 &quot;&quot;라는 레이블이 지정됨[!UICONTROL 더 이상 사용되지 않음]필터를 공유할 때 &quot;&quot;](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
+      + [[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [사용자 정의 양식: 사용자 정의 필드를 삭제할 수 없음](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL 홈]: 검색 기능이 레거시에서 작동하지 않음 [!UICONTROL 홈 작업 목록]](known-issues-workfront/wf-home-search-not-working-legacy.md)
-      + [증명: 정적 증명의 텍스트 서식이 웹 사이트의 서식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [프로젝트: new에서 로드할 때 프로젝트가 비어 있음 [!UICONTROL 홈] 경험](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [[!UICONTROL 홈]: 검색 기능이 기존 [!UICONTROL 홈 작업 목록]에서 작동하지 않음&quot;](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [증명: 정적 증명의 텍스트 형식이 웹 사이트의 형식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [프로젝트: 새 [!UICONTROL 홈] 환경에서 프로젝트를 로드하면 프로젝트가 비어 있음](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL 홈]: 새 [!UICONTROL 홈] 경험의 위젯에 필터가 적용되지 않음](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md)
       + [증명: PDF에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
