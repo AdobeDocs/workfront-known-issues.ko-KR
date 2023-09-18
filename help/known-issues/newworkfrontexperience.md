@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 92%
+source-wordcount: '726'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 제목 없는 카드가 백로그에 표시되고 나타납니다.](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 2023년 15월 9일 |
 | [필터: 단추에 &quot;&quot;라는 레이블이 지정됨[!UICONTROL 더 이상 사용되지 않음]필터를 공유할 때 &quot;&quot;](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023년 15월 9일 |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 7월 9일 |
 | [프로젝트: 새 [!UICONTROL 홈] 환경](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)에서 프로젝트를 로드하면 프로젝트가 비어 있음 | 2023년 9월 1일 |
@@ -38,6 +39,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명을 생성하는 데 시간이 너무 오래 걸림](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023년 18월 9일 |
 | [문서: 문서를 다른 폴더로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023년 15월 9일 |
 | [증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023년 15월 9일 |
 | [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 15월 9일 |
