@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '738'
-ht-degree: 89%
+source-wordcount: '744'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: 오브젝트 페이지에 요소가 없습니다](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023년 20월 9일 |
 | [증명: 증명을 생성하는 데 시간이 너무 오래 걸림](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023년 18월 9일 |
 | [문서: 문서를 다른 폴더로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023년 15월 9일 |
 | [증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023년 15월 9일 |
