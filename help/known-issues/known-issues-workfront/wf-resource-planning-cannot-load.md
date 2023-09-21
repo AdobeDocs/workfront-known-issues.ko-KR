@@ -3,9 +3,9 @@ title: '“리소스 플래너: 필터 적용 시 플래너가 로드되지 않�
 description: “사용자가 리소스 플래너를 로드하려고 하면 플래너가 로드되지 않고 사용자에게 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 676171730de5c12a7a19e4311d756529aaa3b73a
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 100%
 
 # [!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on August 31, 2023.
--->
+>이 문제는 2023년 9월 21일에 수정되었습니다.
 
 사용자가 [!UICONTROL 리소스 플래너]를 로드하려고 하면 플래너가 로드되지 않고 사용자에게 다음과 같은 오류 메시지가 표시됩니다.
 
