@@ -3,15 +3,19 @@ title: "증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨"
 description: "URL에서 증명을 만들 때 이러한 문제가 보고되었습니다."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 5%
+source-wordcount: '73'
+ht-degree: 13%
 
 ---
 
 
 # 증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 9월 21일에 수정되었습니다.
 
 URL에서 증명을 만들 때 다음과 같은 문제가 보고되었습니다.
 

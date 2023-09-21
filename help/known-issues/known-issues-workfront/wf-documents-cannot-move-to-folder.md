@@ -3,15 +3,19 @@ title: "문서: 문서를 다른 폴더로 이동할 수 없음"
 description: "사용자가 문서를 오브젝트 폴더로 이동하면 오브젝트를 다른 폴더로 이동할 수 없습니다."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 12%
 
 ---
 
 
 # 문서: 문서를 다른 폴더로 이동할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2023년 9월 30일에 수정되었습니다.
 
 사용자가 문서를 객체 폴더로 이동하면 해당 객체를 다른 폴더로 이동할 수 없습니다.
 

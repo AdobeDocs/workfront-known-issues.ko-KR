@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 88%
+source-wordcount: '703'
+ht-degree: 92%
 
 ---
 
@@ -41,13 +41,8 @@ ht-degree: 88%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]: 오브젝트 페이지에 요소가 없습니다](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023년 20월 9일 |
-| [증명: 증명을 생성하는 데 시간이 너무 오래 걸림](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023년 18월 9일 |
-| [문서: 문서를 다른 폴더로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023년 15월 9일 |
-| [증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023년 15월 9일 |
 | [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 15월 9일 |
-| [보드: 작업 스트림의 보드에서 사용자를 할당할 수 없음](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023년 15월 9일 |
 | [업데이트: 잘못된 사용자가 보낸 댓글이 표시됩니다.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023년 15월 9일 |
-| [문서: 다운로드 도중 XML 오류 발생](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023년 14월 9일 |
 | [증명: 정적 증명의 텍스트 형식이 웹 사이트의 형식과 일치하지 않음](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023년 14월 9일 |
 | [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 7월 9일 |
 | [사용자 정의 양식: 사용자 정의 필드를 삭제할 수 없음](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023년 9월 1일 |
