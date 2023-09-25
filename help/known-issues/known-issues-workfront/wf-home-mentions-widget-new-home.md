@@ -3,15 +3,21 @@ title: '“홈: 새 홈의 멘션 위젯이 사용자가 태그된 메시지로 
 description: “사용자가 새 홈 경험에서 멘션 위젯을 조회할 때 태그가 지정되지 않았거나 멘션되지 않은 댓글이 표시됩니다.”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 멘션]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.
+
+<!--Requested article, won't fix-->
+
+>[!NOTE]
+>
+>이 문제는 설계대로 작동하는 것이므로 종결되었습니다.
 
 사용자가 새 [!UICONTROL 홈] 경험에서 “[!UICONTROL 멘션]” 위젯을 조회할 때 태그가 지정되지 않았거나 멘션되지 않은 댓글이 표시됩니다. 위젯에 다음과 같은 댓글이 포함됩니다.
 
