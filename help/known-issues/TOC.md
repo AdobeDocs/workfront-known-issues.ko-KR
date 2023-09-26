@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '1342'
-ht-degree: 92%
+source-wordcount: '1352'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업무 균형자: 용량이 부정확하여 초과 할당된 것으로 표시되는 사용자](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: 오브젝트 페이지에 요소가 없습니다](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [증명: 증명에 댓글을 달 때 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [보드: 제목 없는 카드가 백로그에 표시되고 나타납니다.](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)

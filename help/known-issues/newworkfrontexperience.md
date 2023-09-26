@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 95%
+source-wordcount: '644'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 26월 9일 |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 7월 9일 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [업무 균형자: 용량이 부정확하여 초과 할당된 것으로 표시되는 사용자](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023년 26월 9일 |
 | [증명: 증명에 댓글을 달 때 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023년 19월 9일 |
 | [[!DNL Workfront]: 오브젝트 페이지에 요소가 없습니다](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023년 20월 9일 |
 | [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 15월 9일 |
