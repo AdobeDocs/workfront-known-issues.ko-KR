@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
+source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '651'
 ht-degree: 93%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [공유: 오브젝트를 공유할 때 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023년 27월 9일 |
 | [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 26월 9일 |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 7월 9일 |
 
