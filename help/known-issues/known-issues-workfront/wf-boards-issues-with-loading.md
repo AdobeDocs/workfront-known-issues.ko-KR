@@ -1,17 +1,21 @@
 ---
-title: '“보드: 보드 로드 시 문제”'
-description: “사용자가 보드를 로드하려고 하면 문제가 발생할 수 있습니다.”
+title: '보드: 보드 로드 시 문제'
+description: 사용자가 보드를 로드하려고 할 때 문제가 발생할 수 있습니다.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 61%
+source-wordcount: '100'
+ht-degree: 53%
 
 ---
 
-
 # 보드: 보드 로드 시 문제
+
+>[!NOTE]
+>
+>이 문제는 2023년 9월 28일에 수정되었습니다.
 
 사용자가 보드를 로드하려고 하면 다음 중 하나의 문제가 발생할 수 있습니다.
 
@@ -21,4 +25,3 @@ ht-degree: 61%
 이 문제는 Workstreams에 있는 보드로 제한되는 것으로 보입니다.
 
 _2023년 7월 28일에 처음 보고되었습니다._
-

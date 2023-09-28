@@ -3,15 +3,19 @@ title: "업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험
 description: "사용자가 새 댓글 달기 경험에서 댓글을 달고 해당 댓글이 새 경험의 댓글 영역에 표시되면 기존 댓글 달기 경험에 동일한 댓글이 표시되지 않을 수 있습니다. 이로 인해 기존 경험을 사용하는 사용자가 댓글을 놓칠 수 있습니다."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---
 
 
 # 업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다
+
+>[!NOTE]
+>
+>이 문제는 2023년 9월 28일에 수정되었습니다.
 
 사용자가 새 댓글 달기 경험에서 댓글을 달 때 해당 댓글이 새 경험의 댓글 영역에 표시되면 기존 댓글 달기 경험에 동일한 댓글이 표시되지 않을 수 있습니다. 이로 인해 기존 경험을 사용하는 사용자가 댓글을 놓칠 수 있습니다.
 

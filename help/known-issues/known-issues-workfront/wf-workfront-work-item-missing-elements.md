@@ -3,15 +3,19 @@ title: "[!DNL Workfront]: 오브젝트 페이지에 요소가 없습니다."
 description: "사용자가 의 개체에서 사용자 정의 섹션으로 이동할 때 [!DNL Workfront]: 로드되는 페이지에 일부 요소가 누락될 수 있습니다."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 13%
+source-wordcount: '101'
+ht-degree: 18%
 
 ---
 
 
 # [!DNL Workfront]: 오브젝트 페이지에 요소가 없습니다
+
+>[!NOTE]
+>
+>이 문제는 2023년 9월 28일에 수정되었습니다.
 
 사용자가 의 오브젝트에서 사용자 정의 섹션으로 이동할 때 [!DNL Workfront]: 로드되는 페이지에 일부 요소가 누락될 수 있습니다. 이러한 요소는 다음과 같습니다.
 
