@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 91%
+source-wordcount: '665'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [알림: 자동 미리 알림 이메일이 전송되지 않음](known-issues-workfront/wf-notifications-overdue-error.md) | 2023년 28월 9일 |
 | [문서 통합: 에셋을 Experience Manager Assets 통합의 폴더로 드래그할 때 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023년 28월 9일 |
 | [공유: 오브젝트를 공유할 때 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023년 27월 9일 |
 | [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 26월 9일 |
