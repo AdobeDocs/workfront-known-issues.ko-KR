@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 90%
+source-wordcount: '676'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 카드에 체크리스트 항목의 올바른 수가 표시되지 않음](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023년 29월 9일 |
 | [알림: 자동 미리 알림 이메일이 전송되지 않음](known-issues-workfront/wf-notifications-overdue-error.md) | 2023년 28월 9일 |
 | [문서 통합: 에셋을 Experience Manager Assets 통합의 폴더로 드래그할 때 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023년 28월 9일 |
 | [공유: 오브젝트를 공유할 때 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023년 27월 9일 |

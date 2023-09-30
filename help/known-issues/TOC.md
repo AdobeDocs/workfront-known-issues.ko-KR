@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 89%
+source-wordcount: '1402'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보드: 카드에 체크리스트 항목의 올바른 수가 표시되지 않음](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [알림: 자동 미리 알림 이메일이 전송되지 않음](known-issues-workfront/wf-notifications-overdue-error.md)
       + [문서 통합: 에셋을 Experience Manager Assets 통합의 폴더로 드래그할 때 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [사용자: 사용자에게 등록 알림 메시지를 보낼 때 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
