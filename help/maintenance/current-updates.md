@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -166,8 +166,6 @@ _프로젝트_
 이는 사용자가 다른 사용자로 로그인한 후 해당 다른 사용자로 로그아웃하고 자신의 [!UICONTROL 홈] 페이지로 돌아왔을 때 발생합니다.
 
 +++
-
-**새 [!UICONTROL 홈] 경험의 위젯에 필터가 적용되지 않음**
 
 ## 2023년 8월 업데이트
 
