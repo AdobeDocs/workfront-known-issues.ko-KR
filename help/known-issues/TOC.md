@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 88%
+source-wordcount: '1452'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업무 균형자: 페이지를 새로 고친 후 수동 시간 변경 내용이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [홈: 위임된 작업은 공유되지 않으며 홈 작업 목록에 표시되지 않습니다](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [증명: 이메일 링크에서 증명을 공유할 때 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [로그인: 작업이 성공했지만 암호를 재설정할 때 오류가 표시됩니다](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [보드: 보드가 느리게 로드됨](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [보드: 카드를 이동할 수 없음](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [보드: 카드에 체크리스트 항목의 올바른 수가 표시되지 않음](known-issues-workfront/wf-boards-checklist-item-count.md)

@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '5776'
+source-wordcount: '5802'
 ht-degree: 91%
 
 ---
@@ -20,9 +20,21 @@ ht-degree: 91%
 
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
+## 2023년 10월 업데이트
+
++++**(예정) 2023년 10월 5일 유지 보수 업데이트**
+
+**자동 미리 알림 이메일이 전송되지 않음**
+
+_알림_
+
+자동 이메일 알림 메시지가 전송되지 않습니다. 이 작업은 2023년 9월 14일에 시작되었습니다.
+
++++
+
 ## 2023년 9월 업데이트
 
-+++**(예정) 2023년 9월 28일 유지 보수 업데이트**
++++**2023년 9월 28일 유지 보수 업데이트**
 
 **사용자 정의 필드를 삭제할 수 없음**
 
