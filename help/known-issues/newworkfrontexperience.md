@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 82%
+source-wordcount: '713'
+ht-degree: 99%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 82%
 | [증명: 이메일 링크에서 증명을 공유할 때 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 3일 |
 | [로그인: 작업이 성공했지만 암호를 재설정할 때 오류가 표시됩니다](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023년 10월 3일 |
 | [보드: 카드에 체크리스트 항목의 올바른 수가 표시되지 않음](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023년 29월 9일 |
-| [알림: 자동 미리 알림 이메일이 전송되지 않음](known-issues-workfront/wf-notifications-overdue-error.md) | 2023년 28월 9일 |
 | [문서 통합: 에셋을 Experience Manager Assets 통합의 폴더로 드래그할 때 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023년 28월 9일 |
 | [공유: 오브젝트를 공유할 때 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023년 27월 9일 |
 | [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 26월 9일 |
@@ -44,8 +43,6 @@ ht-degree: 82%
 | -----------------------------------------------------------------| ----------------- |
 | [업무 균형자: 페이지를 새로 고친 후 수동 시간 변경 내용이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023년 10월 3일 |
 | [홈: 위임된 작업은 공유되지 않으며 홈 작업 목록에 표시되지 않습니다](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023년 10월 3일 |
-| [보드: 보드가 느리게 로드됨](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2023년 10월 2일 |
-| [보드: 카드를 이동할 수 없음](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2023년 10월 2일 |
 | [사용자: 사용자에게 등록 알림 메시지를 보낼 때 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023년 28월 9일 |
 | [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 28월 9일 |
 | [업무 균형자: 용량이 부정확하여 초과 할당된 것으로 표시되는 사용자](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023년 26월 9일 |

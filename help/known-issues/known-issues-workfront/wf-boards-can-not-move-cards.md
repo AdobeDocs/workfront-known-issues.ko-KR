@@ -1,17 +1,21 @@
 ---
-title: "보드: 카드를 이동할 수 없음"
-description: "사용자가 보드에서 카드를 이동하려고 할 때 카드가 이동하지 않습니다."
+title: '보드: 카드를 이동할 수 없음'
+description: 사용자가 보드에서 카드를 이동하려고 할 때 카드가 이동하지 않습니다.
 hidefromtoc: true
 feature: Agile
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+exl-id: cfdd7d96-7861-4671-af02-028dfb0a90a4
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 95%
 
 ---
 
-
 # 보드: 카드를 이동할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2023년 10월 5일에 수정되었습니다.
 
 사용자가 보드에서 카드를 이동하려고 할 때 카드가 이동하지 않습니다. 이 문제는 다음과 같은 상황에서 발생합니다.
 
