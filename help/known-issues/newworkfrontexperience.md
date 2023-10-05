@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '702'
 ht-degree: 99%
 
 ---
@@ -44,7 +44,6 @@ ht-degree: 99%
 | [업무 균형자: 페이지를 새로 고친 후 수동 시간 변경 내용이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023년 10월 3일 |
 | [홈: 위임된 작업은 공유되지 않으며 홈 작업 목록에 표시되지 않습니다](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023년 10월 3일 |
 | [사용자: 사용자에게 등록 알림 메시지를 보낼 때 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023년 28월 9일 |
-| [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023년 28월 9일 |
 | [업무 균형자: 용량이 부정확하여 초과 할당된 것으로 표시되는 사용자](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023년 26월 9일 |
 | [증명: 증명에 댓글을 달 때 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023년 19월 9일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
