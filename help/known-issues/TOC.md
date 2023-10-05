@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '1452'
-ht-degree: 85%
+source-wordcount: '1460'
+ht-degree: 99%
 
 ---
 
@@ -182,6 +182,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [[!DNL Workfront Fusion]: 다음으로 초대를 보낼 때 오류 발생 [!DNL Workfront] > [!UICONTROL 기타 작업] 모듈](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: 시나리오 중단을 유발하는 수면 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL ECONNRESET 읽기]” 오류로 인해 시나리오 실패](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 이벤트 보기] 필터에 값을 입력할 수 없습니다.](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
