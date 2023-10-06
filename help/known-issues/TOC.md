@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: 60959758457f54f6120171639b0c6abcce581310
 workflow-type: tm+mt
-source-wordcount: '1460'
-ht-degree: 99%
+source-wordcount: '1467'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 비공개 업데이트가 valueexpression 필드에 표시됩니다.](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [업무 균형자: 페이지를 새로 고친 후 수동 시간 변경 내용이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [홈: 위임된 작업은 공유되지 않으며 홈 작업 목록에 표시되지 않습니다](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [증명: 이메일 링크에서 증명을 공유할 때 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)

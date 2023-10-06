@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: 60959758457f54f6120171639b0c6abcce581310
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 99%
+source-wordcount: '712'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 비공개 업데이트가 valueexpression 필드에 표시됩니다.](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023년 10월 6일 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 모듈](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023년 10월 5일 |
 | [증명: 이메일 링크에서 증명을 공유할 때 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 3일 |
 | [로그인: 작업이 성공했지만 암호를 재설정할 때 오류가 표시됩니다](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023년 10월 3일 |
