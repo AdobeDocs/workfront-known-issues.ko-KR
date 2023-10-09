@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 60959758457f54f6120171639b0c6abcce581310
+source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
-source-wordcount: '1467'
-ht-degree: 98%
+source-wordcount: '1488'
+ht-degree: 97%
 
 ---
 
@@ -17,29 +17,32 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
+      + [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
       + [보고서: 비공개 업데이트가 valueexpression 필드에 표시됩니다.](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
-      + [업무 균형자: 페이지를 새로 고친 후 수동 시간 변경 내용이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [홈: 위임된 작업은 공유되지 않으며 홈 작업 목록에 표시되지 않습니다](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
-      + [증명: 이메일 링크에서 증명을 공유할 때 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [로그인: 작업이 성공했지만 암호를 재설정할 때 오류가 표시됩니다](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [로드 밸런서: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [로그인: 작업이 성공한 경우에도 암호 재설정 시 오류가 표시됨](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [보드: 보드가 느리게 로드됨](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [보드: 카드를 이동할 수 없음](known-issues-workfront/wf-boards-can-not-move-cards.md)
-      + [보드: 카드에 체크리스트 항목의 올바른 수가 표시되지 않음](known-issues-workfront/wf-boards-checklist-item-count.md)
-      + [알림: 자동 미리 알림 이메일이 전송되지 않음](known-issues-workfront/wf-notifications-overdue-error.md)
-      + [문서 통합: 에셋을 Experience Manager Assets 통합의 폴더로 드래그할 때 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
-      + [사용자: 사용자에게 등록 알림 메시지를 보낼 때 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
-      + [공유: 오브젝트를 공유할 때 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
-      + [업무 균형자: 용량이 부정확하여 초과 할당된 것으로 표시되는 사용자](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
-      + [[!DNL Workfront]: 오브젝트 페이지에 요소가 없습니다](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
-      + [증명: 증명에 댓글을 달 때 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md)
-      + [보드: 제목 없는 카드가 백로그에 표시되고 나타납니다.](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
-      + [증명: 증명을 생성하는 데 시간이 너무 오래 걸림](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
+      + [보드: 카드에 체크리스트 항목의 정확한 개수가 표시되지 않음](known-issues-workfront/wf-boards-checklist-item-count.md)
+      + [알림: 자동 알림 이메일이 전송되지 않음](known-issues-workfront/wf-notifications-overdue-error.md)
+      + [문서 통합: Experience Manager Assets 통합에서 자산을 폴더로 드래그하는 경우 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
+      + [사용자: 사용자에게 등록하라고 알려주면 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
+      + [공유: 오브젝트 공유 시 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
+      + [로드 밸런서: 용량이 부정확하기 때문에 사용자가 초과 할당으로 표시됨](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
+      + [[!DNL Workfront]: 오브젝트 페이지에 요소가 누락됨](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
+      + [증명: 증명에 대한 댓글을 다는 경우의 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md)
+      + [보드: 제목 없는 카드가 백로그에 표시됨](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
+      + [증명: 증명 생성 시 시간이 오래 걸림](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [문서: 문서를 다른 폴더로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
-      + [증명: 증명의 채도가 감소하거나 잘린 상태로 표시됨](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
-      + [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
-      + [업데이트: 잘못된 사용자가 보낸 댓글이 표시됩니다.](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
-      + [보드: 작업 스트림의 보드에서 사용자를 할당할 수 없음](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
-      + [필터: 단추에 &quot;&quot;라는 레이블이 지정됨[!UICONTROL 더 이상 사용되지 않음]필터를 공유할 때 &quot;&quot;](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
+      + [증명: 증명이 채도가 낮거나 잘린 것으로 표시됨](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [업데이트: 새로운 댓글 달기 경험에서 작성한 댓글은 기존 경험에 표시되지 않음](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [업데이트: 댓글이 잘못된 사용자가 전송한 것으로 표시됨](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [보드: 작업 스트림의 보드에 사용자를 할당할 수 없음](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [필터: 필터 공유 시 “[!UICONTROL 더 이상 사용되지 않는 기능]”으로 레이블이 지정된 버튼](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [사용자 정의 양식: 사용자 정의 필드를 삭제할 수 없음](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
@@ -159,8 +162,8 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [Workfront 증명: 대시보드 데이터가 항상 정확한 것은 아닙니다.](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
-      + [Workfront Proof: 검색 데이터가 항상 정확하지는 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
+      + [Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: 검색 결과 반환 없음](known-issues-workfront-proof/proof-search-returns-no-results.md)
