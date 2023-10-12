@@ -4,14 +4,18 @@ description: 사용자가 Experience Manager Assets 통합을 통해 연결된 �
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 5965a409-b14d-4ceb-90f4-55d7cffd3d19
-source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
-workflow-type: ht
-source-wordcount: '114'
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
+workflow-type: tm+mt
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
 
 # 문서 통합: Experience Manager Assets 통합에서 자산을 폴더로 드래그하는 경우 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2023년 10월 12일에 수정되었습니다.
 
 사용자가 Experience Manager Assets 통합을 통해 연결된 폴더로 자산을 드래그하려고 하면 문서가 이동하지 않고 사용자에게 다음 오류가 표시됩니다.
 

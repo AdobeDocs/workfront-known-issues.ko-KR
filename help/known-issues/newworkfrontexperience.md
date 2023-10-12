@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 95%
+source-wordcount: '731'
+ht-degree: 93%
 
 ---
 
@@ -27,15 +27,10 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 9일 |
 | [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023년 10월 9일 |
-| [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 10월 6일 |
-| [보고서: 비공개 업데이트가 valueexpression 필드에 표시됩니다.](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023년 10월 6일 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 모듈](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023년 10월 5일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 3일 |
-| [로그인: 작업이 성공한 경우에도 암호 재설정 시 오류가 표시됨](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023년 10월 3일 |
 | [보드: 카드에 체크리스트 항목의 정확한 개수가 표시되지 않음](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023년 9월 29일 |
-| [문서 통합: Experience Manager Assets 통합에서 자산을 폴더로 드래그하는 경우 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023년 9월 28일 |
 | [공유: 오브젝트 공유 시 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023년 9월 27일 |
-| [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md) | 2023년 9월 26일 |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 9월 7일 |
 
 {style="table-layout:auto"}
@@ -46,11 +41,13 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023년 10월 12일 |
+| [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 10월 12일 |
+| [로그인: 작업이 성공한 경우에도 암호 재설정 시 오류가 표시됨](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023년 10월 12일 |
+| [보고서: 비공개 업데이트가 valueexpression 필드에 표시됩니다.](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023년 10월 12일 |
 | [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023년 10월 10일 |
-| [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 9일 |
 | [로드 밸런서: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023년 10월 3일 |
 | [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023년 10월 3일 |
-| [사용자: 사용자에게 등록하라고 알려 주면 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023년 9월 28일 |
 | [로드 밸런서: 용량이 부정확하기 때문에 사용자가 초과 할당으로 표시됨](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023년 9월 26일 |
 | [증명: 증명에 대한 댓글을 다는 경우의 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023년 9월 19일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |

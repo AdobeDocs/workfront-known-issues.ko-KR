@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 94%
+source-wordcount: '349'
+ht-degree: 95%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 94%
 | [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 9일 |
 | [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023년 10월 9일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 3일 |
-| [문서 통합: Experience Manager Assets 통합에서 자산을 폴더로 드래그하는 경우 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023년 9월 28일 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +37,6 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 9일 |
 | [증명: 증명에 대한 댓글을 다는 경우의 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023년 9월 19일 |
 
 {style="table-layout:auto"}

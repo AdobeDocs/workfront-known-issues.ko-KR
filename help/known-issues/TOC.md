@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '1494'
-ht-degree: 97%
+source-wordcount: '1508'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
