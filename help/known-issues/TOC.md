@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1508'
-ht-degree: 96%
+source-wordcount: '1328'
+ht-degree: 95%
 
 ---
 
@@ -87,39 +87,23 @@ ht-degree: 96%
       + [필터: “[!UICONTROL 시스템 전체 활성화]” 및 “[!UICONTROL 시스템 전체 보기]”가 각각 다른 기능을 나타냄](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [보고서: 활용성 보고서가 로드되지 않음](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [증명: [!UICONTROL 증명 뷰어]에 승인 옵션이 표시되지 않음](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [타임시트: 타임시트에 시간 로깅 시 오류 발생](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]에 항목이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [보고서: 매트릭스 보고서를 볼 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [사용자 정의 양식: 새 양식 디자이너(Beta)에서 사용자 정의 양식을 편집할 때 표시 논리가 손실됨](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [애자일: 카드를 편집할 때 [!UICONTROL Kanban] 보드가 비어 있음](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [보고서: 모든 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [워크로드 밸런서: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [보고서: 열 헤더를 기준으로 정렬하면 이전 정렬로 되돌아감](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [프로젝트: [!UICONTROL 마일스톤] 보기 사용 시 오류](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [작업: [!UICONTROL 승인 대기 중] 상태에서 작업 순서를 변경할 때 오류 메시지 없음](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [타임시트: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]가 열림](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [템플릿: [!UICONTROL 즐겨 찾는 템플릿]에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [프로젝트: 템플릿에서 프로젝트를 만들 때 [!UICONTROL 홈 그룹] 사용자 정의 상태를 사용할 수 없음](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [증명: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [검색: [!DNL Workfront] 검색 시간 초과](known-issues-workfront/wf-search-search-times-out.md)
-      + [증명: 증명을 볼 때 증명 버전을 전환할 수 없음](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [증명: 사용자가 증명 워크플로에서 비활성화되고 증명에 액세스할 때 “[!UICONTROL 액세스 허용되지 않음]” 메시지가 표시됨](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [문서: 문서 목록 관련 문제](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [증명: 이전 단계의 기한이 지나면 증명 단계가 활성화되지 않음](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [문서: [!DNL SharePoint]에서 연결되어 있는 문서에 액세스할 때 404 오류 발생](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [필터: 페이지를 새로 고칠 때 필터가 적용되지 않음](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [워크로드 밸런서: 한 번에 여러 필터를 사용하는 경우 결과가 정확하지 않음](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [프로젝트: 문제에서 변환된 프로젝트는 포트폴리오 또는 프로그램에서 권한을 상속받지 않음](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [문서: 대형 파일을 업로드할 때 오류 발생](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [문서: [!DNL Google Drive]에서 문서를 추가할 수 없음](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [문서: 상위 문제가 프로젝트로 변환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 96%
       + [[!UICONTROL 홈]:  [!DNL Chrome] 이외의 브라우저 사용 시 [!UICONTROL 홈] 요약 문제 발생](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 새 작업 옵션](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [업데이트: 팀 이름이 @mention에 표시되지 않음](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [캘린더: [!UICONTROL 휴무] 캘린더 관련 문제](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [애자일: 반복에 대한 [!UICONTROL 완료된 포인트]의 불일치](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [이메일 알림: “[!UICONTROL 문제에 할당됨]” 설정이 표시됨](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [이메일 알림: 사용자가 댓글 스레드로 이동되지 않음](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 96%
       + [Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]: 검색 결과 반환 없음](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 보고서] 영역은 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 96%
       + [[!DNL Workfront Fusion]: 시나리오 중단을 유발하는 수면 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL ECONNRESET 읽기]” 오류로 인해 시나리오 실패](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 이벤트 보기] 필터에 값을 입력할 수 없습니다.](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion]: “[!UICONTROL 업데이트를 실행할 수 없습니다]” 오류](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion]: 알림 이메일이 전송되지 않음](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]: 실행이 중단되거나 지연됨](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion]: Workfront Fusion의 시간 초과 오류](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md)
