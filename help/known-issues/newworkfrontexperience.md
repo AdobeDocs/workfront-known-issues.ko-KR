@@ -50,7 +50,7 @@ ht-degree: 95%
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 9일 |
 | [로드 밸런서: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023년 10월 3일 |
 | [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023년 10월 3일 |
-| [사용자: 사용자에게 등록하라고 알려주면 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023년 9월 28일 |
+| [사용자: 사용자에게 등록하라고 알려 주면 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023년 9월 28일 |
 | [로드 밸런서: 용량이 부정확하기 때문에 사용자가 초과 할당으로 표시됨](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023년 9월 26일 |
 | [증명: 증명에 대한 댓글을 다는 경우의 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023년 9월 19일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
