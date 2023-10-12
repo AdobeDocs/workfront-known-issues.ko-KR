@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
-ht-degree: 97%
+source-wordcount: '6083'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,13 @@ ht-degree: 97%
 
 ## 2023년 10월 업데이트
 
-+++**(예정) 2023년 10월 12일 유지 보수 업데이트**
++++**2023년 10월 12일 유지 보수 업데이트**
+
+**워크스트림을 사용하지 않는 계정의 워크스트림이 제거됨**
+
+_보드_
+
+보드 응용 프로그램에서 작업 스트림을 생성한 적이 없는 계정의 경우 작업 스트림 영역이 보드 대시보드에서 제거되었습니다. 워크스트림을 사용하는 계정은 여전히 액세스할 수 있습니다.
 
 **문제가 작업으로 변환될 때 계산된 필드에 값이 유지되지 않음**
 
