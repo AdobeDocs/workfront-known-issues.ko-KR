@@ -1,15 +1,15 @@
 ---
-title: '“문서: 다운로드 도중 XML 오류 발생”'
-description: “사용자가 문서를 다운로드하려고 하면 문서가 다운로드되지 않고 메시지와 함께 XML 텍스트가 있는 페이지가 표시됩니다.”
+title: '문서: 다운로드 도중 XML 오류 발생'
+description: 사용자가 문서를 다운로드하려고 하면 문서가 다운로드되지 않고 메시지와 함께 XML 텍스트가 있는 페이지가 표시됩니다.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+exl-id: 2f84d09c-71a8-4895-98d7-3412b1affa86
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
 ---
-
 
 # 문서: 다운로드 도중 XML 오류 발생
 
