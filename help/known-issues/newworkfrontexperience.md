@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '773'
 ht-degree: 89%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 16일 |
 | [[!DNL Workfront]: 브랜딩이 적용되지 않음](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023년 10월 13일 |
 | [보드: 보드 보기 위치 [!UICONTROL 작업] 프로젝트 영역이 로드되지 않음](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023년 10월 13일 |
 | [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 9일 |
