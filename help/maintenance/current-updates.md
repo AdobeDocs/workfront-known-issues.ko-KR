@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 96%
+source-wordcount: '6211'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,30 @@ ht-degree: 96%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 10월 업데이트
+
++++**(예정) 2023년 10월 19일 유지 보수 업데이트**
+
+댓글 스레드에 대한 답글 알림이 사용자에게 전송되지 않음
+
+_알림_
+
+사용자가 댓글에 답글을 달 때 답글에 대한 알림을 받아야 하는 다른 사용자는 댓글을 받지 못합니다. 일부 사용자는 알림을 받을 수 있지만 다른 사용자는 알림을 받지 못할 수 있습니다.
+
+**증명에 대한 댓글을 달 때 추가적으로 빈 댓글**
+
+_증명_
+
+사용자가 증명에 대한 댓글을 달면 증명에 비어 있는 다른 댓글이 생성됩니다.
+
+이는 비디오 증명에서 보고되었습니다.
+
+**[!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨**
+
+_작업_
+
+다음과 같은 작업에 사용자가 할당되었을 때 [!UICONTROL 계획된 시간] 을(를) 작업의 다른 할당자에게 할당 [!UICONTROL 계획된 시간] 은 작업의 모든 피할당자에게 균등하게 분배됩니다.
+
++++
 
 +++**2023년 10월 12일 유지 보수 업데이트**
 
