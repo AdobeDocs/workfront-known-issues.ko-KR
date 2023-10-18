@@ -5,7 +5,7 @@ role: User
 source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
 source-wordcount: '1361'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 93%
       + [작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
-      + [보고서: 비공개 업데이트가 valueexpression 필드에 표시됩니다.](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
+      + [보고서: 값 표현식 필드에 비공개 업데이트가 표시됨](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [로드 밸런서: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
@@ -110,7 +110,7 @@ ht-degree: 93%
       + [워크로드 밸런서: 한 번에 여러 필터를 사용하는 경우 결과가 정확하지 않음](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [문서: 대형 파일을 업로드할 때 오류 발생](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [문서: [!DNL Google Drive]에서 문서를 추가할 수 없음](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + [문서: 상위 문제가 프로젝트로 변환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md)
+      + [문서: 상위 문제가 프로젝트로 전환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [보고서: 보고서가 와일드카드 “$$[!UICONTROL USERID]” 대신 보고서 작성자를 사용함](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [통합: [!DNL Workfront for G Suite]를 열 수 없음](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [증명: 증명 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
@@ -174,7 +174,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [[!DNL Workfront Fusion]: 다음으로 초대를 보낼 때 오류 발생 [!DNL Workfront] > [!UICONTROL 기타 작업] 모듈](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 기타 작업] 모듈과 함께 초대를 보낼 때 오류 발생](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: 시나리오 중단을 유발하는 수면 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL ECONNRESET 읽기]” 오류로 인해 시나리오 실패](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 이벤트 보기] 필터에 값을 입력할 수 없습니다.](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

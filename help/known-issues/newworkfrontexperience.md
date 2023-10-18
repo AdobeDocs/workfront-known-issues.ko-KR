@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
 source-wordcount: '773'
-ht-degree: 89%
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 89%
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 16일 |
 | [[!DNL Workfront]: 브랜딩이 적용되지 않음](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023년 10월 13일 |
 | [보드: 보드 보기 위치 [!UICONTROL 작업] 프로젝트 영역이 로드되지 않음](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023년 10월 13일 |
-| [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 9일 |
+| [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 9일 |
 | [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023년 10월 9일 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 모듈](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023년 10월 5일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 3일 |
@@ -49,7 +49,7 @@ ht-degree: 89%
 | [작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023년 10월 12일 |
 | [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 10월 12일 |
 | [로그인: 작업이 성공한 경우에도 암호 재설정 시 오류가 표시됨](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023년 10월 12일 |
-| [보고서: 비공개 업데이트가 valueexpression 필드에 표시됩니다.](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023년 10월 12일 |
+| [보고서: 값 표현식 필드에 비공개 업데이트가 표시됨](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023년 10월 12일 |
 | [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023년 10월 10일 |
 | [로드 밸런서: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023년 10월 3일 |
 | [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023년 10월 3일 |
