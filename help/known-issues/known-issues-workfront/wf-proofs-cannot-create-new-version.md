@@ -1,21 +1,21 @@
 ---
-title: "증명: 증명의 새 버전을 만들 수 없음"
-description: "사용자가 증명의 새 버전을 만들려고 하면 새 버전이 만들어지지 않고 오류 메시지가 표시됩니다."
+title: '증명: 증명의 새 버전을 만들 수 없음'
+description: 사용자가 증명의 새 버전을 만들려고 하면 새 버전이 만들어지지 않고 사용자에게 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
-workflow-type: tm+mt
+exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
+source-git-commit: 392f9fe1a04695b2175796e7a835faaea89912a3
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-
 # 증명: 증명의 새 버전을 만들 수 없음
 
-사용자가 증명의 새 버전을 만들려고 할 때 새 버전이 만들어지지 않고 다음과 같은 오류 메시지가 표시됩니다.
+사용자가 증명의 새 버전을 만들려고 하면 새 버전이 만들어지지 않고 사용자에게 다음과 같은 오류 메시지가 표시됩니다.
 
-&quot;[!UICONTROL 증명 생성 도중 오류 발생]&quot;
+“[!UICONTROL 증명 생성 도중 오류 발생]”
 
 **해결 방법**
 

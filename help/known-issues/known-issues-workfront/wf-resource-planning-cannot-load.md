@@ -4,7 +4,7 @@ description: “사용자가 리소스 플래너를 로드하려고 하면 플�
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
