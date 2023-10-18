@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 93%
+source-wordcount: '799'
+ht-degree: 91%
 
 ---
 
@@ -44,6 +44,8 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [업데이트: &quot;[!UICONTROL 삭제됨]문제가 작업으로 변환될 때 &quot;시스템 업데이트에 사용자 이름으로 표시됨](known-issues-workfront/wf-updates-deleted-requested-team.md) | 2023년 10월 18일 |
+| [로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023년 10월 18일 |
 | [알림: 사용자에게 댓글 스레드에 대한 답글 알림이 전송되지 않음](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023년 10월 13일 |
 | [증명: [!UICONTROL 증명 활동] 탭이 열리지 않음](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023년 10월 13일 |
 | [작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023년 10월 12일 |
