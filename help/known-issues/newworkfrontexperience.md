@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '799'
-ht-degree: 91%
+source-wordcount: '735'
+ht-degree: 96%
 
 ---
 
@@ -44,11 +44,7 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [업데이트: &quot;[!UICONTROL 삭제됨]문제가 작업으로 변환될 때 &quot;시스템 업데이트에 사용자 이름으로 표시됨](known-issues-workfront/wf-updates-deleted-requested-team.md) | 2023년 10월 18일 |
 | [로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023년 10월 18일 |
-| [알림: 사용자에게 댓글 스레드에 대한 답글 알림이 전송되지 않음](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023년 10월 13일 |
-| [증명: [!UICONTROL 증명 활동] 탭이 열리지 않음](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023년 10월 13일 |
-| [작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023년 10월 12일 |
 | [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 10월 12일 |
 | [로그인: 작업이 성공한 경우에도 암호 재설정 시 오류가 표시됨](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023년 10월 12일 |
 | [보고서: 값 표현식 필드에 비공개 업데이트가 표시됨](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023년 10월 12일 |
@@ -56,7 +52,6 @@ ht-degree: 91%
 | [로드 밸런서: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023년 10월 3일 |
 | [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023년 10월 3일 |
 | [로드 밸런서: 용량이 부정확하기 때문에 사용자가 초과 할당으로 표시됨](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023년 9월 26일 |
-| [증명: 증명에 대한 댓글을 다는 경우의 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023년 9월 19일 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience League의 지원 사례](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
 {style="table-layout:auto"}

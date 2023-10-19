@@ -3,15 +3,19 @@ title: "작업: 추가 사용자가 작업에 할당되면 계획된 시간이 �
 description: '"사용자가 작업의 다른 할당자에게 계획된 시간이 할당된 작업에 할당되면 작업의 계획된 시간이 작업의 모든 할당자에게 고르게 분배됩니다. ”'
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 9%
 
 ---
 
 
 # 작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 10월 19일에 수정되었습니다.
 
 다음과 같은 작업에 사용자가 할당되었을 때 [!UICONTROL 계획된 시간] 을(를) 작업의 다른 할당자에게 할당 [!UICONTROL 계획된 시간] 은 작업의 모든 피할당자에게 균등하게 분배됩니다.
 

@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 97%
+source-wordcount: '6298'
+ht-degree: 96%
 
 ---
 
@@ -38,11 +38,23 @@ _증명_
 
 이는 비디오 증명에서 보고되었습니다.
 
+**[!UICONTROL 증명 활동] 탭이 열리지 않음**
+
+_증명_
+
+사용자가 증명을 보면서 [!UICONTROL 증명 활동] 탭에서 사용자를 로 돌아갑니다. [!UICONTROL 증명 세부 정보] 탭.
+
 **[!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨**
 
 _작업_
 
 다음과 같은 작업에 사용자가 할당되었을 때 [!UICONTROL 계획된 시간] 을(를) 작업의 다른 할당자에게 할당 [!UICONTROL 계획된 시간] 은 작업의 모든 피할당자에게 균등하게 분배됩니다.
+
+**&quot;[!UICONTROL 삭제됨]문제가 작업으로 변환될 때 &quot;시스템 업데이트에 사용자 이름으로 표시됨**
+
+_업데이트_
+
+다른 사용자로 로그인한 사용자가 문제를 작업으로 전환할 때 문제가 팀에 할당되면 시스템 업데이트에 &quot;&quot;가 표시됩니다.[!UICONTROL 삭제됨]&quot;팀에 작업 요청을 한 사용자입니다.
 
 +++
 
