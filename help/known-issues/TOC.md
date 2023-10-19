@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 94%
+source-wordcount: '1401'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: 공유 버튼이 작동하지 않음](known-issues-workfront/wf-documents-share-button-not-working.md)
+      + [문서: &quot;[!UICONTROL 전송 대상]&quot;옵션이 빈 페이지와 오류 메시지를 발생시킵니다.](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [업데이트: &quot;[!UICONTROL 삭제됨]문제가 작업으로 변환될 때 &quot;시스템 업데이트에 사용자 이름으로 표시됨](known-issues-workfront/wf-updates-deleted-requested-team.md)
       + [로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [알림: 사용자에게 댓글 스레드에 대한 답글 알림이 전송되지 않음](known-issues-workfront/wf-notifications-reply-notif-not-received.md)

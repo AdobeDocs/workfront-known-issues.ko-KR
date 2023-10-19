@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 96%
+source-wordcount: '753'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 공유 버튼이 작동하지 않음](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023년 10월 19일 |
+| [문서: &quot;[!UICONTROL 전송 대상]&quot;옵션이 빈 페이지와 오류 메시지를 발생시킵니다.](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023년 10월 19일 |
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 16일 |
 | [[!DNL Workfront]: 브랜딩이 적용되지 않음](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023년 10월 13일 |
 | [보드: 보드 보기 위치 [!UICONTROL 작업] 프로젝트 영역이 로드되지 않음](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023년 10월 13일 |
