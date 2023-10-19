@@ -4,14 +4,18 @@ description: 사용자가 보드의 카드를 보면 체크리스트 개수가 0
 hidefromtoc: true
 feature: Agile
 exl-id: 947b1d9b-1f09-4bd0-9bd9-bed352b85dcb
-source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+workflow-type: tm+mt
+source-wordcount: '88'
+ht-degree: 93%
 
 ---
 
 # 보드: 카드에 체크리스트 항목의 정확한 개수가 표시되지 않음
+
+>[!NOTE]
+>
+>이 문제는 10월 19일에 수정되었습니다. 2023.
 
 사용자가 보드의 카드를 보면 체크리스트 개수가 0/0으로 표시됩니다. 사용자가 카드를 클릭하면 기존 체크리스트 항목을 확인할 수 있습니다.
 

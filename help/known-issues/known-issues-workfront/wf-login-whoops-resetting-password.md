@@ -4,14 +4,18 @@ description: 사용자가 암호를 재설정하면 암호 재설정 이메일�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: f5509725-e63a-4fb0-9366-5a7d568dc0b0
-source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # 로그인: 작업이 성공한 경우에도 암호 재설정 시 오류가 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 10월 12일에 수정되었습니다.
 
 사용자가 암호를 재설정하면 암호 재설정 이메일이 전송됩니다. 단, 사용자에게 다음 오류가 표시됩니다.
 
