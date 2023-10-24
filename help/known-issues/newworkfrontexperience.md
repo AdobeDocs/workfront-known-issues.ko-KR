@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '749'
 ht-degree: 93%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: 단일 모듈에서 생성된 중복 프로젝트](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
 | [게시판: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
 | [보드: 예상 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023년 10월 20일 |
 | [홈: 홈에서 프로젝트 및 작업이 로드되지 않음](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 2023년 10월 20일 |

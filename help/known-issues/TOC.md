@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 92%
+source-wordcount: '1429'
+ht-degree: 95%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 92%
       + [문서: &quot;[!UICONTROL 전송 대상]&quot;옵션이 빈 페이지와 오류 메시지를 발생시킵니다.](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [업데이트: &quot;[!UICONTROL 삭제됨]문제가 작업으로 변환될 때 &quot;시스템 업데이트에 사용자 이름으로 표시됨](known-issues-workfront/wf-updates-deleted-requested-team.md)
       + [로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨](known-issues-workfront/wf-login-redirects-to-logout-page.md)
-      + [알림: 사용자에게 댓글 스레드에 대한 답글 알림이 전송되지 않음](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [알림: 댓글 스레드의 답글에 대한 알림이 사용자에게 전송되지 않음](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]: 브랜딩이 적용되지 않음](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [보드: 보드 보기 위치 [!UICONTROL 작업] 프로젝트 영역이 로드되지 않음](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [보드: 프로젝트 [!UICONTROL 작업] 영역의 보드 보기가 로드되지 않음](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [증명: [!UICONTROL 증명 활동] 탭이 열리지 않음](known-issues-workfront/wf-proof-activities-tab-not-working.md)
-      + [작업: [!UICONTROL 계획된 시간] 추가 사용자가 작업에 할당되면 재할당됨](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
+      + [작업: 추가 사용자가 작업에 할당되면 [!UICONTROL 계획된 시간]이 재할당됩니다.](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -93,7 +93,7 @@ ht-degree: 92%
       + [문서 통합: [!DNL OneDrive]의 모든 폴더를 볼 수 없음](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]이 비어 있음 / 로드 속도가 느림](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [설정: 작업 역할 비용/시간 또는 과금/시간을 편집할 수 없음](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
-      + [보드: 가로 스크롤 막대가 없습니다](known-issues-workfront/wf-board-no-scrollbar.md)
+      + [보드: 가로 스크롤 막대가 표시되지 않음](known-issues-workfront/wf-board-no-scrollbar.md)
       + [프로젝트/작업/문제: 타임라인이 재검토되지 않음](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [필터: “[!UICONTROL 시스템 전체 활성화]” 및 “[!UICONTROL 시스템 전체 보기]”가 각각 다른 기능을 나타냄](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [보고서: 활용성 보고서가 로드되지 않음](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
@@ -181,6 +181,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [Workfront Fusion: 단일 모듈에서 생성된 중복 프로젝트](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 기타 작업] 모듈과 함께 초대를 보낼 때 오류 발생](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: 시나리오 중단을 유발하는 수면 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL ECONNRESET 읽기]” 오류로 인해 시나리오 실패](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
