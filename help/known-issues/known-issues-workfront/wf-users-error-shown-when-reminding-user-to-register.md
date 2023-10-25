@@ -4,7 +4,7 @@ description: “한 사용자가 다른 사용자에게 등록하라고 알려 �
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 

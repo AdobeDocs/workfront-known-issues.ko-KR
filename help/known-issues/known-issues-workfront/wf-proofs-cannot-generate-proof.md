@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 
 “[!UICONTROL 증명 생성 도중 오류 발생]”
 
-이 문제는 사용자의 액세스 수준 설정이[!UICONTROL  연락처 정보 보기] 비활성화로 설정되어 있습니다.
+이는 사용자의 액세스 수준 설정 시[!UICONTROL  연락처 정보 보기]가 비활성화로 설정되어 있는 경우 발생합니다.
 
 **해결 방법**
 

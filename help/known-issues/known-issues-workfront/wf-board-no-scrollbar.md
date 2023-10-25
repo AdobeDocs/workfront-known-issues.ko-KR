@@ -1,17 +1,17 @@
 ---
-title: '보드: 가로 스크롤 막대가 없습니다'
+title: '보드: 가로 스크롤 막대가 표시되지 않음'
 description: 사용자가 보드를 보던 중 가로로 스크롤하려고 하면 스크롤 막대가 없어 가로로 스크롤할 수 없습니다.
 feature: Agile
 hidefromtoc: true
 exl-id: ab136be3-38a1-4078-859b-099a31fd93a1
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
-# 보드: 가로 스크롤 막대가 없습니다
+# 보드: 가로 스크롤 막대가 표시되지 않음
 
 >[!NOTE]
 >
