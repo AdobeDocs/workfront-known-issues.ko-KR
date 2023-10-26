@@ -3,15 +3,19 @@ title: "로그인: 로그인 시 오류 메시지"
 description: "사용자가 로 로그인하려고 할 때 [!DNL Workfront], 오류 메시지가 표시됩니다."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # 로그인: 로그인 시 오류 메시지
+
+>[!NOTE]
+>
+>이 문제는 2023년 10월 26일에 수정되었습니다.
 
 사용자가에 로그인하려고 할 때 [!DNL Workfront], 다음과 같은 오류 메시지가 표시됩니다.
 

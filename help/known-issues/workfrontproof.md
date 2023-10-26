@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: b684aea3ae421aa26b45a54a394a581e14d65e82
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '364'
 ht-degree: 94%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
 | [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 19일 |
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 19일 |
@@ -74,4 +75,3 @@ ht-degree: 94%
 | [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
 
 {style="table-layout:auto"}
-
