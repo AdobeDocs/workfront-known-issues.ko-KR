@@ -4,14 +4,18 @@ description: 사용자가 증명의 새 버전을 만들려고 하면 새 버전
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
-source-git-commit: 392f9fe1a04695b2175796e7a835faaea89912a3
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
 # 증명: 증명의 새 버전을 만들 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2023년 10월 26일에 수정되었습니다.
 
 사용자가 증명의 새 버전을 만들려고 하면 새 버전이 만들어지지 않고 사용자에게 다음과 같은 오류 메시지가 표시됩니다.
 

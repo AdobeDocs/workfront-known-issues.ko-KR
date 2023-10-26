@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6454'
+source-wordcount: '6537'
 ht-degree: 96%
 
 ---
@@ -38,6 +38,13 @@ _증명_
 
 &quot;[!UICONTROL Key-Pair-Id 쿼리 매개 변수 또는 쿠키 값 누락]&quot;
 
+**증명의 새 버전을 만들 수 없음**
+
+_증명_
+
+사용자가 증명의 새 버전을 만들려고 하면 새 버전이 만들어지지 않고 사용자에게 다음과 같은 오류 메시지가 표시됩니다.
+
+“[!UICONTROL 증명 생성 도중 오류 발생]”
 
 **요청을 공유할 때 사용자가 복제됨**
 
@@ -46,6 +53,14 @@ _요청_
 요청을 공유할 때 요청을 공유 중인 사용자의 액세스 수준이 수정되면 목록에서 해당 사용자 바로 위의 사용자가 해당 사용자가 됩니다.
 
 예를 들어, 요청을 사용자 A 및 사용자 B와 공유하고 사용자 B의 액세스 권한이 수정되면 사용자 A는 사용자 B로 변경되고 이제 목록에 두 개의 사용자 B가 있습니다. 또한 상위 사용자 B의 액세스만 수정되었습니다.
+
+**&quot;[!UICONTROL 죄송합니다.]작업 헤더에 &quot;오류&quot;**
+
+_작업_
+
+사용자가 작업을 볼 때 작업 헤더에 정보가 없습니다. 대신 다음과 같은 오류 메시지가 표시됩니다.
+
+“[!UICONTROL 죄송합니다. 문제가 발생했습니다. 무엇이 잘못되었는지 파악하여 수정할 수 있도록 Workfront에 문의해 주시기 바랍니다.]”
 
 +++
 
