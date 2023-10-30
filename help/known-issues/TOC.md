@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '1455'
-ht-degree: 93%
+source-wordcount: '1484'
+ht-degree: 96%
 
 ---
 
@@ -17,14 +17,17 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [요청: 새 요청 페이지에 잘못된 사용자 지정 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md)
+      + [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [대시보드: 사용자가 액세스할 수 없음 [!UICONTROL 캔버스 대시보드]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [작업: &quot;[!UICONTROL 죄송합니다.]작업 헤더에 &quot;오류&quot;](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [로그인: 로그인 시 오류 메시지](known-issues-workfront/wf-login-error-when-logging-in.md)
-      + [게시판: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md)
-      + [보드: 예상 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
-      + [홈: 홈에서 프로젝트 및 작업이 로드되지 않음](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
+      + [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md)
+      + [보드: 예상되는 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [홈: 프로젝트와 작업이 홈에 로드되지 않음](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [문서: 공유 버튼이 작동하지 않음](known-issues-workfront/wf-documents-share-button-not-working.md)
-      + [문서: &quot;[!UICONTROL 전송 대상]&quot;옵션이 빈 페이지와 오류 메시지를 발생시킵니다.](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [업데이트: &quot;[!UICONTROL 삭제됨]문제가 작업으로 변환될 때 &quot;시스템 업데이트에 사용자 이름으로 표시됨](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [문서: “[!UICONTROL 전송 대상]“ 옵션을 선택하면 빈 페이지와 오류 메시지가 발생함](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
+      + [업데이트: 문제가 작업으로 변환되면 시스템 업데이트에 사용자 이름으로 “[!UICONTROL 삭제됨]“ 이 표시됨](known-issues-workfront/wf-updates-deleted-requested-team.md)
       + [로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [알림: 댓글 스레드의 답글에 대한 알림이 사용자에게 전송되지 않음](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]: 브랜딩이 적용되지 않음](known-issues-workfront/wf-workfront-branding-not-applied.md)
@@ -186,7 +189,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [Workfront Fusion: 단일 모듈에서 생성된 중복 프로젝트](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
+      + [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL 기타 작업] 모듈과 함께 초대를 보낼 때 오류 발생](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: 시나리오 중단을 유발하는 수면 모듈](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: “[!UICONTROL ECONNRESET 읽기]” 오류로 인해 시나리오 실패](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)

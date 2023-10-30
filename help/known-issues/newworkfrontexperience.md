@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 91%
+source-wordcount: '791'
+ht-degree: 93%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 91%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront 증명]: 지연된 이메일 및 알림](known-issues-workfront-proof/proof-delayed-notification.md) | 2023년 10월 26일 |
-| [Workfront Fusion: 단일 모듈에서 생성된 중복 프로젝트](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
-| [게시판: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
-| [문서: &quot;[!UICONTROL 전송 대상]&quot;옵션이 빈 페이지와 오류 메시지를 발생시킵니다.](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023년 10월 19일 |
+| [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
+| [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
+| [문서: “[!UICONTROL 전송 대상]“ 옵션을 선택하면 빈 페이지와 오류 메시지가 발생함](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023년 10월 19일 |
 | [공유: 오브젝트 공유 시 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023년 9월 27일 |
 
 {style="table-layout:auto"}
@@ -39,10 +39,13 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [요청: 새 요청 페이지에 잘못된 사용자 지정 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md) | 2023년 10월 30일 |
+| [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 10월 30일 |
+| [대시보드: 사용자가 액세스할 수 없음 [!UICONTROL 캔버스 대시보드]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023년 10월 30일 |
 | [[!DNL Workfront Proof]: 의 타임스탬프가 부정확함 [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023년 10월 27일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
 | [문서: 공유 버튼이 작동하지 않음](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023년 10월 26일 |
-| [보드: 예상 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023년 10월 26일 |
+| [보드: 예상되는 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023년 10월 26일 |
 | [작업: &quot;[!UICONTROL 죄송합니다.]작업 헤더에 &quot;오류&quot;](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023년 10월 25일 |
 | [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 19일 |
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
