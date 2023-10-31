@@ -3,7 +3,7 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
+source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
 ht-degree: 99%
@@ -24,11 +24,11 @@ ht-degree: 99%
 
 +++**(예정) 2023년 11월 2일 유지 보수 업데이트**
 
-**비공개 업데이트는 값 표현식 필드에 표시됩니다**
+**값 표현식 필드에 비공개 업데이트가 표시됨**
+
 _보고서_
 
 보고서 필드에 비공개 업데이트를 참조하는 값 표현식이 포함되어 있으면 비공개 업데이트에 포함되지 않은 사용자가 보고서에서 이를 볼 수 있습니다.
-
 
 **용량이 부정확하여 초과 할당된 것으로 표시되는 사용자**
 
