@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 단일 모듈에서 생성된 중복 프로젝트](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
+| [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
 
 {style="table-layout:auto"}
 

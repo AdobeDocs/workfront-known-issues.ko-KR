@@ -4,7 +4,7 @@ description: “사용자가 증명을 조회하는 동안 [!UICONTROL 증명 �
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 

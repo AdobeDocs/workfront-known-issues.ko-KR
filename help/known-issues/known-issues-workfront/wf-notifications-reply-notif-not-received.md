@@ -4,7 +4,7 @@ description: “사용자가 댓글에 답글을 달면 해당 답글에 대한 
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 

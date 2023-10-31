@@ -4,7 +4,7 @@ description: “작업의 다른 할당자에게 계획된 시간이 할당된 �
 hidefromtoc: true
 feature: Tasks
 source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
