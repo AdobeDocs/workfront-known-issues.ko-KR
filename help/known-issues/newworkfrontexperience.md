@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '791'
+source-wordcount: '798'
 ht-degree: 93%
 
 ---
@@ -39,6 +39,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL 업무 균형자]: [!UICONTROL 업무 균형자] 느리게 로드됨](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 2023년 10월 31일 |
 | [요청: 새 요청 페이지에 잘못된 사용자 지정 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md) | 2023년 10월 30일 |
 | [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 10월 30일 |
 | [대시보드: 사용자가 액세스할 수 없음 [!UICONTROL 캔버스 대시보드]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023년 10월 30일 |
