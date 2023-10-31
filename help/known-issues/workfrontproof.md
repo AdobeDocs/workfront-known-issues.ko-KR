@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront 증명]: 지연된 이메일 및 알림](known-issues-workfront-proof/proof-delayed-notification.md) | 2023년 10월 26일 |
 | [문서: 공유 버튼이 작동하지 않음](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023년 10월 19일 |
-| [문서: &quot;[!UICONTROL 전송 대상]&quot;옵션이 빈 페이지와 오류 메시지를 발생시킵니다.](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023년 10월 19일 |
+| [문서: “[!UICONTROL 전송 대상]“ 옵션을 선택하면 빈 페이지와 오류 메시지가 발생함](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023년 10월 19일 |
 
 {style="table-layout:auto"}
 
