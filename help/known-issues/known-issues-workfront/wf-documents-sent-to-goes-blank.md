@@ -1,17 +1,21 @@
 ---
-title: '“문서: 전송 대상 옵션을 선택하면 빈 페이지와 오류 메시지가 발생함“'
-description: “사용자가 문서 세부 정보 페이지에서 전송 대상 옵션을 사용하려고 하면 페이지가 비어 있고 오류 메시지가 표시됩니다.“
+title: '문서: 전송 옵션으로 인해 빈 페이지가 표시되고 오류 메시지가 표시됨'
+description: 사용자가 문서 세부 정보 페이지에서 전송 대상 옵션을 사용하려고 하면 페이지가 비어 있고 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a2387bcb72b50055edc28fec7e5586b291e6983c
-workflow-type: ht
-source-wordcount: '109'
-ht-degree: 100%
+exl-id: b7da65be-8621-4010-bc74-7f3025584748
+source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+workflow-type: tm+mt
+source-wordcount: '115'
+ht-degree: 68%
 
 ---
 
-
 # 문서: “[!UICONTROL 전송 대상]“ 옵션을 선택하면 빈 페이지와 오류 메시지가 발생함
+
+>[!NOTE]
+>
+>이 문제는 2023년 11월 2일에 해결되었습니다.
 
 사용자가 [!UICONTROL 문서 세부 정보] 페이지에서 “[!UICONTROL 전송 대상]“ 옵션을 사용하려고 하면 페이지가 비어 있고 다음 오류 메시지가 표시됩니다.
 
