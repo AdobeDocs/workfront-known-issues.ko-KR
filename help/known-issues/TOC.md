@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
 workflow-type: tm+mt
-source-wordcount: '1507'
+source-wordcount: '1516'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: API 또는 를 통해 작성한 댓글의 추가 줄 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [업데이트: 시스템 업데이트에 첨부된 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [보드: 카드의 댓글 섹션에 오류 발생](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL 업무 균형자]: [!UICONTROL 업무 균형자] 느리게 로드됨](known-issues-workfront/wf-workload-balancer-loads-slowly.md)

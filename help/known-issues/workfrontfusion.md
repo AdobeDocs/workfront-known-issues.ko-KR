@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+workflow-type: tm+mt
+source-wordcount: '144'
+ht-degree: 93%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 |  |
+| [업데이트: API 또는 를 통해 작성한 댓글의 추가 줄 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023년 11월 2일 |
 
 {style="table-layout:auto"}
 
@@ -46,7 +46,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통한 [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  | 2023년 5월 25일 |
+| [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생 | 2023년 5월 25일 |
 | [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022년 9월 29일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022년 9월 9일 |
 
