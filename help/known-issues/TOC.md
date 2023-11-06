@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '1566'
-ht-degree: 91%
+source-wordcount: '1585'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [홈: 승인됨 또는 계획 상태인 프로젝트의 작업은 내 작업 또는 홈 작업 목록에 포함되지 않습니다.](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [템플릿: 상위 작업 아래로 이동하면 하위 작업이 순서대로 표시되지 않음](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [홈: 승인 보류 중 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md)
