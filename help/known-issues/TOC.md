@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '1554'
+source-wordcount: '1566'
 ht-degree: 91%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [템플릿: 상위 작업 아래로 이동하면 하위 작업이 순서대로 표시되지 않음](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [홈: 승인 보류 중 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md)
       + [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로 누락](known-issues-workfront/wf-proofs-breadcrumb-missing.md)

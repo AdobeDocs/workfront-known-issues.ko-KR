@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '805'
-ht-degree: 85%
+source-wordcount: '818'
+ht-degree: 84%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 85%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [템플릿: 상위 작업 아래로 이동하면 하위 작업이 순서대로 표시되지 않음](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 2023년 11월 6일 |
 | [홈: 승인 보류 중 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023년 11월 3일 |
 | [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로 누락](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
