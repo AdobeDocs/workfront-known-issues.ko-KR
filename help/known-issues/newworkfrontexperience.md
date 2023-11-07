@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 82%
+source-wordcount: '848'
+ht-degree: 87%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 82%
 | [요청: 문서가 요청에 추가되면 필드가 지워짐](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023년 11월 3일 |
 | [업데이트: 시스템 업데이트에 첨부된 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023년 11월 1일 |
 | [보드: 카드의 댓글 섹션에 오류 발생](known-issues-workfront/wf-boards-comment-section-error.md) | 2023년 11월 1일 |
-| [[!UICONTROL Workfront 증명]: 지연된 이메일 및 알림](known-issues-workfront-proof/proof-delayed-notification.md) | 2023년 10월 26일 |
+| [[!UICONTROL Workfront Proof]: 이메일 및 알림이 지연됨](known-issues-workfront-proof/proof-delayed-notification.md) | 2023년 10월 26일 |
 | [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
 | [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
 
@@ -46,13 +46,13 @@ ht-degree: 82%
 | [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로 누락](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 | [업데이트: API 또는 를 통해 작성한 댓글의 추가 줄 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023년 11월 2일 |
-| [요청: 새 요청 페이지에 잘못된 사용자 지정 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md) | 2023년 10월 30일 |
+| [요청: 새 요청 페이지에 잘못된 사용자 정의 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md) | 2023년 10월 30일 |
 | [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 10월 30일 |
-| [대시보드: 사용자가 액세스할 수 없음 [!UICONTROL 캔버스 대시보드]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023년 10월 30일 |
-| [[!DNL Workfront Proof]: 의 타임스탬프가 부정확함 [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023년 10월 27일 |
+| [대시보드: 사용자가 [!UICONTROL 캔버스 대시보드]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)에 액세스할 수 없음 | 2023년 10월 30일 |
+| [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)에서 부정확한 타임스탬프 | 2023년 10월 27일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
 | [보드: 예상되는 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023년 10월 26일 |
-| [작업: &quot;[!UICONTROL 죄송합니다.]작업 헤더에 &quot;오류&quot;](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023년 10월 25일 |
+| [작업: 작업 헤더에 표시되는 “[!UICONTROL 죄송합니다]” 오류](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023년 10월 25일 |
 | [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 19일 |
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
 | [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023년 10월 19일 |
@@ -70,8 +70,9 @@ ht-degree: 82%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [대시보드: 대시보드를 PDF으로 인쇄할 때 큰 빈 여백](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023년 11월 7일 |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 10월 26일 |
-| [[!DNL Workfront Proof]: 워크플로우를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
+| [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 언급]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 9월 25일 |
 | [[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023년 9월 7일 |
 | [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 8월 21일 |

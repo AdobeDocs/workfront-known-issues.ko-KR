@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '1585'
-ht-degree: 90%
+source-wordcount: '1594'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [대시보드: 대시보드를 PDF으로 인쇄할 때 큰 빈 여백](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [홈: 승인됨 또는 계획 상태인 프로젝트의 작업은 내 작업 또는 홈 작업 목록에 포함되지 않습니다.](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [템플릿: 상위 작업 아래로 이동하면 하위 작업이 순서대로 표시되지 않음](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [홈: 승인 보류 중 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
@@ -27,10 +28,10 @@ ht-degree: 90%
       + [업데이트: 시스템 업데이트에 첨부된 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [보드: 카드의 댓글 섹션에 오류 발생](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL 업무 균형자]: [!UICONTROL 업무 균형자] 느리게 로드됨](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
-      + [요청: 새 요청 페이지에 잘못된 사용자 지정 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md)
+      + [요청: 새 요청 페이지에 잘못된 사용자 정의 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md)
       + [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
-      + [대시보드: 사용자가 액세스할 수 없음 [!UICONTROL 캔버스 대시보드]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [작업: &quot;[!UICONTROL 죄송합니다.]작업 헤더에 &quot;오류&quot;](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [대시보드: 사용자가 [!UICONTROL 캔버스 대시보드]에 액세스할 수 없음](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
+      + [작업: 작업 헤더에 표시되는 “[!UICONTROL 죄송합니다]” 오류](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [로그인: 로그인 시 오류 메시지](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md)
       + [보드: 예상되는 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
@@ -173,9 +174,9 @@ ht-degree: 90%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [[!DNL Workfront Proof]: 의 타임스탬프가 부정확함 [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-      + [[!UICONTROL Workfront 증명]: 지연된 이메일 및 알림](known-issues-workfront-proof/proof-delayed-notification.md)
-      + [[!DNL Workfront Proof]: 워크플로우를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!UICONTROL Workfront Proof]: 이메일 및 알림이 지연됨](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
