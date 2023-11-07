@@ -1,15 +1,15 @@
 ---
-title: "로그인: 로그인 시 오류 메시지"
-description: "사용자가 로 로그인하려고 할 때 [!DNL Workfront], 오류 메시지가 표시됩니다."
+title: '“로그인: 로그인 시 오류 메시지”'
+description: 사용자가 [!DNL Workfront]에 로그인을 시도할 때 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
-workflow-type: tm+mt
+exl-id: 44c5f1fb-2a6e-45b3-8f2b-fece5cd3e515
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
-
 
 # 로그인: 로그인 시 오류 메시지
 
@@ -17,10 +17,10 @@ ht-degree: 13%
 >
 >이 문제는 2023년 10월 26일에 수정되었습니다.
 
-사용자가에 로그인하려고 할 때 [!DNL Workfront], 다음과 같은 오류 메시지가 표시됩니다.
+사용자가 [!DNL Workfront]에 로그인을 시도할 때 다음과 같은 오류 메시지가 표시됩니다.
 
-[!UICONTROL Error: {&quot;err&quot;:{&quot;name&quot;:&quot;유효성 검사 오류&quot;,&quot;statusCode&quot;:400,&quot;message&quot;:&quot;한 명의 사용자가 필요한데 0명을 찾았습니다. dell 미리 보기(사용자 이름)&quot;}]
+[!UICONTROL Error: {&quot;err&quot;:{&quot;name&quot;:&quot;Validation Error&quot;,&quot;statusCode&quot;:400,&quot;message&quot;:&quot;Expect one user but found 0. dell preview (User&#39;s name)&quot;}}]
 
-이 문제는 조직에 온보딩된 조직에서 보고되었습니다. [!DNL Adobe Admin Consol]e.
+이는 [!DNL Adobe Admin Consol]e에 온보딩된 조직에서 보고되었습니다.
 
 _2023년 8월 16일에 처음 보고되었습니다._

@@ -1,13 +1,13 @@
 ---
-title: '홈: 프로젝트와 작업이 홈에 로드되지 않음'
-description: 홈에서 프로젝트 및 작업이 로드되지 않음
+title: '“홈: 프로젝트와 작업이 홈에 로드되지 않음”'
+description: 프로젝트와 작업이 홈에 로드되지 않음
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 01498e80-af59-44c8-990b-69a6332bb72e
 source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
