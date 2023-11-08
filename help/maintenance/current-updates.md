@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6830'
-ht-degree: 98%
+source-wordcount: '6904'
+ht-degree: 97%
 
 ---
 
@@ -51,6 +51,16 @@ _요청_
 _타임시트_
 
 사용자가 새로운 [!UICONTROL 홈] 환경의 [!UICONTROL 할 일] 위젯에서 작업을 생성하면 해당 작업이 사용자의 타임시트에 표시됩니다. 이는 작업에 기록된 시간이 없고 개인 프로젝트가 고정되지 않은 경우에도 발생합니다.
+
++++
+
++++**2023년 11월 3일 유지 보수 업데이트 (핫픽스)**
+
+**하위 작업이 상위 작업 아래로 이동하면 순서가 잘못됨**
+
+_템플릿_
+
+사용자가 템플릿에 작업을 만든 다음 상위 작업 아래로 해당 작업을 이동할 때 하위 작업에 할당된 번호가 예상 순서로 표시되지 않습니다. 따라서 페이지를 새로 고치면 하위 작업이 예기치 않은 작업 번호로 정렬되므로 하위 작업이 순서가 맞지 않습니다.
 
 +++
 
