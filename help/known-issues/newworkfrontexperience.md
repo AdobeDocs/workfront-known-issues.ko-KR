@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 88%
+source-wordcount: '842'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 하위 작업 상태를 볼 때 문제 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023년 11월 8일 |
 | [요청: 문서가 요청에 추가되면 필드가 지워짐](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023년 11월 3일 |
 | [업데이트: 시스템 업데이트에 첨부된 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023년 11월 1일 |
 | [보드: 카드의 댓글 섹션에 오류 발생](known-issues-workfront/wf-boards-comment-section-error.md) | 2023년 11월 1일 |

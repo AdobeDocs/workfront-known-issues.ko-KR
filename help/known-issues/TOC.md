@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 93%
+source-wordcount: '1600'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보드: 하위 작업 상태를 볼 때 문제 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [대시보드: 대시보드를 PDF으로 인쇄할 때 큰 빈 여백](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [홈: 승인됨 또는 계획 상태인 프로젝트의 작업은 내 작업 또는 홈 작업 목록에 포함되지 않습니다.](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [템플릿: 상위 작업 아래로 이동하면 하위 작업이 순서대로 표시되지 않음](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
