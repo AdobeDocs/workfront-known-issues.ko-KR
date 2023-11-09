@@ -4,14 +4,18 @@ description: 사용자가 증명을 생성하려고 할 때 증명이 만들어�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # 증명: 증명을 생성할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2023년 11월 9일에 해결되었습니다.
 
 사용자가 증명을 생성하려고 할 때 증명이 만들어지지 않고 사용자에게 다음과 같은 오류 메시지가 표시됩니다.
 
