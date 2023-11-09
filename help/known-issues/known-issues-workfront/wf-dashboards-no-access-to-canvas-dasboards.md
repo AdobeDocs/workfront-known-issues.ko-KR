@@ -3,15 +3,19 @@ title: '“대시보드: 사용자가 [!UICONTROL 캔버스 대시보드]에 액
 description: “[!UICONTROL 캔버스 대시보드]에 대한 액세스 권한을 보유한 사용자가 [!UICONTROL 캔버스 대시보드]에 액세스하려고 하면 대시보드가 ​​로드되지 않고 사용자에게 메시지가 표시됩니다.”
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 
 # 대시보드: 사용자가 [!UICONTROL 캔버스 대시보드]에 액세스할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2023년 11월 7일에 해결되었습니다.
 
 [!UICONTROL 캔버스 대시보드]에 대한 액세스 권한을 보유한 사용자가 [!UICONTROL 캔버스 대시보드]에 액세스하려고 하면 대시보드가 &#x200B;&#x200B;로드되지 않고 사용자에게 다음과 같은 메시지가 표시됩니다.
 

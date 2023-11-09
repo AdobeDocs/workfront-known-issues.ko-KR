@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 89%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 메모리 부족 오류](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023년 11월 3일 |
-| [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
+| 없음 |  |
 
 {style="table-layout:auto"}
 
@@ -37,6 +36,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: 메모리 부족 오류](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023년 11월 9일 |
 | [업데이트: API 또는 를 통해 작성한 댓글의 추가 줄 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023년 11월 2일 |
 
 {style="table-layout:auto"}
@@ -47,6 +47,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
 | [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생 | 2023년 5월 25일 |
 | [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022년 9월 29일 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022년 9월 9일 |

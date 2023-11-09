@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '380'
 ht-degree: 93%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 93%
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로 누락](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 | [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)에서 부정확한 타임스탬프 | 2023년 10월 27일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
-| [증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023년 10월 19일 |
+| [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 19일 |
 
 {style="table-layout:auto"}
@@ -77,3 +77,4 @@ ht-degree: 93%
 | [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
 
 {style="table-layout:auto"}
+
