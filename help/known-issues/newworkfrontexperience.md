@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 849127dbab413a1fd7e8a6f85b9dd284f665807e
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '810'
-ht-degree: 88%
+source-wordcount: '828'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023년 11월 10일 |
 | [보드: 하위 작업 상태를 볼 때 문제 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023년 11월 8일 |
 | [업데이트: 시스템 업데이트에 첨부된 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023년 11월 1일 |
 | [[!UICONTROL Workfront Proof]: 이메일 및 알림이 지연됨](known-issues-workfront-proof/proof-delayed-notification.md) | 2023년 10월 26일 |
@@ -38,6 +39,7 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [작업: 타임라인을 다시 계산할 때 작업 날짜가 장시간 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |
 | [알림: 사용자가 댓글에 태그 지정되면 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md) | 2023년 11월 8일 |
 | [홈: 승인됨 또는 계획 상태인 프로젝트의 작업은 내 작업 또는 홈 작업 목록에 포함되지 않습니다.](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |
 | [홈: 승인 보류 중 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023년 11월 3일 |

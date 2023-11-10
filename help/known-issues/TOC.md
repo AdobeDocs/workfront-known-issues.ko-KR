@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '1612'
-ht-degree: 92%
+source-wordcount: '1628'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업: 타임라인을 다시 계산할 때 작업 날짜가 장시간 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [알림: 사용자가 댓글에 태그 지정되면 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md)
       + [보드: 하위 작업 상태를 볼 때 문제 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [대시보드: 대시보드를 PDF으로 인쇄할 때 큰 빈 여백](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
