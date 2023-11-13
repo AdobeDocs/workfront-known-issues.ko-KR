@@ -1,13 +1,13 @@
 ---
 title: '공유: 오브젝트 공유 시 오류 발생'
-description: 사용자가 오브젝트를 공유하려고 하면 오브젝트가 공유되지 않고 오류 메시지가 표시됩니다.
+description: 사용자가 오브젝트를 공유하려고 하면 오브젝트가 공유되지 않고 사용자에게 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 32bdda48-219a-4251-b345-40f68d02cbe8
 source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
