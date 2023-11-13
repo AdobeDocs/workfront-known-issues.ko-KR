@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 메모리 부족 오류](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023년 11월 9일 |
-| [업데이트: API 또는 를 통해 작성한 댓글의 추가 줄 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023년 11월 2일 |
+| [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023년 11월 9일 |
+| [업데이트: API 또는 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)을 통해 작성된 댓글에 추가 행이 있음 | 2023년 11월 2일 |
 
 {style="table-layout:auto"}
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
 source-wordcount: '828'
-ht-degree: 86%
+ht-degree: 95%
 
 ---
 
@@ -41,11 +41,11 @@ ht-degree: 86%
 |----------------------------------| ----------------- |
 | [작업: 타임라인을 다시 계산할 때 작업 날짜가 장시간 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |
 | [알림: 사용자가 댓글에 태그 지정되면 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md) | 2023년 11월 8일 |
-| [홈: 승인됨 또는 계획 상태인 프로젝트의 작업은 내 작업 또는 홈 작업 목록에 포함되지 않습니다.](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |
-| [홈: 승인 보류 중 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023년 11월 3일 |
+| [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |
+| [홈: [!UICONTROL 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)에서 승인이 중단됨 | 2023년 11월 3일 |
 | [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023년 11월 3일 |
-| [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로 누락](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
-| [업데이트: API 또는 를 통해 작성한 댓글의 추가 줄 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023년 11월 2일 |
+| [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
+| [업데이트: API 또는 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)을 통해 작성된 댓글에 추가 행이 있음 | 2023년 11월 2일 |
 | [요청: 새 요청 페이지에 잘못된 사용자 정의 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md) | 2023년 10월 30일 |
 | [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 10월 30일 |
 | [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)에서 부정확한 타임스탬프 | 2023년 10월 27일 |
@@ -55,7 +55,7 @@ ht-degree: 86%
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
 | [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023년 10월 19일 |
 | [로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023년 10월 18일 |
-| [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 10월 12일 |
+| [[!UICONTROL 업무 균형자]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 10월 12일 |
 | [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023년 10월 3일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
@@ -68,7 +68,7 @@ ht-degree: 86%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 11월 9일 |
-| [대시보드: 대시보드를 PDF으로 인쇄할 때 큰 빈 여백](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023년 11월 7일 |
+| [대시보드: 대시보드를 PDF로 인쇄할 때 큰 공백 여백이 있음](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023년 11월 7일 |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 10월 26일 |
 | [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 언급]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 9월 25일 |
