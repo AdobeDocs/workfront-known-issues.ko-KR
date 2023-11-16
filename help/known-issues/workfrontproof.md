@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
-workflow-type: ht
-source-wordcount: '380'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '374'
 ht-degree: 100%
 
 ---
@@ -38,10 +38,8 @@ ht-degree: 100%
 | [홈: [!UICONTROL 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)에서 승인이 중단됨 | 2023년 11월 3일 |
 | [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
-| [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)에서 부정확한 타임스탬프 | 2023년 10월 27일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
-| [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 19일 |
 
 {style="table-layout:auto"}
 
@@ -51,6 +49,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 11월 16일 |
 | [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023년 9월 19일 |
 | [Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023년 9월 19일 |
