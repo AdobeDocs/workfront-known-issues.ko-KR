@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '838'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 94%
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 홈]: 작업이 다음 위치에 표시되지 않음: [!UICONTROL 내 작업] 위젯](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023년 11월 13일 |
 | [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023년 11월 10일 |
-| [보드: 하위 작업 상태를 볼 때 문제 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023년 11월 8일 |
+| [보드: 하위 작업 상태를 볼 때 오류 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023년 11월 8일 |
 | [업데이트: 시스템 업데이트에 첨부된 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023년 11월 1일 |
 | [[!UICONTROL Workfront Proof]: 이메일 및 알림이 지연됨](known-issues-workfront-proof/proof-delayed-notification.md) | 2023년 10월 26일 |
 | [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
@@ -40,8 +40,8 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [작업: 타임라인을 다시 계산할 때 작업 날짜가 장시간 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |
-| [알림: 사용자가 댓글에 태그 지정되면 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md) | 2023년 11월 8일 |
+| [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |
+| [알림: 사용자가 댓글을 태그 지정할 때 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md) | 2023년 11월 8일 |
 | [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |
 | [홈: [!UICONTROL 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)에서 승인이 중단됨 | 2023년 11월 3일 |
 | [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023년 11월 3일 |
