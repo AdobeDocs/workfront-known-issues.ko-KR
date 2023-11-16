@@ -3,15 +3,19 @@ title: '“요청: 새 요청 페이지에 잘못된 사용자 정의 통화가 
 description: “사용자가 요청을 제출하고 요청 양식의 표시 논리를 변경하려고 하면 표시되는 통화는 요청 대기열이 나타내는 프로젝트에 설정된 사용자 정의 통화가 아닌 기본 통화로 되돌아갑니다.”
 hidefromtoc: true
 feature: Requests
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 
 # 요청: 새 요청 페이지에 잘못된 사용자 정의 통화가 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 11월 16일에 해결되었습니다.
 
 사용자가 요청을 제출하고 요청 양식의 표시 논리를 변경하려고 하면 표시되는 통화는 요청 대기열이 나타내는 프로젝트에 설정된 사용자 정의 통화가 아닌 기본 통화로 되돌아갑니다.
 

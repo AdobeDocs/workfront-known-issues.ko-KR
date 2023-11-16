@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '7087'
+source-wordcount: '7086'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 99%
 
 ## 2023년 11월 업데이트
 
-+++**(예정) 2023년 11월 16일 유지 보수 업데이트**
++++**2023년 11월 16일 유지 보수 업데이트**
 
 **활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음**
 
@@ -48,7 +48,7 @@ _업데이트_
 
 +++
 
-+++**2023년 11월 9일 유지 보수 업데이트**
+    +++**2023년 11월 9일 유지 보수 업데이트**
 
 **페이지 상단에 있지 않을 때 내 작업 위젯에 오브젝트가 누락됨**
 

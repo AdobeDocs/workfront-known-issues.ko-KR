@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '803'
 ht-degree: 98%
 
 ---
@@ -46,9 +46,6 @@ ht-degree: 98%
 | [홈: [!UICONTROL 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)에서 승인이 중단됨 | 2023년 11월 3일 |
 | [증명: 단계 활성화 문제](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
-| [업데이트: API 또는 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)을 통해 작성된 댓글에 추가 행이 있음 | 2023년 11월 2일 |
-| [요청: 새 요청 페이지에 잘못된 사용자 정의 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md) | 2023년 10월 30일 |
-| [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 10월 30일 |
 | [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)에서 부정확한 타임스탬프 | 2023년 10월 27일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
 | [보드: 예상되는 카드가 보드에 표시되지 않음](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023년 10월 26일 |
