@@ -4,7 +4,7 @@ description: “사용자가 템플릿에서 작업을 생성한 다음 해당 �
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
 ht-degree: 100%
 
