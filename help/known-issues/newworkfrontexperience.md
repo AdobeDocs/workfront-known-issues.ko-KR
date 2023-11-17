@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 98%
+source-wordcount: '786'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [템플릿: 템플릿에서 선택할 수 없음 [!UICONTROL 즐겨찾기] 목록](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023년 11월 16일 |
 | [[!UICONTROL 홈]: 작업이 다음 위치에 표시되지 않음: [!UICONTROL 내 작업] 위젯](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023년 11월 13일 |
 | [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023년 11월 10일 |
 | [보드: 하위 작업 상태를 볼 때 오류 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023년 11월 8일 |

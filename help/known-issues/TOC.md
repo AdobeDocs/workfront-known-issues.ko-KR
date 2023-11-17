@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
-source-wordcount: '1637'
+source-wordcount: '1644'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [템플릿: 템플릿에서 선택할 수 없음 [!UICONTROL 즐겨찾기] 목록](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL 홈]: 작업이 다음 위치에 표시되지 않음: [!UICONTROL 내 작업] 위젯](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
