@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
 source-wordcount: '7086'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ _요청_
 
 사용자가 요청을 제출하면 통화는 요청 대기열이 나타내는 프로젝트에 대해 올바른 사용자 정의 통화로 표시됩니다
 
-**API 또는 를 통해 작성된 댓글의 추가 줄[!DNL Workfront Fusion]**
+**API 또는[!DNL Workfront Fusion]**&#x200B;을 통해 작성된 댓글에 추가 행이 있음
 
 _업데이트_
 

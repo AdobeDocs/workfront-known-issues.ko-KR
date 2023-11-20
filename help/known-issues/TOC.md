@@ -18,7 +18,7 @@ ht-degree: 99%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [템플릿: 템플릿에서 선택할 수 없음 [!UICONTROL 즐겨찾기] 목록](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL 홈]: 작업이 다음 위치에 표시되지 않음: [!UICONTROL 내 작업] 위젯](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
+      + [[!UICONTROL 홈]: [!UICONTROL 내 작업] 위젯에 작업이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [알림: 사용자가 댓글을 태그 지정할 때 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md)
