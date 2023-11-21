@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 41df80641db82b225753338d8564e12b90566c40
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 98%
+source-wordcount: '814'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 카드가 여러 스프린트에 나타남](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023년 11월 21일 |
 | [템플릿: 템플릿에서 선택할 수 없음 [!UICONTROL 즐겨찾기] 목록](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023년 11월 16일 |
 | [[!UICONTROL 홈]: [!UICONTROL 내 작업] 위젯에 작업이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023년 11월 13일 |
 | [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023년 11월 10일 |
@@ -40,6 +41,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [사용자 정의 양식: 템플릿 작업에서 사용자 정의 양식을 대량으로 추가하거나 제거할 수 없음](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023년 11월 21일 |
 | [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 2023년 11월 20일 |
 | [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |
 | [알림: 사용자가 댓글을 태그 지정할 때 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md) | 2023년 11월 8일 |

@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 8f575eb5ae601f5adc6f4c454ca0a8807c2ab6ef
 workflow-type: tm+mt
-source-wordcount: '1650'
-ht-degree: 99%
+source-wordcount: '1669'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 정의 양식: 템플릿 작업에서 사용자 정의 양식을 대량으로 추가하거나 제거할 수 없음](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [보드: 카드가 여러 스프린트에 나타남](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [템플릿: 템플릿에서 선택할 수 없음 [!UICONTROL 즐겨찾기] 목록](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL 홈]: [!UICONTROL 내 작업] 위젯에 작업이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
