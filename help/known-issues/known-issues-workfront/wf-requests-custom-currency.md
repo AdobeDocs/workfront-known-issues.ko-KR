@@ -4,7 +4,7 @@ description: “사용자가 요청을 제출하고 요청 양식의 표시 논�
 hidefromtoc: true
 feature: Requests
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 

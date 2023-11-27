@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7086'
 ht-degree: 100%
 
@@ -759,7 +759,7 @@ _업데이트_
 
 +++**[!DNL Adobe Workfront Fusion]2023년 4월 25일 유지 보수 업데이트**
 
-**[!DNL Fusion]앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음**
+**[!DNL Fusion]인앱 도움말 링크가 특정 도움말 페이지로 연결되지 않음**
 
 _[!DNL Workfront Fusion]_
 

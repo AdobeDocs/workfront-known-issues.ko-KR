@@ -4,7 +4,7 @@ description: “사용자가 API 또는 Workfront Fusion을 통해 댓글을 제
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
 ht-degree: 100%
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 추가 행 없이 영향을 받은 댓글을 보려면 클래식 댓글 환경으로 전환하십시오.
 
-_2023년 27월 10일에 처음 보고되었습니다._
+_2023년 10월 27일에 처음 보고되었습니다._
