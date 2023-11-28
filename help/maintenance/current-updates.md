@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ ht-degree: 100%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2023년 11월 업데이트
+
++++**(예정) 2023년 11월 30일 유지 보수 업데이트**
+
+**작업이 다음에 표시되지 않음 [!UICONTROL 내 작업] 위젯**
+
+_[!UICONTROL 홈]_
+
+사용자가 [!UICONTROL 홈]에서 [!UICONTROL 내 작업] 위젯을 조회할 때 자신이 할당된 작업 중 일부가 위젯에 표시되지 않습니다. 예를 들어 사용자가 프로젝트로 이동하면 프로젝트에서 할당된 작업을 볼 수 있지만 이러한 작업이 사용자의 [!UICONTROL 내 작업] 위젯에 표시되지 않습니다.
+
+**로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨**
+
+_로그인_
+
+사용자가 [!DNL Workfront]에 로그인을 시도할 때, 로그인 페이지 대신 로그아웃할 경우 방문하게 되는 페이지로 이동됩니다.
+
+**보고서를 내보낼 때 500 오류 발생**
+
+_보고서_
+
+사용자가 보고서를 내보내려고 할 때 내보내기에 실패하고 다음 오류가 표시됩니다.
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+이 문제는 을 사용하는 보고서에서 보고되었습니다. `valueexpression` 을(를) 참조하려면 `lastNote` 참고 텍스트입니다.
+
++++
 
 +++**2023년 11월 16일 유지 보수 업데이트**
 
@@ -48,7 +76,7 @@ _업데이트_
 
 +++
 
-    +++**2023년 11월 9일 유지 보수 업데이트**
++++**2023년 11월 9일 유지 보수 업데이트**
 
 **페이지 상단에 있지 않을 때 내 작업 위젯에 오브젝트가 누락됨**
 
