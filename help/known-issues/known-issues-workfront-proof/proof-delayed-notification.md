@@ -4,14 +4,18 @@ description: 알림이나 이메일을 트리거해야 하는 이벤트가 Workf
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
 exl-id: ce44dca5-5bd8-4d05-9af5-a53be13dcd20
-source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Workfront Proof]: 이메일 및 알림이 지연됨
+
+>[!NOTE]
+>
+>이 문제는 종결되었습니다.
 
 <!--WF and WFP TOCs-->
 

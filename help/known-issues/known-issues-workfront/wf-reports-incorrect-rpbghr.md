@@ -3,19 +3,15 @@ title: '“보고서: 활용성 보고서의 예산 시간이 API를 통해 보�
 description: “사용자가 특정 프로젝트의 RPBGHR 오브젝트에 API 호출을 수행하고 해당 호출의 결과를 해당 프로젝트의 활용성 보고서와 비교할 때 결과가 일치하지 않습니다. ”
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 
 # 보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음
-
->[!NOTE]
->
->이 문제는 2023년 11월 16일에 해결되었습니다.
 
 사용자가 특정 프로젝트의 RPBGHR 오브젝트에 API 호출을 수행하고 해당 호출의 결과를 해당 프로젝트의 활용성 보고서와 비교할 때 결과가 일치하지 않습니다.
 

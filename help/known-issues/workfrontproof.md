@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '383'
 ht-degree: 96%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 96%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
-| [[!UICONTROL Workfront Proof]: 이메일 및 알림이 지연됨](known-issues-workfront-proof/proof-delayed-notification.md) | 2023년 10월 26일 |
 
 {style="table-layout:auto"}
 
