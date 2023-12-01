@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1713'
-ht-degree: 95%
+source-wordcount: '1734'
+ht-degree: 96%
 
 ---
 
@@ -17,13 +17,15 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업/문제: 작업 또는 문제의 보드 보기에서 작업 항목을 추가할 때 문제 발생](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [보드: 오류 [!UICONTROL 댓글] 카드 섹션](known-issues-workfront/wf-boards-comments-section-error.md)
       + [설정: 다음을 사용할 수 없음 [!UICONTROL 킥스타트] 그룹화를 설정하려면](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌아감](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [증명: 승인 보류 중인 증명이 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
-      + [사용자 정의 양식: 템플릿 작업에서 사용자 정의 양식을 대량으로 추가하거나 제거할 수 없음](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
-      + [보드: 카드가 여러 스프린트에 나타남](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
+      + [사용자 정의 양식: 템플릿 작업에서 사용자 정의 양식을 일괄 추가하거나 제거할 수 없음](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [보드: 여러 스프린트에 카드가 표시됨](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL 홈]: [!UICONTROL 내 작업] 위젯에 작업이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
