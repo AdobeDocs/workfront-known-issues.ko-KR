@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
+source-wordcount: '1743'
 ht-degree: 96%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 96%
       + [업데이트: API 또는  [!DNL Workfront Fusion]을 통해 작성된 댓글에 추가 행이 있음](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [업데이트: 시스템 업데이트에 첨부된 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [보드: 카드의 댓글 섹션에 오류 발생](known-issues-workfront/wf-boards-comment-section-error.md)
-      + [[!UICONTROL 업무 균형자]: [!UICONTROL 업무 균형자]가 느리게 로드됨](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
+      + [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 워크로드 밸런서]가 느리게 로드됨](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [요청: 새 요청 페이지에 잘못된 사용자 정의 통화가 표시됨](known-issues-workfront/wf-requests-custom-currency.md)
       + [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [대시보드: 사용자가 [!UICONTROL 캔버스 대시보드]에 액세스할 수 없음](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
@@ -66,7 +66,7 @@ ht-degree: 96%
       + [증명: 완료된 증명이 [!UICONTROL 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
       + [보고서: 값 표현식 필드에 비공개 업데이트가 표시됨](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
-      + [업무 균형자: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [워크로드 밸런서: 페이지 새로 고침 후 수동 시간 변경이 정확하지 않음](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [홈: 위임된 작업은 공유되지 않고 홈 작업 목록에 표시되지 않음](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [로그인: 작업이 성공한 경우에도 암호 재설정 시 오류가 표시됨](known-issues-workfront/wf-login-whoops-resetting-password.md)
@@ -77,7 +77,7 @@ ht-degree: 96%
       + [문서 통합: Experience Manager Assets 통합에서 자산을 폴더로 드래그하는 경우 오류 발생](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [사용자: 사용자에게 등록하라고 알려 주면 오류 메시지가 잘못 표시됨](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [공유: 오브젝트 공유 시 오류 발생](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
-      + [업무 균형자: 용량이 부정확하기 때문에 사용자가 초과 할당으로 표시됨](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
+      + [워크로드 밸런서: 용량이 부정확하기 때문에 사용자가 초과 할당으로 표시됨](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: 오브젝트 페이지에 요소가 누락됨](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [증명: 증명에 대한 댓글을 다는 경우의 추가, 빈 댓글](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [보드: 제목 없는 카드가 백로그에 표시됨](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
@@ -100,7 +100,7 @@ ht-degree: 96%
       + [[!UICONTROL 리소스 플래너]: 필터 적용 시 플래너가 로드되지 않음](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [증명: 증명 색상이 부정확하게 표시됨](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 언급]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 업무 균형자]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]의 합계와 일치하지 않음](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]의 합계와 일치하지 않음](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [보고서: 매트릭스 보고서 로드 시 문제](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [증명: 증명에 겹치는 텍스트](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [증명: “[!UICONTROL 증명 이메일 알림 비활성화]” 설정이 부정확하게 표시됨](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
@@ -133,7 +133,7 @@ ht-degree: 96%
       + [[!UICONTROL 홈]: [!UICONTROL 홈 작업 목록]에 항목이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [보고서: 모든 필드로 정렬할 때 보고서가 올바르게 정렬되지 않음](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
-      + [업무 균형자: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
+      + [워크로드 밸런서: 시간이 예기치 않게 재배포됨](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [사용자 정의 양식: 계산된 필드를 설정할 때 “[!UICONTROL 죄송합니다]” 오류 발생](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [증명: 잠긴 증명 승인이 작업 목록에 계속 표시됨](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [증명: [!UICONTROL 증명 활동] 탭에 [!UICONTROL 증명 세부 정보]가 열림](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -143,10 +143,10 @@ ht-degree: 96%
       + [문서: 문서 목록 관련 문제](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [문서: [!DNL SharePoint]에서 연결되어 있는 문서에 액세스할 때 404 오류 발생](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [문서: [!UICONTROL 증명 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [[!UICONTROL 업무 균형자]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
-      + [업무 균형자: 한 번에 여러 필터를 사용하는 경우 결과가 정확하지 않음](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
+      + [워크로드 밸런서: 한 번에 여러 필터를 사용하는 경우 결과가 정확하지 않음](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [문서: 대형 파일을 업로드할 때 오류 발생](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [문서: [!DNL Google Drive]에서 문서를 추가할 수 없음](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [문서: 상위 문제가 프로젝트로 전환될 때 문서 권한이 상속되지 않음](known-issues-workfront/wf-documents-permissions-not-inherited.md)
