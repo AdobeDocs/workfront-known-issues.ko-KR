@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 96%
+source-wordcount: '1753'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 새 댓글 달기 환경에서 일부 업데이트가 누락되었습니다](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [작업/문제: 작업 또는 문제의 보드 보기에서 작업 항목을 추가할 때 문제 발생](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [보드: 오류 [!UICONTROL 댓글] 카드 섹션](known-issues-workfront/wf-boards-comments-section-error.md)
       + [설정: 다음을 사용할 수 없음 [!UICONTROL 킥스타트] 그룹화를 설정하려면](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 92%
+source-wordcount: '882'
+ht-degree: 91%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 새 댓글 달기 환경에서 일부 업데이트가 누락되었습니다](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023년 12월 6일 목요일 |
 | [작업/문제: 작업 또는 문제의 보드 보기에서 작업 항목을 추가할 때 문제 발생](known-issues-workfront/wf-tasks-issues-board-view.md) | 2023년 12월 1일 토요일 |
 | [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023년 11월 30일 금요일 |
 | [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 11월 30일 금요일 |
