@@ -1,17 +1,21 @@
 ---
-title: '“알림: 사용자가 댓글을 태그 지정할 때 이메일 알림이 수신되지 않음”'
-description: “사용자가 댓글을 태그 지정할 때 해당 댓글에 대한 이메일 알림이 수신되지 않습니다.”
+title: '알림: 댓글에 사용자가 태그 지정되면 이메일 알림이 수신되지 않음'
+description: 사용자가 댓글을 태그 지정할 때 해당 댓글에 대한 이메일 알림이 수신되지 않습니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+exl-id: a97849b4-206d-43c1-a83b-843d3ecfdbf6
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-
 # 알림: 사용자가 댓글을 태그 지정할 때 이메일 알림이 수신되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2023년 11월 30일에 해결되었습니다.
 
 사용자가 댓글을 태그 지정할 때 해당 댓글에 대한 이메일 알림이 수신되지 않습니다.
 
