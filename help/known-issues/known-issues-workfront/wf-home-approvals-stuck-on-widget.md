@@ -1,19 +1,23 @@
 ---
-title: '“홈: 승인 대기 중 위젯에서 승인이 중단됨”'
-description: “문서의 새 버전이 업로드되고 이전 버전에 완료되지 않은 승인이 있는 경우 이전 버전의 문서가 승인 대기 중 위젯에서 중단됩니다. 새 버전이 있으므로 승인할 수 없으며 위젯에서 삭제할 수 없습니다.”
+title: '홈: 내 승인 대기 중 위젯에 대한 승인이 중단됨'
+description: 새 문서 버전이 업로드되고 이전 버전에서 완료되지 않은 승인이 발생하면 이전 문서 버전이 승인자의 내 승인 대기 위젯에서 멈춥니다. 새 버전이 있으므로 승인할 수 없으며 위젯에서 삭제할 수 없습니다.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: d3ddaf6da81cd86bb802030d4b9fab98db99fe99
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 67%
 
 ---
-
 
 # 홈: [!UICONTROL 승인 대기 중] 위젯에서 승인이 중단됨
 
 <!--on WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>이 문제는 2023년 12월 7일 금요일에 해결되었습니다.
 
 문서의 새 버전이 업로드되고 이전 버전에 완료되지 않은 승인이 있는 경우 이전 버전의 문서가 [!UICONTROL 승인 대기 중] 위젯에서 중단됩니다. 새 버전이 있으므로 승인할 수 없으며 위젯에서 삭제할 수 없습니다.
 
