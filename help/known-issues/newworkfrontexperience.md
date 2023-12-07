@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
+source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 98%
+source-wordcount: '901'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023년 12월 7일 금요일 |
+| [보드: 상태가 변경될 때 카드가 적절한 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 7일 금요일 |
 | [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md) | 2023년 12월 1일 |
 | [보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌아감](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023년 11월 29일 |
 | [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
@@ -41,6 +43,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [홈: 내 프로젝트 및 내 작업 위젯은 25개의 항목만 표시합니다.](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023년 12월 7일 금요일 |
 | [상태: [!UICONTROL 죄송합니다.] 상태를 숨길 때 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023년 12월 6일 목요일 |
 | [업데이트: 새 댓글 달기 환경에서 일부 업데이트가 누락되었습니다](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023년 12월 6일 목요일 |
 | [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023년 11월 30일 |

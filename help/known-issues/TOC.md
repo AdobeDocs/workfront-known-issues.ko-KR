@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 95%
+source-wordcount: '1792'
+ht-degree: 97%
 
 ---
 
@@ -17,11 +17,14 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [보드: 상태가 변경될 때 카드가 적절한 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [홈: 내 프로젝트 및 내 작업 위젯은 25개의 항목만 표시합니다.](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [상태: [!UICONTROL 죄송합니다.] 상태를 숨길 때 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [업데이트: 새 댓글 달기 환경에서 일부 업데이트가 누락되었습니다](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [작업/문제: 작업 또는 문제의 보드 보기에서 작업 항목을 추가할 때 문제 발생](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [보드: 오류 [!UICONTROL 댓글] 카드 섹션](known-issues-workfront/wf-boards-comments-section-error.md)
-      + [설정: 다음을 사용할 수 없음 [!UICONTROL 킥스타트] 그룹화를 설정하려면](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
+      + [작업 / 문제: 작업 또는 문제의 보드 보기에 작업 항목을 추가할 때 문제 발생](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정할 수 없음](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌아감](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [증명: 승인 보류 중인 증명이 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
