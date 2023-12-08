@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2023년 11월 30일 금요일에 해결되었습니다.
+>이 문제는 2023년 11월 30일에 해결되었습니다.
 
 사용자가 보고서를 내보내려고 하면 다음과 같은 오류 메시지와 함께 내보내기가 실패합니다.
 

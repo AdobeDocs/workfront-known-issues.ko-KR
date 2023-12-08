@@ -1,11 +1,11 @@
 ---
-title: '보드: 태그 색상을 편집할 수 없음'
+title: '‘보드: 태그 색상을 편집할 수 없음’'
 description: 사용자가 태그 관리자에서 기존 태그의 색상을 편집하려고 하면 드롭다운에서 다른 색상을 선택할 수 없습니다. 사용자가 색상을 클릭하면 클릭되지 않습니다.
 hidefromtoc: true
 feature: Agile
 exl-id: 65c148d6-1020-4345-8efb-0ac128dccd68
 source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 문제는 [!UICONTROL 태그 관리자]의 태그에 색상을 할당하는 것과 관련이 있습니다. 색상을 포함한 기존 태그를 평소와 같이 카드에 할당할 수 있습니다.
 
-_2023년 30월 10일에 처음 보고되었습니다._
+_2023년 10월 30일에 처음 보고되었습니다._
