@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
+source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
 workflow-type: tm+mt
-source-wordcount: '1792'
-ht-degree: 97%
+source-wordcount: '1801'
+ht-degree: 99%
 
 ---
 
@@ -17,11 +17,12 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 예산 시간 보고서가 예상대로 시간별로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md)
       + [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
-      + [보드: 상태가 변경될 때 카드가 적절한 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [홈: 내 프로젝트 및 내 작업 위젯은 25개의 항목만 표시합니다.](known-issues-workfront/wf-home-widgets-show-25-items.md)
-      + [상태: [!UICONTROL 죄송합니다.] 상태를 숨길 때 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
-      + [업데이트: 새 댓글 달기 환경에서 일부 업데이트가 누락되었습니다](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
+      + [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [홈: 내 프로젝트 및 내 작업 위젯에 25개 항목만 표시됨](known-issues-workfront/wf-home-widgets-show-25-items.md)
+      + [상태: [!UICONTROL 죄송합니다!] 상태를 숨기는 중에 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
+      + [업데이트: 새로운 댓글 환경에서 일부 업데이트가 누락됨](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [작업 / 문제: 작업 또는 문제의 보드 보기에 작업 항목을 추가할 때 문제 발생](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md)
       + [설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정할 수 없음](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
@@ -197,7 +198,7 @@ ht-degree: 97%
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
       + [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof]: 이메일 및 알림이 지연됨](known-issues-workfront-proof/proof-delayed-notification.md)
-      + [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
+      + [[!DNL Workfront Proof]: 워크플로우를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
@@ -207,13 +208,13 @@ ht-degree: 97%
       + [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [증명: 기한을 기존 단계의 기한과 일치시킬 수 없어 새 단계가 만들어짐](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: “[!UICONTROL 본문이 유효한 XML이 아님]” 오류](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
-      + [증명: 증명이 증명 워크플로의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
+      + [증명: 증명이 증명 워크플로우의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [댓글에 사용자를 태그 지정하여 증명에 사용자를 추가할 수 없음](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [[!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [증명에 대한 자동 액세스가 지연됨](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL 홈]: 완료된 증명이 [!UICONTROL 작업 목록]에 남아 있음](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
-      + [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
+      + [문서: 증명 워크플로우 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + [!DNL Workfront] 증명 {#proof-resolved}의 해결된 문제
       + [증명: 증명이 매우 오랫동안 “[!UICONTROL 증명 생성 중]”으로 표시됨](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 

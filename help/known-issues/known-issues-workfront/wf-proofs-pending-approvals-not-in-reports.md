@@ -1,17 +1,21 @@
 ---
-title: '“증명: 승인 보류 중인 증명이 보고서에 표시되지 않음”'
-description: “”
+title: '증명: 승인 보류 중인 증명이 보고서에 표시되지 않음'
+description: ''
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: ac43b9e35e7f5e67dcbc5139be06b8d06378fbda
-workflow-type: ht
-source-wordcount: '45'
-ht-degree: 100%
+exl-id: e324848f-0278-4bbd-ba9b-870fde37a23d
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+workflow-type: tm+mt
+source-wordcount: '51'
+ht-degree: 78%
 
 ---
 
-
 # 증명: 승인 보류 중인 증명이 보고서에 표시되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2023년 12월 14일 금요일에 해결되었습니다.
 
 <!--WF and WFP-->
 

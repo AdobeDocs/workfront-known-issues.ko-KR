@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 94%
+source-wordcount: '864'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,8 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보드: 상태가 변경될 때 카드가 적절한 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 7일 금요일 |
+| [보고서: 예산 시간 보고서가 예상대로 시간별로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md) | 2023년 12월 14일 금요일 |
+| [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 7일 금요일 |
 | [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md) | 2023년 12월 1일 |
 | [보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌아감](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023년 11월 29일 |
 | [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
@@ -42,13 +43,13 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 12월 14일 금요일 |
 | [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023년 12월 7일 금요일 |
-| [홈: 내 프로젝트 및 내 작업 위젯은 25개의 항목만 표시합니다.](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023년 12월 7일 금요일 |
-| [상태: [!UICONTROL 죄송합니다.] 상태를 숨길 때 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023년 12월 6일 목요일 |
-| [업데이트: 새 댓글 달기 환경에서 일부 업데이트가 누락되었습니다](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023년 12월 6일 목요일 |
+| [홈: 내 프로젝트 및 내 작업 위젯에 25개 항목만 표시됨](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023년 12월 7일 금요일 |
+| [상태: [!UICONTROL 죄송합니다!] 상태를 숨기는 중에 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023년 12월 6일 목요일 |
+| [업데이트: 새로운 댓글 환경에서 일부 업데이트가 누락됨](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023년 12월 6일 목요일 |
 | [타임시트: 개인 작업이 타임시트에 표시됨](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023년 11월 30일 |
 | [작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023년 11월 30일 |
-| [증명: 승인 보류 중인 증명이 보고서에 표시되지 않음](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023년 11월 29일 |
 | [사용자 정의 양식: 템플릿 작업에서 사용자 정의 양식을 일괄 추가하거나 제거할 수 없음](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023년 11월 21일 |
 | [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |
 | [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |
@@ -72,7 +73,7 @@ ht-degree: 94%
 | [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 11월 9일 |
 | [대시보드: 대시보드를 PDF로 인쇄할 때 큰 공백 여백이 있음](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023년 11월 7일 |
 | [[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023년 10월 26일 |
-| [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
+| [[!DNL Workfront Proof]: 워크플로우를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 언급]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023년 9월 25일 |
 | [[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023년 9월 7일 |
 | [레이아웃 템플릿: 보고서에서 불일치를 유발하는 레이아웃 템플릿](known-issues-workfront/wf-layout-templates-classic.md) | 2023년 8월 21일 |
@@ -94,7 +95,7 @@ ht-degree: 94%
 | [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022년 11월 21일 |
 | [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022년 10월 31일 |
 | [[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/wf-setup-lists-load-slowly.md)에서 느리게 로드됨 | 2022년 10월 28일 |
-| [증명: 증명이 증명 워크플로의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
+| [증명: 증명이 증명 워크플로우의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
 | [[!UICONTROL 홈]: 사용자 정의 용어가 홈 영역에 적용되지 않음](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022년 6월 3일 |
@@ -111,7 +112,7 @@ ht-degree: 94%
 | [[!UICONTROL Workfront Proof]: [!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
 | [보고서: 대시보드에서 볼 때 보고서를 가로로 스크롤할 수 없음](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021년 3월 30일 |
 | [[!UICONTROL 홈]: 프로젝트 이름이 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)에 GUID로 표시됨 | 2021년 2월 11일 |
-| [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 1월 25일 |
+| [문서: 증명 워크플로우 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 1월 25일 |
 | [보고서: 캘린더에 이전 날짜가 기본으로 표시됨](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 2021년 2월 5일 |
 | [이메일 알림:  [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)에서 이메일 서식이 올바르게 지정되지 않음 | 2021년 3월 30일 |
 | [[!UICONTROL 홈]: [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-unable-to-view-document-image.md)에서 문서 이미지를 볼 수 없음 | 2020년 11월 9일 |
