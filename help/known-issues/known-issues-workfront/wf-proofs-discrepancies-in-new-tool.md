@@ -1,12 +1,12 @@
 ---
 title: "증명: 정적 파일을 처리하는 데 문제 발생"
-description: "Workfront은 최근 증명 처리 도구를 타사 공급자에서 내부 솔루션으로 변경했으며 두 시스템의 기능에서 일부 불일치를 발견했습니다. 이러한 불일치로 인해 정적 파일(특히 PDF, Word 및 PPT 파일) 처리에 문제가 발생할 수 있습니다. 해결 방법을 사용할 수 있습니다."
+description: '"Workfront은 최근 증명 처리 도구를 타사 공급자에서 내부 솔루션으로 변경했으며 두 시스템의 기능에서 일부 불일치를 발견했습니다. 이러한 불일치로 인해 정적 파일(특히 PDF, Word 및 PPT 파일) 처리에 문제가 발생할 수 있습니다. 해결 방법을 사용할 수 있습니다.”'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 494e8c83c0bc1f6f9cb8abdf7b147a78add6f699
+source-git-commit: d07005982af8484714e574ee54034f438def6cc7
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
