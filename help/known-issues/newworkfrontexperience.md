@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
+source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '852'
 ht-degree: 96%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [증명: 정적 파일을 처리하는 데 문제가 있음](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 토요일 |
 | [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md) | 2023년 12월 14일 금요일 |
 | [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 12월 14일 금요일 |
 | [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 14일 금요일 |

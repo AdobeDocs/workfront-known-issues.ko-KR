@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 100%
+source-wordcount: '364'
+ht-degree: 98%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 정적 파일을 처리하는 데 문제가 있음](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 토요일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
