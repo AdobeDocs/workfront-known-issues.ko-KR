@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '1830'
-ht-degree: 97%
+source-wordcount: '1849'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: Word 문서에서 생성된 증명에는 주석 또는 마크업이 포함되지 않습니다](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [작업: 새 작업을 만들 때 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [작업: 하나 이상의 작업에서 사용자가 할당 해제되었습니다.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [보드: 카드에 문서를 첨부할 수 없음](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [증명: 정적 파일을 처리하는 데 문제가 있음](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)

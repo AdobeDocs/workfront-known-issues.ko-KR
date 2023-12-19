@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 96%
+source-wordcount: '386'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: Word 문서에서 생성된 증명에는 주석 또는 마크업이 포함되지 않습니다](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023년 12월 19일 수요일 |
 | [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
 
 {style="table-layout:auto"}

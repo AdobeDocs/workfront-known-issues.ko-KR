@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 94%
+source-wordcount: '892'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: Word 문서에서 생성된 증명에는 주석 또는 마크업이 포함되지 않습니다](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023년 12월 19일 수요일 |
+| [작업: 새 작업을 만들 때 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023년 12월 19일 수요일 |
 | [템플릿: 템플릿을 프로젝트에 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023년 12월 15일 토요일 |
 | [보고서: 예산 시간 보고서가 예상대로 시간별로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md) | 2023년 12월 14일 금요일 |
 | [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
