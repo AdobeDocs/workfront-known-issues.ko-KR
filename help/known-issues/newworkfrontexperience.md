@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 92%
+source-wordcount: '857'
+ht-degree: 96%
 
 ---
 
@@ -27,12 +27,10 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [증명: Word 문서에서 생성된 증명에는 주석 또는 마크업이 포함되지 않습니다](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023년 12월 19일 수요일 |
 | [작업: 새 작업을 만들 때 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023년 12월 19일 수요일 |
-| [템플릿: 템플릿을 프로젝트에 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023년 12월 15일 토요일 |
-| [보고서: 예산 시간 보고서가 예상대로 시간별로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md) | 2023년 12월 14일 금요일 |
+| [템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023년 12월 15일 |
+| [보고서: 예산 시간 보고서가 시간별로 정상적으로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md) | 2023년 12월 14일 |
 | [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
 | [보드: 여러 스프린트에 카드가 표시됨](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023년 11월 21일 |
-| [템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023년 11월 16일 |
-| [보드: 하위 작업 상태를 볼 때 오류 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023년 11월 8일 |
 | [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
 
 {style="table-layout:auto"}
@@ -44,15 +42,13 @@ ht-degree: 92%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [작업: 하나 이상의 작업에서 사용자가 할당 해제되었습니다.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 화요일 |
-| [보드: 카드에 문서를 첨부할 수 없음](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 2023년 12월 18일 화요일 |
-| [증명: 정적 파일을 처리하는 데 문제가 있음](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 토요일 |
-| [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md) | 2023년 12월 14일 금요일 |
-| [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 12월 14일 금요일 |
-| [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 14일 금요일 |
-| [업데이트: 새 댓글 달기 경험에 달린 댓글은 이전 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 12월 14일 금요일 |
-| [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023년 12월 7일 금요일 |
-| [상태: [!UICONTROL 죄송합니다!] 상태를 숨기는 중에 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023년 12월 6일 목요일 |
-| [업데이트: 새로운 댓글 환경에서 일부 업데이트가 누락됨](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023년 12월 6일 목요일 |
+| [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
+| [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md) | 2023년 12월 14일 |
+| [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 12월 14일 |
+| [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 14일 |
+| [업데이트: 새로운 댓글 달기 경험에서 작성한 댓글이 기존 경험에 표시되지 않음](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 12월 14일 |
+| [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023년 12월 7일 |
+| [상태: [!UICONTROL 죄송합니다!] 상태를 숨기는 중에 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023년 12월 6일 |
 | [작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023년 11월 30일 |
 | [사용자 정의 양식: 템플릿 작업에서 사용자 정의 양식을 일괄 추가하거나 제거할 수 없음](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023년 11월 21일 |
 | [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |

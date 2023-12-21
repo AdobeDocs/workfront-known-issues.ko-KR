@@ -3,10 +3,10 @@ title: "보드: 카드에 문서를 첨부할 수 없음"
 description: "사용자가 연결된 카드에 문서를 첨부하려고 할 때 첨부할 문서를 선택할 수 있지만 문서가 카드의 문서 영역에 나타나지 않고 카드가 연결된 오브젝트에 문서가 첨부되지 않습니다."
 hidefromtoc: true
 feature: Agile
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 7%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 3%
 # 보드: 카드에 문서를 첨부할 수 없음
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>이 문제는 2023년 12월 21일 금요일에 해결되었습니다.
 
 사용자가 연결된 카드에 문서를 첨부하려고 할 때 첨부할 문서를 선택할 수 있지만 문서가 카드의 문서 영역에 나타나지 않고 카드가 연결된 오브젝트에 문서가 첨부되지 않습니다.
 

@@ -1,17 +1,21 @@
 ---
-title: '“보드: 하위 작업 상태를 볼 때 오류 발생”'
-description: “보드의 카드에서 하위 작업 상태를 보는 것과 관련해 문제가 보고되었습니다.”
+title: '보드: 하위 작업 상태를 볼 때 문제 발생'
+description: 보드의 카드에서 하위 작업 상태를 보는 것과 관련된 문제가 보고되었습니다.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 2fa805dcacc58ce19ddacd32dc51c3139a9432e4
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 81%
 
 ---
 
-
 # 보드: 하위 작업 상태를 볼 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2023년 12월 21일 금요일에 해결되었습니다.
 
 보드의 카드에서 하위 작업 상태를 보는 것과 관련해 다음과 같은 문제가 보고되었습니다.
 
