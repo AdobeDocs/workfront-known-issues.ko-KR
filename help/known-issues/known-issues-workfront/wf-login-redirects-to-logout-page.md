@@ -1,13 +1,13 @@
 ---
-title: '로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨'
-description: 사용자가 로그인 페이지 대신 Workfront에 로그인하려고 하면 로그아웃할 경우 로그온하는 페이지로 이동됩니다.
+title: '“로그인: 로그인 페이지가 로그아웃 랜딩 페이지로 리디렉션됨”'
+description: 사용자가 Workfront에 로그인을 시도할 때, 로그인 페이지 대신 로그아웃할 경우 방문하게 되는 페이지로 이동됩니다.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 6f7550db-7e21-4bfa-9daa-0efeb9296a57
 source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 

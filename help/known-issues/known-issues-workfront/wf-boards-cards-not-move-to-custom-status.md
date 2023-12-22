@@ -1,13 +1,13 @@
 ---
-title: '보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌아감'
+title: '“보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌아감”'
 description: 사용자가 카드를 다른 열로 이동한 다음 새로 고치거나 보드로 돌아가면 카드가 원래 열로 돌아갑니다.
 hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
 source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
