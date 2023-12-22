@@ -5,7 +5,7 @@ role: User
 source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
 source-wordcount: '1849'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 96%
       + [작업: 새 작업을 만들 때 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [작업: 하나 이상의 작업에서 사용자가 할당 해제되었습니다.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [보드: 카드에 문서를 첨부할 수 없음](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
-      + [증명: 정적 파일을 처리하는 데 문제가 있음](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
-      + [템플릿: 템플릿을 프로젝트에 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
-      + [보고서: 예산 시간 보고서가 예상대로 시간별로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md)
+      + [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
+      + [템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
+      + [보고서: 예산 시간 보고서가 시간별로 정상적으로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md)
       + [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [홈: 내 프로젝트 및 내 작업 위젯에 25개 항목만 표시됨](known-issues-workfront/wf-home-widgets-show-25-items.md)
