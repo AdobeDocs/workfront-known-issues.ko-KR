@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 96%
+source-wordcount: '879'
+ht-degree: 97%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: Word 문서에서 생성된 증명에는 주석 또는 마크업이 포함되지 않습니다](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023년 12월 19일 수요일 |
-| [작업: 새 작업을 만들 때 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023년 12월 19일 수요일 |
+| [증명: Word 문서에서 생성된 증명에 댓글 또는 마크업이 포함되지 않음](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023년 12월 19일 |
+| [작업: 새 작업 생성 시 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023년 12월 19일 |
 | [템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023년 12월 15일 |
 | [보고서: 예산 시간 보고서가 시간별로 정상적으로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md) | 2023년 12월 14일 |
 | [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
@@ -41,7 +41,9 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [작업: 하나 이상의 작업에서 사용자가 할당 해제되었습니다.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 화요일 |
+| [게시판: &quot;[!UICONTROL 액세스 권한이 없습니다.]카드의 주석을 볼 때 &quot;](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024년 1월 2일 수요일 |
+| [팀: 의 팀 상태 설정 문제 [!UICONTROL 완료] 단추](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 2일 수요일 |
+| [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md) | 2023년 12월 14일 |
 | [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 12월 14일 |

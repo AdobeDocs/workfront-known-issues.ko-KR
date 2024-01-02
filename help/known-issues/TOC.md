@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '1849'
+source-wordcount: '1869'
 ht-degree: 98%
 
 ---
@@ -17,9 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [증명: Word 문서에서 생성된 증명에는 주석 또는 마크업이 포함되지 않습니다](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
-      + [작업: 새 작업을 만들 때 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md)
-      + [작업: 하나 이상의 작업에서 사용자가 할당 해제되었습니다.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [게시판: &quot;[!UICONTROL 액세스 권한이 없습니다.]카드의 주석을 볼 때 &quot;](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [팀: 의 팀 상태 설정 문제 [!UICONTROL 완료] 단추](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [증명: Word 문서에서 생성된 증명에 댓글 또는 마크업이 포함되지 않음](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [작업: 새 작업 생성 시 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md)
+      + [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [보드: 카드에 문서를 첨부할 수 없음](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
@@ -44,7 +46,7 @@ ht-degree: 98%
       + [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [알림: 사용자가 댓글을 태그 지정할 때 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md)
-      + [보드: 하위 작업 상태를 볼 때 오류 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
+      + [보드: 하위 작업 상태를 조회할 때 오류 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [대시보드: 대시보드를 PDF로 인쇄할 때 큰 공백 여백이 있음](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [템플릿: 하위 작업이 상위 작업 아래로 이동하면 순서대로 표시되지 않음](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
