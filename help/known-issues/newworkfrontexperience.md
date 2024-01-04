@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
 workflow-type: tm+mt
-source-wordcount: '899'
-ht-degree: 95%
+source-wordcount: '869'
+ht-degree: 94%
 
 ---
 
@@ -25,11 +25,6 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: Word 문서에서 생성된 증명에 댓글 또는 마크업이 포함되지 않음](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023년 12월 19일 |
-| [작업: 새 작업 생성 시 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023년 12월 19일 |
-| [템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023년 12월 15일 |
-| [보고서: 예산 시간 보고서가 시간별로 정상적으로 업데이트되지 않음](known-issues-workfront/wf-reports-report-not-updating.md) | 2023년 12월 14일 |
-| [문서: 액세스할 수 없음 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023년 11월 27일 |
 | [보드: 여러 스프린트에 카드가 표시됨](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023년 11월 21일 |
 | [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
 
@@ -41,6 +36,13 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [증명: Word 문서에서 생성된 증명에 댓글 또는 마크업이 포함되지 않음](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024년 1월 4일 금요일 |
+| [템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2024년 1월 4일 금요일 |
+| [작업: 새 작업 생성 시 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024년 1월 4일 금요일 |
+| [템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024년 1월 4일 금요일 |
+| [보드: 카드에 문서를 첨부할 수 없음](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 2024년 1월 4일 금요일 |
+| [보드: 하위 작업 상태를 볼 때 오류 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2024년 1월 4일 금요일 |
+| [홈: [!UICONTROL 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)에서 승인이 중단됨 | 2024년 1월 4일 금요일 |
 | [신규 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 금요일 |
 | [보드: 반복을 변경할 때 카드가 지속됨](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024년 1월 4일 금요일 |
 | [게시판: &quot;[!UICONTROL 액세스 권한이 없습니다.]카드의 주석을 볼 때 &quot;](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024년 1월 2일 수요일 |
@@ -48,11 +50,8 @@ ht-degree: 95%
 | [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [보드: 카드의 [!UICONTROL 댓글] 섹션에 오류 발생](known-issues-workfront/wf-boards-comments-section-error.md) | 2023년 12월 14일 |
-| [보고서: 활용성 보고서의 예산 시간이 API를 통해 보고된 예산 시간과 일치하지 않음](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023년 12월 14일 |
 | [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 14일 |
-| [업데이트: 새로운 댓글 달기 경험에서 작성한 댓글이 기존 경험에 표시되지 않음](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023년 12월 14일 |
 | [설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023년 12월 7일 |
-| [상태: [!UICONTROL 죄송합니다!] 상태를 숨기는 중에 오류 발생](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023년 12월 6일 |
 | [작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023년 11월 30일 |
 | [사용자 정의 양식: 템플릿 작업에서 사용자 정의 양식을 일괄 추가하거나 제거할 수 없음](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023년 11월 21일 |
 | [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023년 11월 10일 |
@@ -60,7 +59,6 @@ ht-degree: 95%
 | [작업: 작업 헤더에 표시되는 “[!UICONTROL 죄송합니다]” 오류](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023년 10월 25일 |
 | [증명: 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023년 10월 19일 |
 | [증명: 증명의 새 버전을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023년 10월 19일 |
-| [[!UICONTROL 워크로드 밸런서]: [!UICONTROL 총 시간]이 [!UICONTROL 계획된 시간]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)의 합계와 일치하지 않음 | 2023년 10월 12일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
 {style="table-layout:auto"}
