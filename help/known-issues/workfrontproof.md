@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 100%
+source-wordcount: '389'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 |  |
+| [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023년 1월 9일 화요일 |
 
 {style="table-layout:auto"}
 

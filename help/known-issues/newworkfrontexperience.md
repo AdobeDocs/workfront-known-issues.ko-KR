@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 92%
+source-wordcount: '899'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023년 1월 9일 화요일 |
 | [보드: 여러 스프린트에 카드가 표시됨](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023년 11월 21일 |
 | [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2023년 10월 20일 |
 
