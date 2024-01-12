@@ -3,15 +3,19 @@ title: '“작업: 타임라인을 다시 계산할 때 작업 일자가 오랫�
 description: “사용자가 타임라인 재계산을 트리거하는 작업 목록을 변경하면 해당 타임라인의 영향을 받는 다른 작업도 다시 계산됩니다. 이 경우 다른 작업의 영향을 받은 날짜는 회색으로 표시됩니다. 이 때문에 해당 작업이 오랫동안 회색으로 표시됩니다. ”
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: ht
-source-wordcount: '149'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
 
 
 # 작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2023년 12월 21일에 해결되었습니다.
 
 사용자가 타임라인 재계산을 트리거하는 작업 목록을 변경하면 해당 타임라인의 영향을 받는 다른 작업도 다시 계산됩니다. 이 경우 다른 작업의 영향을 받은 날짜는 회색으로 표시됩니다. 이 때문에 해당 작업이 오랫동안 회색으로 표시됩니다.
 

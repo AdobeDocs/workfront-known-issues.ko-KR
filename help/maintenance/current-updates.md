@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4117b2a85dac27960c95fa5ee984f4650937dfce
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 39%
+source-wordcount: '530'
+ht-degree: 47%
 
 ---
 
@@ -22,30 +22,54 @@ ht-degree: 39%
 
 ## 2024년 1월 업데이트
 
-<!--
++++**2024년 1월 12일 토요일 유지 보수 업데이트**
 
-+++**Maintenance Update on January 12, 2024**
+### 2024년 1월 12일 유지 보수 업데이트
 
-### Maintenance Update on January 12, 2024
+#### 보드
 
-#### Boards
+**카드에 문서를 첨부할 수 없음**
 
-**Issues when viewing subtask status**
+사용자가 연결된 카드에 문서를 첨부하려고 할 때 첨부할 문서를 선택할 수는 있으나 카드의 문서 영역에 해당 문서가 표시되지 않고 카드가 연결된 오브젝트에 문서가 첨부되지 않는 문제가 발생합니다.
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+이는 문제와 연결된 카드에서 보고되었습니다.
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**카드가 여러 번 스프린트에 표시됨**
 
-**Card doesn't close when using Boards view in a Project**
+사용자가 보드에서 스프린트를 볼 때 다른 스프린트에 있는 카드가 보드에 표시됩니다. 이 문제는 간헐적으로 발생합니다.
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+**프로젝트에서 보드 보기를 사용할 때 카드가 닫히지 않음**
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+사용자가 프로젝트의 작업 목록에서 보드 보기를 볼 때 카드를 만들 때 카드가 닫히거나 저장되지 않습니다. 이렇게 하면 사용자가 프로젝트로 돌아갈 수 없습니다.
+
+카드를 닫으려면 사용자는 URL을 편집하여 &quot;보드&quot; 및 &quot;보드&quot; 오른쪽에 있는 모든 것을 제거해야 합니다.
+
+**반복을 변경할 때 카드가 지속됨**
+
+사용자가 보드에서 이터레이션을 보고 있을 때 이터레이션을 변경하면 새 이터레이션에 대해 표시되는 카드는 사용자가 이전에 보고 있던 이터레이션의 카드입니다.
+
+**오류 위치 [!UICONTROL 댓글] 카드 섹션**
+
+사용자가 카드를 보고 있을 때 [!UICONTROL 댓글] 섹션으로 스크롤하면 댓글이 표시되지 않고 사용자에게 다음 오류가 표시됩니다.
+
+“[!UICONTROL 문제가 발생했습니다. 나중에 다시 시도해 주십시오.]&quot;
+
+**하위 작업 상태를 조회할 때 오류 발생**
+
+보드의 카드에서 하위 작업 상태를 보는 것과 관련해 다음과 같은 문제가 보고되었습니다.
+
+* 작업에 이미 상태가 있는 경우에도 상태가 “상태 선택”으로 표시됩니다. 이 상태는 작업을 직접 볼 때 표시됩니다.
+* 사용자가 상태를 선택하려고 하면 빈 화면으로 바뀌고 새로 고침해야 합니다.
+
+**&quot;[!UICONTROL 액세스 권한이 없습니다.]카드의 주석을 볼 때 &quot;**
+
+사용자가 연결되어 있지 않은 카드에 대한 댓글을 보려고 할 때 [!DNL Workfront] 개체에는 다음 메시지가 표시됩니다.
+
+&quot;[!UICONTROL 이 개체에 대한 설명을 볼 수 있는 액세스 권한이 없습니다.]&quot;
+
+사용자가 이전에 카드에서 주석을 볼 수 있었던 경우에도 이러한 문제가 발생할 수 있습니다.
 
 +++
-
--->
 
 +++**2023년 1월 11일 목요일 유지 보수 업데이트**
 

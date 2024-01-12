@@ -3,15 +3,19 @@ title: "보드: 카드에 달린 댓글을 볼 때 액세스할 수 없습니다
 description: "사용자가 Workfront 오브젝트에 연결되지 않은 카드에 대한 댓글을 보려고 하면 오류 메시지가 표시됩니다."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 4%
+source-wordcount: '101'
+ht-degree: 9%
 
 ---
 
 
 # 게시판: &quot;[!UICONTROL 액세스 권한이 없습니다.]카드의 주석을 볼 때 &quot;
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 12일 토요일에 해결되었습니다.
 
 사용자가 연결되어 있지 않은 카드에 대한 댓글을 보려고 할 때 [!DNL Workfront] 개체에는 다음 메시지가 표시됩니다.
 
