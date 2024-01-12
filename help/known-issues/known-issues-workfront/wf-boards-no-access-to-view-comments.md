@@ -3,7 +3,7 @@ title: "보드: 카드에 달린 댓글을 볼 때 액세스할 수 없습니다
 description: "사용자가 Workfront 오브젝트에 연결되지 않은 카드에 대한 댓글을 보려고 하면 오류 메시지가 표시됩니다."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 9%
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->이 문제는 2024년 1월 12일 토요일에 해결되었습니다.
+>이 문제는 2024년 1월 12일 토요일에 해결되었습니다.—>
 
 사용자가 연결되어 있지 않은 카드에 대한 댓글을 보려고 할 때 [!DNL Workfront] 개체에는 다음 메시지가 표시됩니다.
 

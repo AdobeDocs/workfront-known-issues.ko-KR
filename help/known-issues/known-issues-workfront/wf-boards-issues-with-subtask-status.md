@@ -4,18 +4,19 @@ description: 보드의 카드에서 하위 작업 상태를 조회하는 것과 
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # 보드: 하위 작업 상태를 조회할 때 오류 발생
 
+<!--
 >[!NOTE]
 >
->이 문제는 2024년 1월 12일 토요일에 해결되었습니다.
+>This issue was fixed on January 12, 2024.-->
 
 보드의 카드에서 하위 작업 상태를 보는 것과 관련해 다음과 같은 문제가 보고되었습니다.
 

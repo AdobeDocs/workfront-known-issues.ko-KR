@@ -3,19 +3,20 @@ title: "보드: 프로젝트에서 보드 보기를 사용할 때 카드가 닫�
 description: "사용자가 프로젝트의 작업 목록에서 보드 보기를 볼 때 카드를 만들 때 카드가 닫히거나 저장되지 않습니다. 따라서 사용자가 프로젝트로 돌아갈 수 없습니다."
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 3%
 
 ---
 
 
 # 보드: 프로젝트에서 보드 보기를 사용할 때 카드가 닫히지 않음
 
+<!--
 >[!NOTE]
 >
->이 문제는 2024년 1월 12일 토요일에 해결되었습니다.
+>This issue was fixed on January 12, 2024.-->
 
 사용자가 프로젝트의 작업 목록에서 보드 보기를 볼 때 카드를 만들 때 카드가 닫히거나 저장되지 않습니다. 이렇게 하면 사용자가 프로젝트로 돌아갈 수 없습니다.
 
