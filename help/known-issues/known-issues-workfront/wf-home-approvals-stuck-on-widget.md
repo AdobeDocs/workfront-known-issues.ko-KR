@@ -4,14 +4,18 @@ description: 문서의 새 버전이 업로드되고 이전 버전에 완료되�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
 
 # 홈: [!UICONTROL 승인 대기 중] 위젯에서 승인이 중단됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 18일 금요일에 해결되었습니다.
 
 <!--on WF and WFP TOCs-->
 

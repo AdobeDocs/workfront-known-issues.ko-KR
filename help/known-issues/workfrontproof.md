@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '384'
 ht-degree: 94%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 94%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront 증명]: 증명을 만들 때 에셋을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | 2024년 1월 17일 목요일 |
-| [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md) | 2024년 1월 16일 수요일 |
 | [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023년 1월 9일 화요일 |
 
 {style="table-layout:auto"}
@@ -37,8 +36,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: Word 문서에서 생성된 증명에 댓글 또는 마크업이 포함되지 않음](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024년 1월 4일 금요일 |
-| [홈: [!UICONTROL 승인 대기 중] 위젯](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)에서 승인이 중단됨 | 2024년 1월 4일 금요일 |
+| [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md) | 2024년 1월 18일 금요일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
