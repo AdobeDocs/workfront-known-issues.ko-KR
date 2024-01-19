@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1934'
-ht-degree: 95%
+source-wordcount: '1959'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [통합: Workfront for Jira 통합에서 시간을 기록할 수 없음](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [업데이트: 댓글에서 이미지를 보거나 다운로드할 수 없음](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [알림: 알림이 표시되는 대로 표시가 지속되지 않음](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL 설정]: 선택적 상태를 숨길 수 없음](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md)
       + [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
