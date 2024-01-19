@@ -3,15 +3,19 @@ title: '“템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생�
 description: “사용자가 프로젝트에 템플릿을 첨부하려고 하면 오류가 발생합니다. 해결 방법을 사용할 수 있습니다.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # 템플릿: 프로젝트에 템플릿을 첨부할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 18일 금요일에 해결되었습니다.
 
 사용자가 프로젝트에 템플릿을 첨부하려고 하면 다음과 같은 오류 메시지가 표시됩니다.
 

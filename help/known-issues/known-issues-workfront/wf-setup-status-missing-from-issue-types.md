@@ -3,15 +3,19 @@ title: '“설정: 설정의 일부 문제 유형에서 기본 문제 상태가 
 description: “사용자가 설정에서 문제 상태를 볼 때 문제의 기본 상태(새로 만들기, 진행 중, 완료)가 일부 문제 유형에서 누락된 것을 볼 수 있습니다. 기본 상태에는 문제 유형을 변경할 수 있는 옵션이 없으므로, 사용자는 영향을 받는 문제 유형에 대해 표시할 상태를 재구성할 수 없습니다.”
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
-workflow-type: ht
-source-wordcount: '136'
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
 
 
 # 설정: 설정의 일부 문제 유형에서 기본 문제 상태가 누락됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 17일 목요일에 해결되었습니다.
 
 사용자가 설정에서 문제 상태를 볼 때 문제의 기본 상태(새로 만들기, 진행 중, 완료)가 일부 문제 유형에서 누락된 것을 볼 수 있습니다. 기본 상태에는 문제 유형을 변경할 수 있는 옵션이 없으므로, 사용자는 영향을 받는 문제 유형에 대해 표시할 상태를 재구성할 수 없습니다.
 

@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 39%
+source-wordcount: '945'
+ht-degree: 48%
 
 ---
 
@@ -22,58 +22,107 @@ ht-degree: 39%
 
 ## 2024년 1월 업데이트
 
-<!--
++++**2024년 1월 18일 금요일 유지 보수 업데이트**
 
-+++**Maintenance Update on January 12, 2024**
+### 2024년 1월 18일 유지 보수 업데이트
 
-### Maintenance Update on January 12, 2024
+#### 보드
 
-#### Boards
+**카드에 문서를 첨부할 수 없음**
 
-**Cannot attach a document to a card**
+사용자가 연결된 카드에 문서를 첨부하려고 할 때 첨부할 문서를 선택할 수는 있으나 카드의 문서 영역에 해당 문서가 표시되지 않고 카드가 연결된 오브젝트에 문서가 첨부되지 않는 문제가 발생합니다.
 
-When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
+이는 문제와 연결된 카드에서 보고되었습니다.
 
-This has been reported in cards connected to issues.
+**카드가 여러 번 스프린트에 표시됨**
 
-**Card appears on multiple sprints**
+사용자가 보드에서 스프린트를 볼 때 다른 스프린트에 있는 카드가 보드에 표시됩니다. 이 문제는 간헐적으로 발생합니다.
 
-When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
+**프로젝트에서 보드 보기를 사용할 때 카드가 닫히지 않음**
 
-**Card doesn't close when using Boards view in a Project**
+사용자가 프로젝트의 작업 목록에서 보드 보기를 볼 때 카드를 만들 때 카드가 닫히거나 저장되지 않습니다. 이렇게 하면 사용자가 프로젝트로 돌아갈 수 없습니다.
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+카드를 닫으려면 사용자는 URL을 편집하여 &quot;보드&quot; 및 &quot;보드&quot; 오른쪽에 있는 모든 것을 제거해야 합니다.
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+**반복을 변경할 때 카드가 지속됨**
 
-**Cards persist when changing iteration**
+사용자가 보드에서 이터레이션을 보고 있을 때 이터레이션을 변경하면 새 이터레이션에 대해 표시되는 카드는 사용자가 이전에 보고 있던 이터레이션의 카드입니다.
 
-When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
+**오류 위치 [!UICONTROL 댓글] 카드 섹션**
 
-**Error in [!UICONTROL Comments] section of cards**
+사용자가 카드를 보고 있을 때 [!UICONTROL 댓글] 섹션으로 스크롤하면 댓글이 표시되지 않고 사용자에게 다음 오류가 표시됩니다.
 
-When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
+“[!UICONTROL 문제가 발생했습니다. 나중에 다시 시도해 주십시오.]&quot;
 
-"[!UICONTROL Something went wrong. Please try again later.]"
+**하위 작업 상태를 조회할 때 오류 발생**
 
-**Issues when viewing subtask status**
+보드의 카드에서 하위 작업 상태를 보는 것과 관련해 다음과 같은 문제가 보고되었습니다.
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+* 작업에 이미 상태가 있는 경우에도 상태가 “상태 선택”으로 표시됩니다. 이 상태는 작업을 직접 볼 때 표시됩니다.
+* 사용자가 상태를 선택하려고 하면 빈 화면으로 바뀌고 새로 고침해야 합니다.
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**&quot;[!UICONTROL 액세스 권한이 없습니다.]카드의 주석을 볼 때 &quot;**
 
-**"[!UICONTROL You have no access]" when viewing comments on a card**
+사용자가 연결되어 있지 않은 카드에 대한 댓글을 보려고 할 때 [!DNL Workfront] 개체에는 다음 메시지가 표시됩니다.
 
-When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
+&quot;[!UICONTROL 이 개체에 대한 설명을 볼 수 있는 액세스 권한이 없습니다.]&quot;
 
-"[!UICONTROL You have no access to view comments on this object]"
+사용자가 이전에 카드에서 주석을 볼 수 있었던 경우에도 이러한 문제가 발생할 수 있습니다.
 
-This may occur even when the user could previously see comments on the card.
+#### 사용자 정의 양식
+
+**템플릿 작업에서 사용자 정의 양식을 대량으로 추가하거나 제거할 수 없음**
+
+사용자가 템플릿 작업에서 사용자 정의 양식을 일괄 추가하거나 제거하려고 하면 양식이 추가 또는 제거되지 않고 사용자에게 다음과 같은 오류 메시지가 표시됩니다.
+
+[!UICONTROL 다시 시도해 보십시오. 잘못된 매개변수: templateID 값 “XXXXXXXXXXXXXXXX”]
+
+사용자가 지정된 GUID가 있는 템플릿을 찾은 다음 나머지 템플릿 작업에서 사용자 정의 양식을 추가하거나 제거하려고 하면 다른 템플릿 ID를 사용하는 오류가 다시 발생합니다.
+
+단일 템플릿 작업에서는 사용자 정의 양식을 추가하거나 제거할 수 있습니다. 이 오류는 일괄 추가 또는 제거 시에만 발생합니다.
+
+#### 포트폴리오
+
+**사용자 정의 용어가 그룹 페이지에 적용되지 않음**
+
+사용자가 Portfolio 수준에서 사용자 정의 용어를 설정하면 해당 용어가 그룹 수준 페이지에 적용되지 않습니다.
+
+#### 설정
+
+**선택적 상태를 숨길 수 없음**
+
+사용자가 시스템 및 그룹 수준에서 선택적 상태를 숨기려고 할 때 상태가 숨겨지지 않습니다. 사용자가 상태를 보고, 사용자가 상태를 활성화하고 변경 사항을 저장했지만 상태를 숨기는 옵션은 활성화되지 않습니다.
+
+**설정의 일부 문제 유형에서 기본 문제 상태 누락**
+
+사용자가 설정에서 문제 상태를 볼 때 문제의 기본 상태(새로 만들기, 진행 중, 완료)가 일부 문제 유형에서 누락된 것을 볼 수 있습니다. 기본 상태에는 문제 유형을 변경할 수 있는 옵션이 없으므로, 사용자는 영향을 받는 문제 유형에 대해 표시할 상태를 재구성할 수 없습니다.
+
+#### 팀
+
+**에 대한 팀 상태 설정 문제 [!UICONTROL 완료] 단추**
+
+의 상태와 관련하여 다음 문제가 보고됨 [!UICONTROL 완료] 팀을 편집하거나 만들 때 표시되는 단추:
+
+* 일부 상태가 의 완료 버튼 영역에서 누락될 수 있습니다. [!UICONTROL 새 팀] 창 또는 [!UICONTROL 팀 설정] 기존 팀의 영역입니다.
+* 사용자가 팀을 저장하려고 하면 &quot;각 범주에서 상태를 하나 이상 선택해야 합니다&quot;라는 오류가 표시될 수 있습니다.
+
+#### 템플릿
+
+**템플릿을 프로젝트에 첨부할 때 오류 발생**
+
+사용자가 프로젝트에 템플릿을 첨부하려고 하면 다음과 같은 오류 메시지가 표시됩니다.
+
+“죄송합니다. 문제가 발생했습니다. 무엇이 잘못되었는지 파악하여 수정할 수 있도록 Workfront에 문의해 주시기 바랍니다.”
+
+이는 사용자에게 템플릿에 첨부된 사용자 정의 양식에 대한 보기 권한이 없을 때 발생합니다.
+
+#### 업데이트
+
+**주석이 이전 경험과 새 경험 간에 전송되지 않습니다**
+
+기존 댓글 달기 경험에서 작성한 댓글은 새 댓글 달기 경험에 표시되지 않을 수 있습니다. 역도 발생할 수 있습니다.
 
 +++
-
--->
 
 +++**2023년 1월 11일 목요일 유지 보수 업데이트**
 
