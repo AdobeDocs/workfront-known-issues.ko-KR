@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 89%
+source-wordcount: '844'
+ht-degree: 87%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024년 1월 24일 목요일 |
+| [업데이트: 기존 댓글 달기 환경의 태그 지정 문제](known-issues-workfront/wf-updates-showing-first-name.md) | 2024년 1월 24일 목요일 |
 | [통합: Workfront for Jira 통합에서 시간을 기록할 수 없음](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024년 1월 19일 토요일 |
 | [업데이트: 댓글에서 이미지를 보거나 다운로드할 수 없음](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024년 1월 19일 토요일 |
 | [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md) | 2024년 1월 18일 금요일 |

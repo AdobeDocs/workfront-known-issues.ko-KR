@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '1983'
+source-wordcount: '2004'
 ht-degree: 93%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [업데이트: 기존 댓글 달기 환경의 태그 지정 문제](known-issues-workfront/wf-updates-showing-first-name.md)
       + [문서: 폴더에서 루트로 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [증명: GIF이 정적 증명으로 렌더링됩니다.](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [리소스 관리: 작업 역할 문제로 인해 잘못된 재무 계산](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
@@ -30,8 +32,8 @@ ht-degree: 93%
       + [문제: 문제를 벌크 편집할 때 시간 필드에 잘못된 시간이 저장됨](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [신규 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [보드: 반복을 변경할 때 카드가 지속됨](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
-      + [게시판: &quot;[!UICONTROL 액세스 권한이 없습니다.]카드의 주석을 볼 때 &quot;](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
-      + [팀: 의 팀 상태 설정 문제 [!UICONTROL 완료] 단추](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [보드: 카드에서 댓글 조회 시 “[!UICONTROL 액세스 권한 없음]”](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md)
       + [증명: Word 문서에서 생성된 증명에 댓글 또는 마크업이 포함되지 않음](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [작업: 새 작업 생성 시 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
