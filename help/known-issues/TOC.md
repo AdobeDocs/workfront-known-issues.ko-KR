@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '2004'
-ht-degree: 93%
+source-wordcount: '2012'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [업데이트: 기존 댓글 달기 환경의 태그 지정 문제](known-issues-workfront/wf-updates-showing-first-name.md)
       + [문서: 폴더에서 루트로 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md)

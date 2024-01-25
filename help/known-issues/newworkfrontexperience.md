@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '813'
-ht-degree: 89%
+source-wordcount: '822'
+ht-degree: 88%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024년 1월 25일 금요일 |
 | [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 금요일 |
 | [리소스 관리: 작업 역할 문제로 인해 잘못된 재무 계산](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 25일 금요일 |
 | [보드: 반복을 변경할 때 카드가 지속됨](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024년 1월 25일 금요일 |
