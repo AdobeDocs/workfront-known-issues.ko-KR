@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 87%
+source-wordcount: '814'
+ht-degree: 89%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 87%
 | [문서: 폴더에서 루트로 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 1월 23일 수요일 |
 | [증명: GIF이 정적 증명으로 렌더링됩니다.](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 수요일 |
 | [리소스 관리: 작업 역할 문제로 인해 잘못된 재무 계산](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 23일 수요일 |
-| [알림: 알림이 표시되는 대로 표시가 지속되지 않음](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2024년 1월 19일 토요일 |
 | [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 수요일 |
 | [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2024년 10월 20일 월요일 |
 
@@ -41,7 +40,6 @@ ht-degree: 87%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024년 1월 24일 목요일 |
-| [업데이트: 기존 댓글 달기 환경의 태그 지정 문제](known-issues-workfront/wf-updates-showing-first-name.md) | 2024년 1월 24일 목요일 |
 | [통합: Workfront for Jira 통합에서 시간을 기록할 수 없음](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024년 1월 19일 토요일 |
 | [업데이트: 댓글에서 이미지를 보거나 다운로드할 수 없음](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024년 1월 19일 토요일 |
 | [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md) | 2024년 1월 18일 금요일 |
@@ -51,7 +49,6 @@ ht-degree: 87%
 | [신규 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 금요일 |
 | [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
-| [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023년 12월 14일 |
 | [작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023년 11월 30일 |
 | [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |
 | [작업: 작업 헤더에 표시되는 “[!UICONTROL 죄송합니다]” 오류](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023년 10월 25일 |

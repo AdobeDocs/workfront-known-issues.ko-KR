@@ -3,15 +3,19 @@ title: "알림: 표시된 대로 알림 표시가 지속되지 않음"
 description: "사용자가 알림을 보이는 대로 표시한 다음 Workfront 내의 다른 페이지로 이동하면 알림 아이콘에는 사용자가 알림을 보이는 대로 표시하기 전에 있던 읽지 않은 알림 수가 여전히 표시되고 사용자가 아이콘을 클릭하면 알림이 계속 표시됩니다. 이는 사용자가 이러한 항목을 보이는 대로 표시하고 다른 페이지로 이동하거나 원래 페이지로 다시 이동하는 경우에도 계속됩니다."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '170'
+ht-degree: 6%
 
 ---
 
 
 # 알림: 알림이 표시되는 대로 표시가 지속되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 25일 금요일에 해결되었습니다.
 
 사용자가 알림을 보이는 대로 표시한 다음 내에서 다른 페이지로 이동하면 [!DNL Workfront], 알림 아이콘에는 사용자가 읽지 않은 상태로 표시되기 전의 알림 수가 표시되며, 사용자가 아이콘을 클릭해도 알림은 계속 표시됩니다. 이는 사용자가 이러한 항목을 보이는 대로 표시하고 다른 페이지로 이동하거나 원래 페이지로 다시 이동하는 경우에도 계속됩니다.
 

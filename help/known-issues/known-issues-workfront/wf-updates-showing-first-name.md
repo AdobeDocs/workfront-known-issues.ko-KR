@@ -3,15 +3,19 @@ title: "업데이트: 이전 댓글 달기 환경의 태그 지정 문제"
 description: "사용자가 기존 댓글 달기 환경에서 댓글에 태그를 지정할 때 몇 가지 문제가 발생합니다."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
 # 업데이트: 기존 댓글 달기 환경의 태그 지정 문제
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 25일 금요일에 해결되었습니다.
 
 사용자가 기존 댓글 달기 환경에서 댓글에 태그를 지정하면 다음과 같은 문제가 발생합니다.
 
