@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '813'
 ht-degree: 89%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 89%
 | -----------------------------------------------------------------| ----------------- |
 | [문서: 폴더에서 루트로 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 1월 23일 수요일 |
 | [증명: GIF이 정적 증명으로 렌더링됩니다.](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 수요일 |
-| [리소스 관리: 작업 역할 문제로 인해 잘못된 재무 계산](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 23일 수요일 |
 | [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 수요일 |
 | [보드: 검색이 작동하지 않음](known-issues-workfront/wf-boards-search-not-working.md) | 2024년 10월 20일 월요일 |
 
@@ -39,12 +38,13 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 금요일 |
+| [리소스 관리: 작업 역할 문제로 인해 잘못된 재무 계산](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 25일 금요일 |
+| [보드: 반복을 변경할 때 카드가 지속됨](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024년 1월 25일 금요일 |
 | [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024년 1월 24일 목요일 |
-| [통합: Workfront for Jira 통합에서 시간을 기록할 수 없음](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024년 1월 19일 토요일 |
 | [업데이트: 댓글에서 이미지를 보거나 다운로드할 수 없음](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024년 1월 19일 토요일 |
 | [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md) | 2024년 1월 18일 금요일 |
 | [문제: 문제를 벌크 편집할 때 시간 필드에 잘못된 시간이 저장됨](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024년 1월 5일 토요일 |
-| [작업: 새 작업 생성 시 창이 닫힘](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024년 1월 4일 금요일 |
 | [템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024년 1월 4일 금요일 |
 | [신규 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 금요일 |
 | [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 |
