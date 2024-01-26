@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '828'
 ht-degree: 88%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [템플릿: 템플릿을 복사할 때 오류 발생](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024년 1월 26일 토요일 |
 | [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024년 1월 25일 금요일 |
 | [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 금요일 |
 | [리소스 관리: 작업 역할 문제로 인해 잘못된 재무 계산](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 25일 금요일 |

@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '2012'
+source-wordcount: '2017'
 ht-degree: 92%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [템플릿: 템플릿을 복사할 때 오류 발생](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [업데이트: 기존 댓글 달기 환경의 태그 지정 문제](known-issues-workfront/wf-updates-showing-first-name.md)
