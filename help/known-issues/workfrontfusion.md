@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 94%
+source-wordcount: '159'
+ht-degree: 90%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: 날짜에 대한 출력 형식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024년 1월 31일 목요일 |
 | [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023년 11월 16일 |
 | [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
 | [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생 | 2023년 5월 25일 |
