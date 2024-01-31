@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 89%
+source-wordcount: '1510'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문제: 드롭다운에 문제 상태가 없음](known-issues-workfront/wf-issues-status-not-available.md)
+      + [업데이트: 댓글을 편집할 때 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [보드: 를 사용하여 열에서 카드를 이동할 수 없음 [!UICONTROL 이동] 옵션](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [템플릿: 템플릿을 복사할 때 오류 발생](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)

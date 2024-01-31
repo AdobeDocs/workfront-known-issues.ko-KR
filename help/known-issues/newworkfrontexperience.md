@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '807'
-ht-degree: 87%
+source-wordcount: '838'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 를 사용하여 열에서 카드를 이동할 수 없음 [!UICONTROL 이동] 옵션](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024년 1월 26일 토요일 |
 | [문서: 폴더에서 루트로 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 1월 23일 수요일 |
 | [증명: GIF이 정적 증명으로 렌더링됩니다.](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 수요일 |
 | [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 수요일 |
@@ -37,6 +38,8 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [문제: 드롭다운에 문제 상태가 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 목요일 |
+| [업데이트: 댓글을 편집할 때 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024년 1월 31일 목요일 |
 | [템플릿: 템플릿을 복사할 때 오류 발생](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024년 1월 26일 토요일 |
 | [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024년 1월 25일 금요일 |
 | [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 금요일 |
