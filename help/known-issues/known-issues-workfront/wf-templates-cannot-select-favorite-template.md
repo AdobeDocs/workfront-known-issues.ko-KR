@@ -3,15 +3,19 @@ title: '“템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택
 description: “사용자가 [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택하려고 할 때 마우스를 목록으로 가져가면 템플릿 목록이 사라지고 사용자가 템플릿을 선택할 수 없습니다.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # 템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 25일에 해결되었습니다.
 
 사용자가 [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택하려고 할 때 마우스를 목록으로 가져가면 템플릿 목록이 사라지고 사용자가 템플릿을 선택할 수 없습니다.
 
