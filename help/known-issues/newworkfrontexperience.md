@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 84%
+source-wordcount: '832'
+ht-degree: 94%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 84%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [보드: 를 사용하여 열에서 카드를 이동할 수 없음 [!UICONTROL 이동] 옵션](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024년 1월 26일 토요일 |
-| [문서: 폴더에서 루트로 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 1월 23일 수요일 |
-| [증명: GIF이 정적 증명으로 렌더링됩니다.](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 수요일 |
-| [증명: 압축 증명이 생성되지 않음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 수요일 |
+| [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 1월 23일 |
+| [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
+| [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
 
 {style="table-layout:auto"}
 
@@ -40,17 +40,16 @@ ht-degree: 84%
 |----------------------------------| ----------------- |
 | [문제: 드롭다운에 문제 상태가 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 목요일 |
 | [업데이트: 댓글을 편집할 때 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024년 1월 31일 목요일 |
-| [템플릿: 템플릿을 복사할 때 오류 발생](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024년 1월 26일 토요일 |
 | [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024년 1월 25일 금요일 |
 | [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 금요일 |
-| [리소스 관리: 작업 역할 문제로 인해 잘못된 재무 계산](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 25일 금요일 |
+| [리소스 관리: 작업 역할 문제로 인해 재무 계산이 잘못됨](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 25일 금요일 |
 | [보드: 반복을 변경할 때 카드가 지속됨](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024년 1월 25일 금요일 |
-| [업데이트: 기존 댓글 달기 경험에 달린 댓글은 새 경험에 표시되지 않습니다](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024년 1월 24일 목요일 |
-| [업데이트: 댓글에서 이미지를 보거나 다운로드할 수 없음](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024년 1월 19일 토요일 |
-| [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md) | 2024년 1월 18일 금요일 |
-| [문제: 문제를 벌크 편집할 때 시간 필드에 잘못된 시간이 저장됨](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024년 1월 5일 토요일 |
-| [템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024년 1월 4일 금요일 |
-| [신규 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 금요일 |
+| [업데이트: 기존 댓글 달기 경험에서 작성한 댓글이 새 경험에 표시되지 않음](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024년 1월 24일 |
+| [업데이트: 댓글의 이미지를 보거나 다운로드할 수 없음](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024년 1월 19일 |
+| [문서: 문서 목록을 볼 때 문제 발생](known-issues-workfront/wf-documents-list-not-loading.md) | 2024년 1월 18일 |
+| [문제: 문제를 일괄 편집할 때 시간 필드에 잘못된 시간이 저장됨](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024년 1월 5일 |
+| [템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024년 1월 4일 |
+| [새 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 |
 | [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023년 11월 30일 |
