@@ -4,14 +4,16 @@ description: 새로운 [!DNL Adobe Workfront] 환경의 사용자가 홈 영역�
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks
 hidefromtoc: true
-source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # [!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 [!UICONTROL 새 작업] 옵션
+
+<!--Valid issue, won't fix-->
 
 새로운 [!DNL Adobe Workfront] 환경의 사용자가 [!UICONTROL 홈] 영역에서 작업 또는 문제를 새로 만들 때 사용자를 할당하려고 하면 비활성화된 사용자가 자동 완성 드롭다운 목록에 선택 항목으로 표시됩니다.
 
