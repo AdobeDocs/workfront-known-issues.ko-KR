@@ -4,7 +4,7 @@ description: “사용자가 프로젝트에 템플릿을 첨부하려고 하면
 hidefromtoc: true
 feature: Projects
 source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 1월 18일 금요일에 해결되었습니다.
+>이 문제는 2024년 1월 18일에 해결되었습니다.
 
 사용자가 프로젝트에 템플릿을 첨부하려고 하면 다음과 같은 오류 메시지가 표시됩니다.
 

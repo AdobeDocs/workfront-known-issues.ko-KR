@@ -4,7 +4,7 @@ description: “사용자가 마크업이나 임베드된 댓글이 포함된 Wo
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 1월 11일 금요일에 해결되었습니다.
+>이 문제는 2024년 1월 11일에 해결되었습니다.
 
 <!--WF and EFP TOCs-->
 
