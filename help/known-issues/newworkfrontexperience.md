@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
 source-wordcount: '793'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보드: 를 사용하여 열에서 카드를 이동할 수 없음 [!UICONTROL 이동] 옵션](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024년 1월 26일 토요일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
 
@@ -37,14 +36,15 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 2월 1일 금요일 |
-| [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024년 2월 1일 금요일 |
-| [문제: 드롭다운에 문제 상태가 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 목요일 |
-| [업데이트: 댓글을 편집할 때 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024년 1월 31일 목요일 |
-| [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024년 1월 25일 금요일 |
-| [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 금요일 |
-| [리소스 관리: 작업 역할 문제로 인해 재무 계산이 잘못됨](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 25일 금요일 |
-| [보드: 반복을 변경할 때 카드가 지속됨](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024년 1월 25일 금요일 |
+| [보드: [!UICONTROL 이동] 옵션](known-issues-workfront/wf-boards-top-of-column-ineffective.md)을 사용하여 열의 카드를 이동할 수 없음 | 2024년 2월 6일 수요일 |
+| [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 2월 1일 |
+| [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024년 2월 1일 |
+| [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 |
+| [업데이트: 댓글 편집 시 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024년 1월 31일 |
+| [[!UICONTROL 리소스 관리]: [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)의 일자를 변경할 수 없음” | 2024년 1월 25일 |
+| [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 |
+| [리소스 관리: 작업 역할 문제로 인해 재무 계산이 잘못됨](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024년 1월 25일 |
+| [보드: 반복을 변경할 때 카드가 지속됨](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024년 1월 25일 |
 | [문제: 문제를 일괄 편집할 때 시간 필드에 잘못된 시간이 저장됨](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024년 1월 5일 |
 | [새 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 |
 | [작업: 사용자가 하나 이상의 작업에서 할당 해제됨](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023년 12월 18일 |

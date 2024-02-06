@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
 workflow-type: tm+mt
-source-wordcount: '1523'
-ht-degree: 95%
+source-wordcount: '1532'
+ht-degree: 98%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [문제: 드롭다운에 문제 상태가 없음](known-issues-workfront/wf-issues-status-not-available.md)
-      + [업데이트: 댓글을 편집할 때 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [보드: 를 사용하여 열에서 카드를 이동할 수 없음 [!UICONTROL 이동] 옵션](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
-      + [템플릿: 템플릿을 복사할 때 오류 발생](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL 리소스 관리]: 에서 날짜를 변경할 수 없음 [!UICONTROL 활용성] 영역](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md)
+      + [업데이트: 댓글 편집 시 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [보드: [!UICONTROL 이동] 옵션을 사용하여 열의 카드를 이동할 수 없음](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [템플릿: 템플릿 복사 시 오류 발생](known-issues-workfront/wf-templates-cannot-copy-template.md)
+      + [[!UICONTROL 리소스 관리]: [!UICONTROL 활용성] 영역의 날짜를 변경할 수 없음](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [업데이트: 기존 댓글 달기 경험에서 작성한 댓글이 새 경험에 표시되지 않음](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [업데이트: 기존 댓글 달기 경험에서 태그 지정 관련 문제 발생](known-issues-workfront/wf-updates-showing-first-name.md)
       + [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md)
@@ -63,7 +63,7 @@ ht-degree: 95%
       + [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [템플릿: [!UICONTROL 즐겨찾기] 목록에서 템플릿을 선택할 수 없음](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL 홈]: [!UICONTROL 내 작업] 위젯에 작업이 표시되지 않음](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
-      + [작업: 타임라인을 다시 계산할 때 작업 일자가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [작업: 타임라인을 다시 계산할 때 작업 날짜가 오랫동안 회색으로 표시됨](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [보드: 태그 색상을 편집할 수 없음](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [알림: 사용자가 댓글을 태그 지정할 때 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notif-email-not-received.md)
       + [보드: 하위 작업 상태를 조회할 때 오류 발생](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
@@ -128,7 +128,7 @@ ht-degree: 95%
       + [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md)
       + [증명: 인쇄 요약에 이미지 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [작업: 작업의 [!UICONTROL 계획된 완료 날짜]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [문제: 문제가 있는 경우에도 왼쪽 탐색 메뉴에 “(0)”개 문제로 표시됨](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨](known-issues-workfront/wf-setup-lists-load-slowly.md)
@@ -189,9 +189,10 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [Workfront Fusion: Workfront 증명 > 증명 모듈 보기 시간 초과](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
-      + [Workfront Fusion: 날짜에 대한 출력 형식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion: Workfront 모듈에서 200 응답 포함 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
+      + [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
