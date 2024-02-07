@@ -5,7 +5,7 @@ keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '376'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 2월 1일 금요일 |
+| [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 2월 1일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |

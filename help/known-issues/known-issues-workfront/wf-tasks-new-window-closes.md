@@ -4,7 +4,7 @@ description: “사용자가 + 새 작업 버튼을 사용하여 새 작업을 �
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 1월 23일 수요일에 해결되었습니다.
+>이 문제는 2024년 1월 23일에 해결되었습니다.
 
 사용자가 + 새 작업 버튼을 사용하여 새 작업을 생성하려고 하면 새 작업 창이 열리지만 사용자가 정보를 입력하기 전에 닫힙니다. 따라서 사용자는 이 방법을 사용하여 새 작업을 생성할 수 없습니다.
 

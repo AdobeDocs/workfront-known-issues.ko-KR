@@ -4,7 +4,7 @@ description: “Workfront Proof의 사용자가 증명으로 결합할 자산을
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 

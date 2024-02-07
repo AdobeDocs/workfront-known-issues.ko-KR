@@ -4,7 +4,7 @@ description: “사용자가 [!UICONTROL 즐겨찾기] 목록에서 템플릿을
 hidefromtoc: true
 feature: Projects
 source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 
