@@ -3,15 +3,19 @@ title: '“리소스 관리: 작업 역할 문제로 인해 재무 계산이 잘
 description: “시간 및 재무 계산이 잘못되어 비용 요율이 있는 작업 역할에 시간이 기록되어 있어도 비용이 0으로 표시될 수 있습니다.”
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 
 # 리소스 관리: 작업 역할 문제로 인해 재무 계산이 잘못됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 2월 8일 금요일에 해결되었습니다.
 
 시간 및 재무 계산이 잘못되어 비용 요율이 있는 작업 역할에 시간이 기록되어 있어도 비용이 0으로 표시될 수 있습니다.
 
