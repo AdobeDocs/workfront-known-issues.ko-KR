@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '1542'
-ht-degree: 99%
+source-wordcount: '1564'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 다른 회사의 사용자에게 회신할 때 화면이 깜박임](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [보드: 여러 사용자에 대한 필터링이 모든 결과를 반환하지는 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [사용자: 사용자를 만들 때 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md)
       + [업데이트: 댓글 편집 시 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md)

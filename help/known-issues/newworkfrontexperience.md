@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 98%
+source-wordcount: '788'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 여러 사용자에 대한 필터링이 모든 결과를 반환하지는 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024년 2월 12일 화요일 |
 | [사용자: 사용자를 만들 때 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024년 2월 8일 금요일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -37,6 +38,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 다른 회사의 사용자에게 회신할 때 화면이 깜박임](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024년 2월 12일 화요일 |
 | [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 2월 1일 |
 | [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024년 2월 1일 |
 | [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 |
