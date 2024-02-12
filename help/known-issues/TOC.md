@@ -5,7 +5,7 @@ role: User
 source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
 source-wordcount: '1542'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -190,7 +190,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [Workfront Fusion: Workfront 증명 > 증명 모듈 보기 시간 초과](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
+      + [Workfront Fusion: [Workfront Proof] > [증명 보기] 모듈 시간 초과](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
