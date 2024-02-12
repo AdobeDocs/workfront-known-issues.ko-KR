@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Workfront 증명 > 증명 모듈 보기 시간 초과](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | 2024년 2월 6일 수요일 |
+| [Workfront Fusion: [Workfront Proof] > [증명 보기] 모듈 시간 초과](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | 2024년 2월 6일 |
 | [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024년 1월 29일 |
 
 {style="table-layout:auto"}
@@ -47,7 +47,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024년 2월 5일 화요일 |
+| [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024년 2월 5일 |
 | [Workfront Fusion: 일자에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024년 1월 31일 |
 | [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023년 11월 16일 |
 | [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 10월 24일 |
