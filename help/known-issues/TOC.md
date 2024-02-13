@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
 workflow-type: tm+mt
-source-wordcount: '1564'
-ht-degree: 97%
+source-wordcount: '1594'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [통합:에서 요청을 만들 때 첨부되지 않은 문서 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [증명: (으)로 증명을 만들 수 없음 [!UICONTROL 고급 워크플로우] 다음에서: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [보드: 보드에 작업 추가 시 400 오류 발생](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [업데이트: 다른 회사의 사용자에게 회신할 때 화면이 깜박임](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [보드: 여러 사용자에 대한 필터링이 모든 결과를 반환하지는 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [사용자: 사용자를 만들 때 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)

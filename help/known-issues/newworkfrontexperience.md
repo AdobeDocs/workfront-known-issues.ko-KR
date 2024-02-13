@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 95%
+source-wordcount: '821'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [통합:에서 요청을 만들 때 첨부되지 않은 문서 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024년 2월 13일 수요일 |
+| [증명: (으)로 증명을 만들 수 없음 [!UICONTROL 고급 워크플로우] 다음에서: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024년 2월 13일 수요일 |
+| [보드: 보드에 작업 추가 시 400 오류 발생](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024년 2월 13일 수요일 |
 | [보드: 여러 사용자에 대한 필터링이 모든 결과를 반환하지는 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024년 2월 12일 화요일 |
 | [사용자: 사용자를 만들 때 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024년 2월 8일 금요일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
