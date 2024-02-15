@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 92%
+source-wordcount: '794'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [홈: 작업 공간 및 핀이 로드되지 않음](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | 2024년 2월 15일 금요일 |
 | [보드: 중복 카드 관련 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 2월 14일 목요일 |
 | [통합:에서 요청을 만들 때 첨부되지 않은 문서 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024년 2월 13일 수요일 |
-| [증명: (으)로 증명을 만들 수 없음 [!UICONTROL 고급 워크플로우] 다음에서: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024년 2월 13일 수요일 |
 | [보드: 보드에 작업 추가 시 400 오류 발생](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024년 2월 13일 수요일 |
 | [보드: 여러 사용자에 대한 필터링이 모든 결과를 반환하지는 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024년 2월 12일 화요일 |
 | [사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024년 2월 8일 |
@@ -42,8 +42,8 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [증명: (으)로 증명을 만들 수 없음 [!UICONTROL 고급 워크플로우] 다음에서: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024년 2월 15일 금요일 |
 | [업데이트: 다른 회사의 사용자에게 회신할 때 화면이 깜박임](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024년 2월 12일 화요일 |
-| [문서: 문서를 폴더에서 루트로 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024년 2월 1일 |
 | [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024년 2월 1일 |
 | [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 |
 | [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 |

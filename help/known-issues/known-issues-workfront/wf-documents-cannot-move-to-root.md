@@ -3,15 +3,19 @@ title: '“문서: 문서를 폴더에서 루트로 이동할 수 없음”'
 description: “사용자가 사용자 생성 폴더에서 프로젝트의 [문서] 루트 폴더로 폴더를 이동하려고 하면 문서가 이동되지 않고 사용자에게 오류가 표시됩니다.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+workflow-type: tm+mt
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
 
 
 # 문서: 문서를 폴더에서 루트로 이동할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2024년 1월 24일 목요일에 해결되었습니다.
 
 사용자가 사용자 생성 폴더에서 프로젝트의 [문서] 루트 폴더로 폴더를 이동하려고 하면 문서가 이동되지 않고 사용자에게 다음과 같은 오류가 표시됩니다.
 
