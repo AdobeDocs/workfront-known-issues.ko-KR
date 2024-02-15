@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1606'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [홈: 작업 공간 및 핀이 로드되지 않음](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [보드: 중복 카드 관련 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [통합:에서 요청을 만들 때 첨부되지 않은 문서 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [증명: (으)로 증명을 만들 수 없음 [!UICONTROL 고급 워크플로우] 다음에서: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
