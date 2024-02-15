@@ -4,7 +4,7 @@ description: “시간 및 재무 계산이 잘못되어 비용 요율이 있는
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 2월 8일 금요일에 해결되었습니다.
+>이 문제는 2024년 2월 8일에 해결되었습니다.
 
 시간 및 재무 계산이 잘못되어 비용 요율이 있는 작업 역할에 시간이 기록되어 있어도 비용이 0으로 표시될 수 있습니다.
 
