@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '1606'
-ht-degree: 96%
+source-wordcount: '1624'
+ht-degree: 98%
 
 ---
 
@@ -17,13 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md)
+      + [보드: 카드 세부 정보를 볼 때 화면이 깜박임](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [홈: 작업 공간 및 핀이 로드되지 않음](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
-      + [보드: 중복 카드 관련 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [통합:에서 요청을 만들 때 첨부되지 않은 문서 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [증명: (으)로 증명을 만들 수 없음 [!UICONTROL 고급 워크플로우] 다음에서: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
-      + [보드: 보드에 작업 추가 시 400 오류 발생](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
-      + [업데이트: 다른 회사의 사용자에게 회신할 때 화면이 깜박임](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [보드: 여러 사용자에 대한 필터링이 모든 결과를 반환하지는 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md)
+      + [통합:  [!DNL Outlook]에서 요청을 생성할 때 문서가 첨부되지 않음](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [증명: [!DNL SharePoint] 문서에서 [!UICONTROL 고급 워크플로]를 사용하여 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [보드: 보드에 작업 추가 시 400 오류](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
+      + [업데이트: 다른 회사의 사용자에게 회신하면 빈 화면이 표시됨](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [보드: 여러 사용자 필터링 시 모든 결과가 반환되지 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md)
       + [업데이트: 댓글 편집 시 비활성화된 이미지 옵션을 사용할 수 있음](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
@@ -200,7 +203,7 @@ ht-degree: 96%
       + [Workfront Fusion: [Workfront Proof] > [증명 보기] 모듈 시간 초과](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 런타임 오류](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
