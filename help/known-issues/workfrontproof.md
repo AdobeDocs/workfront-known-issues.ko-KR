@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: (으)로 증명을 만들 수 없음 [!UICONTROL 고급 워크플로우] 다음에서: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024년 2월 15일 금요일 |
+| [증명: [!DNL SharePoint] 문서](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)에서 [!UICONTROL 고급 워크플로]를 사용하여 증명을 만들 수 없음 | 2024년 2월 15일 금요일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |

@@ -139,7 +139,7 @@ ht-degree: 98%
       + [사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [증명: 증명 뷰어에서 증명이 원본 이미지보다 덜 선명하게 표시됨](known-issues-workfront/wf-proofs-are-blurry.md)
       + [증명: 인쇄 요약에 이미지 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [작업: 작업의 [!UICONTROL 계획된 완료 날짜]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [문제: 문제가 있는 경우에도 왼쪽 탐색 메뉴에 “(0)”개 문제로 표시됨](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨](known-issues-workfront/wf-setup-lists-load-slowly.md)
