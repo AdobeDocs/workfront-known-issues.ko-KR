@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 98%
+source-wordcount: '1647'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 붙여넣을 때 오류 발생](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [프로젝트: 작업의 날짜를 변경할 때 타임라인이 매우 느리게 다시 계산됩니다](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md)
       + [보드: 카드 세부 정보를 볼 때 화면이 깜박임](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

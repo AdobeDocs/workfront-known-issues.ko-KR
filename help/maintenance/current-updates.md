@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 93%
+source-wordcount: '1860'
+ht-degree: 92%
 
 ---
 
@@ -45,6 +45,12 @@ ht-degree: 93%
 
 * 액세스 수준 필드를 사용할 수 없습니다.
 * 그룹 관리자가 더 낮은 액세스 수준을 선택할 수 없습니다.
+
+#### 워크로드 밸런서
+
+**휴무 시간 레이블**
+
+업무 균형자 및 개인 휴무 캘린더에 이제 &quot;[!UICONTROL 휴무 시간]&quot;사용자가 이륙하는 시간입니다. 이전에는 디스플레이에 &quot;[!UICONTROL 작업 시간]휴무 시간에는 &quot;.
 
 +++
 
