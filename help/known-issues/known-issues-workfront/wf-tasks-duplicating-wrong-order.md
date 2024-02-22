@@ -3,15 +3,19 @@ title: '“작업: 작업을 복제하면 작업이 잘못된 순서로 표시�
 description: “사용자가 작업 목록에서 하나 이상의 작업을 선택하고 이를 복제하면 작업 목록에 작업 순서 번호에 따른 잘못된 순서로 작업이 표시됩니다. 작업 번호는 올바르게 지정되지만 작업이 잘못된 순서로 표시됩니다. 해결 방법을 사용할 수 있습니다.”
 hidefromtoc: true
 feature: Tasks
-source-git-commit: c1551f44eebd810017b035334a21819afe1e8638
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # 작업: 작업을 복제하면 작업이 잘못된 순서로 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 2월 22일 금요일에 해결되었습니다.
 
 사용자가 작업 목록에서 하나 이상의 작업을 선택하고 이를 복제하면 작업 목록에 작업 순서 번호에 따른 잘못된 순서로 작업이 표시됩니다. 작업 번호는 올바르게 지정되지만 작업이 잘못된 순서로 표시됩니다.
 

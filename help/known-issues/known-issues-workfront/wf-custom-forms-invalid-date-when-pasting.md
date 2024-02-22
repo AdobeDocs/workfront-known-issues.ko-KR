@@ -3,15 +3,19 @@ title: "사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 
 description: "사용자가 다른 애플리케이션(Salesforce 또는 Outlook 등)의 텍스트를 Workfront의 서식 있는 텍스트 필드에 붙여넣으려고 하면 텍스트가 붙여넣어지지 않고 오류가 표시됩니다."
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '114'
+ht-degree: 8%
 
 ---
 
 
 # 사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 붙여넣을 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 2월 22일 금요일에 해결되었습니다.
 
 사용자가 다른 애플리케이션(예: Salesforce 또는 Outlook)의 텍스트를 Workfront의 서식 있는 텍스트 필드에 붙여넣으려고 하면 텍스트가 붙여넣어지지 않고 다음과 같은 오류가 표시됩니다.
 
