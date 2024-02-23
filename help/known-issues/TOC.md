@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업무 균형자: 계획된 시간이 업무 균형자에서 업데이트되지 않음](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [보드: 카드에 업로드된 문서에 잘못된 타임스탬프가 표시됨](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [타임시트: 요약 패널을 볼 때 오류 발생](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [프로젝트: 제품 목록에서 필터를 사용할 때 오류 발생](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 붙여넣을 때 오류 발생](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [프로젝트: 작업의 날짜를 변경할 때 타임라인이 매우 느리게 다시 계산됩니다](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
