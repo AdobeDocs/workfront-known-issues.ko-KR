@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 92%
+source-wordcount: '860'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업: 작업을 만들거나 복제하면 작업 목록이 잘못된 순서로 표시됩니다.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 화요일 |
+| [보고서: 텍스트 모드에서 변경한 사항은 보고서나 보기에 적용되지 않습니다](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024년 2월 26일 화요일 |
 | [프로젝트: 제품 목록에서 필터를 사용할 때 오류 발생](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024년 2월 22일 금요일 |
 | [보드: 보드에 작업 추가 시 400 오류](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024년 2월 13일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
@@ -47,8 +49,8 @@ ht-degree: 92%
 | [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 2월 22일 금요일 |
 | [사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024년 2월 22일 금요일 |
 | [프로젝트: 작업의 날짜를 변경할 때 타임라인이 매우 느리게 다시 계산됩니다](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024년 2월 21일 목요일 |
-| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 2월 16일 토요일 |
-| [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md) | 2024년 2월 16일 토요일 |
+| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 2월 16일 |
+| [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md) | 2024년 2월 16일 |
 | [업데이트: 다른 회사의 사용자에게 회신하면 빈 화면이 표시됨](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024년 2월 12일 |
 | [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024년 2월 1일 |
 | [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 |

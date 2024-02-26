@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 94%
+source-wordcount: '1699'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 텍스트 모드에서 변경한 사항은 보고서나 보기에 적용되지 않습니다](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [업무 균형자: 계획된 시간이 업무 균형자에서 업데이트되지 않음](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [보드: 카드에 업로드된 문서에 잘못된 타임스탬프가 표시됨](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [타임시트: 요약 패널을 볼 때 오류 발생](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
@@ -26,8 +27,8 @@ ht-degree: 94%
       + [프로젝트: 작업의 날짜를 변경할 때 타임라인이 매우 느리게 다시 계산됩니다](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md)
-      + [보드: 카드 세부 정보를 볼 때 화면이 깜박임](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [홈: 작업 공간 및 핀이 로드되지 않음](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [보드: 카드 세부 정보를 조회할 때 빈 화면이 표시됨](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
+      + [홈: Workspace 및 핀이 로드되지 않음](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [통합:  [!DNL Outlook]에서 요청을 생성할 때 문서가 첨부되지 않음](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [증명: [!DNL SharePoint] 문서에서 [!UICONTROL 고급 워크플로]를 사용하여 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
