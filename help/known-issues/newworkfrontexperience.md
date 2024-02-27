@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '851'
 ht-degree: 91%
 
 ---
@@ -41,7 +41,6 @@ ht-degree: 91%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [업무 균형자: 계획된 시간이 업무 균형자에서 업데이트되지 않음](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024년 2월 23일 토요일 |
-| [보드: 카드에 업로드된 문서에 잘못된 타임스탬프가 표시됨](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024년 2월 23일 토요일 |
 | [타임시트: 요약 패널을 볼 때 오류 발생](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024년 2월 23일 토요일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 2월 23일 토요일 |
 | [보드: 여러 사용자 필터링 시 모든 결과가 반환되지 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024년 2월 22일 금요일 |

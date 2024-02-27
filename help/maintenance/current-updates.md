@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1913'
 ht-degree: 97%
 
 ---
@@ -21,6 +21,20 @@ ht-degree: 97%
 2023년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2024년 2월 업데이트
+
++++**2024년 2월 29일 금요일 유지 보수 업데이트**
+
+### 2024년 2월 29일 금요일 유지 보수 업데이트
+
+#### 업데이트
+
+**업데이트: 다른 회사의 사용자에게 회신하면 빈 화면이 표시됨**
+
+다른 회사의 사용자가 작성한 댓글에 사용자가 회신하려고 하면 빈 화면이 표시됩니다.
+
+이는 해당 사용자가 다른 회사의 사용자를 볼 수 있는 권한이 없기 때문입니다.
+
++++
 
 +++**2024년 2월 22일 금요일 유지 보수 업데이트**
 
