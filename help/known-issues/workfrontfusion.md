@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
-workflow-type: ht
-source-wordcount: '177'
-ht-degree: 100%
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+workflow-type: tm+mt
+source-wordcount: '180'
+ht-degree: 93%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: [Workfront Proof] > [증명 보기] 모듈 시간 초과](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | 2024년 2월 6일 |
+| [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024년 3월 1일 토요일 |
 | [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024년 1월 29일 |
 
 {style="table-layout:auto"}

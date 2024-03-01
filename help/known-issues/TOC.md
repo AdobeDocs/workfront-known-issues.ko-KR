@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
 workflow-type: tm+mt
-source-wordcount: '1699'
-ht-degree: 95%
+source-wordcount: '1711'
+ht-degree: 99%
 
 ---
 
@@ -17,14 +17,15 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [보고서: 텍스트 모드에서 변경한 사항은 보고서나 보기에 적용되지 않습니다](known-issues-workfront/wf-reports-text-mode-not-saving.md)
-      + [업무 균형자: 계획된 시간이 업무 균형자에서 업데이트되지 않음](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
+      + [보고서: 텍스트 모드에서 변경한 내용이 보고서 또는 보기에 적용되지 않음](known-issues-workfront/wf-reports-text-mode-not-saving.md)
+      + [워크로드 밸런서: 계획된 시간이 워크로드 밸런서에서 업데이트되지 않습니다.](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [보드: 카드에 업로드된 문서에 잘못된 타임스탬프가 표시됨](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [타임시트: 요약 패널을 볼 때 오류 발생](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
       + [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
       + [프로젝트: 제품 목록에서 필터를 사용할 때 오류 발생](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
-      + [사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 붙여넣을 때 오류 발생](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
-      + [프로젝트: 작업의 날짜를 변경할 때 타임라인이 매우 느리게 다시 계산됩니다](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
+      + [사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 붙여 넣을 때 오류가 발생합니다.](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [프로젝트: 작업 날짜를 변경할 때 타임라인이 매우 느리게 재계산됨](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md)
       + [보드: 카드 세부 정보를 조회할 때 빈 화면이 표시됨](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
