@@ -3,15 +3,19 @@ title: '“업데이트: 다른 회사의 사용자에게 회신하면 빈 화�
 description: “다른 회사의 사용자가 작성한 댓글에 사용자가 회신하려고 하면 빈 화면이 표시됩니다.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 
 # 업데이트: 다른 회사의 사용자에게 회신하면 빈 화면이 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 2월 29일 금요일에 해결되었습니다.
 
 다른 회사의 사용자가 작성한 댓글에 사용자가 회신하려고 하면 빈 화면이 표시됩니다.
 

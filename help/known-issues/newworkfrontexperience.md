@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 91%
+source-wordcount: '810'
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,8 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [작업: 작업을 만들거나 복제하면 작업 목록이 잘못된 순서로 표시됩니다.](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 화요일 |
-| [보고서: 텍스트 모드에서 변경한 사항은 보고서나 보기에 적용되지 않습니다](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024년 2월 26일 화요일 |
-| [프로젝트: 제품 목록에서 필터를 사용할 때 오류 발생](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024년 2월 22일 금요일 |
+| [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
+| [보고서: 텍스트 모드에서 변경한 내용이 보고서 또는 보기에 적용되지 않음](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024년 2월 26일 |
 | [보드: 보드에 작업 추가 시 400 오류](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024년 2월 13일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -40,18 +39,14 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [보드: 카드에 업로드된 문서에 잘못된 타임스탬프가 표시됨](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024년 2월 28일 목요일 |
-| [업무 균형자: 계획된 시간이 업무 균형자에서 업데이트되지 않음](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024년 2월 23일 토요일 |
-| [타임시트: 요약 패널을 볼 때 오류 발생](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024년 2월 23일 토요일 |
-| [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 2월 23일 토요일 |
-| [보드: 여러 사용자 필터링 시 모든 결과가 반환되지 않음](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024년 2월 22일 금요일 |
-| [통합:  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)에서 요청을 생성할 때 문서가 첨부되지 않음 | 2024년 2월 22일 금요일 |
-| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 2월 22일 금요일 |
-| [사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024년 2월 22일 금요일 |
-| [프로젝트: 작업의 날짜를 변경할 때 타임라인이 매우 느리게 다시 계산됩니다](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024년 2월 21일 목요일 |
+| [워크로드 밸런서: 계획된 시간이 워크로드 밸런서에서 업데이트되지 않습니다.](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024년 2월 23일 |
+| [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 2월 23일 |
+| [통합:  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)에서 요청을 생성할 때 문서가 첨부되지 않음 | 2024년 2월 22일 |
+| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 2월 22일 |
+| [사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024년 2월 22일 |
+| [프로젝트: 작업 날짜를 변경할 때 타임라인이 매우 느리게 재계산됨](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024년 2월 21일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 2월 16일 |
 | [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md) | 2024년 2월 16일 |
-| [업데이트: 다른 회사의 사용자에게 회신하면 빈 화면이 표시됨](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024년 2월 12일 |
 | [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024년 2월 1일 |
 | [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 |
 | [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 |
