@@ -4,7 +4,7 @@ description: “사용자가 보드에서 카드를 클릭하면 빈 화면으�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 2월 22일 금요일에 해결되었습니다.
+>이 문제는 2024년 2월 22일에 해결되었습니다.
 
 사용자가 보드에서 카드를 클릭하면 빈 화면으로 바뀌기 전에 카드 세부 정보가 잠시 표시됩니다.
 

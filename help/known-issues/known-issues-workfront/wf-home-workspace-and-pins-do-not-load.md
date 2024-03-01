@@ -4,7 +4,7 @@ description: “사용자가 로그인하면 홈 작업 영역과 핀이 로드�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 2월 22일 금요일에 해결되었습니다.
+>이 문제는 2024년 2월 22일에 해결되었습니다.
 
 사용자가 로그인하면 다음과 같은 문제가 발생할 수 있습니다.
 
