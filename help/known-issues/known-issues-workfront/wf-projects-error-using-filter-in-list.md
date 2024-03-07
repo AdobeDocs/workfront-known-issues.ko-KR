@@ -4,7 +4,7 @@ description: “사용자가 프로젝트 목록을 보고 필터를 적용하�
 hidefromtoc: true
 feature: Projects
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 2월 23일 토요일에 해결되었습니다.
+>이 문제는 2024년 2월 23일에 해결되었습니다.
 
 사용자가 프로젝트 목록을 보고 필터를 적용하면 목록이 사라지고 사용자에게 다음 메시지가 표시됩니다.
 

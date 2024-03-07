@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '823'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024년 3월 1일 토요일 |
+| [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024년 3월 1일 |
 | [워크로드 밸런서: 계획된 시간이 워크로드 밸런서에서 업데이트되지 않습니다.](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024년 2월 23일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 2월 23일 |
 | [통합:  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)에서 요청을 생성할 때 문서가 첨부되지 않음 | 2024년 2월 22일 |

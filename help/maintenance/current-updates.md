@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1913'
 ht-degree: 100%
 
@@ -22,9 +22,9 @@ ht-degree: 100%
 
 ## 2024년 2월 업데이트
 
-+++**2024년 2월 29일 금요일 유지 보수 업데이트**
++++**2024년 2월 29일 유지 보수 업데이트**
 
-### 2024년 2월 29일 금요일 유지 보수 업데이트
+### 2024년 2월 29일 유지 보수 업데이트
 
 #### 업데이트
 
