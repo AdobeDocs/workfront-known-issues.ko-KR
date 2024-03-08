@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '1716'
+source-wordcount: '1725'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [업데이트: 줄 사이에 큰 공백](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [보고서: 텍스트 모드에서 변경한 내용이 보고서 또는 보기에 적용되지 않음](known-issues-workfront/wf-reports-text-mode-not-saving.md)
