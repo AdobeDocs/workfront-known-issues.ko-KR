@@ -4,7 +4,7 @@ description: “프로젝트의 계획된 시간이 업데이트되어도 워크
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 3월 7일 금요일에 해결되었습니다.
+>이 문제는 2024년 3월 7일에 해결되었습니다.
 
 프로젝트의 계획된 시간이 업데이트되어도 워크로드 밸런서에서 업데이트되지 않습니다. 변경 사항이 프로젝트에 정확하게 반영되었음에도 불구하고 이런 현상이 발생할 수 있습니다.
 
