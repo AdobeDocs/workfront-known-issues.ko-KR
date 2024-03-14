@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '1725'
-ht-degree: 99%
+source-wordcount: '1764'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [업데이트: 사용자를 태그 지정하는 것은 효과적이지 않음](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [로깅 시간: 사용자가 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [업데이트: 문서 주석이 상위 개체의 업데이트에 표시되지 않습니다.](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [업데이트: 줄 사이의 넓은 공백](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
