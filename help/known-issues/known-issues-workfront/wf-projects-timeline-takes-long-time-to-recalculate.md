@@ -3,15 +3,19 @@ title: '“프로젝트: 작업 날짜를 변경할 때 타임라인이 매우 �
 description: “사용자가 프로젝트를 보고 프로젝트 작업 중 하나의 날짜를 변경하면 프로젝트의 모든 날짜가 다시 계산됩니다. 이 프로세스는 몇 분 정도 소요될 수 있으며, 그 동안 프로젝트 작업 날짜가 회색으로 표시되고 응답하지 않습니다.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
-workflow-type: ht
-source-wordcount: '114'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
 
 
 # 프로젝트: 작업 날짜를 변경할 때 타임라인이 매우 느리게 재계산됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 3월 8일 토요일에 해결되었습니다.
 
 사용자가 프로젝트를 보고 프로젝트 작업 중 하나의 날짜를 변경하면 프로젝트의 모든 날짜가 다시 계산됩니다. 이 프로세스는 몇 분 정도 소요될 수 있으며, 그 동안 프로젝트 작업 날짜가 회색으로 표시되고 응답하지 않습니다.
 

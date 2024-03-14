@@ -3,9 +3,9 @@ title: '“팀: 완료 버튼에 대한 팀 상태 설정 관련 문제”'
 description: “팀을 편집하거나 생성할 때 [!UICONTROL 완료] 버튼 상태와 관련된 문제가 보고되었습니다. 해결 방법을 사용할 수 있습니다.”
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # 팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>이는 문제가 아닌 것으로 판명되어 종결되었습니다.
 
 팀을 편집하거나 생성할 때 [!UICONTROL 완료] 버튼 상태와 관련된 다음과 같은 문제가 보고되었습니다.
 

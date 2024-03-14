@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '774'
 ht-degree: 98%
 
 ---
@@ -37,21 +37,16 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 3월 8일 토요일 |
+| [보드: 보드에 작업 추가 시 400 오류](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024년 3월 14일 금요일 |
+| [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 3월 8일 |
 | [보고서: 텍스트 모드에서 변경한 내용이 보고서 또는 보기에 적용되지 않음](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024년 2월 26일 |
-| [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 3월 8일 토요일 |
-| [업데이트: 줄 사이에 큰 공백](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024년 3월 8일 토요일 |
-| [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024년 3월 1일 |
+| [업데이트: 줄 사이의 넓은 공백](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024년 3월 8일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 2월 23일 |
 | [통합:  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)에서 요청을 생성할 때 문서가 첨부되지 않음 | 2024년 2월 22일 |
 | [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 2월 22일 |
-| [사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용할 수 없음](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024년 2월 22일 |
-| [프로젝트: 작업 날짜를 변경할 때 타임라인이 매우 느리게 재계산됨](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024년 2월 21일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 2월 16일 |
 | [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md) | 2024년 2월 16일 |
 | [보드: 상태가 변경되면 카드가 해당 열로 이동하지 않음](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024년 2월 1일 |
-| [문제: 문제 상태가 드롭다운에 없음](known-issues-workfront/wf-issues-status-not-available.md) | 2024년 1월 31일 |
-| [팀: [!UICONTROL 완료] 버튼에 대한 팀 상태 설정 관련 문제](known-issues-workfront/wf-teams-statuses-missing.md) | 2024년 1월 25일 |
 | [새 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |

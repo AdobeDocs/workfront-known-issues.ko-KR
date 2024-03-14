@@ -3,15 +3,19 @@ title: '“사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용
 description: “사용자가 다른 사용자를 생성하는 경우 새로 생성된 사용자는 첫 번째 사용자의 액세스 수준만 사용할 수 있습니다. 새 사용자를 생성한 사용자의 권한보다 낮은 권한을 가진 모든 액세스 수준을 새 사용자에게도 할당할 수 있어야 합니다.”
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 6424bc11d6ba773e8973cc5def56cc7ffcb82e89
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
 
 # 사용자: 사용자 생성 시 더 낮은 액세스 수준을 사용할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2024년 3월 14일 금요일에 해결되었습니다.
 
 사용자가 다른 사용자를 생성하는 경우 새로 생성된 사용자는 첫 번째 사용자의 액세스 수준만 사용할 수 있습니다. 새 사용자를 생성한 사용자의 권한보다 낮은 권한을 가진 모든 액세스 수준을 새 사용자에게도 할당할 수 있어야 합니다.
 
