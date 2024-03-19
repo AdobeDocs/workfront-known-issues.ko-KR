@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 94%
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [업데이트: 문서 주석이 상위 개체의 업데이트에 표시되지 않습니다.](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 14일 금요일 |
+| [업데이트: 문서 주석이 상위 개체의 업데이트에 표시되지 않습니다.](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 14일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -38,11 +38,11 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024년 3월 14일 금요일 |
-| [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 금요일 |
-| [업데이트: 비효과적인 사용자 태그 지정](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024년 3월 14일 금요일 |
-| [로깅 시간: 사용자가 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024년 3월 14일 금요일 |
-| [보드: 보드에 작업 추가 시 400 오류](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024년 3월 14일 금요일 |
+| [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024년 3월 14일 |
+| [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 |
+| [업데이트: 비효과적인 사용자 태그 지정](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024년 3월 14일 |
+| [로깅 시간: 사용자가 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024년 3월 14일 |
+| [보드: 보드에 작업 추가 시 400 오류](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024년 3월 14일 |
 | [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 3월 8일 |
 | [보고서: 텍스트 모드에서 변경한 내용이 보고서 또는 보기에 적용되지 않음](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024년 2월 26일 |
 | [업데이트: 줄 사이의 넓은 공백](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024년 3월 8일 |
