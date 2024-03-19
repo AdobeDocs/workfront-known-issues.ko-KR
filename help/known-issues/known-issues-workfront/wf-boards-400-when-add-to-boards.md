@@ -4,7 +4,7 @@ description: “사용자가 프로젝트를 조회하고 보드에 작업을 �
 hidefromtoc: true
 feature: Agile
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
