@@ -3,15 +3,19 @@ title: '“보드: 보드에 작업 추가 시 400 오류”'
 description: “사용자가 프로젝트를 조회하고 보드에 작업을 추가하려고 하면 작업이 추가되지 않고 사용자에게 오류가 표시됩니다. 해결 방법을 사용할 수 있습니다.”
 hidefromtoc: true
 feature: Agile
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: ht
-source-wordcount: '103'
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+workflow-type: tm+mt
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
 
 
 # 보드: 보드에 작업 추가 시 400 오류
+
+>[!NOTE]
+>
+>이 문제는 2024년 3월 14일에 해결되었습니다.
 
 사용자가 프로젝트를 조회하고 보드에 작업을 추가하려고 하면 작업이 추가되지 않고 사용자에게 다음 오류가 표시됩니다.
 
