@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 100%
+source-wordcount: '869'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [애자일: Kanban 카드에 사용자 정의 필드가 표시되지 않음](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024년 3월 22일 토요일 |
+| [작업: 전임 작업 도구 설명에 작업 이름이 표시되지 않음](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | 2024년 3월 22일 토요일 |
+| [보드: 칸반 보드에서 보드에 작업을 추가할 때 400 오류 발생](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024년 3월 22일 토요일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -37,6 +40,10 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [증명: 증명이 내 승인 위젯에 남음](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024년 3월 22일 토요일 |
+| [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 토요일 |
+| [리소스 관리: 예산 시간의 불일치](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 2024년 3월 22일 토요일 |
+| [증명: 새 문서 버전의 단순 증명에 이전 버전의 워크플로가 포함됨](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024년 3월 22일 토요일 |
 | [업데이트: 문서 댓글이 상위 오브젝트 업데이트에 표시되지 않음](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 21일 금요일 |
 | [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024년 3월 14일 |
 | [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 |

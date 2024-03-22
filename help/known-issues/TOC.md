@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '1764'
-ht-degree: 100%
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [애자일: Kanban 카드에 사용자 정의 필드가 표시되지 않음](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [증명: 증명이 내 승인 위젯에 남음](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [리소스 관리: 예산 시간의 불일치](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [증명: 새 문서 버전의 단순 증명에 이전 버전의 워크플로가 포함됨](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [작업: 전임 작업 도구 설명에 작업 이름이 표시되지 않음](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [보드: 칸반 보드에서 보드에 작업을 추가할 때 400 오류 발생](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [업데이트: 사용자 태그 지정이 효과가 없음](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

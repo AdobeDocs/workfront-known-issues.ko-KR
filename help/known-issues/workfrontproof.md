@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '379'
-ht-degree: 100%
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
+workflow-type: tm+mt
+source-wordcount: '412'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명이 내 승인 위젯에 남음](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024년 3월 22일 토요일 |
+| [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 토요일 |
+| [증명: 새 문서 버전의 단순 증명에 이전 버전의 워크플로가 포함됨](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024년 3월 22일 토요일 |
 | [증명: 정적 파일 처리 문제](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023년 12월 15일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 10월 26일 |
