@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [업데이트: 문서 주석이 상위 개체의 업데이트에 표시되지 않습니다.](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 21일 금요일 |
+| [업데이트: 문서 댓글이 상위 오브젝트 업데이트에 표시되지 않음](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 21일 금요일 |
 | [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024년 3월 14일 |
 | [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 |
-| [업데이트: 비효과적인 사용자 태그 지정](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024년 3월 14일 |
-| [로깅 시간: 사용자가 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024년 3월 14일 |
+| [업데이트: 사용자 태그 지정이 효과가 없음](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024년 3월 14일 |
+| [시간 기록: 사용자가 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024년 3월 14일 |
 | [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 3월 8일 |
 | [보고서: 텍스트 모드에서 변경한 내용이 보고서 또는 보기에 적용되지 않음](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024년 2월 26일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 2월 23일 |
