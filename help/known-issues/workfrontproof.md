@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [업데이트: 문서 주석이 상위 개체의 업데이트에 표시되지 않습니다.](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 14일 금요일 |
+| [업데이트: 문서 댓글이 상위 오브젝트 업데이트에 표시되지 않음](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 14일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
 
 {style="table-layout:auto"}
