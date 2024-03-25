@@ -4,7 +4,7 @@ description: 사용자가 가로 방향을 사용하여 대시보드를 PDF로 �
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91512e88-57c9-4a9a-81a7-7bc2da9095d0
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 149c5401e25d2a67560a20e041b908ed65aea1c0
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 87%
@@ -13,7 +13,7 @@ ht-degree: 87%
 
 # 대시보드: 대시보드를 PDF로 인쇄할 때 큰 공백 여백이 있음
 
-<!--article by request-->
+<!--Article by request-->
 
 사용자가 가로 방향을 사용하여 대시보드를 PDF로 인쇄하면 PDF 오른쪽에 큰 공백 여백이 표시됩니다.
 
