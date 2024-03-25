@@ -1,17 +1,19 @@
 ---
-title: '“프로젝트: 제품 목록에서 필터를 사용할 때 오류 발생”'
+title: "프로젝트: 프로젝트 목록에서 필터를 사용할 때 오류 발생"
 description: “사용자가 프로젝트 목록을 보고 필터를 적용하면 목록이 사라지고 사용자에게 오류 메시지가 표시됩니다.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: ht
+exl-id: e7619967-e68a-42ae-a8a9-656446e619a9
+source-git-commit: e5bc1a7458c6a28b1628fdb6602e4afea522cd5a
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
 
-# 프로젝트: 제품 목록에서 필터를 사용할 때 오류 발생
+# 프로젝트: 프로젝트 목록에서 필터를 사용할 때 오류 발생
+
 
 >[!NOTE]
 >
