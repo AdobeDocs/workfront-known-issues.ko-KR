@@ -44,7 +44,7 @@ ht-degree: 92%
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 토요일 |
 | [리소스 관리: 예산 시간의 불일치](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 2024년 3월 22일 토요일 |
 | [증명: 새 문서 버전의 단순 증명에 이전 버전의 워크플로가 포함됨](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024년 3월 22일 토요일 |
-| [업데이트: 문서 댓글이 상위 오브젝트 업데이트에 표시되지 않음](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 21일 금요일 |
+| [업데이트: 문서 댓글이 상위 오브젝트 업데이트에 표시되지 않음](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024년 3월 21일 |
 | [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024년 3월 14일 |
 | [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 |
 | [업데이트: 사용자 태그 지정이 효과가 없음](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024년 3월 14일 |
