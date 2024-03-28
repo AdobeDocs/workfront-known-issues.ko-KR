@@ -4,7 +4,7 @@ description: “사용자가 보드에서 카드를 정렬하려고 해도 카�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 
