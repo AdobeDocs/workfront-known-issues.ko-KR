@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '787'
-ht-degree: 94%
+source-wordcount: '796'
+ht-degree: 93%
 
 ---
 
@@ -61,6 +61,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 보고서 필터가 예상 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024년 4월 1일 화요일 |
 | [설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정할 수 없음](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023년 11월 30일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 11월 16일 |
 | [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023년 11월 9일 |
