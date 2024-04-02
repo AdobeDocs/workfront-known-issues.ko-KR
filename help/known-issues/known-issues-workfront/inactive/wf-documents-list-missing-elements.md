@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 문서 목록과 관련하여 다음과 같은 문제가 보고되었습니다.
 
 * 썸네일이 표시되지 않습니다.
-* 목록 보기에서 선택한 폴더를 전환하면 필터, 보기 및 그룹화 옵션이 더 이상 작동하지 않습니다.
+* 사용자가 목록 보기에서 선택한 폴더를 전환하면 필터 보기 및 그룹화 옵션이 더 이상 작동하지 않습니다.
 
 **해결 방법**
 
