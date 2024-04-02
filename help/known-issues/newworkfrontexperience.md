@@ -1,13 +1,13 @@
 ---
-title: 새로운 [!DNL Adobe Workfront] 환경의 알려진 문제
-description: 새로운 [!DNL Adobe Workfront] 환경에 대해 보고된 알려진 문제
+title: 새로운 [!DNL Adobe Workfront] 경험의 알려진 문제
+description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 연결된 문서에서 생성된 증명에 증명 템플릿이 적용되지 않음](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024년 3월 27일 목요일 |
 | [보드: 사용자 팀이 보드에 추가되면 사용자가 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | 2024년 3월 27일 목요일 |
-| [보드: 칸반 보드에서 보드에 작업을 추가할 때 400 오류 발생](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024년 3월 22일 토요일 |
+| [보드: Kanban 보드에서 보드에 작업을 추가할 때 400 오류 발생](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024년 3월 22일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -41,7 +41,7 @@ ht-degree: 93%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [애자일: Kanban 카드에 사용자 정의 필드가 표시되지 않음](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024년 3월 28일 금요일 |
-| [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 토요일 |
+| [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 |
 | [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024년 3월 14일 |
 | [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 |
 | [시간 기록: 사용자가 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024년 3월 14일 |

@@ -5,7 +5,7 @@ role: User
 source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
 source-wordcount: '1502'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 94%
       + [보고서: 보고서 필터가 예상 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [보드: 사용자 팀이 보드에 추가되면 사용자가 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [애자일: Kanban 카드에 사용자 정의 필드가 표시되지 않음](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [증명: 증명이 내 승인 위젯에 남음](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [증명: 증명이 “내 승인” 위젯에 남아 있음](known-issues-workfront/wf-proofs-stuck-on-widget.md)
       + [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [리소스 관리: 예산 시간의 불일치](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
-      + [증명: 새 문서 버전의 단순 증명에 이전 버전의 워크플로가 포함됨](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [리소스 관리: 예산 시간에서의 불일치](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [증명: 새 문서 버전의 간단한 증명에 이전 버전의 워크플로가 포함됨](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
       + [작업: 전임 작업 도구 설명에 작업 이름이 표시되지 않음](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [보드: 칸반 보드에서 보드에 작업을 추가할 때 400 오류 발생](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [보드: Kanban 보드에서 보드에 작업을 추가할 때 400 오류 발생](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [증명: 웹 사이트에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [업데이트: 사용자 태그 지정이 효과가 없음](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
