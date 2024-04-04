@@ -4,10 +4,10 @@ description: 사용자가 연결된 문서에서 증명을 만들면 증명 템�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
-source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 87%
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
@@ -15,13 +15,9 @@ ht-degree: 87%
 
 <!--On WF, WFF, WFP TOCs-->
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on March 14, 2024.
-
--->
+>이 문제는 2024년 3월 14일에 해결되었습니다.
 
 사용자가 연결된 문서에서 증명을 만들면 증명 템플릿이 올바르게 적용되지 않으며 증명에 워크플로와 같은 정보가 누락될 수 있습니다.
 

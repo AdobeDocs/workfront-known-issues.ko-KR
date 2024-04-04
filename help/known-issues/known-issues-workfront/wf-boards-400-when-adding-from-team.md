@@ -4,14 +4,18 @@ description: 사용자가 프로젝트를 조회하고 보드에 작업을 추�
 hidefromtoc: true
 feature: Agile
 exl-id: 6630fc4a-241b-4699-a076-f04768099372
-source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
-workflow-type: ht
-source-wordcount: '116'
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
 
 # 보드: Kanban 보드에서 보드에 작업을 추가할 때 400 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 3월 28일에 해결되었습니다.
 
 사용자가 팀의 Kanban 보드 페이지를 조회하고 보드에서 보드에 작업을 추가하려고 하면 작업이 추가되지 않고 사용자에게 다음 오류가 표시됩니다.
 
