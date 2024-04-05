@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 94%
+source-wordcount: '1608'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [업데이트: &quot;[!UICONTROL 댓글을 게시할 수 없습니다.]답글 작성 시 &quot;메시지&quot;](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [업데이트: 댓글이 표시되지 않음 &quot;[!UICONTROL 대신]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)

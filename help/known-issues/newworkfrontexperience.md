@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 89%
+source-wordcount: '855'
+ht-degree: 88%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 4월 5일 토요일 |
 | [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-exporting.md) | 2024년 4월 5일 토요일 |
 | [업데이트: 댓글이 표시되지 않음 &quot;[!UICONTROL 대신]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024년 4월 4일 금요일 |
 | [캘린더: 캘린더를 새로 고칠 때 오류 발생](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024년 4월 4일 금요일 |
