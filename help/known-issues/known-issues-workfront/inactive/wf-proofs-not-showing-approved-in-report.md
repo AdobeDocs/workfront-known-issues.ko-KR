@@ -1,13 +1,13 @@
 ---
-title: '증명: 증명이 승인된 상태로 보고서에 표시되지 않음'
-description: 사용자가 증명 승인 결정이 포함된 보고서를 볼 때 보고서에 모든 승인된 증명에 대한 승인 결정이 표시되지 않습니다. 사용자가 직접 증명을 볼 때 승인되었음을 확인할 수 있습니다.
+title: '증명: 보고서에 증명이 승인됨으로 표시되지 않음'
+description: 사용자가 증명 승인 결정이 포함된 보고서를 볼 때 보고서에 승인된 모든 증명에 대한 승인 결정이 표시되지 않습니다. 사용자가 직접 증명을 볼 때 승인되었음을 확인할 수 있습니다.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 74fe37fa-6624-4c79-bf47-4a3ab5c6ee4c
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

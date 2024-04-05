@@ -4,7 +4,7 @@ description: “사용자가 작업 목록을 보고 더 많은 정보를 얻기
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 3월 28일 금요일에 해결되었습니다.
+>이 문제는 2024년 3월 28일에 해결되었습니다.
 
 사용자가 작업 목록을 보고 더 많은 정보를 얻기 위해 전임 작업 아이콘 위로 마우스를 가져가면 나타나는 도구 설명에 전임 작업 이름이 표시되지 않습니다.
 

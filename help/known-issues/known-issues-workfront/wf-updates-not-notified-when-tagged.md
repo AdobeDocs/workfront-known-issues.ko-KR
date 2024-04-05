@@ -4,7 +4,7 @@ description: “댓글에 사용자를 태그 지정하면 해당 댓글이 태�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 3월 28일 금요일에 해결되었습니다.
+>이 문제는 2024년 3월 28일에 해결되었습니다.
 
 댓글에 사용자를 태그 지정하면 해당 댓글이 태그 지정된 사용자에게 표시되지 않습니다. 또한 태그 지정된 사용자에게 이메일이나 인앱 알림을 통해 해당 댓글에 대한 알림이 전송되지 않습니다.
 
