@@ -3,7 +3,7 @@ title: "증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 
 description: '"사용자가 웹에서 생성한 증명이 포함된 작업 또는 문제를 프로젝트로 전환하려고 하면 프로젝트가 생성되지 않고 메시지가 표시됩니다. 해결 방법을 사용할 수 있습니다.”'
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -26,3 +26,4 @@ ht-degree: 5%
 3. 문서 이동 기능을 사용하여 증명을 새 프로젝트로 이동합니다.
 
 _2024년 3월 28일 금요일에 처음 보고되었습니다._
+
