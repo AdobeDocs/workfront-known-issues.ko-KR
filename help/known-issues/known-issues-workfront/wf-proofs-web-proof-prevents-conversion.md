@@ -1,15 +1,15 @@
 ---
-title: "증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음"
-description: '"사용자가 웹에서 생성한 증명이 포함된 작업 또는 문제를 프로젝트로 전환하려고 하면 프로젝트가 생성되지 않고 메시지가 표시됩니다. 해결 방법을 사용할 수 있습니다.”'
+title: '증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음'
+description: 사용자가 웹에서 생성한 증명이 포함된 작업 또는 문제를 프로젝트로 전환하려고 하면 프로젝트가 생성되지 않고 메시지가 표시됩니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
+exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
+source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 5%
 
 ---
-
 
 # 증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 &quot;[!UICONTROL 파일을 복사하는 동안 문제가 발생했습니다.] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL 파일을 제거하거나 지원 팀에 문의하고 다시 시도해 주십시오.]&quot;
 
-**해결 방법**
+**해결 방법** s
 
 다음 절차를 수행합니다.
 

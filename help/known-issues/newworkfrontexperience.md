@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '840'
 ht-degree: 88%
 
 ---
@@ -39,13 +39,11 @@ ht-degree: 88%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 4월 5일 토요일 |
-| [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-exporting.md) | 2024년 4월 5일 토요일 |
 | [업데이트: 댓글이 표시되지 않음 &quot;[!UICONTROL 대신]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024년 4월 4일 금요일 |
 | [캘린더: 캘린더를 새로 고칠 때 오류 발생](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024년 4월 4일 금요일 |
 | [업데이트: 다른 곳으로 이동한 후 댓글로 돌아갈 때 텍스트가 유지되지 않음](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024년 4월 4일 금요일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 금요일 |
 | [작업: 전임 작업 정보에 링크가 포함되어 있지 않음](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024년 4월 4일 금요일 |
-| [Workfront 증명: 전자 서명이 작동하지 않음](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024년 4월 4일 금요일 |
 | [업데이트: &quot;[!UICONTROL 댓글을 게시할 수 없습니다.]답글 작성 시 &quot;메시지&quot;](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024년 4월 4일 금요일 |
 | [로깅 시간: 작업 또는 문제의 시간을 편집할 수 없음](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024년 4월 4일 금요일 |
 | [사용자 정의 양식: 외부 조회 필드가 결과를 반환하지 않음](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024년 4월 4일 금요일 |
