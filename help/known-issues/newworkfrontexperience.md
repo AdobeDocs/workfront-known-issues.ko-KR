@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
+source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '844'
 ht-degree: 97%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [레이아웃 템플릿: 랜딩 페이지가 잘못됨](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | 2024년 4월 4일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
