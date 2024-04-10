@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '1608'
-ht-degree: 93%
+source-wordcount: '1618'
+ht-degree: 98%
 
 ---
 
@@ -17,19 +17,20 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [요청: 요청을 작성할 때 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [업데이트: &quot;[!UICONTROL 댓글을 게시할 수 없습니다.]답글 작성 시 &quot;메시지&quot;](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [업데이트: 댓글이 표시되지 않음 &quot;[!UICONTROL 대신]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [업데이트: 회신할 때 “[!UICONTROL 댓글을 게시할 수 없습니다.]” 메시지가 표시됨](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [업데이트: “[!UICONTROL 대신하여]” 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
       + [캘린더: 캘린더를 새로 고칠 때 오류 발생](known-issues-workfront/wf-calendar-error-when-refresh.md)
-      + [업데이트: 다른 곳으로 이동한 후 댓글로 돌아갈 때 텍스트가 유지되지 않음](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [업데이트: 다른 곳으로 이동했다가 댓글로 돌아갈 때 텍스트가 유지되지 않음](known-issues-workfront/wf-updates-text-missing-after-mention.md)
       + [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [작업: 전임 작업 정보에 링크가 포함되어 있지 않음](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Workfront 증명: 전자 서명이 작동하지 않음](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Workfront Proof: 전자 서명이 작동하지 않음](known-issues-workfront-proof/proof-esignatures-not-working.md)
       + [레이아웃 템플릿: 랜딩 페이지가 잘못됨](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
-      + [로깅 시간: 작업 또는 문제의 시간을 편집할 수 없음](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [로깅 시간: 작업 또는 문제에 대한 시간을 편집할 수 없음](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
       + [사용자 정의 양식: 외부 조회 필드가 결과를 반환하지 않음](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
-      + [업데이트: 업데이트에서 이미지 미리 보기가 흐릿합니다](known-issues-workfront/wf-updates-images-blurred.md)
+      + [업데이트: 업데이트의 이미지 미리보기가 흐릿하게 표시됨](known-issues-workfront/wf-updates-images-blurred.md)
       + [보고서: 보고서 필터가 예상한 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [보드: 사용자의 팀이 보드에 추가될 때 사용자가 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [애자일: Kanban 카드에 사용자 정의 필드가 표시되지 않음](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)

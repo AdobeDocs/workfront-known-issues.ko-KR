@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 88%
+source-wordcount: '851'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [레이아웃 템플릿: 랜딩 페이지가 잘못됨](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | 2024년 4월 4일 금요일 |
+| [레이아웃 템플릿: 랜딩 페이지가 잘못됨](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | 2024년 4월 4일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -38,16 +38,17 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [요청: 요청을 작성할 때 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024년 4월 9일 수요일 |
 | [증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 4월 5일 토요일 |
-| [업데이트: 댓글이 표시되지 않음 &quot;[!UICONTROL 대신]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024년 4월 4일 금요일 |
-| [캘린더: 캘린더를 새로 고칠 때 오류 발생](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024년 4월 4일 금요일 |
-| [업데이트: 다른 곳으로 이동한 후 댓글로 돌아갈 때 텍스트가 유지되지 않음](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024년 4월 4일 금요일 |
-| [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 금요일 |
-| [작업: 전임 작업 정보에 링크가 포함되어 있지 않음](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024년 4월 4일 금요일 |
-| [업데이트: &quot;[!UICONTROL 댓글을 게시할 수 없습니다.]답글 작성 시 &quot;메시지&quot;](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024년 4월 4일 금요일 |
-| [로깅 시간: 작업 또는 문제의 시간을 편집할 수 없음](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024년 4월 4일 금요일 |
-| [사용자 정의 양식: 외부 조회 필드가 결과를 반환하지 않음](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024년 4월 4일 금요일 |
-| [업데이트: 업데이트에서 이미지 미리 보기가 흐릿합니다](known-issues-workfront/wf-updates-images-blurred.md) | 2024년 4월 2일 수요일 |
+| [업데이트: “[!UICONTROL 대신하여]” 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024년 4월 4일 |
+| [캘린더: 캘린더를 새로 고칠 때 오류 발생](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024년 4월 4일 |
+| [업데이트: 다른 곳으로 이동했다가 댓글로 돌아갈 때 텍스트가 유지되지 않음](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024년 4월 4일 |
+| [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
+| [작업: 전임 작업 정보에 링크가 포함되어 있지 않음](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024년 4월 4일 |
+| [업데이트: 회신할 때 “[!UICONTROL 댓글을 게시할 수 없습니다.]” 메시지가 표시됨](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024년 4월 4일 |
+| [로깅 시간: 작업 또는 문제에 대한 시간을 편집할 수 없음](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024년 4월 4일 |
+| [사용자 정의 양식: 외부 조회 필드가 결과를 반환하지 않음](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024년 4월 4일 |
+| [업데이트: 업데이트의 이미지 미리보기가 흐릿하게 표시됨](known-issues-workfront/wf-updates-images-blurred.md) | 2024년 4월 2일 |
 | [애자일: Kanban 카드에 사용자 정의 필드가 표시되지 않음](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024년 3월 28일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 |
 | [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 |
