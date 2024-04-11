@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: a7c91886-4acd-443f-b6e0-7f0627a08281
 source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 4월 2일 수요일에 해결되었습니다.
+>이 문제는 2024년 4월 2일에 해결되었습니다.
 
 사용자의 팀이 보드에 추가될 때 해당 사용자가 보드를 보거나 사용하지 못할 수 있습니다. 이 문제는 팀의 다른 멤버가 보드를 보거나 사용할 수 있는 경우에도 발생할 수 있습니다.
 
