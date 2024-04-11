@@ -54,7 +54,7 @@ ht-degree: 98%
       + [타임시트: 요약 패널을 볼 때 오류 발생](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
       + [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
       + [프로젝트: 제품 목록에서 필터를 사용할 때 오류 발생](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
-      + [사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 붙여 넣을 때 오류가 발생합니다.](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [사용자 정의 양식: 서식 있는 텍스트 필드에 텍스트를 붙여넣을 때 오류가 발생합니다.](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [프로젝트: 작업 날짜를 변경할 때 타임라인이 매우 느리게 재계산됨](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [보드: 카드가 정렬되지 않음](known-issues-workfront/wf-boards-not-sorting.md)
