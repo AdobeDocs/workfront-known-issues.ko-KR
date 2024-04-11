@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 97%
+source-wordcount: '817'
+ht-degree: 96%
 
 ---
 
@@ -44,13 +44,10 @@ ht-degree: 97%
 | [업데이트: 다른 곳으로 이동했다가 댓글로 돌아갈 때 텍스트가 유지되지 않음](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024년 4월 4일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
 | [작업: 전임 작업 정보에 링크가 포함되어 있지 않음](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024년 4월 4일 |
-| [업데이트: 회신할 때 “[!UICONTROL 댓글을 게시할 수 없습니다.]” 메시지가 표시됨](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024년 4월 4일 |
 | [로깅 시간: 작업 또는 문제에 대한 시간을 편집할 수 없음](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024년 4월 4일 |
 | [사용자 정의 양식: 외부 조회 필드가 결과를 반환하지 않음](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024년 4월 4일 |
-| [업데이트: 업데이트의 이미지 미리보기가 흐릿하게 표시됨](known-issues-workfront/wf-updates-images-blurred.md) | 2024년 4월 2일 |
 | [애자일: Kanban 카드에 사용자 정의 필드가 표시되지 않음](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024년 3월 28일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 |
-| [검색: 검색에서 편집할 수 없음](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024년 3월 14일 |
 | [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 3월 8일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 2월 23일 |
 | [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 2월 22일 |

@@ -3,15 +3,19 @@ title: '“업데이트: 회신할 때 댓글을 게시할 수 없다는 메시�
 description: “사용자가 새로운 댓글 달기 경험에서 메시지에 회신하려고 하면 회신이 저장되지 않고 사용자에게 메시지가 표시됩니다.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '90'
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
 
 
 # 업데이트: 회신할 때 “[!UICONTROL 댓글을 게시할 수 없습니다.]” 메시지가 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 4월 11일 금요일에 해결되었습니다.
 
 사용자가 새로운 댓글 달기 경험에서 메시지에 회신하려고 하면 회신이 저장되지 않고 사용자에게 다음 메시지가 표시됩니다.
 
