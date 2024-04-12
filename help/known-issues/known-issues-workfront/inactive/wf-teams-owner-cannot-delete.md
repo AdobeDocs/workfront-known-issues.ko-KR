@@ -3,7 +3,7 @@ title: "팀: 팀 소유자를 보거나 팀을 삭제할 수 없음"
 description: "그룹 관리자는 이러한 작업을 사용할 수 없습니다."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 079c056ed83bc8dcd2aca2972760c871b1bdf7fd
+source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 27%
@@ -25,3 +25,4 @@ ht-degree: 27%
 이 문제는 그룹 관리자가 팀 및 사용자와 관련된 모든 권한을 가지고 있는 경우에도 발생합니다.
 
 _2024년 3월 15일에 처음 보고되었습니다._
+
