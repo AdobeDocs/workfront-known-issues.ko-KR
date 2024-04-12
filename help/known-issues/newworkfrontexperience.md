@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c1303ae0fa8e6f18a7e8d88c065579ed89c18e87
+source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '833'
+ht-degree: 94%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [요청: 초안을 열 때 오류 발생](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024년 4월 12일 토요일 |
 | [목록: 목록에 모든 항목이 표시되지 않음](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024년 4월 12일 토요일 |
 | [Workfront Proof: 전자 서명이 작동하지 않음](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024년 4월 12일 토요일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 금요일 |
