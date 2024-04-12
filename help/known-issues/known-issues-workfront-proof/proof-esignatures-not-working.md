@@ -4,18 +4,22 @@ description: 사용자가 Workfront Proof에서 증명을 보고 전자 서명�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ff93f7b2-7d40-44ba-b8f6-f02cda5acde9
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Workfront Proof: 전자 서명이 작동하지 않음
 
+
+<!-- 
 >[!NOTE]
 >
->이 문제는 2024년 4월 5일 토요일에 해결되었습니다.
+>This issue was fixed on April 5, 2024.
+
+-->
 
 <!--wf. wfp-->
 

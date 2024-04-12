@@ -1,17 +1,21 @@
 ---
-title: '“보드: 체크리스트 합계가 정확하지 않음”'
-description: “사용자가 체크리스트 항목이 있는 카드를 보고 체크리스트 합계를 변경하면 합계가 변경되지 않습니다.”
+title: '보드: 체크리스트 합계가 정확하지 않음'
+description: 사용자가 체크리스트 항목이 있는 카드를 보고 체크리스트 합계를 변경하면 합계가 변경되지 않습니다.
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
 # 보드: 체크리스트 합계가 정확하지 않음
+
+>[!NOTE]
+>
+>이 문제는 2024년 4월 11일 금요일에 해결되었습니다.
 
 사용자가 체크리스트 항목이 있는 카드를 보고 체크리스트 합계를 변경하면 합계가 변경되지 않습니다.
 
