@@ -3,7 +3,7 @@ title: "요청: 초안을 열 때 오류 발생"
 description: '"사용자가 새 요청을 만들 때 해당 요청 대기열과 관련된 초안이 표시되면 초안을 열기 위해 를 클릭해도 초안이 열리지 않고 오류가 표시됩니다. 해결 방법을 사용할 수 있습니다.”'
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: b4044295683aea1d550ad7de2606086e1d89d929
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 8%
@@ -22,3 +22,4 @@ ht-degree: 8%
 왼쪽 탐색 영역에 있는 초안 영역에서 초안을 엽니다.
 
 _2024년 4월 2일에 처음 보고되었습니다._
+
