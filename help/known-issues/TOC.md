@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
+source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
-source-wordcount: '1659'
-ht-degree: 97%
+source-wordcount: '1670'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: API를 통해 작성한 댓글은 샌드박스 환경에 표시되지 않습니다](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [업데이트: 번호 목록의 번호가 올바르게 지정되지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플로가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [요청: 초안을 열 때 오류 발생](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
