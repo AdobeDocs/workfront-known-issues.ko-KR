@@ -3,7 +3,7 @@ title: "증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플�
 description: “”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9ba06d760825cca476e2384bd68c284c52217e0d
+source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
@@ -22,3 +22,4 @@ ht-degree: 4%
 * 이메일 알림(전송되지 않음)
 
 _2024년 2월 28일에 처음 보고되었습니다._
+
