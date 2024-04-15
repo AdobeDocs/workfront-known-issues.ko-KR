@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '1638'
+source-wordcount: '1659'
 ht-degree: 97%
 
 ---
@@ -17,11 +17,13 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 번호 목록의 번호가 올바르게 지정되지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플로가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [요청: 초안을 열 때 오류 발생](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [목록: 목록에 모든 항목이 표시되지 않음](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [요청: 요청을 작성할 때 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
-      + [증명: 증명이 작업 또는 문제를 프로젝트로 변환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
+      + [요청: 요청 작성 시 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [보고서: 보고서를 내보낼 때 500 오류 발생](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [업데이트: 회신할 때 “[!UICONTROL 댓글을 게시할 수 없습니다.]” 메시지가 표시됨](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [업데이트: “[!UICONTROL 대신하여]” 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)

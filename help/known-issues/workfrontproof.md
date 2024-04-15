@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '382'
+ht-degree: 96%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플로가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 2024년 4월 15일 화요일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 4월 12일 토요일 |
 | [Workfront Proof: 전자 서명이 작동하지 않음](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024년 4월 12일 토요일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 |
