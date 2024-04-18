@@ -1,17 +1,21 @@
 ---
-title: "증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플로가 올바르게 적용되지 않음"
-description: “”
+title: '증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플로가 올바르게 적용되지 않음'
+description: ''
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
+exl-id: 90ce6128-4521-476d-ba85-c51b86bbeb7d
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 
-
 # 증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플로가 올바르게 적용되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2024년 4월 18일 금요일에 해결되었습니다.
 
 사용자가 통합(Workfront에 연결된 외부 문서 공급자)에서 자산으로부터 증명을 만들 때 템플릿 또는 자동화된 워크플로를 적용하면 템플릿 또는 워크플로 요소 중 일부가 증명에 적용되지 않습니다.
 

@@ -4,14 +4,18 @@ description: 외부 조회 필드가 값이 하나만 선택된 다중 선택 �
 hidefromtoc: true
 feature: Custom Forms
 exl-id: b65c8870-e915-4ca5-a93b-5431440f9140
-source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # 사용자 정의 양식: 외부 조회 필드가 결과를 반환하지 않음
+
+>[!NOTE]
+>
+>이 문제는 2024년 4월 18일 금요일에 해결되었습니다.
 
 외부 조회 필드가 값이 하나만 선택된 다중 선택 필드를 참조하는 경우 해당 필드는 값을 반환하지 않습니다.
 
