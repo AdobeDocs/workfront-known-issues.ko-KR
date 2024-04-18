@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
 workflow-type: tm+mt
-source-wordcount: '1680'
-ht-degree: 96%
+source-wordcount: '1688'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 댓글에 있는 링크가 빈 화면으로 이동합니다.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [요청: 요청 대기열 경로를 공유할 수 없음](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [업데이트: API를 통해 작성한 댓글은 샌드박스 환경에 표시되지 않습니다](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 93%
+source-wordcount: '857'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [업데이트: 댓글에 있는 링크가 빈 화면으로 이동합니다.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 4월 18일 금요일 |
 | [업데이트: API를 통해 작성한 댓글은 샌드박스 환경에 표시되지 않습니다](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024년 4월 15일 화요일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
