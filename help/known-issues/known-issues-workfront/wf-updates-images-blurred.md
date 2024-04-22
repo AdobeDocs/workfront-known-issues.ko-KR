@@ -3,9 +3,9 @@ title: '“업데이트: 업데이트의 이미지 미리보기가 흐릿하게 
 description: “사용자가 업데이트를 보고 이미지를 미리보기 위해 이미지의 돋보기를 클릭하면 열리는 미리보기가 매우 픽셀화되어 흐릿하게 표시됩니다.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,10 @@ ht-degree: 100%
 
 # 업데이트: 업데이트의 이미지 미리보기가 흐릿하게 표시됨
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 11, 2024.
+>이 문제는 2024년 4월 18일 금요일에 해결되었습니다.
 
--->
 
 사용자가 업데이트를 보고 이미지를 미리보기 위해 이미지의 돋보기를 클릭하면 열리는 미리보기가 매우 픽셀화되어 흐릿하게 표시됩니다.
 

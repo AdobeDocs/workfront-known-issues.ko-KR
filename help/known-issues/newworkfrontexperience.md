@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 91%
+source-wordcount: '855'
+ht-degree: 90%
 
 ---
 
@@ -39,11 +39,10 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [보드: 카드가 잠시 원래 열로 되돌아감](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024년 4월 22일 화요일 |
+| [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 4월 22일 화요일 |
 | [프로젝트, 작업 및 문제: 상속된 권한은 표시되지 않음](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024년 4월 19일 토요일 |
-| [요청: 요청 대기열 경로를 공유할 수 없음](known-issues-workfront/wf-requests-cannot-share-path.md) | 2024년 4월 18일 금요일 |
 | [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024년 4월 18일 금요일 |
-| [업데이트: 회신할 때 “[!UICONTROL 댓글을 게시할 수 없습니다.]” 메시지가 표시됨](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024년 4월 18일 금요일 |
-| [업데이트: 업데이트의 이미지 미리보기가 흐릿하게 표시됨](known-issues-workfront/wf-updates-images-blurred.md) | 2024년 4월 18일 금요일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 4월 18일 금요일 |
 | [업데이트: 번호 목록의 번호가 올바르게 지정되지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024년 4월 15일 화요일 |
 | [요청: 초안을 열 때 오류 발생](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024년 4월 12일 토요일 |
