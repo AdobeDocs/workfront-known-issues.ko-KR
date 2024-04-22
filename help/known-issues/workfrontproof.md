@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5281eacf00a514ef944d7894c5b67c259ea20a29
+source-git-commit: e8c00ddda577af3496d2cfaec1b0289092656364
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 98%
+source-wordcount: '376'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 | |
+| [알림: 문서 승인 베타의 알림의 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 화요일 |
 
 {style="table-layout:auto"}
 

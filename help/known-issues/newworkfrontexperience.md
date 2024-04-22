@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 90%
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [알림: 문서 승인 베타의 알림의 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 화요일 |
 | [업데이트: 댓글에 있는 링크가 빈 화면으로 이동합니다.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 4월 18일 금요일 |
-| [업데이트: API를 통해 작성한 댓글은 샌드박스 환경에 표시되지 않습니다](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024년 4월 15일 화요일 |
+| [업데이트: API를 통해 작성된 댓글은 샌드박스 환경에서 표시되지 않음](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024년 4월 15일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -41,13 +42,12 @@ ht-degree: 90%
 |----------------------------------| ----------------- |
 | [보드: 카드가 잠시 원래 열로 되돌아감](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024년 4월 22일 화요일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 4월 22일 화요일 |
-| [프로젝트, 작업 및 문제: 상속된 권한은 표시되지 않음](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024년 4월 19일 토요일 |
 | [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024년 4월 18일 금요일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 4월 18일 금요일 |
-| [업데이트: 번호 목록의 번호가 올바르게 지정되지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024년 4월 15일 화요일 |
-| [요청: 초안을 열 때 오류 발생](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024년 4월 12일 토요일 |
-| [목록: 목록에 모든 항목이 표시되지 않음](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024년 4월 12일 토요일 |
-| [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 금요일 |
+| [업데이트: 번호가 지정된 목록에 번호가 올바르게 매겨지지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024년 4월 15일 |
+| [요청: 초안을 열 때 오류가 발생함](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024년 4월 12일 |
+| [목록: 목록에 모든 항목이 표시되지 않음](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024년 4월 12일 |
+| [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
 | [요청: 요청 작성 시 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024년 4월 9일 |
 | [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 4월 5일 |
 | [업데이트: “[!UICONTROL 대신하여]” 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024년 4월 4일 |

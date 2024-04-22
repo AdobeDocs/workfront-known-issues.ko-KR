@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '1710'
-ht-degree: 94%
+source-wordcount: '1719'
+ht-degree: 97%
 
 ---
 
@@ -17,16 +17,17 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [알림: 문서 승인 베타의 알림의 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [보드: 카드가 잠시 원래 열로 되돌아감](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [프로젝트, 작업 및 문제: 상속된 권한은 표시되지 않음](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [업데이트: 댓글에 있는 링크가 빈 화면으로 이동합니다.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [요청: 요청 대기열 경로를 공유할 수 없음](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [업데이트: API를 통해 작성한 댓글은 샌드박스 환경에 표시되지 않습니다](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
-      + [업데이트: 번호 목록의 번호가 올바르게 지정되지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [증명: 통합 에셋에서 생성된 증명에 템플릿 및 워크플로가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [요청: 초안을 열 때 오류 발생](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
+      + [업데이트: API를 통해 작성된 댓글은 샌드박스 환경에서 표시되지 않음](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [업데이트: 번호가 지정된 목록에 번호가 올바르게 매겨지지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [증명: 통합 자산에서 생성된 증명에는 템플릿과 워크플로우가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [요청: 초안을 열 때 오류가 발생함](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [목록: 목록에 모든 항목이 표시되지 않음](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [요청: 요청 작성 시 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
