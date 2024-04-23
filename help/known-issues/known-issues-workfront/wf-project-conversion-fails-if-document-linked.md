@@ -4,18 +4,22 @@ description: 문제에 웹 증명(SharePoint와 같은 외부 문서 공급자�
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
 
 # 프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음
 
+<!--
+
 >[!NOTE]
 >
->이 문제는 2024년 4월 18일 금요일에 해결되었습니다.
+>This issue was fixed on April 18, 2024.
+
+-->
 
 문제에 웹 증명(SharePoint와 같은 외부 문서 공급자의 링크를 사용하는 URL 증명)이 첨부되어 있고 사용자가 해당 문제를 프로젝트로 전환하려고 시도하면 전환이 실패하고 프로젝트가 생성되지 않습니다. 사용자에게 다음과 같은 오류가 표시됩니다.
 

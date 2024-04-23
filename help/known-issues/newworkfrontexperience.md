@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '867'
 ht-degree: 96%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 4월 23일 수요일 |
 | [보드: 카드가 잠시 원래 열로 되돌아감](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024년 4월 22일 화요일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 4월 22일 화요일 |
 | [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024년 4월 18일 금요일 |
