@@ -26,7 +26,7 @@ ht-degree: 97%
       + [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [업데이트: API를 통해 작성된 댓글은 샌드박스 환경에서 표시되지 않음](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [업데이트: 번호가 지정된 목록에 번호가 올바르게 매겨지지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [증명: 통합 자산에서 생성된 증명에는 템플릿과 워크플로우가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [증명: 통합 자산에서 생성된 증명에는 템플릿과 워크플로가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [요청: 초안을 열 때 오류가 발생함](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [목록: 목록에 모든 항목이 표시되지 않음](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
