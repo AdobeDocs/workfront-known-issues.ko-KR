@@ -1,15 +1,15 @@
 ---
-title: "통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 null입니다."
-description: '"대형 파일(100MB 초과)이 Workfront 통합을 통해 Adobe Experience Manager으로 전송된 경우 AEM의 파일 이름은 null입니다. ”'
+title: '통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 null입니다.'
+description: '대형 파일(100MB 초과)이 Workfront 통합을 통해 Adobe Experience Manager으로 전송된 경우 AEM의 파일 이름은 null입니다. '
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
+exl-id: c2d15424-ae04-414f-9384-a7b083212313
+source-git-commit: 2110bda5b8f0bec53c0503ce6b3f8da6fce693ca
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 10%
 
 ---
-
 
 # 통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 &quot;null&quot;입니다.
 
@@ -25,3 +25,4 @@ Workfront 통합을 통해 큰 파일(100MB 초과)이 Adobe Experience Manager�
 * AEM에서 직접 파일 이름을 입력합니다.
 
 _2024년 4월 23일 수요일에 처음 보고되었습니다._
+
