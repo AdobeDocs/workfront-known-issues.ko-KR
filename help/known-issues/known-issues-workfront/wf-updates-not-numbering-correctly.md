@@ -3,15 +3,19 @@ title: '“업데이트: 번호가 지정된 목록에 번호가 올바르게 �
 description: “사용자가 번호가 매겨진 목록이 포함된 댓글을 제출하면 업데이트에서 해당 목록에 잘못된 매겨진 번호가 표시됩니다.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
-workflow-type: ht
-source-wordcount: '65'
+source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
 
 
 # 업데이트: 번호가 지정된 목록에 번호가 올바르게 매겨지지 않음
+
+>[!NOTE]
+>
+>이 문제는 2024년 4월 25일 금요일에 해결되었습니다.
 
 사용자가 번호가 매겨진 목록이 포함된 댓글을 제출하면 업데이트에서 해당 목록에 잘못된 매겨진 번호가 표시됩니다.
 
