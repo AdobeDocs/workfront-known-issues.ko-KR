@@ -5,7 +5,7 @@ role: User
 source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
 source-wordcount: '1744'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 95%
       + [통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 &quot;null&quot;입니다.](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [보드: Workfront 기본 필드가 카드에 표시되지 않음](known-issues-workfront/wf-boards-native-fields-not-display.md)
-      + [알림: 문서 승인 베타의 알림의 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
-      + [보드: 카드가 잠시 원래 열로 되돌아감](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
+      + [보드: 카드가 잠시 후 원래 열로 돌아감](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [프로젝트, 작업 및 문제: 상속된 권한은 표시되지 않음](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
-      + [업데이트: 댓글에 있는 링크가 빈 화면으로 이동합니다.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
+      + [프로젝트, 작업 및 문제: 상속된 권한이 표시되지 않음](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
+      + [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [요청: 요청 대기열 경로를 공유할 수 없음](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [업데이트: API를 통해 작성된 댓글은 샌드박스 환경에서 표시되지 않음](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)

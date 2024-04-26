@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 93%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 &quot;null&quot;입니다.](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 목요일 |
-| [알림: 문서 승인 베타의 알림의 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 화요일 |
+| [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 4월 22일 화요일 |
+| [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 4월 22일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 4월 12일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
