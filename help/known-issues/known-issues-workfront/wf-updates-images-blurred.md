@@ -4,7 +4,7 @@ description: “사용자가 업데이트를 보고 이미지를 미리보기 �
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 4월 18일 금요일에 해결되었습니다.
+>이 문제는 2024년 4월 18일에 해결되었습니다.
 
 
 사용자가 업데이트를 보고 이미지를 미리보기 위해 이미지의 돋보기를 클릭하면 열리는 미리보기가 매우 픽셀화되어 흐릿하게 표시됩니다.

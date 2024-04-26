@@ -4,7 +4,7 @@ description: “Workfront API를 통해 댓글이 작성되면 해당 댓글이 
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 96a81dc4927e887fbbaf8289d8acb8be1762d253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
