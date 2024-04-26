@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
-source-wordcount: '858'
+source-wordcount: '849'
 ht-degree: 97%
 
 ---
@@ -28,7 +28,6 @@ ht-degree: 97%
 | [통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 &quot;null&quot;입니다.](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 목요일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 4월 24일 목요일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
-| [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 4월 18일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
