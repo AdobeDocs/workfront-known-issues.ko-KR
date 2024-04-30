@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
 workflow-type: tm+mt
-source-wordcount: '3358'
-ht-degree: 100%
+source-wordcount: '3396'
+ht-degree: 99%
 
 ---
 
@@ -19,6 +19,20 @@ ht-degree: 100%
 >이 업데이트에는 다른 사소하거나 눈에 잘 띄지 않는 버그 수정도 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
 
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
+
+## 2024년 5월 업데이트
+
++++**2024년 5월 2일 금요일 유지 보수 업데이트**
+
+### 2024년 5월 2일 유지 보수 업데이트
+
+#### 시간 로깅 중
+
+**작업 또는 문제에 대한 시간을 편집할 수 없음**
+
+사용자가 작업 또는 문제에 대한 시간을 편집하려고 할 때 변경 사항이 저장되지 않습니다.
+
++++
 
 ## 2024년 4월 업데이트
 
