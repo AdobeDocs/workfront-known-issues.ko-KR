@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
 workflow-type: tm+mt
-source-wordcount: '1747'
-ht-degree: 98%
+source-wordcount: '1755'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 비공개 워크플로 단계에서 결정을 내릴 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 &quot;null&quot;입니다.](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md)

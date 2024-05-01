@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 96%
+source-wordcount: '850'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 비공개 워크플로 단계에서 결정을 내릴 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 목요일 |
 | [통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 &quot;null&quot;입니다.](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 목요일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 4월 24일 목요일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
