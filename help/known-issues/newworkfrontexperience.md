@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '849'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로젝트: 프로젝트를 공유할 때 오류 발생](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024년 5월 1일 목요일 |
 | [증명: 비공개 워크플로 단계에서 결정을 내릴 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 목요일 |
 | [통합: 통합을 통해 AEM으로 전송할 때 파일 이름이 &quot;null&quot;입니다.](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 목요일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 4월 24일 목요일 |
@@ -44,7 +45,6 @@ ht-degree: 95%
 | [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 화요일 |
 | [보드: Workfront 기본 필드가 카드에 표시되지 않음](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024년 4월 23일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 4월 23일 |
-| [보드: 카드가 잠시 후 원래 열로 돌아감](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024년 4월 22일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 4월 22일 |
 | [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024년 4월 18일 |
 | [보드: 체크리스트 합계가 정확하지 않음](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024년 4월 18일 |
