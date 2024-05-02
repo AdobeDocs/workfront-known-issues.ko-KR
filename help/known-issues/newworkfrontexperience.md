@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '824'
 ht-degree: 97%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [프로젝트: 프로젝트를 공유할 때 오류 발생](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024년 5월 1일 목요일 |
+| [보드: 체크리스트 항목이 체크 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024년 5월 2일 금요일 |
 | [증명: 비공개 워크플로 단계에서 결정을 내릴 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 목요일 |
 | [통합: 통합 기능을 통해 AEM으로 전송 시 파일 이름이 “null”이 됨](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 4월 24일 |
@@ -43,7 +43,6 @@ ht-degree: 97%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 화요일 |
-| [보드: Workfront 기본 필드가 카드에 표시되지 않음](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024년 4월 23일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 4월 23일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 4월 22일 |
 | [사용자: 사용자를 삭제할 수 없음](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024년 4월 18일 |
@@ -54,9 +53,7 @@ ht-degree: 97%
 | [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 4월 5일 |
 | [업데이트: “[!UICONTROL 대신하여]” 댓글이 표시되지 않음](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024년 4월 4일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
-| [로깅 시간: 작업 또는 문제에 대한 시간을 편집할 수 없음](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024년 4월 4일 |
 | [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 3월 8일 |
-| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 2월 22일 |
 | [새 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024년 1월 4일 |
 | [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023년 11월 6일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |

@@ -1,17 +1,21 @@
 ---
-title: "프로젝트: 프로젝트를 공유할 때 오류 발생"
-description: "사용자가 프로젝트를 공유하려고 하면 프로젝트가 공유되지 않고 사용자에게 메시지가 표시됩니다."
+title: '프로젝트: 프로젝트를 공유할 때 오류 발생'
+description: 사용자가 프로젝트를 공유하려고 하면 프로젝트가 공유되지 않고 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Projects
-source-git-commit: 06b65c8acfca288b40d421a533aedd6151474f47
+exl-id: 8c6c6089-1015-400e-9eec-e62318cc9e07
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 4%
+source-wordcount: '87'
+ht-degree: 11%
 
 ---
 
-
 # 프로젝트: 프로젝트를 공유할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 5월 2일 금요일에 해결되었습니다.
 
 사용자가 프로젝트를 공유하려고 하면 프로젝트가 공유되지 않고 다음과 같은 메시지가 표시됩니다.
 
@@ -20,5 +24,3 @@ ht-degree: 4%
 이 문제는 사용자가 프로젝트를 삭제하지 않고 공유하려고 할 때 발생할 수 있습니다.
 
 _2024년 4월 25일 금요일에 처음 보고되었습니다._
-
-
