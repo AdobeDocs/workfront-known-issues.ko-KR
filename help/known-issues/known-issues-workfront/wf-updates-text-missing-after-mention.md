@@ -4,7 +4,7 @@ description: “사용자가 @멘션이 포함된 댓글을 작성한 후 제출
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 4월 25일 금요일에 해결되었습니다.
+>이 문제는 2024년 4월 25일에 해결되었습니다.
 
 사용자가 @멘션이 포함된 댓글을 작성한 후 제출하기 전에 댓글에서 다른 곳으로 이동했다가 다시 돌아오면 @멘션 뒤에 입력된 모든 텍스트가 댓글 초안에서 누락됩니다.
 
