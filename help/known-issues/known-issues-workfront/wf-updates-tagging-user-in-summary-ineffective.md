@@ -3,7 +3,7 @@ title: "업데이트: 요약 패널에서 @으로 사용자에 태그를 지정�
 description: "사용자가 요약 패널의 업데이트 영역에서 @을 사용하여 다른 사용자를 태그 지정하려고 할 때 드롭다운에서 사용자 이름을 클릭해도 효과가 없습니다. 사용자를 다시 태깅하는 것은 예상대로 작동합니다."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 4%
@@ -20,3 +20,5 @@ ht-degree: 4%
 사용자를 다시 태깅합니다. 두 번째 시도는 예상대로 작동합니다.
 
 _2024년 3월 18일에 처음 보고되었습니다._
+
+
