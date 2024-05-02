@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 97%
+source-wordcount: '830'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로젝트: 템플릿으로 만든 프로젝트가 템플릿의 우선 순위와 일치하지 않음](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | 2024년 5월 2일 금요일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 5월 2일 금요일 |
 | [보드: 체크리스트 항목이 체크 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024년 5월 2일 금요일 |
 | [증명: 비공개 워크플로 단계에서 결정을 내릴 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 목요일 |
@@ -41,6 +42,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 요약 패널에서 @을(를) 사용하여 사용자에게 태그 지정하는 것은 효과적이지 않음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024년 5월 2일 금요일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 5월 2일 금요일 |
 | [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 화요일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 4월 23일 |

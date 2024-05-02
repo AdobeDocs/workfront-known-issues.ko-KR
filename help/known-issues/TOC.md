@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '1768'
-ht-degree: 98%
+source-wordcount: '1788'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 요약 패널에서 @을(를) 사용하여 사용자에게 태그 지정하는 것은 효과적이지 않음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [프로젝트: 템플릿으로 만든 프로젝트가 템플릿의 우선 순위와 일치하지 않음](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [보드: 체크리스트 항목이 체크 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [프로젝트: 프로젝트를 공유할 때 오류 발생](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [증명: 비공개 워크플로 단계에서 결정을 내릴 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
