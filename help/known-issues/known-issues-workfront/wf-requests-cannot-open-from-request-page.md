@@ -4,14 +4,18 @@ description: 사용자가 새 요청을 생성할 때 해당 요청 대기열과
 hidefromtoc: true
 feature: Requests
 exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
-source-git-commit: 7d41c6bef87cde7ef2cb12e9fc0342bff3fe2746
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
 
 # 요청: 초안을 열 때 오류가 발생함
+
+>[!NOTE]
+>
+>이 문제는 2024년 5월 2일 금요일에 해결되었습니다.
 
 사용자가 새 요청을 생성할 때 해당 요청 대기열과 관련된 초안이 표시된 경우, 초안을 열기 위해 클릭해도 초안이 열리지 않으며 사용자에게 다음 오류가 표시됨:
 
