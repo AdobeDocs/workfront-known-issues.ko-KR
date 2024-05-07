@@ -3,7 +3,7 @@ title: "타임시트: 고정된 타임시트가 빈 페이지로 이동함"
 description: '"사용자가 Workfront에서 타임시트로 이동하기 위한 핀을 클릭하면 대신 핀이 빈 페이지로 이동합니다. 해결 방법을 사용할 수 있습니다.”'
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
@@ -24,3 +24,4 @@ ht-degree: 7%
 1. 타임시트를 다시 고정합니다.
 
 _2024년 5월 7일 수요일에 처음 보고되었습니다._
+
