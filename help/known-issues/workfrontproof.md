@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 비공개 워크플로 단계에서 결정을 내릴 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 목요일 |
+| [증명: 비공개 워크플로 단계에서 결정을 만들 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 |
 | [통합: 통합 기능을 통해 AEM으로 전송 시 파일 이름이 “null”이 됨](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
 
