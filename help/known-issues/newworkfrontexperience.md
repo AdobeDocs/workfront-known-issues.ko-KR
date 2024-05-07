@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
+source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 92%
+source-wordcount: '859'
+ht-degree: 91%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [타임시트: 고정된 타임시트가 빈 페이지로 이동함](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024년 5월 7일 |
 | [보고서: 보고서 필터가 예상한 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024년 4월 1일 |
 | [설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정할 수 없음](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023년 11월 30일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 11월 16일 |

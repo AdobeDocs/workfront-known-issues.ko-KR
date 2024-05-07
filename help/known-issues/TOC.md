@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
+source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
 workflow-type: tm+mt
-source-wordcount: '1812'
+source-wordcount: '1834'
 ht-degree: 96%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 96%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [보드: 고급 필터가 예상 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [타임시트: 고정된 타임시트가 빈 페이지로 이동함](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [설정: 다른 사용자로 로그인할 때 &quot;다음으로 로그인됨&quot; 배너가 표시되지 않습니다.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [보드: 사용자가 팀이 할당된 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [업데이트: 요약 패널에서 @을(를) 사용하여 사용자에게 태그 지정하는 것은 효과적이지 않음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [프로젝트: 템플릿으로 만든 프로젝트가 템플릿의 우선 순위와 일치하지 않음](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [보드: 체크리스트 항목이 체크 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [프로젝트: 프로젝트 공유 시 오류 발생](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [증명: 비공개 워크플로 단계에서 결정을 만들 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
@@ -39,6 +41,7 @@ ht-degree: 96%
       + [업데이트: API를 통해 작성된 댓글은 샌드박스 환경에서 표시되지 않음](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [업데이트: 번호가 지정된 목록에 번호가 올바르게 매겨지지 않음](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [증명: 통합 자산에서 생성된 증명에는 템플릿과 워크플로가 올바르게 적용되지 않음](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [요청: 초안을 열 때 오류가 발생함](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [목록: 목록에 모든 항목이 표시되지 않음](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [요청: 요청 작성 시 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
