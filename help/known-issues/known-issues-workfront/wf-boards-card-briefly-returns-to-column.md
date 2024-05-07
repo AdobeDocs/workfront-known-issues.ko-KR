@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 39135352-ec7e-4385-adca-8a6677a7150c
 source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 4월 30일 수요일에 해결되었습니다.
+>이 문제는 2024년 4월 30일에 해결되었습니다.
 
 사용자가 보드의 다른 열로 카드를 이동하면 잠시 후 카드가 해당 열로 이동하지 않고 원래 열로 돌아갑니다.
 

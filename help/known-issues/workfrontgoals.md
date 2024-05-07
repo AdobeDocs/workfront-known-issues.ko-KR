@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 화요일 |
+| [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 |
 
 <!--
 

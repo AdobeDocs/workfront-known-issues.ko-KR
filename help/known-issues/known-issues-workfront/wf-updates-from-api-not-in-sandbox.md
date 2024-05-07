@@ -4,7 +4,7 @@ description: “Workfront API를 통해 댓글이 작성되면 해당 댓글이 
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 4월 29일 화요일에 해결되었습니다.
+>이 문제는 2024년 4월 29일에 해결되었습니다.
 
 Workfront API를 통해 댓글이 작성되면 해당 댓글이 프로덕션 환경에 표시됩니다. 단, 샌드박스 환경에서는 댓글이 보이지 않습니다.
 

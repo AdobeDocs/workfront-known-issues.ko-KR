@@ -4,7 +4,7 @@ description: “사용자가 댓글에 있는 링크를 클릭하면 해당 링�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 4월 25일 금요일에 해결되었습니다.
+>이 문제는 2024년 4월 25일에 해결되었습니다.
 
 사용자가 댓글에 있는 링크를 클릭하면 해당 링크가 사용자를 빈 화면으로 연결합니다.
 
