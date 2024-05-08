@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '883'
 ht-degree: 89%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 목요일 |
 | [프로젝트: 템플릿을 사용하여 문제로 만든 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 않습니다.](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024년 5월 8일 목요일 |
 | [설정: 다른 사용자로 로그인할 때 &quot;다음으로 로그인됨&quot; 배너가 표시되지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 수요일 |
 | [보드: 고급 필터가 예상 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024년 5월 7일 수요일 |
