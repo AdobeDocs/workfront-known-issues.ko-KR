@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
+source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
-source-wordcount: '1834'
-ht-degree: 96%
+source-wordcount: '1850'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 템플릿을 사용하여 문제로 만든 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 않습니다.](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [보드: 고급 필터가 예상 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [타임시트: 고정된 타임시트가 빈 페이지로 이동함](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [설정: 다른 사용자로 로그인할 때 &quot;다음으로 로그인됨&quot; 배너가 표시되지 않습니다.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
