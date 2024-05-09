@@ -4,14 +4,18 @@ description: “Workfront 통합 기능을 통해 대용량 파일(100MB 초과)
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 52%
 
 ---
 
 # 통합: 문서 통합으로 전송할 때 파일 이름이 &quot;null&quot;입니다.
+
+>[!NOTE]
+>
+>이 문제는 2024년 5월 8일 목요일에 해결되었습니다.
 
 Workfront 통합을 통해 대형 파일(100MB 초과)을 문서 공급자에게 전송하는 경우 문서 공급자의 파일 이름은 &quot;null&quot;입니다.
 

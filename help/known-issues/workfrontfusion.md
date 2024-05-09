@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: ht
-source-wordcount: '167'
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+workflow-type: tm+mt
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024년 3월 27일 |
+| 없음 | |
 
 {style="table-layout:auto"}
 

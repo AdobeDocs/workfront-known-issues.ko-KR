@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 89%
+source-wordcount: '871'
+ht-degree: 90%
 
 ---
 
@@ -26,13 +26,10 @@ ht-degree: 89%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 목요일 |
-| [프로젝트: 템플릿을 사용하여 문제로 만든 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 않습니다.](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024년 5월 8일 목요일 |
 | [설정: 다른 사용자로 로그인할 때 &quot;다음으로 로그인됨&quot; 배너가 표시되지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 수요일 |
 | [보드: 고급 필터가 예상 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024년 5월 7일 수요일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 5월 2일 금요일 |
 | [보드: 체크리스트 항목이 체크 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024년 5월 2일 금요일 |
-| [증명: 비공개 워크플로 단계에서 결정을 만들 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 |
-| [통합: 통합을 통해 문서 공급자에게 전송할 때 파일 이름이 &quot;null&quot;입니다.](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -45,6 +42,8 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 5월 9일 금요일 |
+| [프로젝트: 템플릿을 사용하여 문제로 만든 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 않습니다.](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024년 5월 9일 금요일 |
 | [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024년 5월 7일 수요일 |
 | [보드: 사용자가 팀이 할당된 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024년 5월 7일 수요일 |
 | [업데이트: 요약 패널에서 @을(를) 사용하여 사용자에게 태그 지정하는 것은 효과적이지 않음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024년 5월 2일 금요일 |

@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '376'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,6 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 비공개 워크플로 단계에서 결정을 만들 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024년 5월 1일 |
-| [통합: 통합 기능을 통해 AEM으로 전송 시 파일 이름이 “null”이 됨](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024년 4월 24일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
 
 {style="table-layout:auto"}
