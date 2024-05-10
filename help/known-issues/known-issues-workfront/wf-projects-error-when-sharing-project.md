@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Projects
 exl-id: 8c6c6089-1015-400e-9eec-e62318cc9e07
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 2일 금요일에 해결되었습니다.
+>이 문제는 2024년 5월 2일에 해결되었습니다.
 
 사용자가 프로젝트를 공유하려고 하면 프로젝트가 공유되지 않고 사용자에게 다음과 같은 메시지가 표시됩니다.
 

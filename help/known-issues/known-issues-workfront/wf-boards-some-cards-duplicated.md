@@ -1,13 +1,13 @@
 ---
-title: '보드: 중복 카드와 관련된 문제'
-description: 보드에서 중복 카드와 관련된 문제가 보고되었습니다.
+title: '보드: 카드 중복과 관련된 문제'
+description: 보드에서 카드가 중복되는 문제가 보고되었습니다.
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 2일 금요일에 해결되었습니다.
+>이 문제는 2024년 5월 2일에 해결되었습니다.
 
 보드의 카드 중복과 관련하여 다음과 같은 문제가 보고되었습니다.
 

@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 49adcc1d-1ad0-4d22-b910-2f7ddc768f45
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 2일 금요일에 해결되었습니다.
+>이 문제는 2024년 5월 2일에 해결되었습니다.
 
 사용자가 기본(비사용자 정의) 필드를 표시하도록 구성된 카드를 조회할 때 해당 필드가 카드에 표시되지 않습니다.
 
