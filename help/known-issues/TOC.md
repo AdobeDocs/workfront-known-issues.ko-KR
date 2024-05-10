@@ -5,7 +5,7 @@ role: User
 source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
 source-wordcount: '1850'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 95%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [프로젝트: 템플릿을 사용하여 문제로 만든 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 않습니다.](known-issues-workfront/wf-projects-priority-not-transfer.md)
-      + [보드: 고급 필터가 예상 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [보드: 고급 필터에서 예상되는 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [타임시트: 고정된 타임시트가 빈 페이지로 이동함](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [설정: 다른 사용자로 로그인할 때 &quot;다음으로 로그인됨&quot; 배너가 표시되지 않습니다.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않습니다.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [보드: 사용자가 팀이 할당된 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [업데이트: 요약 패널에서 @을(를) 사용하여 사용자에게 태그 지정하는 것은 효과적이지 않음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [프로젝트: 템플릿으로 만든 프로젝트가 템플릿의 우선 순위와 일치하지 않음](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [보드: 체크리스트 항목이 체크 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [업데이트: 요약 패널에서 @을 사용하여 사용자를 태그하면 아무 반응이 없음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [프로젝트: 템플릿으로 만든 프로젝트가 템플릿의 우선순위와 일치하지 않음](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
+      + [보드: 체크리스트 항목이 선택된 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [프로젝트: 프로젝트 공유 시 오류 발생](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [증명: 비공개 워크플로 단계에서 결정을 만들 수 없음](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md)
