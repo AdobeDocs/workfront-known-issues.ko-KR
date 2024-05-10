@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '860'
 ht-degree: 95%
 
 ---
@@ -42,8 +42,8 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 언급 복사 및 붙여넣기는 언급된 사용자에게 알리지 않습니다](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024년 5월 10일 토요일 |
 | [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 5월 9일 금요일 |
-| [프로젝트: 템플릿을 사용하여 문제로 만든 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 않습니다.](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024년 5월 9일 금요일 |
 | [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024년 5월 7일 |
 | [보드: 사용자가 팀이 할당된 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024년 5월 7일 |
 | [업데이트: 요약 패널에서 @을 사용하여 사용자를 태그하면 아무 반응이 없음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024년 5월 2일 |
