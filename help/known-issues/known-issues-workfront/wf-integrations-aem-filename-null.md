@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
 source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 8일 목요일에 해결되었습니다.
+>이 문제는 2024년 5월 8일에 해결되었습니다.
 
 Workfront 통합 기능을 통해 대용량 파일(100MB 초과)을 문서 공급자에게 전송하면 문서 공급자에서의 파일 이름이 “null”이 됩니다.
 
