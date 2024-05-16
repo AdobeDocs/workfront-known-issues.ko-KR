@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
-workflow-type: ht
-source-wordcount: '3425'
-ht-degree: 100%
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+workflow-type: tm+mt
+source-wordcount: '3529'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,24 @@ ht-degree: 100%
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2024년 5월 업데이트
+
++++**2024년 5월 16일 금요일 유지 보수 업데이트**
+
+### 2024년 5월 16일 금요일 유지 보수 업데이트
+
+#### 설정
+
+**설정의 일부 문제 유형에서 기본 문제 상태가 누락됨**
+
+사용자가 설정에서 문제 상태를 볼 때 문제의 기본 상태(새로 만들기, 진행 중, 완료)가 일부 문제 유형에서 누락된 것을 볼 수 있습니다. 기본 상태에는 문제 유형을 변경할 수 있는 옵션이 없으므로 사용자는 영향을 받는 문제 유형에 대해 표시할 상태를 재구성할 수 없습니다.
+
+#### 사용자
+
+**사용자를 삭제할 수 없음**
+
+사용자가 사용자를 삭제하려고 해도 해당 사용자가 삭제되지 않습니다. 이는 Adobe Admin Console로 마이그레이션한 조직에서 보고되었습니다.
+
++++
 
 +++**2024년 5월 9일 유지 보수 업데이트**
 
