@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
+source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
 workflow-type: tm+mt
-source-wordcount: '1871'
+source-wordcount: '1880'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [요청: 요청 페이지(&quot;../submitted&quot; URL)의 대시보드에 액세스할 수 없음](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [통합: SSO를 사용할 때 사용자가 잘못된 요청 오류 발생](known-issues-workfront/wf-outlook-wrong-request.md)
       + [업데이트: 언급 복사 및 붙여넣기는 언급된 사용자에게 알리지 않습니다](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [프로젝트: 템플릿을 사용하여 문제에서 생성된 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 못함](known-issues-workfront/wf-projects-priority-not-transfer.md)
