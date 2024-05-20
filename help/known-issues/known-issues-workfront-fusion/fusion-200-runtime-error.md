@@ -4,18 +4,22 @@ description: Workfront 모듈은 `RuntimeError [200]` 응답을 반환할 수 �
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 99967e3b-08bd-4035-b0b2-b90eff8cf1a1
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # Workfront Fusion: Workfront 모듈에서 반환되는 RuntimeError [200] 응답
 
+<!--
+
 >[!NOTE]
 >
->이 문제는 2024년 5월 9일에 해결되었습니다.
+>This issue was fixed on May 9, 2024.
+
+-->
 
 Workfront 모듈은 `RuntimeError [200]` 응답을 반환할 수 있습니다. 200은 성공적인 응답을 의미하지만, 오류는 요청이 실패했음을 나타냅니다.
 

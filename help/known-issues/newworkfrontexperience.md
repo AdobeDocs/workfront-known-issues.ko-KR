@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 98%
+source-wordcount: '877'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로그램: 프로그램에 대한 사용자 액세스가 업데이트되면 프로그램에 대한 모든 액세스가 손실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024년 5월 20일 화요일 |
+| [문서: 통합에서 문서를 연결할 때 UNK 파일 확장명](known-issues-workfront/wf-documents-unk-file-extension.md) | 2024년 5월 20일 화요일 |
 | [통합: SSO를 사용할 때 사용자가 잘못된 요청 오류 발생](known-issues-workfront/wf-outlook-wrong-request.md) | 2024년 5월 14일 수요일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
@@ -39,6 +41,9 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [문서: 에셋을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 5월 20일 화요일 |
+| [사용자: 사용자 속성이 SSO에서 매핑되지 않음](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024년 5월 20일 화요일 |
+| [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 5월 20일 화요일 |
 | [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024년 5월 10일 |
 | [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 5월 9일 |
 | [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024년 5월 7일 |

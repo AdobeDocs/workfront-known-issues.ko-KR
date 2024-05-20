@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '1880'
-ht-degree: 98%
+source-wordcount: '1919'
+ht-degree: 97%
 
 ---
 
@@ -17,9 +17,13 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: 에셋을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [사용자: 사용자 속성이 SSO에서 매핑되지 않음](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [프로그램: 프로그램에 대한 사용자 액세스가 업데이트되면 프로그램에 대한 모든 액세스가 손실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [문서: 통합에서 문서를 연결할 때 UNK 파일 확장명](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [요청: 요청 페이지(&quot;../submitted&quot; URL)의 대시보드에 액세스할 수 없음](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [통합: SSO를 사용할 때 사용자가 잘못된 요청 오류 발생](known-issues-workfront/wf-outlook-wrong-request.md)
-      + [업데이트: 언급 복사 및 붙여넣기는 언급된 사용자에게 알리지 않습니다](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
+      + [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [프로젝트: 템플릿을 사용하여 문제에서 생성된 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 못함](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [보드: 고급 필터에서 예상되는 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [타임시트: 고정된 타임시트가 빈 페이지로 이동](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
