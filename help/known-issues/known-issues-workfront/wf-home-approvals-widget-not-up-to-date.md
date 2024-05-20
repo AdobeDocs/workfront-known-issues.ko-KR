@@ -4,14 +4,16 @@ description: 새로운 홈 경험에서 내 승인을 기다리는 동안 위젯
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
-workflow-type: ht
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # 홈: 승인 위젯이 정확하지 않음
+
+<!--Won't fix, valid issue-->
 
 <!--
 

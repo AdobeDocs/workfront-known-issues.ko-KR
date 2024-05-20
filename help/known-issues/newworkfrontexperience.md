@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
 workflow-type: tm+mt
-source-wordcount: '875'
-ht-degree: 96%
+source-wordcount: '827'
+ht-degree: 98%
 
 ---
 
@@ -25,13 +25,8 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [요청: 요청 페이지(&quot;../submitted&quot; URL)의 대시보드에 액세스할 수 없음](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | 2024년 5월 16일 금요일 |
 | [통합: SSO를 사용할 때 사용자가 잘못된 요청 오류 발생](known-issues-workfront/wf-outlook-wrong-request.md) | 2024년 5월 14일 수요일 |
-| [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
-| [보드: 고급 필터에서 예상되는 카드를 반환하지 않음](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024년 5월 7일 |
-| [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 5월 2일 |
-| [보드: 체크리스트 항목이 선택된 상태로 유지되지 않음](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024년 5월 2일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
 | [증명: GIF가 정적 증명으로 렌더링됨](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024년 1월 23일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 1월 9일 |
@@ -44,10 +39,9 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [업데이트: 언급 복사 및 붙여넣기는 언급된 사용자에게 알리지 않습니다](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024년 5월 10일 토요일 |
+| [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024년 5월 10일 |
 | [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 5월 9일 |
 | [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024년 5월 7일 |
-| [보드: 사용자가 팀이 할당된 보드를 볼 수 없음](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024년 5월 7일 |
 | [업데이트: 요약 패널에서 @을 사용하여 사용자를 태그하면 아무 반응이 없음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024년 5월 2일 |
 | [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 4월 23일 |
@@ -68,6 +62,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 20일 화요일 |
 | [타임시트: 고정된 타임시트가 빈 페이지로 이동](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024년 5월 7일 |
 | [보고서: 보고서 필터가 예상한 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024년 4월 1일 |
 | [설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정할 수 없음](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023년 11월 30일 |
