@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 99%
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2024년 5월 업데이트
+
++++ **(예정) 2024년 5월 23일 금요일 유지 보수 업데이트**
+
+### (예정) 2024년 5월 23일 금요일 유지 보수 업데이트
+
+#### 업데이트
+
+**태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음**
+
+사용자가 업데이트에서 태그 지정되면 태그 지정한 사용자가 표시되지 않습니다. 이 문제는 &quot;다른 회사의 직원들은 다음에서 사용자만 볼 수 있습니다...&quot; 설정이 &quot;해당 회사&quot;로 설정된 경우 발생합니다.
+
+**요약 패널에서 @을(를) 사용하여 사용자 태깅하는 것은 효과적이지 않음**
+
+사용자가 요약 패널의 업데이트 영역에서 @을 사용하여 다른 사용자를 태그하려고 할 때 드롭다운에서 사용자 이름을 클릭하면 아무 반응이 없습니다. 사용자를 다시 태그하면 예상대로 동작합니다.
+
++++
 
 +++**2024년 5월 16일 금요일 유지 보수 업데이트**
 
