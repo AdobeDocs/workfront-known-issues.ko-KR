@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: d3931cc536f625b78a888856f048663558dc771e
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 94%
+source-wordcount: '885'
+ht-degree: 92%
 
 ---
 
@@ -41,12 +41,13 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024년 5월 21일 수요일 |
+| [홈: 계획된 시간(분) 표시](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 2024년 5월 21일 수요일 |
 | [문서: 에셋을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 5월 20일 화요일 |
 | [사용자: 사용자 속성이 SSO에서 매핑되지 않음](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024년 5월 20일 화요일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 5월 20일 화요일 |
 | [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024년 5월 10일 |
 | [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 5월 9일 |
-| [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024년 5월 7일 |
 | [업데이트: 요약 패널에서 @을 사용하여 사용자를 태그하면 아무 반응이 없음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024년 5월 2일 |
 | [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 4월 23일 |
@@ -121,4 +122,5 @@ ht-degree: 94%
 | [캘린더: 작업이 표시되지 않음](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020년 11월 9일 |
 
 {style="table-layout:auto"}
+
 

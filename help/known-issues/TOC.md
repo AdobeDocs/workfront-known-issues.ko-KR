@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
 workflow-type: tm+mt
-source-wordcount: '1919'
-ht-degree: 97%
+source-wordcount: '1933'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [홈: 계획된 시간(분) 표시](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [문서: 에셋을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [사용자: 사용자 속성이 SSO에서 매핑되지 않음](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [프로그램: 프로그램에 대한 사용자 액세스가 업데이트되면 프로그램에 대한 모든 액세스가 손실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md)

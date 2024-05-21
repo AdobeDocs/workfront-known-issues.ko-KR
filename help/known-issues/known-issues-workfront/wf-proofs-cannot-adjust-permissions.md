@@ -4,14 +4,18 @@ description: 증명 중재자인 사용자가 워크플로에 대한 사용자 �
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
-source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 # 증명 중재자가 권한을 편집할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 재현할 수 없어 종결되었습니다.
 
 증명 중재자인 사용자가 워크플로에 대한 사용자 권한을 편집하려고 하면 권한을 선택하거나 선택 취소하는 기능이 비활성화됩니다.
 
