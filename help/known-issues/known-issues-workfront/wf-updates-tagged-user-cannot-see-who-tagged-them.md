@@ -3,7 +3,7 @@ title: "업데이트: 태그 지정된 사용자가 태그 지정된 사용자�
 description: "사용자가 업데이트에서 태그를 지정할 때 태그 지정한 사용자가 표시되지 않습니다. 이 문제는 다른 회사의 직원...에서만 사용자를 보아야 한다는 설정이 해당 회사로 설정된 경우 발생합니다."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 5%
@@ -20,3 +20,4 @@ ht-degree: 5%
 주석을 태그 지정한 사용자를 보려면 인앱 알림 을 사용합니다.
 
 _2024년 4월 23일에 처음 보고되었습니다._
+
