@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,16 @@ ht-degree: 98%
 +++ **(예정) 2024년 5월 23일 금요일 유지 보수 업데이트**
 
 ### (예정) 2024년 5월 23일 금요일 유지 보수 업데이트
+
+#### 보고서
+
+사용자가 보고서를 볼 때 브라우저의 [뒤로] 단추를 클릭하면 다음 중 하나가 발생할 수 있습니다.
+
+* 사용자는 보고서 페이지에 남아 있습니다.
+* 사용자가 브라우저의 랜딩 페이지로 이동합니다.
+* 사용자가 로그인 페이지로 이동합니다.
+
+이 문제는 Chrome 브라우저에서 보고되었습니다.
 
 #### 업데이트
 
