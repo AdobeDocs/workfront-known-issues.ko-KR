@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3931cc536f625b78a888856f048663558dc771e
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 92%
+source-wordcount: '834'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 92%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [프로그램: 프로그램에 대한 사용자 액세스가 업데이트되면 프로그램에 대한 모든 액세스가 손실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024년 5월 20일 화요일 |
-| [문서: 통합에서 문서를 연결할 때 UNK 파일 확장명](known-issues-workfront/wf-documents-unk-file-extension.md) | 2024년 5월 20일 화요일 |
 | [통합: SSO를 사용할 때 사용자가 잘못된 요청 오류 발생](known-issues-workfront/wf-outlook-wrong-request.md) | 2024년 5월 14일 수요일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
 | [작업: 작업을 생성하거나 복제하면 작업 목록이 잘못된 순서로 표시됨](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024년 2월 26일 |
@@ -41,16 +40,12 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [업데이트: 태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024년 5월 21일 수요일 |
 | [홈: 계획된 시간(분) 표시](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 2024년 5월 21일 수요일 |
 | [문서: 에셋을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 5월 20일 화요일 |
-| [사용자: 사용자 속성이 SSO에서 매핑되지 않음](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024년 5월 20일 화요일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 5월 20일 화요일 |
 | [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024년 5월 10일 |
 | [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024년 5월 9일 |
-| [업데이트: 요약 패널에서 @을 사용하여 사용자를 태그하면 아무 반응이 없음](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024년 5월 2일 |
 | [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024년 4월 29일 |
-| [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 4월 23일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
 | [요청: 요청 작성 시 계산된 필드가 업데이트되지 않음](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024년 4월 9일 |
 | [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 4월 5일 |

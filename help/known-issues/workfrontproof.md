@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 95%
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 통합에서 문서를 연결할 때 UNK 파일 확장명](known-issues-workfront/wf-documents-unk-file-extension.md) | 2024년 5월 20일 화요일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
 
 {style="table-layout:auto"}

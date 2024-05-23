@@ -3,15 +3,19 @@ title: "업데이트: 태그 지정된 사용자가 태그 지정된 사용자�
 description: "사용자가 업데이트에서 태그를 지정할 때 태그 지정한 사용자가 표시되지 않습니다. 이 문제는 다른 회사의 직원...에서만 사용자를 보아야 한다는 설정이 해당 회사로 설정된 경우 발생합니다."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 5%
+source-wordcount: '105'
+ht-degree: 10%
 
 ---
 
 
 # 업데이트: 태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2024년 5월 23일 금요일에 해결되었습니다.
 
 사용자가 업데이트에서 태그 지정되면 태그 지정한 사용자가 표시되지 않습니다. 이 문제는 &quot;다른 회사의 직원들은 다음에서 사용자만 볼 수 있습니다...&quot; 설정이 &quot;해당 회사&quot;로 설정된 경우 발생합니다.
 
