@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
 source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 15일 목요일에 해결되었습니다.
+>이 문제는 2024년 5월 15일에 해결되었습니다.
 
 사용자가 팀이 속한 보드를 보려고 하면 해당 보드를 볼 수 없습니다. 이는 팀이 보드에 할당된 후 사용자가 팀에 추가되는 경우 발생합니다.
 

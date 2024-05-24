@@ -5,7 +5,7 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
 ht-degree: 100%
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024년 5월 20일 화요일 |
+| [Workfront Fusion: Workfront 모듈의 200 응답으로 인한 RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024년 5월 20일 |
 
 {style="table-layout:auto"}
 

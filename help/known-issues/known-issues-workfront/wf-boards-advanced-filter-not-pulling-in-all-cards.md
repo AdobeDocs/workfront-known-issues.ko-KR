@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: d2c98b56-c52e-4e45-84b4-c9f0716c2182
 source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 16일 금요일에 해결되었습니다.
+>이 문제는 2024년 5월 16일에 해결되었습니다.
 
 사용자가 보드에서 고급 필터를 사용하려고 하면 필터가 필요한 결과 중 일부를 반환하지 않습니다.
 
