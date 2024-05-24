@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
+source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
 workflow-type: tm+mt
-source-wordcount: '1937'
-ht-degree: 99%
+source-wordcount: '1945'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [그룹: 하위 그룹을 추가할 수 없음](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [업데이트: 태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [홈: 계획된 시간(분) 표시](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)

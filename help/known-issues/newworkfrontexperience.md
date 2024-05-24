@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
+source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 99%
+source-wordcount: '841'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 2024년 5월 24일 토요일 |
 | [그룹: 하위 그룹을 추가할 수 없음](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024년 5월 23일 금요일 |
 | [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 5월 20일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 5월 20일 |
