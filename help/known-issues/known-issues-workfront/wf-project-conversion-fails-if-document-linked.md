@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 23일 금요일에 해결되었습니다.
+>이 문제는 2024년 5월 23일에 해결되었습니다.
 
 문제에 문서가 포함되어 있고 사용자가 해당 문제를 프로젝트로 전환하려고 하면 전환이 실패하고 프로젝트가 생성되지 않습니다. 사용자에게 다음과 같은 오류가 표시됩니다.
 

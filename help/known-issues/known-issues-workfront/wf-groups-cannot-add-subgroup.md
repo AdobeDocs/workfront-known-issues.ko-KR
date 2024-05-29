@@ -1,18 +1,18 @@
 ---
-title: "그룹: 하위 그룹을 추가할 수 없음"
-description: "사용자가 기존 하위 그룹을 그룹에 추가하려고 할 때 저장 버튼이 효과가 없고 하위 그룹이 추가되지 않습니다."
+title: '“그룹: 하위 그룹을 추가할 수 없음”'
+description: 사용자가 기존 하위 그룹을 그룹에 추가하려고 하면 저장 버튼이 비활성화되고 하위 그룹이 추가되지 않습니다.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
-workflow-type: tm+mt
+exl-id: c29668b9-46c3-432c-8773-2573de606b99
+source-git-commit: 103e1a2cd108ea21ea7c0c1d3c043a522aaefb43
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-
 # 그룹: 하위 그룹을 추가할 수 없음
 
-사용자가 기존 하위 그룹을 그룹에 추가하려고 하면 저장 버튼이 효과가 없고 하위 그룹이 추가되지 않습니다.
+사용자가 기존 하위 그룹을 그룹에 추가하려고 하면 저장 버튼이 비활성화되고 하위 그룹이 추가되지 않습니다.
 
-_2024년 5월 1일 목요일에 처음 보고되었습니다._
+_2024년 5월 1일에 처음 보고되었습니다._
