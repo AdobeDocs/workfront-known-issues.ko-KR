@@ -1,17 +1,21 @@
 ---
-title: "사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생"
-description: '"사용자가 사용자 정의 양식에서 설명 텍스트를 편집하려고 할 때 텍스트가 저장되지 않고 오류가 표시됩니다. 해결 방법을 사용할 수 있습니다.”'
+title: '사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생'
+description: 사용자가 사용자 정의 양식에서 설명 텍스트를 편집하려고 할 때 텍스트가 저장되지 않고 오류가 표시됩니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
+source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 14%
 
 ---
 
-
 # 사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 5월 30일 금요일에 해결되었습니다.
 
 사용자가 사용자 정의 양식에서 설명 텍스트를 편집하려고 할 때 텍스트가 저장되지 않고 다음과 같은 오류가 표시됩니다.
 
