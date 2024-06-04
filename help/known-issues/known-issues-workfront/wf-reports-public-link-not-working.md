@@ -1,0 +1,26 @@
+---
+title: "보고서: 보고서에 대한 공개 링크가 작동하지 않음"
+description: '"사용자가 보고서에 대한 공개 링크를 클릭하면 오류가 표시됩니다. 특정 오류는 사용자가 사용하는 브라우저에 따라 다릅니다. ”'
+hidefromtoc: true
+feature: Reports and Dashboards
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 4%
+
+---
+
+
+# 보고서: 보고서에 대한 공개 링크가 작동하지 않음
+
+사용자가 보고서에 대한 공개 링크를 클릭하면 오류가 표시됩니다. 특정 오류는 사용자가 사용하는 브라우저에 따라 다릅니다.
+
+이 문제는 Adobe IMS(Identity Management System)에 온보딩된 조직에 영향을 줍니다.
+
+**해결 방법**
+
+Workfront 액세스 권한이 있는 사용자는 로그인하여 보고서를 볼 수 있습니다.
+
+현재 외부 사용자가 사용할 수 있는 해결 방법이 없습니다.
+
+_2024년 5월 22일 목요일에 처음 보고되었습니다._
