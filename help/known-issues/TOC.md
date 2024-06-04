@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [작업: 사용자를 작업에 할당할 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
-      + [사용자: 일괄 할당할 때 사용자 누락](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
+      + [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [그룹: 하위 그룹을 추가할 수 없음](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [업데이트: 태그된 사용자가 자신을 태그한 사람이 누구인지 확인할 수 없음](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)

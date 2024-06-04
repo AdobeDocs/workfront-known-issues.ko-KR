@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 96%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 5월 29일 목요일 |
-| [사용자: 일괄 할당할 때 사용자 누락](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 수요일 |
-| [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 24일 토요일 |
+| [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 |
+| [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 24일 |
 | [그룹: 하위 그룹을 추가할 수 없음](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024년 5월 23일 |
 | [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 5월 20일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 5월 20일 |
