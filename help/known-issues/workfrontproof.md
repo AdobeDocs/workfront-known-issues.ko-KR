@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
-source-wordcount: '385'
-ht-degree: 100%
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+workflow-type: tm+mt
+source-wordcount: '402'
+ht-degree: 96%
 
 ---
 
@@ -35,6 +35,8 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024년 6월 5일 목요일 |
+| [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 6월 5일 목요일 |
 | [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 5월 20일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
 | [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 4월 12일 |

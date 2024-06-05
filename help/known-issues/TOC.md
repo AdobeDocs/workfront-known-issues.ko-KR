@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '1987'
-ht-degree: 98%
+source-wordcount: '2008'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [프로젝트: 공유 메뉴가 로드되지 않음](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [보고서: 보고서에 대한 공개 링크가 작동하지 않음](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL 리소스 플래너]: 필터를 공유할 수 없음](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [실제 완료 일자가 해당 없음으로 표시됨](known-issues-workfront/wf-projects-completion-date-is-na.md)
