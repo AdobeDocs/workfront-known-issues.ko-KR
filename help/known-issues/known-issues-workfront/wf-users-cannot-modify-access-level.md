@@ -3,9 +3,9 @@ title: '“사용자: 사용자의 액세스 수준을 수정할 수 없음”'
 description: “그룹 관리자가 그룹 내 사용자의 액세스 수준을 수정하려고 하면 액세스 수준 필드가 비활성화되고 그룹 관리자가 사용자의 액세스 수준을 변경할 수 없습니다.”
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # 사용자: 사용자의 액세스 수준을 수정할 수 없음
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 9, 2024.
-
--->
+>이 문제는 2024년 6월 6일 금요일에 해결되었습니다.
 
 그룹 관리자가 그룹 내 사용자의 액세스 수준을 수정하려고 하면 액세스 수준 필드가 비활성화되고 그룹 관리자가 사용자의 액세스 수준을 변경할 수 없습니다.
 

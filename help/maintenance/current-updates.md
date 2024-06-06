@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 99%
+source-wordcount: '3824'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,13 @@ ht-degree: 99%
 
 +++ **2024년 6월 6일 금요일 유지 보수 업데이트**
 
-이번 업데이트에는 사소하거나 부수적인 버그 수정만 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
+### 2024년 6월 6일 유지 보수 업데이트
+
+#### 사용자 정의 양식
+
+**양식 디자이너의 네이티브 필드에 대한 제한 사항**
+
+이제 양식 디자이너에서 만든 사용자 정의 양식에서 여러 네이티브 필드를 지원합니다. 이전에는 양식당 하나의 기본 필드로 제한되었습니다.
 
 +++
 
