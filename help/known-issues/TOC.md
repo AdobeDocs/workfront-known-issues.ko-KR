@@ -4,8 +4,8 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '2008'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
       + [보고서: 보고서에 대한 공개 링크가 작동하지 않음](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL 리소스 플래너]: 필터를 공유할 수 없음](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [실제 완료 일자가 해당 없음으로 표시됨](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [작업: 사용자를 작업에 할당할 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [그룹: 하위 그룹을 추가할 수 없음](known-issues-workfront/wf-groups-cannot-add-subgroup.md)

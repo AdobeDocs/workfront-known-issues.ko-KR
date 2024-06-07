@@ -5,8 +5,8 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3824'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,9 +36,9 @@ ht-degree: 98%
 
 ## 2024년 5월 업데이트
 
-+++ **2024년 5월 30일 금요일 유지 보수 업데이트**
++++ **2024년 5월 30일 유지 보수 업데이트**
 
-### 2024년 5월 30일 금요일 유지 보수 업데이트
+### 2024년 5월 30일 유지 보수 업데이트
 
 #### 사용자 정의 양식
 
