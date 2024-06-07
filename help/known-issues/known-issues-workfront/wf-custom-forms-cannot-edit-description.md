@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 30일 금요일에 해결되었습니다.
+>이 문제는 2024년 5월 30일에 해결되었습니다.
 
 사용자가 사용자 정의 양식의 설명 텍스트를 편집하려고 하면 텍스트가 저장되지 않고 다음과 같은 오류가 표시됩니다.
 

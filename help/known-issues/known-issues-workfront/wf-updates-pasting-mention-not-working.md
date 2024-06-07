@@ -4,7 +4,7 @@ description: “사용자가 @ 형식의 멘션이 포함된 댓글을 복사한
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 5월 30일 금요일에 해결되었습니다.
+>이 문제는 2024년 5월 30일에 해결되었습니다.
 
 사용자가 @ 형식의 멘션이 포함된 댓글을 복사한 다음 해당 댓글을 다른 오브젝트의 업데이트 영역에 붙여넣어도 언급된 사용자에게 붙여넣은 댓글에 대한 알림이 전송되지 않습니다.
 
