@@ -1,17 +1,21 @@
 ---
-title: "실제 완료 일자가 해당 없음으로 표시됨"
-description: "프로젝트가 완료되면 실제 완료 일자가 프로젝트 완료 일자 대신 해당 없음으로 표시됩니다."
+title: 실제 완료 일자가 해당 없음으로 표시됨
+description: 프로젝트가 완료되면 실제 완료 일자가 프로젝트 완료 일자 대신 해당 없음으로 표시됩니다.
 hidefromtoc: true
 feature: Projects
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: cd9ce9c4-cdba-4805-86a3-2fc616db75cc
+source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 18%
 
 ---
 
-
 # 실제 완료 일자가 해당 없음으로 표시됨
+
+>[!NOTE]
+>
+>이는 문제가 아닌 것으로 판명되어 종결되었습니다.
 
 프로젝트가 완료되면 실제 완료 일자가 프로젝트 완료 일자 대신 해당 없음으로 표시됩니다.
 
