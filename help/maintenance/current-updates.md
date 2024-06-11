@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3861'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,18 @@ ht-degree: 0%
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2024년 6월 업데이트
+
++++**(예정) 2024년 6월 13일 금요일 유지 보수 업데이트**
+
+### **(예정) 2024년 6월 13일 금요일 유지 보수 업데이트**
+
+#### 그룹
+
+**하위 그룹을 추가할 수 없음**
+
+사용자가 기존 하위 그룹을 그룹에 추가하려고 하면 저장 버튼이 비활성화되고 하위 그룹이 추가되지 않습니다.
+
++++
 
 +++ **2024년 6월 6일 금요일 유지 보수 업데이트**
 
