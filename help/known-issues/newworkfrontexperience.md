@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
+source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '801'
 ht-degree: 95%
 
 ---
@@ -56,6 +56,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024년 6월 12일 목요일 |
 | [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 6월 7일 토요일 |
 | [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 6월 7일 토요일 |
 | [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024년 6월 7일 토요일 |
