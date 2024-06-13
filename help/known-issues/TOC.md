@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
+source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
 workflow-type: tm+mt
-source-wordcount: '2023'
-ht-degree: 97%
+source-wordcount: '2029'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [상태: 이전에 삭제된 상태를 다시 사용할 수 없음](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [탐색: 뒤로 단추가 이전 페이지로 돌아가지 않음](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md)
