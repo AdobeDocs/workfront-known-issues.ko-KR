@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 4d5f810258b537324feb23e53f370a2c55877a0b
+source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
 workflow-type: tm+mt
-source-wordcount: '1610'
-ht-degree: 98%
+source-wordcount: '1627'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [보고서: 사용자 지정 날짜로 그룹화된 보고서 세부 사항을 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [리소스 계획 수립: [!UICONTROL 자세히] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [상태: 이전에 삭제된 상태를 다시 사용할 수 없음](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)

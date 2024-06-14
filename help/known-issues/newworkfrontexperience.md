@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
+source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 97%
+source-wordcount: '814'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 토요일 |
+| [보고서: 사용자 지정 날짜로 그룹화된 보고서 세부 사항을 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 토요일 |
 | [리소스 계획 수립: [!UICONTROL 자세히] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024년 6월 14일 토요일 |
 | [탐색: 뒤로 단추가 이전 페이지로 돌아가지 않음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 11일 수요일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
