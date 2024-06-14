@@ -4,7 +4,7 @@ description: “사용자가 업데이트에서 태그된 경우 누가 자신�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 6월 5일 목요일에 해결되었습니다.
+>이 문제는 2024년 6월 5일에 해결되었습니다.
 
 사용자가 업데이트에서 태그된 경우 누가 자신에게 태그를 지정했는지 확인할 수 없습니다. 이는 “다른 회사의 직원들은 다음 위치의 사용자만 조회할 수 있음...” 설정이 “자신의 회사”로 설정된 경우에 발생합니다.
 

@@ -4,7 +4,7 @@ description: “그룹 관리자가 그룹 내 사용자의 액세스 수준을 
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 6월 6일 금요일에 해결되었습니다.
+>이 문제는 2024년 6월 6일에 해결되었습니다.
 
 그룹 관리자가 그룹 내 사용자의 액세스 수준을 수정하려고 하면 액세스 수준 필드가 비활성화되고 그룹 관리자가 사용자의 액세스 수준을 변경할 수 없습니다.
 
