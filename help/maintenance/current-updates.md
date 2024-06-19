@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3859'
-ht-degree: 99%
+source-wordcount: '3963'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,27 @@ ht-degree: 99%
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2024년 6월 업데이트
+
++++**(예정) 2024년 6월 20일 금요일 유지 보수 업데이트**
+
+### (예정) 2024년 6월 20일 금요일 유지 보수 업데이트
+
+#### 탐색
+
+**뒤로 단추가 이전 페이지로 돌아가지 않음**
+
+Workfront의 사용자가 브라우저의 [뒤로] 단추를 클릭하면 다음 중 하나가 발생할 수 있습니다.
+
+* 브라우저 탭의 이름은 변경되지만 페이지는 변경되지 않습니다. 뒤로 단추를 다시 클릭하면 문제가 해결될 수 있습니다.
+* 사용자는 브라우저 랜딩 페이지로 이동합니다.
+
+#### 증명
+
+**증명 뷰어를 닫을 수 없음**
+
+사용자가 증명 뷰어에서 증명을 보고 오른쪽 상단의 X를 클릭하여 증명을 닫으려고 할 때 증명이 닫히지 않습니다.
+
++++
 
 +++**2024년 6월 13일 금요일 유지 보수 업데이트**
 
