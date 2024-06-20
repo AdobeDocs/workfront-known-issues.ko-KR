@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '846'
-ht-degree: 92%
+source-wordcount: '819'
+ht-degree: 94%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [승인: 리디렉션이 너무 많음](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | 2024년 6월 20일 금요일 |
 | [보고서: 그룹화 이름에 슬래시 또는 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024년 6월 18일 수요일 |
-| [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 토요일 |
-| [보고서: 사용자 지정 날짜로 그룹화된 보고서 세부 사항을 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 토요일 |
-| [리소스 계획 수립: [!UICONTROL 자세히] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024년 6월 14일 토요일 |
-| [탐색: 뒤로 단추가 이전 페이지로 돌아가지 않음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 11일 수요일 |
+| [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
+| [보고서: 사용자 지정 날짜로 그룹화된 보고서 세부 사항을 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
+| [리소스 계획: [!UICONTROL 자세히 보기] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024년 6월 14일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
 
 {style="table-layout:auto"}
@@ -42,10 +42,8 @@ ht-degree: 92%
 |----------------------------------| ----------------- |
 | [업데이트: 복사한 링크가 올바르게 붙여넣어지지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024년 6월 19일 목요일 |
 | [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 6월 17일 화요일 |
-| [프로그램: 프로그램에 대한 사용자 액세스가 업데이트되면 프로그램에 대한 모든 액세스가 손실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024년 6월 7일 토요일 |
-| [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024년 6월 7일 토요일 |
+| [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024년 6월 7일 |
 | [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024년 6월 5일 |
-| [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 6월 5일 |
 | [프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 5월 29일 |
 | [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
@@ -60,11 +58,11 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024년 6월 12일 목요일 |
-| [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 6월 7일 토요일 |
-| [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 6월 7일 토요일 |
-| [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024년 6월 7일 토요일 |
-| [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 6월 7일 토요일 |
+| [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024년 6월 12일 |
+| [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 6월 7일 |
+| [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 6월 7일 |
+| [홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024년 6월 7일 |
+| [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 6월 7일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 20일 |
 | [타임시트: 고정된 타임시트가 빈 페이지로 이동](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024년 5월 7일 |
 | [보고서: 보고서 필터가 예상한 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024년 4월 1일 |

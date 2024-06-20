@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '1648'
-ht-degree: 95%
+source-wordcount: '1652'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [승인: 리디렉션이 너무 많음](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [업데이트: 복사한 링크가 올바르게 붙여넣어지지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [보고서: 그룹화 이름에 슬래시 또는 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [보고서: 사용자 지정 날짜로 그룹화된 보고서 세부 사항을 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [리소스 계획 수립: [!UICONTROL 자세히] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [리소스 계획: [!UICONTROL 자세히 보기] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [상태: 이전에 삭제된 상태를 다시 사용할 수 없음](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [탐색: 뒤로 단추가 이전 페이지로 돌아가지 않음](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [프로젝트: 공유 메뉴가 로드되지 않음](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
