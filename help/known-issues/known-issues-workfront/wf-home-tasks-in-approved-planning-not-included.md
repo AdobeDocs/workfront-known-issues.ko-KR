@@ -1,13 +1,13 @@
 ---
-title: '홈: 승인됨 또는 계획 상태인 프로젝트의 작업은 내 작업 또는 홈 작업 목록에 포함되지 않음'
-description: 승인됨 또는 계획 상태인 프로젝트의 작업은 홈에 표시되지 않습니다. 해결 방법을 사용할 수 있습니다.
+title: '홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음'
+description: 승인됨 또는 계획 상태의 프로젝트의 작업이 홈에 표시되지 않습니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 

@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Resource Management
 exl-id: 0f35655e-96b7-4279-b536-63106276efc3
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 6월 10일 화요일에 해결되었습니다.
+>이 문제는 2024년 6월 10일에 해결되었습니다.
 
 사용자가 [!UICONTROL 리소스 플래너]에서 필터를 공유하려고 하면 필터가 공유되지 않고 다음 메시지가 나타납니다.
 

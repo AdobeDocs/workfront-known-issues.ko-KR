@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 
 사용자가 웹에서 생성된 증명이 포함된 작업이나 문제를 프로젝트로 변환하려고 하면 프로젝트가 생성되지 않고 다음과 같은 메시지가 표시됩니다.
 
-&quot;[!UICONTROL 파일을 복사하는 동안 문제가 발생했습니다.] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\입니다. [!UICONTROL 해당 파일을 제거하거나 지원 센터에 문의하고 다시 시도하십시오.]”
+“\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\ 파일을 복사하는 동안 문제가 발생했습니다. [!UICONTROL 해당 파일을 제거하거나 지원 센터에 문의하고 다시 시도하십시오.]”
 
 **해결 방법**
 

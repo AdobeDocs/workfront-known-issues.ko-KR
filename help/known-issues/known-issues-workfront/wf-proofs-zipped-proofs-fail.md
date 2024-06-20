@@ -1,13 +1,13 @@
 ---
-title: '증명: 압축 증명이 생성되지 않음'
+title: '증명: 압축된 증명 생성을 생성할 수 없음'
 description: 사용자가 압축된 증명을 만들려고 할 때 증명에 있는 두 개 이상의 파일이 동일한 이름을 가지고 있으면 증명이 생성되지 않습니다.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

@@ -4,7 +4,7 @@ description: “요청자 라이선스가 있는 사용자가 업데이트 영�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
