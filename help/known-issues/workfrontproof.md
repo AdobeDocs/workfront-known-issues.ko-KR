@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 토요일 |
+| [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
 | [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
 
 {style="table-layout:auto"}
@@ -51,7 +51,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 6월 7일 토요일 |
+| [증명: 압축된 증명 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 6월 7일 |
 | [증명: 이메일 링크에서 증명 공유 시 오류 발생](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 11월 16일 |
 | [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023년 9월 19일 |
