@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '1663'
-ht-degree: 96%
+source-wordcount: '1685'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 기본 통화가 USD인 경우 보고서가 로드되지 않음](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [보드: 을 사용할 때 보드가 사용자로 표시되지 않음 [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md)
       + [홈: 내 문제 위젯에 마감되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [승인: 리디렉션이 너무 많음](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [업데이트: 복사한 링크가 올바르게 붙여넣어지지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md)

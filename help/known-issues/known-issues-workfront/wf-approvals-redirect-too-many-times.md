@@ -1,17 +1,21 @@
 ---
-title: "승인: 리디렉션이 너무 많음"
-description: '"사용자가 승인 알림 이메일을 받고 승인 결정 만들기 버튼을 클릭할 때 승인이 필요한 객체로 이동되지 않습니다. 대신 사용자에게 오류 메시지가 표시됩니다.”'
+title: '승인: 리디렉션이 너무 많음'
+description: 사용자가 승인 알림 이메일을 받고 승인 결정 만들기 버튼을 클릭할 때 승인이 필요한 객체로 이동되지 않습니다. 대신 사용자에게 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 81e21d15c55a4edf6892b8fa972105b7b299c6e8
+exl-id: 60e66790-81c7-4b70-b1e4-874fbc16278e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 11%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 
-
 # 승인: 리디렉션이 너무 많음
+
+>[!NOTE]
+>
+>이 문제는 2024년 6월 20일 금요일에 해결되었습니다.
 
 사용자가 승인 알림 이메일을 받고 &quot;[!UICONTROL 승인 결정]&quot;버튼, 사용자는 승인이 필요한 객체로 이동되지 않습니다. 대신 다음과 같은 오류가 표시됩니다.
 
