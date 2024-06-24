@@ -4,10 +4,10 @@ description: 사용자가 SharePoint를 통해 연결된 문서에 액세스하�
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: ht
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 **해결 방법**
 
-[!DNL SharePoint]는 짧은 URL을 생성하고 해당 URL을 링크에 사용할 것을 권장합니다.
+[!DNL SharePoint] 는 짧은 URL을 생성하고 링크에 사용할 것을 권장합니다.
 
 _2023년 3월 14일에 처음 보고되었습니다._
