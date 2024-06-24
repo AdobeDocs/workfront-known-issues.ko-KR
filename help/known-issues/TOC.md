@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '1693'
-ht-degree: 95%
+source-wordcount: '1702'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [통합:에서 문서의 새 버전을 추가할 수 없음 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [보고서: 기본 통화가 USD인 경우 보고서가 로드되지 않음](known-issues-workfront/wf-reports-default-currency-error.md)
       + [보드: 을 사용할 때 보드가 사용자로 표시되지 않음 [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md)

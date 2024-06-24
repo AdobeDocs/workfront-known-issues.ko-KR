@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 90%
+source-wordcount: '858'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [통합:에서 문서의 새 버전을 추가할 수 없음 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024년 6월 24일 화요일 |
 | [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024년 6월 21일 토요일 |
 | [보드: 을 사용할 때 보드가 사용자로 표시되지 않음 [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) | 2024년 6월 21일 토요일 |
 | [보고서: 그룹화 이름에 슬래시 또는 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024년 6월 18일 수요일 |
