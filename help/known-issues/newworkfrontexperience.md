@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 91%
+source-wordcount: '848'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024년 6월 21일 토요일 |
 | [보드: 을 사용할 때 보드가 사용자로 표시되지 않음 [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) | 2024년 6월 21일 토요일 |
 | [보고서: 그룹화 이름에 슬래시 또는 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024년 6월 18일 수요일 |
 | [통합: Dropbox 통합 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
@@ -44,7 +45,6 @@ ht-degree: 91%
 | [업데이트: 복사한 링크가 올바르게 붙여넣어지지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024년 6월 19일 목요일 |
 | [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 6월 17일 화요일 |
 | [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024년 6월 7일 |
-| [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024년 6월 5일 |
 | [프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 5월 29일 |
 | [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
