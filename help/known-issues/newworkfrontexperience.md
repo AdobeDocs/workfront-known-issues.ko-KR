@@ -29,7 +29,7 @@ ht-degree: 93%
 | [통합:에서 문서의 새 버전을 추가할 수 없음 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024년 6월 24일 화요일 |
 | [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024년 6월 21일 토요일 |
 | [보드: 을 사용할 때 보드가 사용자로 표시되지 않음 [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) | 2024년 6월 21일 토요일 |
-| [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024년 6월 18일 수요일 |
+| [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024년 6월 18일 |
 | [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
 | [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
 | [리소스 계획: [!UICONTROL 자세히 보기] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024년 6월 14일 |
@@ -44,8 +44,8 @@ ht-degree: 93%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [보고서: 기본 통화가 USD인 경우 보고서가 로드되지 않음](known-issues-workfront/wf-reports-default-currency-error.md) | 2024년 6월 21일 토요일 |
-| [업데이트: 복사한 링크가 올바르게 붙여넣기되지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024년 6월 19일 목요일 |
-| [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 6월 17일 화요일 |
+| [업데이트: 복사한 링크가 올바르게 붙여넣기되지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024년 6월 19일 |
+| [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 6월 17일 |
 | [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024년 6월 7일 |
 | [프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 5월 29일 |
 | [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 |
@@ -61,7 +61,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [홈: 내 문제 위젯에 마감되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024년 6월 20일 금요일 |
+| [홈: 내 문제 위젯에 마감되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024년 6월 20일 |
 | [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024년 6월 12일 |
 | [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 6월 7일 |
 | [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024년 6월 7일 |
