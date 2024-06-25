@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
+source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
 workflow-type: tm+mt
-source-wordcount: '1711'
-ht-degree: 96%
+source-wordcount: '1721'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [통합:에서 폴더 연결 [!DNL Google Drive] 폴더의 자산을 연결하지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [통합:에서 문서의 새 버전을 추가할 수 없음 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md)

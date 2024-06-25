@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
+source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 95%
+source-wordcount: '439'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [통합:에서 폴더 연결 [!DNL Google Drive] 폴더의 자산을 연결하지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 수요일 |
 | [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024년 6월 24일 화요일 |
 | [통합:에서 문서의 새 버전을 추가할 수 없음 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024년 6월 24일 화요일 |
 | [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
