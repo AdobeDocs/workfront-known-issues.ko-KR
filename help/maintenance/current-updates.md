@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
 workflow-type: tm+mt
-source-wordcount: '4072'
+source-wordcount: '4124'
 ht-degree: 99%
 
 ---
@@ -39,6 +39,14 @@ ht-degree: 99%
 사용자가 마우스 오른쪽 클릭을 통해 &quot;[!UICONTROL 링크 주소 복사]&quot;를 선택하여 업데이트에서 링크를 복사하고 업데이트에서 해당 링크를 붙여넣기하면 링크가 올바르게 붙여넣기되지 않습니다. 링크의 첫 번째 부분만 링크로 처리되며 나머지 URL은 무시됩니다.
 
 다른 &quot;[!UICONTROL 링크 주소 복사]&quot; 방법으로 링크를 복사하면 링크가 의도한 대로 붙여넣기됩니다.
+
+#### 사용자
+
+**일괄 할당할 때 사용자 누락**
+
+사용자가 일괄 할당을 시도하고 작업에 작업 역할이 할당되면 해당 작업 역할을 가진 사용자가 목록에 표시되지 않으며 할당 사용자가 이를 선택할 수 없습니다.
+
+이 비헤이비어는 워크로드 밸런서에서도 보고되었습니다.
 
 +++
 
