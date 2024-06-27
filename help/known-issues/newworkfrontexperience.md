@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 92%
+source-wordcount: '854'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [프로젝트: 프로젝트를 일괄 편집할 때 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024년 6월 27일 금요일 |
+| [작업: 작업 할당에서 이름을 검색해도 사용자가 반환되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024년 6월 27일 금요일 |
 | [통합:에서 폴더 연결 [!DNL Google Drive] 폴더의 자산을 연결하지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 수요일 |
 | [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024년 6월 24일 화요일 |
 | [통합:에서 문서의 새 버전을 추가할 수 없음 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024년 6월 24일 화요일 |
