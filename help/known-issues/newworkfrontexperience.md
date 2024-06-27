@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 93%
+source-wordcount: '834'
+ht-degree: 92%
 
 ---
 
@@ -33,7 +33,6 @@ ht-degree: 93%
 | [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024년 6월 18일 |
 | [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
 | [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
-| [리소스 계획: [!UICONTROL 자세히 보기] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024년 6월 14일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
 
 {style="table-layout:auto"}
@@ -44,7 +43,6 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 6월 17일 |
 | [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024년 6월 7일 |
 | [프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 5월 29일 |
 | [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 |

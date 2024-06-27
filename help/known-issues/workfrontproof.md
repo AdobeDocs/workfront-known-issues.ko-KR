@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '430'
 ht-degree: 93%
 
 ---
@@ -41,7 +41,6 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024년 6월 5일 |
 | [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 6월 5일 |
-| [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024년 5월 20일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 |
 | [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |

@@ -1,17 +1,21 @@
 ---
-title: '“리소스 계획: 자세히 보기 버튼이 표시되지 않음”'
-description: “사용자가 리소스 플래너를 보고 [!UICONTROL 자세히 보기] 버튼을 클릭하고자 할 때 버튼이 표시되지 않습니다. 해결 방법을 사용할 수 있습니다.”
+title: '리소스 계획: 자세히 단추가 표시되지 않음'
+description: 사용자가 리소스 플래너를 볼 때 [!UICONTROL 자세히] 단추가 표시되지 않습니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 63%
 
 ---
 
-
 # 리소스 계획: [!UICONTROL 자세히 보기] 버튼이 표시되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2024년 6월 27일에 종결되었습니다.
 
 사용자가 리소스 플래너를 보고 [!UICONTROL 자세히 보기] 버튼을 클릭하고자 할 때 버튼이 표시되지 않습니다.
 
