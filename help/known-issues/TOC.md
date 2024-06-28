@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '1744'
-ht-degree: 98%
+source-wordcount: '1753'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [청구 기록: 청구 기록 추가 버튼이 없음](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [문서: 문서 수가 부정확함](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [프로젝트: 프로젝트를 일괄 편집할 때 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [작업: 작업 할당에서 이름을 검색해도 사용자가 반환되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
