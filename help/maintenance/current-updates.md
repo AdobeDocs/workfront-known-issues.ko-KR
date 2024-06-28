@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
 workflow-type: tm+mt
-source-wordcount: '4070'
-ht-degree: 100%
+source-wordcount: '4096'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,12 @@ ht-degree: 100%
 +++**2024년 6월 27일 금요일 유지 보수 업데이트**
 
 ### 2024년 6월 27일 금요일 유지 보수 업데이트
+
+#### 보드
+
+**보드 소유자만 구성 필터를 업데이트할 수 있습니다.**
+
+보안상의 이유로 보드 소유자만 구성 패널에서 보드 필터를 변경할 수 있습니다.
 
 #### 보고서
 
