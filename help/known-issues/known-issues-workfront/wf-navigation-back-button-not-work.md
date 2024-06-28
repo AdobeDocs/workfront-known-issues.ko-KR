@@ -4,18 +4,22 @@ description: Workfront 사용자가 브라우저의 뒤로 버튼을 클릭하�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
 # 탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음
 
+<!--
+
 >[!NOTE]
 >
->이 문제는 2024년 6월 20일에 해결되었습니다.
+>This issue was fixed on June 20, 2024.
+
+-->
 
 Workfront 사용자가 브라우저의 뒤로 버튼을 클릭하면 다음과 같은 문제 중 하나가 발생할 수 있습니다.
 

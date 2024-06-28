@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '862'
 ht-degree: 96%
 
 ---
@@ -25,12 +25,13 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 문서 수가 부정확함](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 토요일 |
+| [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 토요일 |
 | [프로젝트: 프로젝트를 일괄 편집할 때 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024년 6월 27일 금요일 |
 | [작업: 작업 할당에서 이름을 검색해도 사용자가 반환되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024년 6월 27일 금요일 |
 | [통합:에서 폴더 연결 [!DNL Google Drive] 폴더의 자산을 연결하지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 수요일 |
 | [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024년 6월 24일 |
 | [통합: [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)에서 문서의 새 버전을 추가할 수 없음 | 2024년 6월 24일 |
-| [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024년 6월 21일 |
 | [보드: [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) 기능을 사용할 때 보드가 사용자로 표시되지 않음 | 2024년 6월 21일 |
 | [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 “표시할 데이터 없음”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024년 6월 18일 |
 | [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
