@@ -5,7 +5,7 @@ role: User
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
 source-wordcount: '1739'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 94%
       + [작업: 작업 할당에서 이름을 검색해도 사용자가 반환되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [통합:에서 폴더 연결 [!DNL Google Drive] 폴더의 자산을 연결하지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
-      + [통합:에서 문서의 새 버전을 추가할 수 없음 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
+      + [통합: [!DNL Google Drive]에서 문서의 새 버전을 추가할 수 없음](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [보고서: 기본 통화가 USD인 경우 보고서가 로드되지 않음](known-issues-workfront/wf-reports-default-currency-error.md)
-      + [보드: 을 사용할 때 보드가 사용자로 표시되지 않음 [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [홈: 내 문제 위젯에 마감되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [보드: [!UICONTROL 다음으로 로그인] 기능을 사용할 때 보드가 사용자로 표시되지 않음](known-issues-workfront/wf-boards-log-in-as.md)
+      + [홈: 내 문제 위젯에 종료되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [승인: 리디렉션이 너무 많음](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [업데이트: 복사한 링크가 올바르게 붙여넣기되지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 &quot;표시할 데이터 없음&quot;](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 “표시할 데이터 없음”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)

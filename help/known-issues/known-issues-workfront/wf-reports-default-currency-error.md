@@ -7,7 +7,7 @@ exl-id: b312cc55-78c3-4cf4-bb0c-5d8ba4d0600d
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 13%
 
 **해결 방법**
 
-기본 통화를 &quot;(으)로 변경[!UICONTROL 프로젝트의 기본 통화].&quot;
+기본 통화를 “[!UICONTROL 프로젝트의 기본 통화]”로 변경합니다.
 
-_2024년 6월 20일 금요일에 처음 보고되었습니다._
+_2024년 6월 20일에 처음 보고되었습니다._
