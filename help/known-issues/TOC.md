@@ -5,7 +5,7 @@ role: User
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '1753'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 97%
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [청구 기록: 청구 기록 추가 버튼이 없음](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [문서: 문서 수가 부정확함](known-issues-workfront/wf-documents-count-only-root-folder.md)
-      + [프로젝트: 프로젝트를 일괄 편집할 때 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
-      + [작업: 작업 할당에서 이름을 검색해도 사용자가 반환되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
-      + [통합:에서 폴더 연결 [!DNL Google Drive] 폴더의 자산을 연결하지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
+      + [프로젝트: 프로젝트 일괄 편집 시 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+      + [작업: 작업 할당에서 이름으로 검색하면 사용자가 검색되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
+      + [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [통합: [!DNL Google Drive]에서 문서의 새 버전을 추가할 수 없음](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [증명: 증명 이름을 클릭하면 빈 화면이 표시됨](known-issues-workfront/wf-proofs-go-to-blank-screen.md)

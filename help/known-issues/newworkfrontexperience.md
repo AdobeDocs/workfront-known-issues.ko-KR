@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '872'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 95%
 | [청구 기록: 청구 기록 추가 버튼이 없음](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024년 6월 28일 토요일 |
 | [문서: 문서 수가 부정확함](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 토요일 |
 | [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 토요일 |
-| [프로젝트: 프로젝트를 일괄 편집할 때 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024년 6월 27일 금요일 |
-| [작업: 작업 할당에서 이름을 검색해도 사용자가 반환되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024년 6월 27일 금요일 |
-| [통합:에서 폴더 연결 [!DNL Google Drive] 폴더의 자산을 연결하지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 수요일 |
+| [프로젝트: 프로젝트 일괄 편집 시 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024년 6월 27일 |
+| [작업: 작업 할당에서 이름으로 검색하면 사용자가 검색되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024년 6월 27일 |
+| [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024년 6월 24일 |
 | [통합: [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)에서 문서의 새 버전을 추가할 수 없음 | 2024년 6월 24일 |
 | [보드: [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) 기능을 사용할 때 보드가 사용자로 표시되지 않음 | 2024년 6월 21일 |
