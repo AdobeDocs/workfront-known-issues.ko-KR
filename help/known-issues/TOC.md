@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1753'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [청구 기록: 청구 기록 추가 버튼이 없음](known-issues-workfront/wf-billing-records-new-button-missing.md)
-      + [문서: 문서 수가 부정확함](known-issues-workfront/wf-documents-count-only-root-folder.md)
+      + [청구 기록: 청구 기록 추가 버튼이 누락됨](known-issues-workfront/wf-billing-records-new-button-missing.md)
+      + [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [프로젝트: 프로젝트 일괄 편집 시 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [작업: 작업 할당에서 이름으로 검색하면 사용자가 검색되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)

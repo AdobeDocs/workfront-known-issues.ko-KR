@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [청구 기록: 청구 기록 추가 버튼이 없음](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024년 6월 28일 토요일 |
-| [문서: 문서 수가 부정확함](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 토요일 |
-| [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 토요일 |
+| [청구 기록: 청구 기록 추가 버튼이 누락됨](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024년 6월 28일 |
+| [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 |
+| [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 |
 | [프로젝트: 프로젝트 일괄 편집 시 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024년 6월 27일 |
 | [작업: 작업 할당에서 이름으로 검색하면 사용자가 검색되지 않음](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024년 6월 27일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
