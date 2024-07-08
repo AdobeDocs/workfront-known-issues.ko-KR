@@ -4,14 +4,18 @@ description: 'Workfront 계정에 대한 Workfront Fusion 연결이 인증에 �
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: e64b507317a384626b33f81802737c17b210af24
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Fusion]: “연결 확인 실패” 오류
+
+>[!NOTE]
+>
+>이 문제는 해결되었습니다.
 
 <!--This article is live by request for the workaround-->
 

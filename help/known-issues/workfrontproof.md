@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
-workflow-type: ht
-source-wordcount: '436'
-ht-degree: 100%
+source-git-commit: e64b507317a384626b33f81802737c17b210af24
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 화요일 |
+| [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않음](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 화요일 |
 | [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024년 6월 24일 |

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: ht
-source-wordcount: '872'
-ht-degree: 100%
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+workflow-type: tm+mt
+source-wordcount: '937'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [홈:에서 항목을 열 수 없음 [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 2024년 7월 8일 화요일 |
+| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 화요일 |
+| [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않음](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 화요일 |
 | [청구 기록: 청구 기록 추가 버튼이 누락됨](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024년 6월 28일 |
 | [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 |
 | [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 |
@@ -47,6 +50,10 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [문제: 문제에 고급 할당을 수행할 때 오류 발생](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024년 7월 8일 화요일 |
+| [Portfolio: 사용자가 포트폴리오를 설정할 수 없음](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024년 7월 8일 화요일 |
+| [Workfront: 사용자 정의 용어가 적용되지 않음](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024년 7월 8일 화요일 |
+| [시간: 시간을 기록할 때 필터링된 시간 유형이 기본값이 아닙니다.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024년 7월 8일 화요일 |
 | [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024년 6월 7일 |
 | [프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 5월 29일 |
 | [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 |
