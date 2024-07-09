@@ -4,14 +4,18 @@ description: 사용자가 보고서에서 차트를 보면서 차트의 그룹�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
-source-git-commit: e16d44c4b0fa446373bfe2032551498d03aca2c2
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 95%
 
 ---
 
 # 보고서: 그룹 이름에 / 또는 \가 있는 경우 &quot;표시할 데이터 없음&quot;
+
+>[!NOTE]
+>
+>이 문제는 2024년 7월 4일에 종결되었습니다.
 
 사용자가 보고서에서 차트를 보면서 차트의 그룹화를 클릭했을 때 해당 그룹의 이름에 / 또는 \가 있는 경우, 열리는 세부 정보에 그룹의 항목이 표시되지 않고 사용자에게는 &quot;표시할 데이터 없음&quot; 메시지가 표시됩니다.
 

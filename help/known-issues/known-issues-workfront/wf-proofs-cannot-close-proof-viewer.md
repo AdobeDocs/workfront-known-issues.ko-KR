@@ -4,18 +4,20 @@ description: 사용자가 증명 뷰어에서 증명을 보고 오른쪽 상단�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
 # 증명: 증명 뷰어를 닫을 수 없음
 
+<!--
 >[!NOTE]
 >
->이 문제는 2024년 6월 20일에 해결되었습니다.
+>This issue was fixed on June 20, 2024.
+-->
 
 사용자가 증명 뷰어에서 증명을 보고 오른쪽 상단의 X를 클릭하여 증명을 닫으려고 할 때 증명이 닫히지 않습니다.
 
