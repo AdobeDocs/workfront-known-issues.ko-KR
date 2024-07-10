@@ -3,15 +3,19 @@ title: '“프로젝트: 프로젝트 일괄 편집 시 오류 발생”'
 description: “사용자가 프로젝트 일괄 편집을 시도하면 편집 창은 비어 있고 사용자에게 오류가 표시됩니다.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 
 # 프로젝트: 프로젝트 일괄 편집 시 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 7월 8일 화요일에 해결되었습니다.
 
 사용자가 프로젝트 일괄 편집을 시도하면 편집 창은 비어 있고 사용자에게 다음과 같은 오류가 표시됩니다.
 

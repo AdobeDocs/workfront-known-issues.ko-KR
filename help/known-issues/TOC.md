@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '1816'
-ht-degree: 96%
+source-wordcount: '1831'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [애자일: 하위 작업을 추가할 때 스토리 보드가 깜박임](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [사용자: 사용자 프로필 페이지가 지속적으로 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: 증명을 열 수 없음](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [홈:에서 항목을 열 수 없음 [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
