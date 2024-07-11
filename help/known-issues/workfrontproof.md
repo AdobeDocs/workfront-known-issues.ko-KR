@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 95%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Mobile: 증명을 열 수 없음](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024년 7월 9일 수요일 |
-| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 화요일 |
-| [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않음](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 화요일 |
+| [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 화요일 |
+| [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 화요일 |
 | [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [증명: 증명을 닫으면 제품 문서 페이지로 연결됨](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024년 6월 24일 |

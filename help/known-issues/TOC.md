@@ -5,7 +5,7 @@ role: User
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
 source-wordcount: '1831'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 95%
       + [애자일: 하위 작업을 추가할 때 스토리 보드가 깜박임](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [사용자: 사용자 프로필 페이지가 지속적으로 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: 증명을 열 수 없음](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [홈:에서 항목을 열 수 없음 [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
-      + [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
-      + [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않음](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
-      + [문제: 문제에 고급 할당을 수행할 때 오류 발생](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio: 사용자가 포트폴리오를 설정할 수 없음](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
-      + [Workfront: 사용자 정의 용어가 적용되지 않음](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
-      + [시간: 시간을 기록할 때 필터링된 시간 유형이 기본값이 아닙니다.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
+      + [홈: [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]의 항목을 열 수 없습니다.](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [문제: 문제에 고급 할당을 할 때 오류가 발생했습니다.](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront: 사용자 정의 용어가 적용되지 않습니다.](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [시간: 시간 로깅 시 필터링된 시간 유형이 기본값이 아닙니다.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [청구 기록: 청구 기록 추가 버튼이 누락됨](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [프로젝트: 프로젝트 일괄 편집 시 오류 발생](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
