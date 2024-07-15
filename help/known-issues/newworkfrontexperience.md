@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '912'
-ht-degree: 98%
+source-wordcount: '888'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [애자일: 하위 작업을 추가할 때 스토리 보드가 깜박임](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 10일 목요일 |
+| [애자일: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 10일 목요일 |
 | [홈: [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)의 항목을 열 수 없습니다. | 2024년 7월 8일 화요일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 화요일 |
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 화요일 |
@@ -49,13 +49,11 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [사용자: 사용자 프로필 페이지가 지속적으로 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024년 7월 10일 목요일 |
+| [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 화요일 |
+| [사용자: 사용자 프로필 페이지가 계속 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024년 7월 10일 목요일 |
 | [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 7월 9일 수요일 |
 | [포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024년 7월 8일 화요일 |
 | [Workfront: 사용자 정의 용어가 적용되지 않습니다.](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024년 7월 8일 화요일 |
-| [시간: 시간 로깅 시 필터링된 시간 유형이 기본값이 아닙니다.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024년 7월 8일 화요일 |
-| [프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 5월 29일 |
-| [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024년 5월 28일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |

@@ -4,22 +4,19 @@ description: 문제에 문서가 포함되어 있고 사용자가 해당 문제�
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # 프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 23, 2024.
+>이 문제는 2024년 6월 27일에 해결되었습니다.
 
--->
 
 문제에 문서가 포함되어 있고 사용자가 해당 문제를 프로젝트로 전환하려고 하면 전환이 실패하고 프로젝트가 생성되지 않습니다. 사용자에게 다음과 같은 오류가 표시됩니다.
 

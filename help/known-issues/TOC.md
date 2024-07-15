@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1837'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [애자일: 하위 작업을 추가할 때 스토리 보드가 깜박임](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [사용자: 사용자 프로필 페이지가 지속적으로 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: 증명을 열 수 없음](known-issues-workfront/wf-mobile-proofs-not-open.md)

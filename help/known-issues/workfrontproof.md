@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 98%
+source-wordcount: '467'
+ht-degree: 97%
 
 ---
 
@@ -43,6 +43,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 화요일 |
 | [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024년 6월 5일 |
 | [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 6월 5일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
