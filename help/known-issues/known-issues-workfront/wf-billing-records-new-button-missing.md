@@ -4,7 +4,7 @@ description: “사용자가 청구 기록 목록을 조회하고 새 기록을 
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 

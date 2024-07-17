@@ -4,7 +4,7 @@ description: "사용자가 홈 캘린더 또는 홈 작업 목록에서 작업 �
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

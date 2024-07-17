@@ -1,15 +1,15 @@
 ---
-title: '“업데이트: 태그된 사용자가 자신을 태그한 사람이 누구인지 확인할 수 없음”'
-description: “사용자가 업데이트에서 태그된 경우 누가 자신에게 태그를 지정했는지 확인할 수 없습니다. 이는 다른 회사의 직원들은 다음 위치의 사용자만 조회할 수 있음... 설정이 자신의 회사로 설정된 경우에 발생합니다.”
+title: '업데이트: 태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음'
+description: 사용자가 업데이트에서 태그된 경우 누가 자신에게 태그를 지정했는지 확인할 수 없습니다. 이 문제는 다른 회사의 사람 설정 다음에서 사용자만 봐야 함...이 회사 로 설정된 경우 발생합니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: ht
+exl-id: 35d19e35-97ef-4cd5-a792-8ec451369e7c
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
-
 
 # 업데이트: 태그된 사용자가 자신을 태그한 사람이 누구인지 확인할 수 없음
 
@@ -24,4 +24,3 @@ ht-degree: 100%
 사용자는 해당 댓글에 대한 인앱 알림을 통해 누가 자신을 태그했는지 확인할 수 있습니다.
 
 _2024년 4월 23일에 처음 보고되었습니다._
-

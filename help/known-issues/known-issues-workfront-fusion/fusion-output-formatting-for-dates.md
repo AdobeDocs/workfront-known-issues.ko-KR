@@ -1,15 +1,15 @@
 ---
-title: '“Workfront Fusion: 날짜에 대한 출력 서식”'
-description: “날짜가 문자열로 출력되는 경우, 날짜는 UTC 또는 ISO 문자열로 출력될 수 있습니다. 이는 매핑 패널 내의 논리에 따라 달라집니다.”
+title: 'Workfront Fusion: 날짜에 대한 출력 형식 지정'
+description: 날짜가 문자열로 출력되는 경우, 날짜는 UTC 또는 ISO 문자열로 출력될 수 있습니다. 이는 매핑 패널 내의 논리에 따라 다릅니다.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
-workflow-type: ht
+exl-id: e01a2260-f230-4f72-a8c6-3dae56b22ff5
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # Workfront Fusion: 날짜에 대한 출력 서식
 

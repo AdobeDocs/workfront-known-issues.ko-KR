@@ -4,7 +4,7 @@ description: "필터가 선택된 상태에서 사용자가 스토리보드에 �
 hidefromtoc: true
 feature: Agile
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 

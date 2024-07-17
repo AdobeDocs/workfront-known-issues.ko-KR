@@ -4,7 +4,7 @@ description: "사용자가 사용자 프로필 페이지를 보려고 하면 페
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 

@@ -1,15 +1,15 @@
 ---
-title: '“업데이트: 다른 곳으로 이동했다가 댓글로 돌아갈 때 텍스트가 유지되지 않음”'
-description: “사용자가 @멘션이 포함된 댓글을 작성한 후 제출하기 전에 댓글에서 다른 곳으로 이동했다가 다시 돌아오면 @멘션 뒤에 입력된 모든 텍스트가 댓글 초안에서 누락됩니다.”
+title: '업데이트: 다른 곳으로 이동한 후 댓글로 돌아갈 때 텍스트가 유지되지 않음'
+description: 사용자가 @멘션이 포함된 댓글을 작성한 후 제출하기 전에 댓글에서 다른 곳으로 이동했다가 다시 돌아오면 @멘션 뒤에 입력된 모든 텍스트가 댓글 초안에서 누락됩니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
-workflow-type: ht
+exl-id: 7e9e85ae-fb7d-409e-8c5b-ede8c12bd159
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
-
 
 # 업데이트: 다른 곳으로 이동했다가 댓글로 돌아갈 때 텍스트가 유지되지 않음
 
@@ -22,4 +22,3 @@ ht-degree: 100%
 이는 새로운 댓글 환경에서 보고되었습니다.
 
 _2024년 3월 21일에 처음 보고되었습니다._
-

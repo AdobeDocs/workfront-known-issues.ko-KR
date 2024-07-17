@@ -5,7 +5,7 @@ keywords: 새 파일, 파일 추가
 exl-id: 480d4f21-ba17-4580-b2d8-0390fde17956
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -18,7 +18,6 @@ ht-degree: 100%
 >* 이 문제는 문제가 아니므로 종결되었습니다.
 >
 >* 이 문제는 미리보기 샌드박스 환경에만 적용됩니다.
-
 
 사용자가 증명을 만들 때 증명이 “[!UICONTROL 증명 생성 중]”으로 표시됩니다. 이 작업은 몇 시간 동안 계속될 수 있습니다. “[!UICONTROL 증명 생성 중]”이 표시되는 동안 사용자가 증명을 열려고 하면 증명이 열리지 않습니다. 증명이 생성되었지만 액세스할 수 없습니다.
 

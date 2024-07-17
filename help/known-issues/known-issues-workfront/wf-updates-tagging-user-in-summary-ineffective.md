@@ -1,15 +1,15 @@
 ---
-title: '“업데이트: 요약 패널에서 @을 사용하여 사용자를 태그하면 아무 반응이 없음”'
-description: “사용자가 요약 패널의 업데이트 영역에서 @을 사용하여 다른 사용자를 태그하려고 할 때 드롭다운에서 사용자 이름을 클릭하면 아무 반응이 없습니다. 사용자를 다시 태그하면 예상대로 동작합니다.”
+title: '업데이트: 요약 패널에서 @으로 사용자에 태그를 지정하는 것은 효과적이지 않음'
+description: 사용자가 요약 패널의 업데이트 영역에서 @을 사용하여 다른 사용자를 태그하려고 할 때 드롭다운에서 사용자 이름을 클릭하면 아무 반응이 없습니다. 사용자를 다시 태그하면 예상대로 동작합니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
+exl-id: bf802503-0c05-48fb-ab5c-6965740c6333
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
-
 
 # 업데이트: 요약 패널에서 @을 사용하여 사용자를 태그하면 아무 반응이 없음
 
@@ -28,5 +28,3 @@ ht-degree: 100%
 Enter/Return 키를 사용하여 사용자를 선택합니다.
 
 _2024년 3월 18일에 처음 보고되었습니다._
-
-

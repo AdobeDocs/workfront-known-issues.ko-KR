@@ -4,7 +4,7 @@ description: "Workfront Mobile 앱에서 사용자가 증명을 열려고 할 �
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

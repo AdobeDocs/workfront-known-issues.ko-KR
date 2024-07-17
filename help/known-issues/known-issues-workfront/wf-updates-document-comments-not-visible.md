@@ -1,15 +1,15 @@
 ---
-title: '“업데이트: 문서 댓글이 상위 오브젝트 업데이트에 표시되지 않음”'
-description: “사용자가 문서에 댓글을 달면 해당 댓글이 문서 ​​상위 오브젝트의 업데이트 영역에 즉시 나타나지 않습니다.”
+title: '업데이트: 문서 주석이 상위 개체의 업데이트에 표시되지 않음'
+description: 사용자가 문서에 댓글을 달면 해당 댓글이 문서 ​​상위 오브젝트의 업데이트 영역에 즉시 나타나지 않습니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+exl-id: a49b13cf-eddc-4cca-8c5a-2bda1cb1cc5e
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
-
 
 # 업데이트: 문서 댓글이 상위 오브젝트 업데이트에 표시되지 않음
 

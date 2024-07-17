@@ -1,15 +1,15 @@
 ---
-title: '“Workfront Proof: API 또는 Workfront Fusion을 통해 Workfront Proof에 액세스할 때 500 오류 발생”'
-description: “사용자가 Proof API getAllProofs 작업에 액세스하면 Workfront Proof 서버에서 “500 내부 서버 오류” 메시지가 반환됨”
+title: "Workfront Proof: API 또는 Workfront Fusion을 통해 Workfront Proof에 액세스할 때 500 오류 발생"
+description: "사용자가 Proof API getAllProof 작업에 액세스하면 Workfront Proof 서버가 500 내부 서버 오류 메시지를 반환합니다."
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
-
 
 # [!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]을 통해 [!DNL Workfront Proof]에 액세스할 때 500 오류 발생
 
@@ -26,4 +26,3 @@ ht-degree: 100%
 [!DNL Workfront Fusion]은 [!DNL Workfront Proof] 모듈용 [!DNL Workfront Proof] API를 사용하기 때문에 이 오류가 모듈에 반환되어 시나리오가 중단될 수 있습니다.
 
 _2023년 4월 28일에 처음 보고되었습니다._
-

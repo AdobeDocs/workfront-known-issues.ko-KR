@@ -4,7 +4,7 @@ description: “사용자가 문서가 첨부된 오브젝트를 볼 때 왼쪽 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
