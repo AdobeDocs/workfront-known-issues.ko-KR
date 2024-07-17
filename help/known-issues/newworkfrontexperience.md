@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '888'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [애자일: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 10일 목요일 |
+| [Agile: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 10일 목요일 |
 | [홈: [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)의 항목을 열 수 없습니다. | 2024년 7월 8일 화요일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 화요일 |
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 화요일 |

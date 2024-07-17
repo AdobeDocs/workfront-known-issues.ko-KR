@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md)
-      + [애자일: 하위 작업을 추가할 때 스토리 보드가 깜박임](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [사용자: 사용자 프로필 페이지가 지속적으로 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [Agile: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [사용자: 사용자 프로필 페이지가 계속 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: 증명을 열 수 없음](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [홈: [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]의 항목을 열 수 없습니다.](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
-      + [문제: 문제에 고급 할당을 할 때 오류가 발생했습니다.](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [문제: 문제에 고급 할당을 할 때 오류 발생](known-issues-workfront/wf-issues-error-when-making-assignment.md)
       + [포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: 사용자 정의 용어가 적용되지 않습니다.](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
       + [시간: 시간 로깅 시 필터링된 시간 유형이 기본값이 아닙니다.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)

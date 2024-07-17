@@ -1,5 +1,5 @@
 ---
-title: "문제: 문제에 고급 할당을 할 때 오류가 발생했습니다."
+title: "문제: 문제에 고급 할당을 할 때 오류 발생"
 description: "사용자가 Workfront에서 문제에 대한 고급 할당을 시도하면 문제가 할당되지 않고 사용자에게 오류 메시지가 표시됩니다."
 hidefromtoc: true
 feature: Work Management
