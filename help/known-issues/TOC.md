@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '1837'
-ht-degree: 99%
+source-wordcount: '1864'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [사용자 정의 양식: 여러 값을 선택하면 드롭다운이 닫힘](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [보드: 보드를 로드할 때 오류 발생](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [증명: 승인된 증명이 보고서에 표시됨](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [사용자: 사용자 프로필 페이지가 계속 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md)

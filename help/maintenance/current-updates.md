@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 99%
+source-wordcount: '4535'
+ht-degree: 98%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 99%
 
 
 
-+++**(예정) 2024년 7월 18일 금요일 유지 보수 업데이트**
++++**2024년 7월 18일 금요일 유지 보수 업데이트**
 
-### (예정) 2024년 7월 18일 금요일 유지 보수 업데이트
+### 2024년 7월 18일 금요일 유지 보수 업데이트
 
 #### 애자일
 
@@ -39,6 +39,10 @@ ht-degree: 99%
 **[!UICONTROL 홈 일정] 또는 [!UICONTROL 작업 목록]**&#x200B;에서 항목을 열 수 없습니다.
 
 사용자가 [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 홈 작업 목록]에서 작업 항목이나 증명을 열려고 하면 해당 항목이 열리지 않습니다.
+
+**다른 사용자로 로그인하면 관리자의 집이 표시됩니다**
+
+관리자가 다른 사용자로 로그인하여 해당 사용자의 홈을 보면 관리자의 홈이 표시됩니다.
 
 #### 증명
 
