@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '4535'
-ht-degree: 99%
+source-wordcount: '4620'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,28 @@ ht-degree: 99%
 ## 2024년 7월 업데이트
 
 
+
++++**2024년 7월 18일 금요일 유지 보수 업데이트**
+
+### 2024년 7월 18일 금요일 유지 보수 업데이트
+
+#### 사용자 정의 양식
+
+여러 값을 선택할 때 **드롭다운이 닫힘**
+
+사용자가 사용자 정의 양식 필드에서 여러 값을 선택하려고 하면 첫 번째 값을 선택한 후 드롭다운이 닫힙니다.
+
+이 문제는 필드가 사용자 정의 양식의 표시 논리와 연결될 때 발생합니다.
+
+#### 알림
+
+**전자 메일 알림에 썸네일이 표시되지 않음**
+
+사용자가 문서 승인에 관한 이메일 알림을 볼 때 문서 썸네일이 이메일에 표시되지 않습니다.
+
+이 문제가 Gmail에서 보고되었습니다.
+
++++
 
 +++**2024년 7월 18일 금요일 유지 보수 업데이트**
 

@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '861'
 ht-degree: 96%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 23일 |
 | [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 7월 18일 금요일 |
 | [보드: 보드를 로드할 때 오류 발생](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 7월 18일 금요일 |
 | [증명: 승인된 증명이 보고서에 표시됨](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2024년 7월 18일 금요일 |
