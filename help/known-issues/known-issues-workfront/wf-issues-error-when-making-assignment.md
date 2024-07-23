@@ -4,7 +4,7 @@ description: "사용자가 Workfront에서 문제에 대한 고급 할당을 시
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 

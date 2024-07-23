@@ -4,7 +4,7 @@ description: "사용자가 시간을 로깅할 때 미리 선택된 시간 유�
 hidefromtoc: true
 feature: Timesheets, Work Management
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 7월 9일 수요일에 해결되었습니다.
+>이 문제는 2024년 7월 9일에 해결되었습니다.
 
 사용자가 시간을 로깅할 때 미리 선택된 시간 유형은 해당 프로젝트에 대해 필터링된 시간 유형 대신 &#39;[!UICONTROL 작업 시간]&#39;입니다.
 

@@ -4,9 +4,9 @@ description: “사용자가 Google Drive에서 폴더를 Workfront에 연결해
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 source-git-commit: 970a15011b8ff327306a7603f9edb32400d987b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,6 +17,6 @@ ht-degree: 95%
 
 **해결 방법**
 
-Google 연결을 다시 인증합니다.
+Google 연결을 다시 인증하십시오.
 
 _2024년 6월 1일에 처음 보고되었습니다._
