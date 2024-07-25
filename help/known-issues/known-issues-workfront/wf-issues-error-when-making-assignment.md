@@ -1,17 +1,21 @@
 ---
-title: "문제: 문제에 고급 할당을 할 때 오류 발생"
-description: "사용자가 Workfront에서 문제에 대한 고급 할당을 시도하면 문제가 할당되지 않고 사용자에게 오류 메시지가 표시됩니다."
+title: '문제: 문제에 대한 고급 할당을 수행할 때 오류 발생'
+description: 사용자가 Workfront에서 문제에 고급 할당을 하려고 할 때 문제가 할당되지 않고 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+exl-id: d2064462-9e63-4eaf-bb01-4fa6b0f4205f
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 60%
 
 ---
 
+# 문제: 문제에 고급 할당을 할 때 오류 발생
 
-# 문제: 문제에 고급 할당을 할 때 오류가 발생했습니다.
+>[!NOTE]
+>
+>이 문제는 2024년 7월 25일 금요일에 해결되었습니다.
 
 사용자가 Workfront에서 문제에 대한 고급 할당을 시도하면 문제가 할당되지 않고 사용자에게 다음의 오류 메시지가 표시됩니다.
 

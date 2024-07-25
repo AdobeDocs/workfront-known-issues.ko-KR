@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 93%
+source-wordcount: '857'
+ht-degree: 92%
 
 ---
 
@@ -27,12 +27,9 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 증명을 열면 여러 복사본이 열립니다](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 금요일 |
 | [다음으로 로그인: &quot;다음으로 로그인&quot;에서 로그아웃할 때 홈 및 고정 항목이 잘못 표시됨](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 2024년 7월 25일 금요일 |
-| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 23일 |
 | [보드: 보드를 로드할 때 오류 발생](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 7월 18일 금요일 |
-| [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 |
 | [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
-| [통합: [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)에서 문서의 새 버전을 추가할 수 없음 | 2024년 6월 24일 |
 | [보드: [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) 기능을 사용할 때 보드가 사용자로 표시되지 않음 | 2024년 6월 21일 |
 | [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
 | [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
@@ -46,6 +43,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 25일 |
 | [업데이트: 사용자에게 지정된 업데이트에 대한 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024년 7월 25일 금요일 |
 | [작업: 작업에 상속된 권한이 없습니다](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 2024년 7월 25일 금요일 |
 | [액세스 수준: 설정 영역의 중복 액세스 수준](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 금요일 |
