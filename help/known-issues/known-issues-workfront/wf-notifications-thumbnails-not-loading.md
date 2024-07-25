@@ -1,17 +1,21 @@
 ---
-title: "알림: 이메일 알림에 썸네일이 표시되지 않습니다."
-description: "사용자가 문서 승인에 관한 이메일 알림을 볼 때 문서 썸네일이 이메일에 표시되지 않습니다."
+title: '알림: 이메일 알림에 썸네일이 표시되지 않음'
+description: 사용자가 문서 승인에 관한 이메일 알림을 볼 때 문서 썸네일이 이메일에 표시되지 않습니다.
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
+source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 90%
 
 ---
 
-
 # 알림: 이메일 알림에 썸네일이 표시되지 않습니다.
+
+>[!NOTE]
+>
+>이 문제는 2024년 7월 25일 금요일에 해결되었습니다.
 
 사용자가 문서 승인에 관한 이메일 알림을 볼 때 문서 썸네일이 이메일에 표시되지 않습니다.
 

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 97%
+source-wordcount: '873'
+ht-degree: 93%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명을 열면 여러 복사본이 열립니다](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 금요일 |
+| [다음으로 로그인: &quot;다음으로 로그인&quot;에서 로그아웃할 때 홈 및 고정 항목이 잘못 표시됨](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 2024년 7월 25일 금요일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 23일 |
-| [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024년 7월 18일 금요일 |
 | [보드: 보드를 로드할 때 오류 발생](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 7월 18일 금요일 |
 | [문서: 문서 개수가 정확하지 않음](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024년 6월 28일 |
 | [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 |
@@ -45,12 +46,12 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [업데이트: 사용자에게 지정된 업데이트에 대한 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024년 7월 25일 금요일 |
+| [작업: 작업에 상속된 권한이 없습니다](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 2024년 7월 25일 금요일 |
+| [액세스 수준: 설정 영역의 중복 액세스 수준](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 금요일 |
 | [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024년 7월 18일 금요일 |
-| [사용자 정의 양식: 여러 값을 선택할 때 드롭다운이 닫힘](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | 2024년 7월 18일 금요일 |
-| [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 18일 금요일 |
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 18일 금요일 |
 | [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 |
-| [포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024년 7월 8일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |

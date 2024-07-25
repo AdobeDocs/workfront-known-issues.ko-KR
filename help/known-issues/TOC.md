@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '1864'
-ht-degree: 98%
+source-wordcount: '1908'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 사용자에게 지정 업데이트에 대한 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [증명: 증명을 열면 여러 개의 사본이 열립니다](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [다음으로 로그인: &quot;다음으로 로그인&quot;에서 로그아웃할 때 홈 및 핀이 잘못 표시됨](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [작업: 작업에 상속된 권한이 없습니다.](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [액세스 수준: 설정 영역의 중복 액세스 수준](known-issues-workfront/wf-access-duplicate-level.md)
       + [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [사용자 정의 양식: 여러 값을 선택하면 드롭다운이 닫힘](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [보드: 보드를 로드할 때 오류 발생](known-issues-workfront/wf-boards-error-when-loading-board.md)

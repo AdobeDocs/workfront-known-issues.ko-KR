@@ -1,17 +1,21 @@
 ---
-title: "포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다."
-description: "포트폴리오에 대한 액세스 권한이 없는 경우, 사용자가 프로젝트의 포트폴리오를 변경할 수 없습니다."
+title: 'Portfolio: 사용자가 포트폴리오를 설정할 수 없음'
+description: 포트폴리오에 대한 액세스 권한이 없는 경우, 사용자가 프로젝트의 포트폴리오를 변경할 수 없습니다.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
-
 # 포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다.
+
+>[!NOTE]
+>
+>이 문제는 설계대로 작동하는 것이므로 종결되었습니다.
 
 포트폴리오에 대한 액세스 권한이 없는 경우, 사용자가 프로젝트의 포트폴리오를 변경할 수 없습니다.
 
