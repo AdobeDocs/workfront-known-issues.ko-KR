@@ -3,7 +3,7 @@ title: "증명: 증명을 열면 여러 복사본이 열림"
 description: '"사용자가 증명을 열 때 동일한 증명으로 두 개의 브라우저 탭이 열립니다. ”'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 8%
