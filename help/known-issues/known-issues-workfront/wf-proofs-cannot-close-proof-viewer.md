@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 7월 18일 금요일에 해결되었습니다.
+>이 문제는 2024년 7월 18일에 해결되었습니다.
 
 사용자가 증명 뷰어에서 증명을 보고 오른쪽 상단의 X를 클릭하여 증명을 닫으려고 할 때 증명이 닫히지 않습니다.
 

@@ -5,7 +5,7 @@ keywords: 새 파일, 파일 추가
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
 source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 

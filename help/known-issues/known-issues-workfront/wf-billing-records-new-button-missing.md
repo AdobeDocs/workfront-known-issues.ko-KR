@@ -1,21 +1,21 @@
 ---
 title: '“청구 기록: 청구 기록 추가 버튼이 누락됨”'
-description: “사용자가 청구 기록 목록을 조회하고 새 기록을 추가하려고 하면 페이지 상단에 새 청구 기록 추가 버튼이 표시되지 않습니다.”
+description: 사용자가 청구 기록 목록을 조회하고 새 기록을 추가하려고 하면 페이지 상단에 새 청구 기록 추가 버튼이 표시되지 않습니다.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
-workflow-type: tm+mt
+exl-id: 131ac94b-af89-4e41-acba-e8eeacd290af
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
 ---
 
-
 # 청구 기록: 청구 기록 추가 버튼이 누락됨
 
 >[!NOTE]
 >
->이 문제는 2024년 7월 18일 금요일에 해결되었습니다.
+>이 문제는 2024년 7월 18일에 해결되었습니다.
 
 사용자가 청구 기록 목록을 조회하고 새 기록을 추가하려고 하면 페이지 상단에 새 청구 기록 추가 버튼이 표시되지 않습니다.
 
