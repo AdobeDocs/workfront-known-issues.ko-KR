@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
+source-git-commit: ee8a402825303927035fea84fd52751c26a46189
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '853'
 ht-degree: 96%
 
 ---
@@ -43,6 +43,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 29일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 25일 |
 | [업데이트: 사용자에게 지정된 업데이트에 대한 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024년 7월 25일 금요일 |
 | [액세스 수준: 설정 영역의 중복 액세스 수준](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 금요일 |
