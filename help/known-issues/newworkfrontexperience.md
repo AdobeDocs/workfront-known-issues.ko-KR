@@ -27,7 +27,7 @@ ht-degree: 96%
 | -----------------------------------------------------------------| ----------------- |
 | [증명: 증명을 열면 여러 복사본이 열립니다](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 금요일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 23일 |
-| [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 7월 18일 금요일 |
+| [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 7월 18일 |
 | [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [보드: [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) 기능을 사용할 때 보드가 사용자로 표시되지 않음 | 2024년 6월 21일 |
@@ -47,8 +47,8 @@ ht-degree: 96%
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 25일 |
 | [업데이트: 사용자에게 지정된 업데이트에 대한 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024년 7월 25일 금요일 |
 | [액세스 수준: 설정 영역의 중복 액세스 수준](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 금요일 |
-| [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024년 7월 18일 금요일 |
-| [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 18일 금요일 |
+| [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024년 7월 18일 |
+| [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 18일 |
 | [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
