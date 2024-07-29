@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '447'
 ht-degree: 98%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 26일 토요일 |
 | [증명: 증명을 열면 여러 복사본이 열립니다](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 금요일 |
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
