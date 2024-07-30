@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
+source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
-source-wordcount: '4620'
+source-wordcount: '4751'
 ht-degree: 99%
 
 ---
@@ -20,9 +20,34 @@ ht-degree: 99%
 
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
+## 2024년 8월 업데이트
+
++++**(예정) 2024년 8월 1일 금요일 유지 보수 업데이트**
+
+### (예정) 2024년 8월 1일 금요일 유지 보수 업데이트
+
+#### 문서
+
+**문서 목록에 대한 보기를 만들 수 없음**
+
+사용자가 문서 목록에서 새 보기를 만들려고 하면 빈 화면으로 바뀌며 사용자가 보기를 만들 수 없게 됩니다.
+
+기존 보기는 예상대로 작동합니다.
+
+#### 통합
+
+**Dropbox 통합 문제**
+
+Dropbox 통합과 관련하여 다음과 같은 문제가 보고되었습니다.
+
+* 사용자가 Dropbox 파일 선택기에서 파일을 검색하려고 할 때 인증 오류 메시지가 표시되며 파일 선택기로 Dropbox에서 파일을 검색할 수 없습니다.
+* 사용자가 링크된 폴더를 열려고 할 때 해당 파일이나 폴더가 Dropbox에 더 이상 존재하지 않는다는 오류 메시지가 표시됩니다.
+
+해당 문제는 Workfront가 아닌 Dropbox의 문제로 인해 발생합니다.
+
++++
+
 ## 2024년 7월 업데이트
-
-
 
 +++**2024년 7월 25일 금요일 유지 보수 업데이트**
 
