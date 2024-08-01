@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
+source-git-commit: 75df57618eed9609381f64ef56e2bc89162d1542
 workflow-type: tm+mt
-source-wordcount: '4751'
+source-wordcount: '4655'
 ht-degree: 99%
 
 ---
@@ -26,36 +26,42 @@ ht-degree: 99%
 
 ### (예정) 2024년 8월 1일 금요일 유지 보수 업데이트
 
-#### 문서
+이번 업데이트에는 사소하거나 부수적인 버그 수정만 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
 
-**문서 목록에 대한 보기를 만들 수 없음**
+<!--
 
-사용자가 문서 목록에서 새 보기를 만들려고 하면 빈 화면으로 바뀌며 사용자가 보기를 만들 수 없게 됩니다.
+#### Documents
 
-기존 보기는 예상대로 작동합니다.
+**Cannot create view for Documents list**
 
-#### 통합
+When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. 
 
-**Dropbox 통합 문제**
+Existing views work as expected.
 
-Dropbox 통합과 관련하여 다음과 같은 문제가 보고되었습니다.
+#### Integrations
 
-* 사용자가 Dropbox 파일 선택기에서 파일을 검색하려고 할 때 인증 오류 메시지가 표시되며 파일 선택기로 Dropbox에서 파일을 검색할 수 없습니다.
-* 사용자가 링크된 폴더를 열려고 할 때 해당 파일이나 폴더가 Dropbox에 더 이상 존재하지 않는다는 오류 메시지가 표시됩니다.
+**Issues with Dropbox integration**
 
-해당 문제는 Workfront가 아닌 Dropbox의 문제로 인해 발생합니다.
+The following issues have been reported regarding the Dropbox integration:
+
+* When a user attempts to search for a file in the Dropbox file selector, they see an authorization error message, and the file selector does not retrieve the file from Dropbox.
+* When a user attempts to open a linked folder, the user sees an error stating that the files or folder no longer exist in Dropbox.
+
+These issues are due to issues with Dropbox, not Workfront.
+
+-->
 
 +++
 
 ## 2024년 7월 업데이트
 
-+++**2024년 7월 25일 금요일 유지 보수 업데이트**
++++**2024년 7월 25일 유지 보수 업데이트**
 
-### 2024년 7월 25일 금요일 유지 보수 업데이트
+### 2024년 7월 25일 유지 보수 업데이트
 
 #### 사용자 정의 양식
 
-여러 값을 선택할 때 **드롭다운이 닫힘**
+**여러 값을 선택하면 드롭다운이 닫힘**
 
 사용자가 사용자 정의 양식 필드에서 여러 값을 선택하려고 하면 첫 번째 값을 선택한 후 드롭다운이 닫힙니다.
 
@@ -63,7 +69,7 @@ Dropbox 통합과 관련하여 다음과 같은 문제가 보고되었습니다.
 
 #### 알림
 
-**전자 메일 알림에 썸네일이 표시되지 않음**
+**이메일 알림에 썸네일이 표시되지 않음**
 
 사용자가 문서 승인에 관한 이메일 알림을 볼 때 문서 썸네일이 이메일에 표시되지 않습니다.
 
