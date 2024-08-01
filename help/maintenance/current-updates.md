@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 75df57618eed9609381f64ef56e2bc89162d1542
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '4655'
+source-wordcount: '4749'
 ht-degree: 99%
 
 ---
@@ -22,34 +22,28 @@ ht-degree: 99%
 
 ## 2024년 8월 업데이트
 
-+++**(예정) 2024년 8월 1일 금요일 유지 보수 업데이트**
++++**2024년 8월 1일 금요일 유지 보수 업데이트**
 
-### (예정) 2024년 8월 1일 금요일 유지 보수 업데이트
+### 2024년 8월 1일 유지 보수 업데이트
 
-이번 업데이트에는 사소하거나 부수적인 버그 수정만 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
+#### 문서
 
-<!--
+**문서 목록에 대한 보기를 만들 수 없음**
 
-#### Documents
+사용자가 문서 목록에서 새 보기를 만들려고 하면 빈 화면으로 바뀌며 사용자가 보기를 만들 수 없게 됩니다.
 
-**Cannot create view for Documents list**
+기존 보기는 예상대로 작동합니다.
 
-When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. 
+#### 통합
 
-Existing views work as expected.
+**Dropbox 통합 문제**
 
-#### Integrations
+Dropbox 통합과 관련하여 다음과 같은 문제가 보고되었습니다.
 
-**Issues with Dropbox integration**
+* 사용자가 Dropbox 파일 선택기에서 파일을 검색하려고 할 때 인증 오류 메시지가 표시되며 파일 선택기로 Dropbox에서 파일을 검색할 수 없습니다.
+* 사용자가 링크된 폴더를 열려고 할 때 해당 파일이나 폴더가 Dropbox에 더 이상 존재하지 않는다는 오류 메시지가 표시됩니다.
 
-The following issues have been reported regarding the Dropbox integration:
-
-* When a user attempts to search for a file in the Dropbox file selector, they see an authorization error message, and the file selector does not retrieve the file from Dropbox.
-* When a user attempts to open a linked folder, the user sees an error stating that the files or folder no longer exist in Dropbox.
-
-These issues are due to issues with Dropbox, not Workfront.
-
--->
+해당 문제는 Workfront가 아닌 Dropbox의 문제로 인해 발생합니다.
 
 +++
 
