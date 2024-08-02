@@ -1,22 +1,22 @@
 ---
-title: '작업: 작업에 상속된 권한이 없음'
+title: '“작업: 작업에 상속된 권한이 없음”'
 description: ''
 hidefromtoc: true
 feature: Tasks
 exl-id: 0c70cb20-863f-4953-b72a-19a27713a81c
 source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
-# 작업: 작업에 상속된 권한이 없습니다.
+# 작업: 작업에 상속된 권한이 없음
 
 >[!NOTE]
 >
->이 문제는 2024년 7월 26일 토요일에 해결되었습니다.
+>이 문제는 2024년 7월 26일에 해결되었습니다.
 
-작업에 대한 권한이 상속되어야 하는 사용자에게는 이러한 권한이 없습니다.
+작업에 대한 권한을 상속받아야 할 사용자에게 해당 권한이 없습니다.
 
-_2024년 7월 19일 토요일에 처음 보고되었습니다._
+_2024년 7월 19일에 처음 보고되었습니다._

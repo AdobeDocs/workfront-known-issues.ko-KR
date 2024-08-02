@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1908'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [업데이트: 사용자에게 지정 업데이트에 대한 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md)
-      + [증명: 증명을 열면 여러 개의 사본이 열립니다](known-issues-workfront/wf-proofs-two-proofs-open.md)
-      + [다음으로 로그인: &quot;다음으로 로그인&quot;에서 로그아웃할 때 홈 및 핀이 잘못 표시됨](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
-      + [작업: 작업에 상속된 권한이 없습니다.](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
-      + [액세스 수준: 설정 영역의 중복 액세스 수준](known-issues-workfront/wf-access-duplicate-level.md)
+      + [업데이트: 지정된 업데이트에 대해 사용자에게 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [증명: 증명을 열면 여러 사본이 열림](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [다음으로 로그인: [다음으로 로그인]에서 로그아웃할 때 홈 및 핀이 부정확하게 표시됨](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [작업: 작업에 상속된 권한이 없음](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [액세스 수준: 설정 영역에서 액세스 수준이 중복됨](known-issues-workfront/wf-access-duplicate-level.md)
       + [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [사용자 정의 양식: 여러 값을 선택하면 드롭다운이 닫힘](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md)
@@ -31,10 +31,10 @@ ht-degree: 97%
       + [사용자: 사용자 프로필 페이지가 계속 로드됨](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: 증명을 열 수 없음](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [홈: [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]의 항목을 열 수 없습니다.](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
-      + [알림: 이메일 알림에 썸네일이 표시되지 않습니다.](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [문제: 문제에 고급 할당을 할 때 오류 발생](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다.](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [포트폴리오: 사용자가 포트폴리오를 설정할 수 없음](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: 사용자 정의 용어가 적용되지 않음](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
       + [시간: 시간 로깅 시 필터링된 시간 유형이 기본값이 아닙니다.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [청구 기록: 청구 기록 추가 버튼이 누락됨](known-issues-workfront/wf-billing-records-new-button-missing.md)

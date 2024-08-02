@@ -5,8 +5,8 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
-workflow-type: tm+mt
-source-wordcount: '152'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
