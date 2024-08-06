@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4749'
-ht-degree: 99%
+source-wordcount: '4858'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,30 @@ ht-degree: 99%
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2024년 8월 업데이트
+
++++**(예정) 2024년 8월 8일 금요일 유지 보수 업데이트**
+
+### (예정) 2024년 8월 8일 금요일 유지 보수 업데이트
+
+#### 보드
+
+**카드에 하위 작업이 포함되지 않음**
+
+사용자가 상위 작업에 대한 카드를 조회할 때 해당 상위 작업의 하위 작업이 카드에 표시되지 않습니다. 대신 카드에는 하위 작업이 0개 있다고 표시됩니다.
+
+### 보고서
+
+**보고서 배달이 지연되거나 누락됨**
+
+예약된 게재가 있는 보고서가 예상대로 배달되지 않습니다. 늦거나 아예 배송이 되지 않을 수도 있습니다.
+
+#### 설정
+
+**&quot;다음으로 로그인&quot;하면 빈 화면이 표시됩니다**
+
+관리자가 다른 사용자로 로그인할 때 해당 사용자의 계정이 표시되지 않고 빈 화면이 표시됩니다.
+
++++
 
 +++**2024년 8월 1일 금요일 유지 보수 업데이트**
 
