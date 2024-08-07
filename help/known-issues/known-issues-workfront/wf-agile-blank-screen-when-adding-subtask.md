@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
 source-git-commit: 99647a699d8a32726302cba80385cd0dcd5497ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 8월 1일 금요일에 수정되었습니다.
+>이 문제는 2024년 8월 1일에 수정되었습니다.
 
 필터가 선택된 상태에서 사용자가 스토리보드에 하위 작업을 추가하려고 할 때 화면에 아무것도 표시되지 않으며 사용자가 하위 작업을 추가할 수 없게 됩니다.
 
