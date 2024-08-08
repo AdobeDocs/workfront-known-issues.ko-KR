@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
+source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '910'
 ht-degree: 91%
 
 ---
@@ -25,12 +25,10 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [알림: 알림 환경 설정을 설정할 때 죄송합니다 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 5일 화요일 |
 | [작업: 타임라인 다시 계산 문제](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024년 8월 5일 화요일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 화요일 |
 | [증명: 증명을 열면 여러 사본이 열림](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 23일 |
-| [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 7월 18일 |
 | [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024년 6월 28일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [보드: [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) 기능을 사용할 때 보드가 사용자로 표시되지 않음 | 2024년 6월 21일 |
@@ -45,6 +43,9 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [알림: 알림 환경 설정을 설정할 때 죄송합니다 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 금요일 |
+| [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 8월 8일 금요일 |
+| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 금요일 |
 | [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 5일 화요일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
 | [사용자 정의 양식: 큰 양식을 작성할 때 브라우저 충돌](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024년 8월 5일 |
