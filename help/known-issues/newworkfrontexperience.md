@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
+source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
 workflow-type: tm+mt
-source-wordcount: '934'
-ht-degree: 89%
+source-wordcount: '902'
+ht-degree: 91%
 
 ---
 
@@ -45,16 +45,13 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 5일 화요일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
-| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 7월 25일 |
 | [사용자 정의 양식: 큰 양식을 작성할 때 브라우저 충돌](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024년 8월 5일 |
-| [보고서: 보고서 배달이 지연되거나 누락되었습니다](known-issues-workfront/wf-reports-not-delivered.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 표시 논리를 입력할 때 양식 빌더가 충돌함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024년 8월 5일 |
 | [문서: 문서 이름을 클릭하면 빈 페이지로 연결됨](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 외부 조회 필드를 스크롤할 수 없음](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 잘못된 값을 표시하는 계산된 필드](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024년 8월 5일 |
-| [설정: &quot;다음으로 로그인&quot;하면 빈 화면이 표시됩니다](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 2024년 8월 5일 |
-| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024년 7월 25일 |
 | [액세스 수준: 설정 영역에서 액세스 수준이 중복됨](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 |
 | [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024년 7월 18일 |
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 18일 |

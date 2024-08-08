@@ -3,15 +3,19 @@ title: "설정: 빈 화면으로 가는 계정으로 로그인"
 description: "관리자가 다른 사용자로 로그인할 때 해당 사용자의 계정이 표시되지 않고 빈 화면이 표시됩니다."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 14%
 
 ---
 
 
 # 설정: &quot;다음으로 로그인&quot;하면 빈 화면이 표시됨
+
+>[!NOTE]
+>
+>이 문제는 2024년 8월 8일 금요일에 수정되었습니다.
 
 관리자가 다른 사용자로 로그인할 때 해당 사용자의 계정이 표시되지 않고 빈 화면이 표시됩니다.
 
