@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1991'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,16 +17,16 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [알림: 알림 환경 설정을 지정할 때 죄송합니다 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md)
-      + [사용자 정의 양식: 대형 양식을 작성할 때 브라우저 충돌](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [보고서: 보고서 게재가 지연되거나 누락되었습니다.](known-issues-workfront/wf-reports-not-delivered.md)
+      + [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [보고서: 보고서 게재가 지연 또는 누락됨](known-issues-workfront/wf-reports-not-delivered.md)
       + [작업: 타임라인 재계산 문제](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [사용자 정의 양식: 표시 논리를 입력할 때 양식 빌더가 충돌함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [문서: 문서 이름을 클릭하면 빈 페이지로 연결됨](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [사용자 정의 양식: 표시 로직을 입력할 때 양식 작성기에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [문서: 문서 이름을 클릭하면 빈 페이지로 이동함](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
       + [사용자 정의 양식: 외부 조회 필드를 스크롤할 수 없음](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
-      + [사용자 정의 양식: 잘못된 값을 표시하는 계산된 필드](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [사용자 정의 양식: 계산된 필드에 잘못된 값이 표시됨](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion: Workfront 다음으로 로그인 기능을 사용하여 연결을 인증할 수 없음](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-      + [설정: &quot;다음으로 로그인&quot;하면 빈 화면이 표시됨](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [설정: “다음으로 로그인” 기능을 사용하면 빈 화면이 표시됨](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
       + [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md)
       + [업데이트: 지정된 업데이트에 대해 사용자에게 알림이 전송되지 않음](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [증명: 증명을 열면 여러 사본이 열림](known-issues-workfront/wf-proofs-two-proofs-open.md)
