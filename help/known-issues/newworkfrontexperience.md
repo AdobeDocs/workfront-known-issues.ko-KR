@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -43,9 +43,9 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 금요일 |
-| [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 8월 8일 금요일 |
-| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 금요일 |
+| [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 |
+| [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 8월 8일 |
+| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
 | [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 5일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
 | [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024년 8월 5일 |

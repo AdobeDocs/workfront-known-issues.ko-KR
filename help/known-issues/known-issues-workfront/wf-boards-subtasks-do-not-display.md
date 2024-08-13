@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
 source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 8월 8일 금요일에 수정되었습니다.
+>이 문제는 2024년 8월 8일에 수정되었습니다.
 
 사용자가 상위 작업에 대한 카드를 조회할 때 해당 상위 작업의 하위 작업이 카드에 표시되지 않습니다. 대신 카드에는 하위 작업이 0개 있다고 표시됩니다.
 
