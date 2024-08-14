@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '1991'
-ht-degree: 100%
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+workflow-type: tm+mt
+source-wordcount: '2058'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,14 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [Workfront: 여러 브라우저 탭으로 인해 Workfront이 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [보고서: 설정의 사용자 지정 필드 영역에서 보고서를 클릭할 수 없음](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [요청: 권한이 없더라도 사용자가 상태를 변경할 수 있음](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [보드: 연결된 카드가 잘못된 열에 있음](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [사용자: 사용자에 대한 이메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [통합: Outlook에서 요청을 만들 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md)
       + [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [보고서: 보고서 게재가 지연 또는 누락됨](known-issues-workfront/wf-reports-not-delivered.md)

@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4999'
+source-wordcount: '5019'
 ht-degree: 99%
 
 ---
@@ -53,6 +53,12 @@ ht-degree: 99%
 내보낼 때 **통화 기호가 올바르지 않음**
 
 사용자가 이슈를 내보낼 때, 내보낸 내용의 통화 기호가 프로젝트나 이슈에 설정된 통화 기호와 일치하지 않습니다.
+
+#### 증명
+
+**증명 마크업이 정확하지 않습니다**
+
+증명 마크업이 증명 인쇄 기능에서 이메일을 통해 받은 PDF 인쇄물에 잘못 정렬되었습니다.
 
 
 +++
