@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 88%
 
 ---
@@ -64,7 +64,6 @@ ht-degree: 88%
 | [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 표시 로직을 입력할 때 양식 작성기에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024년 8월 5일 |
 | [문서: 문서 이름을 클릭하면 빈 페이지로 이동함](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024년 8월 5일 |
-| [사용자 정의 양식: 외부 조회 필드를 스크롤할 수 없음](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 계산된 필드에 잘못된 값이 표시됨](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024년 8월 5일 |
 | [액세스 수준: 설정 영역에서 액세스 수준이 중복됨](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 |
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 18일 |
