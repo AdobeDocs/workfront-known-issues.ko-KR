@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 93%
+source-wordcount: '1025'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront: 여러 브라우저 탭에서 Workfront이 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024년 8월 14일 목요일 |
+| [홈: &quot;액세스 권한 없음&quot;이 프로젝트 이름으로 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 금요일 |
+| [홈: &quot;메모리 부족&quot; 오류와 함께 홈 충돌이 발생합니다](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 15일 금요일 |
+| [Workfront: 여러 브라우저 탭에서 Workfront이 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 금요일 |
 | [요청: 사용자는 권한이 없더라도 상태를 변경할 수 있습니다](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024년 8월 14일 목요일 |
 | [보드: 연결된 카드가 잘못된 열에 있음](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 14일 목요일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 목요일 |
@@ -49,12 +51,15 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [문서: 미리 보기 링크가 있는 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 금요일 |
+| [사용자 정의 양식: 사용자 정의 양식의 표시 유형 전환 오류](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024년 8월 15일 금요일 |
+| [사용자 정의 양식: 필드 목록 페이지의 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024년 8월 15일 금요일 |
+| [설정: 다른 사용자로 로그아웃할 때 문제 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 금요일 |
 | [보고서: 설정의 사용자 지정 필드 영역에서 보고서를 클릭할 수 없음](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 2024년 8월 14일 목요일 |
 | [통합: Outlook에서 요청을 만들 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024년 8월 14일 목요일 |
 | [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 |
 | [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 8월 8일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
-| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 5일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
 | [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 표시 로직을 입력할 때 양식 작성기에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024년 8월 5일 |
@@ -62,7 +67,6 @@ ht-degree: 93%
 | [사용자 정의 양식: 외부 조회 필드를 스크롤할 수 없음](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 계산된 필드에 잘못된 값이 표시됨](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024년 8월 5일 |
 | [액세스 수준: 설정 영역에서 액세스 수준이 중복됨](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 |
-| [프로젝트: 내보낼 때 통화 기호가 올바르지 않음](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024년 7월 18일 |
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 18일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |

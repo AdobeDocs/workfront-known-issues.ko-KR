@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 96%
+source-wordcount: '2106'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [홈: &quot;액세스 권한 없음&quot;이 프로젝트 이름으로 표시됨](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [문서: 미리보기 링크가 있는 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [사용자 정의 양식: 사용자 정의 양식에 표시 유형 전환 오류](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [사용자 정의 양식: 필드 목록 페이지의 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [홈: &quot;메모리 부족&quot; 오류와 함께 홈 충돌](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [설정: 다른 사용자로 로그아웃할 때 문제 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront: 여러 브라우저 탭으로 인해 Workfront이 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [보고서: 설정의 사용자 지정 필드 영역에서 보고서를 클릭할 수 없음](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [요청: 권한이 없더라도 사용자가 상태를 변경할 수 있음](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
