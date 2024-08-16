@@ -3,15 +3,19 @@ title: "보드: 연결된 카드가 잘못된 열에 있음"
 description: "잘못된 열에 연결된 카드와 관련하여 문제가 보고되었습니다."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
 # 보드: 연결된 카드가 잘못된 열에 있음
+
+>[!NOTE]
+>
+>이 문제는 2024년 8월 15일 금요일에 수정되었습니다.
 
 잘못된 열에 연결된 카드와 관련하여 다음과 같은 문제가 보고되었습니다.
 

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
 workflow-type: tm+mt
-source-wordcount: '1015'
-ht-degree: 88%
+source-wordcount: '1007'
+ht-degree: 89%
 
 ---
 
@@ -29,7 +29,6 @@ ht-degree: 88%
 | [홈: &quot;메모리 부족&quot; 오류와 함께 홈 충돌이 발생합니다](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 15일 금요일 |
 | [Workfront: 여러 브라우저 탭에서 Workfront이 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 금요일 |
 | [요청: 사용자는 권한이 없더라도 상태를 변경할 수 있습니다](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024년 8월 14일 목요일 |
-| [보드: 연결된 카드가 잘못된 열에 있음](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 14일 목요일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 목요일 |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 8월 14일 목요일 |
 | [사용자: 사용자에 대한 전자 메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024년 8월 14일 목요일 |
