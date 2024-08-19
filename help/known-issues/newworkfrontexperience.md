@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '1007'
-ht-degree: 89%
+source-wordcount: '1022'
+ht-degree: 88%
 
 ---
 
@@ -50,6 +50,8 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됩니다](known-issues-workfront/wf-home-deleted-documents.md) | 2024년 8월 19일 화요일 |
+| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 19일 화요일 |
 | [문서: 미리 보기 링크가 있는 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 금요일 |
 | [사용자 정의 양식: 사용자 정의 양식의 표시 유형 전환 오류](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024년 8월 15일 금요일 |
 | [사용자 정의 양식: 필드 목록 페이지의 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024년 8월 15일 금요일 |

@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '2106'
+source-wordcount: '2113'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md)
       + [홈: &quot;액세스 권한 없음&quot;이 프로젝트 이름으로 표시됨](known-issues-workfront/wf-home-no-access-project-name.md)
       + [문서: 미리보기 링크가 있는 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [사용자 정의 양식: 사용자 정의 양식에 표시 유형 전환 오류](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
