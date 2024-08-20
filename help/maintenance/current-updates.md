@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '5017'
-ht-degree: 99%
+source-wordcount: '5093'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,18 @@ ht-degree: 99%
 2024년 이전 유지 보수 업데이트는 [이전 유지 보수 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 ## 2024년 8월 업데이트
+
++++**2024년 8월 22일 금요일 유지 보수 업데이트**
+
+### 8월 22일 유지 보수 업데이트
+
+#### 보고서
+
+**설치 프로그램의 사용자 지정 필드 영역에서 보고서를 클릭할 수 없음**
+
+사용자가 설정의 사용자 지정 Forms > 필드 영역을 볼 때 보기에 기본 보고서 필드가 포함되어 있는 경우 보고서에 대한 링크가 작동하지 않습니다. 사용자가 보고서 이름을 클릭하여 보고서로 이동할 수 있어야 하지만 보고서 이름을 클릭하면 효과가 없습니다.
+
++++
 
 +++**2024년 8월 15일 금요일 유지 보수 업데이트**
 
