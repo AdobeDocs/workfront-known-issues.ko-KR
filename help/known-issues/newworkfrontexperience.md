@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 88%
+source-wordcount: '1051'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 8월 21일 목요일 |
+| [홈: 사용자가 홈 위젯에서 열을 이동할 때 &quot;widget.list.view&quot;가 생성됨](known-issues-workfront/wf-home-widget-list-view.md) | 2024년 8월 21일 목요일 |
+| [문서: 문서 업데이트에 증명 댓글이 표시되지 않음](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024년 8월 21일 목요일 |
 | [홈: &quot;액세스 권한 없음&quot;이 프로젝트 이름으로 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 금요일 |
 | [홈: &quot;메모리 부족&quot; 오류와 함께 홈 충돌이 발생합니다](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 15일 금요일 |
 | [Workfront: 여러 브라우저 탭에서 Workfront이 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 금요일 |
