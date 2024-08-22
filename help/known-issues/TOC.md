@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 93%
+source-wordcount: '2146'
+ht-degree: 98%
 
 ---
 
@@ -17,24 +17,25 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 정의 양식: Forms의 기본값은 프로젝트 양식입니다.](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [홈: 사용자가 홈 위젯에서 열을 이동할 때 생성되는 &quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
       + [문서: 문서 업데이트에 증명 댓글이 표시되지 않음](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md)
-      + [홈: &quot;액세스 권한 없음&quot;이 프로젝트 이름으로 표시됨](known-issues-workfront/wf-home-no-access-project-name.md)
-      + [문서: 미리보기 링크가 있는 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
-      + [사용자 정의 양식: 사용자 정의 양식에 표시 유형 전환 오류](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
-      + [사용자 정의 양식: 필드 목록 페이지의 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
-      + [홈: &quot;메모리 부족&quot; 오류와 함께 홈 충돌](known-issues-workfront/wf-home-crashes-with-error.md)
-      + [설정: 다른 사용자로 로그아웃할 때 문제 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
-      + [Workfront: 여러 브라우저 탭으로 인해 Workfront이 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
-      + [보고서: 설정의 사용자 지정 필드 영역에서 보고서를 클릭할 수 없음](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [요청: 권한이 없더라도 사용자가 상태를 변경할 수 있음](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [보드: 연결된 카드가 잘못된 열에 있음](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [사용자 정의 양식: 필드 목록 페이지에서 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [설정: 다른 사용자로 로그아웃할 때 오류 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
+      + [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [보고서: 설정의 맞춤형 필드 영역에서 보고서를 클릭할 수 없음](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [요청: 사용자가 권한이 없어도 상태를 변경할 수 있음](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [사용자: 사용자에 대한 이메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md)
-      + [통합: Outlook에서 요청을 만들 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
+      + [사용자: 사용자의 이메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [통합: Outlook에서 요청을 생성할 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md)
       + [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [보고서: 보고서 게재가 지연 또는 누락됨](known-issues-workfront/wf-reports-not-delivered.md)

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '1051'
-ht-degree: 86%
+source-wordcount: '1025'
+ht-degree: 97%
 
 ---
 
@@ -26,15 +26,14 @@ ht-degree: 86%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 8월 21일 목요일 |
-| [홈: 사용자가 홈 위젯에서 열을 이동할 때 &quot;widget.list.view&quot;가 생성됨](known-issues-workfront/wf-home-widget-list-view.md) | 2024년 8월 21일 목요일 |
 | [문서: 문서 업데이트에 증명 댓글이 표시되지 않음](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024년 8월 21일 목요일 |
-| [홈: &quot;액세스 권한 없음&quot;이 프로젝트 이름으로 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 금요일 |
-| [홈: &quot;메모리 부족&quot; 오류와 함께 홈 충돌이 발생합니다](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 15일 금요일 |
-| [Workfront: 여러 브라우저 탭에서 Workfront이 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 금요일 |
-| [요청: 사용자는 권한이 없더라도 상태를 변경할 수 있습니다](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024년 8월 14일 목요일 |
-| [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 목요일 |
-| [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 8월 14일 목요일 |
-| [사용자: 사용자에 대한 전자 메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024년 8월 14일 목요일 |
+| [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
+| [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 15일 |
+| [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 |
+| [요청: 사용자가 권한이 없어도 상태를 변경할 수 있음](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024년 8월 14일 |
+| [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
+| [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 8월 14일 |
+| [사용자: 사용자의 이메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024년 8월 14일 |
 | [작업: 타임라인 재계산 문제](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024년 8월 5일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
 | [증명: 증명을 열면 여러 사본이 열림](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 |
@@ -53,14 +52,13 @@ ht-degree: 86%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됩니다](known-issues-workfront/wf-home-deleted-documents.md) | 2024년 8월 19일 화요일 |
-| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 19일 화요일 |
-| [문서: 미리 보기 링크가 있는 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 금요일 |
-| [사용자 정의 양식: 사용자 정의 양식의 표시 유형 전환 오류](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024년 8월 15일 금요일 |
-| [사용자 정의 양식: 필드 목록 페이지의 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024년 8월 15일 금요일 |
-| [설정: 다른 사용자로 로그아웃할 때 문제 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 금요일 |
-| [보고서: 설정의 사용자 지정 필드 영역에서 보고서를 클릭할 수 없음](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 2024년 8월 14일 목요일 |
-| [통합: Outlook에서 요청을 만들 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024년 8월 14일 목요일 |
+| [사용자 정의 양식: Forms의 기본값은 프로젝트 양식입니다](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024년 8월 22일 금요일 |
+| [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md) | 2024년 8월 19일 |
+| [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 19일 |
+| [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
+| [사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024년 8월 15일 |
+| [설정: 다른 사용자로 로그아웃할 때 오류 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 |
+| [통합: Outlook에서 요청을 생성할 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024년 8월 14일 |
 | [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 |
 | [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 8월 8일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
