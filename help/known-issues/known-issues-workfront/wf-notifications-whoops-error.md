@@ -4,7 +4,7 @@ description: “사용자가 알림 환경 설정을 보려고 할 때 오류 �
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 8월 15일 금요일에 수정되었습니다.
+>이 문제는 2024년 8월 15일에 수정되었습니다.
 
 사용자가 알림 환경 설정을 보려고 할 때 다음 오류 메시지가 표시됩니다.
 

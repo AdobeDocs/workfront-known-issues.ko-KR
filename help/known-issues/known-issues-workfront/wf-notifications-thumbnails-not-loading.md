@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
 source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->썸네일은 Gmail에서 지원되지 않습니다.
+>Gmail에서 썸네일이 지원되지 않습니다.
 
 사용자가 문서 승인에 관한 이메일 알림을 볼 때 문서 썸네일이 이메일에 표시되지 않습니다.
 
