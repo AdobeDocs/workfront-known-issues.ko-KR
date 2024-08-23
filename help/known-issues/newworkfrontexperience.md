@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 97%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 97%
 | [문서: 문서 업데이트에 증명 댓글이 표시되지 않음](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024년 8월 21일 목요일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
 | [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 15일 |
-| [요청: 사용자가 권한이 없어도 상태를 변경할 수 있음](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024년 8월 14일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 8월 14일 |
 | [사용자: 사용자의 이메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024년 8월 14일 |

@@ -3,15 +3,19 @@ title: '“사용자 정의 양식: 필드 목록 페이지에서 필드를 편�
 description: “사용자가 필드 목록 페이지에서 큰 필드를 추가하려고 할 때 오류와 함께 페이지에 충돌이 발생합니다. 해결 방법을 사용할 수 있습니다.”
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: ht
-source-wordcount: '107'
+source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 
 # 사용자 정의 양식: 필드 목록 페이지에서 필드를 편집할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2024년 8월 22일 금요일에 수정되었습니다.
 
 사용자가 필드 목록 페이지에서 큰 필드를 추가하려고 할 때 다음 오류와 함께 페이지에 충돌이 발생합니다.
 
