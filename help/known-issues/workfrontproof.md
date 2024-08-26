@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '467'
+source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,6 @@ ht-degree: 100%
 | [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 8일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024년 6월 14일 |
-| [알림: 문서 승인 Beta에서의 알림 형식이 올바르지 않음](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024년 4월 22일 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +46,6 @@ ht-degree: 100%
 | [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024년 6월 5일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
 | [프로젝트: 웹 증명이 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024년 3월 22일 |
-| [증명: 이메일 링크에서 증명에 액세스할 때 이동 경로가 누락됨](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023년 11월 3일 |
 
 {style="table-layout:auto"}
 
@@ -80,7 +78,6 @@ ht-degree: 100%
 | [증명: [!UICONTROL 활성 증명 단계] 필드가 비어 있음](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [[!DNL Workfront Proof]: 댓글에 사용자를 태그 지정하여 증명에 사용자를 추가할 수 없음](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022년 3월 23일 |
 | [[!UICONTROL 홈]: [!UICONTROL 증명에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021년 6월 21일 |
-| [[!DNL Workfront Proof]: 증명에 대한 자동 액세스가 지연됨](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021년 6월 14일 |
 | [[!DNL Workfront Proof]: [!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
 | [문서: 증명 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
 

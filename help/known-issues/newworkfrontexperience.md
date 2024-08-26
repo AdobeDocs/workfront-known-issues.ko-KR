@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
+source-git-commit: c4fc593215be4064e68806eec1d913cc88e55297
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1005'
 ht-degree: 97%
 
 ---
@@ -97,7 +97,6 @@ ht-degree: 97%
 | [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 언급]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023년 9월 25일 |
 | [[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023년 9월 7일 |
-| [증명: [!UICONTROL 증명 뷰어]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)에 승인 옵션이 표시되지 않음 | 2023년 10월 8일 |
 | [증명: 보고서에 증명이 승인됨으로 표시되지 않음](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023년 7월 20일 |
 | [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
