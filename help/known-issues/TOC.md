@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 2814d94459436c93607756b72cd7943a266fb676
+source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1643'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
+      + [할당: 작업을 할당할 때 휴무 아이콘이 표시되지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [사용자 정의 양식: Forms의 기본값은 프로젝트 양식입니다.](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [홈: 사용자가 홈 위젯에서 열을 이동할 때 생성되는 &quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)

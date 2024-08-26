@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c4fc593215be4064e68806eec1d913cc88e55297
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
 workflow-type: tm+mt
-source-wordcount: '1005'
-ht-degree: 97%
+source-wordcount: '1035'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 보고서 배달이 지연되거나 누락되었습니다](known-issues-workfront/wf-reports-not-delivered.md) | 2024년 8월 26일 화요일 |
+| [할당: 작업을 할당할 때 휴무 아이콘이 표시되지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024년 8월 26일 화요일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 8월 21일 목요일 |
 | [문서: 문서 업데이트에 증명 댓글이 표시되지 않음](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024년 8월 21일 목요일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
@@ -50,6 +52,8 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md) | 2024년 8월 26일 화요일 |
+| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 26일 화요일 |
 | [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 22일 금요일 |
 | [사용자 정의 양식: Forms의 기본값은 프로젝트 양식입니다](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024년 8월 22일 금요일 |
 | [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md) | 2024년 8월 19일 |
