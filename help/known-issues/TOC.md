@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
-source-wordcount: '1643'
-ht-degree: 97%
+source-wordcount: '1651'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
       + [할당: 작업을 할당할 때 휴무 아이콘이 표시되지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [사용자 정의 양식: Forms의 기본값은 프로젝트 양식입니다.](known-issues-workfront/wf-custom-forms-default-to-project.md)
@@ -211,6 +212,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Workfront 모듈에서 반환되는 RuntimeError [200] 응답](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

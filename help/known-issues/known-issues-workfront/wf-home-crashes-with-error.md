@@ -3,15 +3,19 @@ title: '“홈: 메모리 부족 오류로 인해 홈에 충돌이 발생함”'
 description: “사용자가 새 홈을 보려고 할 때 오류 메시지와 함께 사이트에 충돌이 발생합니다. 해결 방법을 사용할 수 있습니다.”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # 홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함
+
+>[!NOTE]
+>
+>제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
 
 사용자가 새 홈을 보려고 할 때 다음 오류 메시지와 함께 사이트에 충돌이 발생합니다.
 
