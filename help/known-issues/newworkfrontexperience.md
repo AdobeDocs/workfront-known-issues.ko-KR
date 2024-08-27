@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1048'
 ht-degree: 95%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 27일 수요일 |
 | [홈: 내 문제 위젯에 종료되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024년 6월 20일 |
 | [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024년 6월 12일 |
 | [증명: 증명에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024년 6월 7일 |
