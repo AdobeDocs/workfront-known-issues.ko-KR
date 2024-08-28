@@ -3,10 +3,10 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 99%
+source-wordcount: '5328'
+ht-degree: 98%
 
 ---
 
@@ -47,6 +47,14 @@ ht-degree: 99%
 **보류 중인 승인 위젯에 삭제된 문서가 표시됨**
 
 사용자가 홈에서 보류 중인 승인 위젯을 볼 때 삭제된 문서가 표시됩니다. 사용자가 이들 문서 중 하나를 클릭하면 빈 페이지로 이동됩니다.
+
+#### 사용자
+
+**사용자 프로필 전자 메일 로케일 필드가 비활성화되었습니다**
+
+IMS를 사용하는 조직의 경우 언어 환경 설정은 각 사용자의 Adobe Experience Cloud 프로필에 저장됩니다. Workfront 사용자 프로필의 이메일 로케일 필드가 비활성화되었으며(IMS 조직만 해당) 해당 필드의 도구 설명에 Adobe 프로필의 언어 설정에 액세스하는 방법에 대한 지침이 제공됩니다.
+
+관리자가 사용자에 대한 이메일 로케일 설정을 변경하려고 하면 영어로 되돌아가는 문제를 해결합니다.
 
 +++
 

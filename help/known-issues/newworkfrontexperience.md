@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 97%
+source-wordcount: '1064'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [알림: 기여자 사용자가 이메일 알림을 받지 못함](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024년 8월 28일 목요일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 화요일 |
 | [보고서: 보고서 배달이 지연되거나 누락되었습니다](known-issues-workfront/wf-reports-not-delivered.md) | 2024년 8월 26일 화요일 |
 | [할당: 작업을 할당할 때 휴무 아이콘이 표시되지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024년 8월 26일 화요일 |

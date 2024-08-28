@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 98%
+source-wordcount: '1665'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [알림: 기여자 사용자가 이메일 알림을 받지 못함](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
