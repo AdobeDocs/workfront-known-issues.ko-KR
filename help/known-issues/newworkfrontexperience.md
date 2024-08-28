@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1055'
 ht-degree: 97%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024년 8월 28일 목요일 |
 | [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md) | 2024년 8월 26일 화요일 |
 | [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 26일 화요일 |
 | [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 22일 |

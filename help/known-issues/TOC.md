@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1657'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
       + [할당: 작업을 할당할 때 휴무 아이콘이 표시되지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
