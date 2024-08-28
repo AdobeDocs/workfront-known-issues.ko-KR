@@ -5,7 +5,7 @@ role: User
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
 source-wordcount: '1651'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
       + [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
       + [할당: 작업을 할당할 때 휴무 아이콘이 표시되지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [사용자 정의 양식: Forms의 기본값은 프로젝트 양식입니다.](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [사용자 정의 양식: 양식이 기본적으로 프로젝트 양식으로 설정됨](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [홈: 사용자가 홈 위젯에서 열을 이동할 때 생성되는 &quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
+      + [홈: 사용자가 홈 위젯에서 열을 이동할 때 “widget.list.view”가 생성됨](known-issues-workfront/wf-home-widget-list-view.md)
       + [문서: 문서 업데이트에 증명 댓글이 표시되지 않음](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md)
       + [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md)
