@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1043'
 ht-degree: 96%
 
 ---
@@ -54,12 +54,12 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 29일 금요일 |
 | [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024년 8월 28일 목요일 |
 | [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md) | 2024년 8월 26일 화요일 |
 | [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 26일 화요일 |
 | [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 22일 |
 | [사용자 정의 양식: 양식이 기본적으로 프로젝트 양식으로 설정됨](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024년 8월 22일 |
-| [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md) | 2024년 8월 19일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 19일 |
 | [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
 | [사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024년 8월 15일 |
@@ -71,10 +71,8 @@ ht-degree: 96%
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
 | [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 표시 로직을 입력할 때 양식 작성기에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024년 8월 5일 |
-| [문서: 문서 이름을 클릭하면 빈 페이지로 이동함](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 계산된 필드에 잘못된 값이 표시됨](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024년 8월 5일 |
 | [액세스 수준: 설정 영역에서 액세스 수준이 중복됨](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 |
-| [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024년 7월 18일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
 | [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
