@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '1043'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 연결된 카드가 잘못된 열에 있음](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 목요일 |
 | [알림: 기여자 사용자가 이메일 알림을 받지 못함](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024년 8월 28일 목요일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 화요일 |
 | [보고서: 보고서 배달이 지연되거나 누락되었습니다](known-issues-workfront/wf-reports-not-delivered.md) | 2024년 8월 26일 화요일 |
