@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1662'
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
       + [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
-      + [할당: 작업을 할당할 때 휴무 아이콘이 표시되지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
+      + [할당: 작업 할당 시 휴무 아이콘이 나타나지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [사용자 정의 양식: 양식이 기본적으로 프로젝트 양식으로 설정됨](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [홈: 사용자가 홈 위젯에서 열을 이동할 때 “widget.list.view”가 생성됨](known-issues-workfront/wf-home-widget-list-view.md)
@@ -40,7 +40,6 @@ ht-degree: 0%
       + [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [사용자: 사용자의 이메일 로케일 설정이 저장되지 않음](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [통합: Outlook에서 요청을 생성할 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md)
       + [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
