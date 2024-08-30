@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1054'
+ht-degree: 94%
 
 ---
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [Workfront: 날짜가 잘못된 형식으로 표시됨](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 30일 토요일 |
+| [문서: 문서 이름을 클릭하면 빈 호출기로 연결됨](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 30일 토요일 |
 | [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 29일 금요일 |
 | [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024년 8월 28일 목요일 |
 | [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md) | 2024년 8월 26일 화요일 |
-| [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024년 8월 26일 화요일 |
 | [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 22일 |
 | [사용자 정의 양식: 양식이 기본적으로 프로젝트 양식으로 설정됨](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024년 8월 22일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 19일 |
-| [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
 | [사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024년 8월 15일 |
 | [설정: 다른 사용자로 로그아웃할 때 오류 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 |
 | [통합: Outlook에서 요청을 생성할 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024년 8월 14일 |

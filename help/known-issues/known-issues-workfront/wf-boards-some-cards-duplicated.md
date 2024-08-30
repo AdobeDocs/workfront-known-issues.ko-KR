@@ -4,22 +4,18 @@ description: 보드에서 카드가 중복되는 문제가 보고되었습니다
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # 보드: 카드 중복과 관련된 문제
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 15, 2024.
-
--->
+>이 문제는 2024년 8월 29일 금요일에 해결되었습니다.
 
 
 보드의 카드 중복과 관련하여 다음과 같은 문제가 보고되었습니다.

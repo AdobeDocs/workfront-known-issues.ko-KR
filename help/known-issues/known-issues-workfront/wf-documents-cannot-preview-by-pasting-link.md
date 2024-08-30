@@ -1,17 +1,21 @@
 ---
-title: '“문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음”'
-description: “사용자가 문서 미리보기를 조회할 수 없습니다.”
+title: '문서: 미리보기 링크가 있는 문서를 미리 볼 수 없음'
+description: 사용자가 문서 미리보기를 볼 수 없습니다.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 82%
 
 ---
 
-
 # 문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2024년 8월 29일 금요일에 해결되었습니다.
 
 사용자가 다음 방식을 통해 문서 미리보기를 조회할 수 없습니다.
 
