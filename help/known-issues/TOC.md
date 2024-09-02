@@ -84,7 +84,7 @@ ht-degree: 98%
       + [보드: [!UICONTROL 다음으로 로그인] 기능을 사용할 때 보드가 사용자로 표시되지 않음](known-issues-workfront/wf-boards-log-in-as.md)
       + [홈: 내 문제 위젯에 종료되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [승인: 리디렉션이 너무 많음](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
-      + [업데이트: 복사한 링크가 올바르게 붙여넣기되지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
+      + [업데이트: 복사한 링크가 올바르게 붙여넣어지지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 “표시할 데이터 없음”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
