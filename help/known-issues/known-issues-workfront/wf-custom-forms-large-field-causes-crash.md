@@ -4,7 +4,7 @@ description: “사용자가 필드 목록 페이지에서 큰 필드를 추가�
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 8월 22일 금요일에 수정되었습니다.
+>이 문제는 2024년 8월 22일에 해결되었습니다.
 
 사용자가 필드 목록 페이지에서 큰 필드를 추가하려고 할 때 다음 오류와 함께 페이지에 충돌이 발생합니다.
 

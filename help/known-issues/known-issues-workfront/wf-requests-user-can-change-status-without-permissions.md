@@ -4,9 +4,9 @@ description: “기여 액세스 권한이 있으며 문제 상태를 변경할 
 hidefromtoc: true
 feature: Requests
 source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 

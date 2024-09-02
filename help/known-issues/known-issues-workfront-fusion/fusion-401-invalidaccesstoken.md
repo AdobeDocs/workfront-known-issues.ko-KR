@@ -1,18 +1,18 @@
 ---
-title: "Workfront Fusion: 401 InvalidAccessTokenError"
-description: "시나리오에 401 InvalidAccessTokenError 오류가 발생했습니다. 이러한 오류는 간헐적입니다."
+title: '“Workfront Fusion: 401 InvalidAccessTokenError”'
+description: “시나리오에서 401 InvalidAccessTokenError 오류가 발생합니다. 이 오류는 간헐적으로 발생합니다.”
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
 # Workfront Fusion: 401 InvalidAccessTokenError
 
-시나리오에서 `401 InvalidAccessTokenError`개의 오류가 발생했습니다. 이러한 오류는 간헐적입니다.
+시나리오에서 `401 InvalidAccessTokenError` 오류가 발생합니다. 이 오류는 간헐적으로 발생합니다.
 
-_2024년 8월 1일 금요일에 처음 보고되었습니다._
+_2024년 8월 1일에 처음 보고되었습니다._

@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024년 8월 27일 수요일 |
+| [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024년 8월 27일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
 
 {style="table-layout:auto"}
