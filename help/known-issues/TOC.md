@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 98%
+source-wordcount: '1694'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [모바일: 로그아웃할 수 없고 사용자 프로필 정보가 누락되었습니다.](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않으며 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [대시보드: 보고서에서 내보내기 단추를 선택하면 페이지 맨 위로 스크롤됩니다](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: 날짜가 잘못된 형식으로 표시됨](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [알림: 기여자 사용자가 이메일 알림을 받지 못함](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
