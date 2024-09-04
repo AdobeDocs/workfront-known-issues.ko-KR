@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
-source-wordcount: '1694'
-ht-degree: 96%
+source-wordcount: '1700'
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 96%
       + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않으며 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [대시보드: 보고서에서 내보내기 단추를 선택하면 페이지 맨 위로 스크롤됩니다](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: 날짜가 잘못된 형식으로 표시됨](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [알림: 기여자 사용자가 이메일 알림을 받지 못함](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
@@ -70,7 +70,7 @@ ht-degree: 96%
       + [Workfront Mobile: 증명을 열 수 없음](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [홈: [!UICONTROL 홈 캘린더] 또는 [!UICONTROL 작업 목록]의 항목을 열 수 없습니다.](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
-      + [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않습니다.](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [사용자 정의 양식: 사용자 정의 양식이 문서에서 삭제되지 않음](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [문제: 문제에 고급 할당을 할 때 오류 발생](known-issues-workfront/wf-issues-error-when-making-assignment.md)
       + [포트폴리오: 사용자가 포트폴리오를 설정할 수 없음](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: 사용자 정의 용어가 적용되지 않음](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
@@ -217,6 +217,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [Workfront Fusion: 웹후크 큐가 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)

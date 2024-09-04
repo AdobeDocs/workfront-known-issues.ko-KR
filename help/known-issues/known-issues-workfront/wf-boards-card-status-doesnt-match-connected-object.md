@@ -3,7 +3,7 @@ title: "보드: 카드 상태가 연결된 오브젝트와 일치하지 않으�
 description: "동적 보드의 접수 열에 있는 카드에 잘못된 상태 정보가 표시되며 상태에 따라 제대로 필터링되지 않습니다."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8edc5a086ca8fe6a21469e625f1f332ca0605ab
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 5%
