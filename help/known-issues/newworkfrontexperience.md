@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1060'
+source-wordcount: '1031'
 ht-degree: 96%
 
 ---
@@ -25,17 +25,16 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 금요일 |
 | [모바일: 로그아웃할 수 없으며 사용자 프로필 정보가 없습니다](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024년 9월 3일 수요일 |
 | [보드: 카드 상태가 연결된 개체와 일치하지 않고 필터를 사용하지 않습니다](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 수요일 |
 | [대시보드: 보고서에서 내보내기 단추를 선택하면 페이지 맨 위로 스크롤됩니다](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024년 9월 3일 수요일 |
 | [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 |
-| [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024년 8월 28일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 |
 | [보고서: 보고서 게재가 지연 또는 누락됨](known-issues-workfront/wf-reports-not-delivered.md) | 2024년 8월 26일 |
 | [할당: 작업 할당 시 휴무 아이콘이 나타나지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024년 8월 26일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 8월 21일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
-| [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 15일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 8월 14일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
@@ -54,10 +53,7 @@ ht-degree: 96%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [작업: 타임라인 재계산 문제](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024년 8월 30일 |
-| [Workfront: 날짜가 잘못된 형식으로 표시됨](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 30일 |
 | [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 8월 29일 |
-| [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024년 8월 28일 |
-| [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md) | 2024년 8월 26일 |
 | [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 22일 |
 | [사용자 정의 양식: 양식이 기본적으로 프로젝트 양식으로 설정됨](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024년 8월 22일 |
 | [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 19일 |
@@ -66,7 +62,6 @@ ht-degree: 96%
 | [통합: Outlook에서 요청을 생성할 때 오류 발생](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024년 8월 14일 |
 | [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 |
 | [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 8월 8일 |
-| [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 8월 8일 |
 | [사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024년 8월 5일 |
 | [사용자 정의 양식: 표시 로직을 입력할 때 양식 작성기에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024년 8월 5일 |
@@ -142,6 +137,7 @@ ht-degree: 96%
 | [목록: 표시 이름이 사용자 정의 필드 그룹화에 적용되지 않음](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020년 11월 9일 |
 | [홈: 새로 고침 후 승인 위임 날짜가 변경되고 이메일 2개가 전송됨](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 2020년 11월 9일 |
 | [캘린더: 작업이 표시되지 않음](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020년 11월 9일 |
+| [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 9월 5일 금요일 |
 
 {style="table-layout:auto"}
 

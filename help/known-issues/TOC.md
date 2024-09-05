@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1708'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [모바일: 로그아웃할 수 없고 사용자 프로필 정보가 누락되었습니다.](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않으며 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [대시보드: 보고서에서 내보내기 단추를 선택하면 페이지 맨 위로 스크롤됩니다](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)

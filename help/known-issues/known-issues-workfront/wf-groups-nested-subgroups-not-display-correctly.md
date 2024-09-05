@@ -4,14 +4,18 @@ description: 사용자가 설정 영역에서 그룹 목록을 조회할 때 하
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: b4b032cd-e0bc-43af-bc4f-d0f8b8eb42a8
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
-workflow-type: ht
-source-wordcount: '116'
-ht-degree: 100%
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 95%
 
 ---
 
 # 그룹: 하위 그룹이 올바르게 표시되지 않음
+
+>[!NOTE]
+>
+>이 문서는 2024년 9월 5일에 수정되었습니다.
 
 사용자가 설정 영역에서 그룹 목록을 조회할 때 하위 그룹이 상위 그룹 아래에 올바르게 나열되지 않은 것을 확인할 수 있습니다. 하위 그룹은 상위 그룹 아래에 올바르게 저장되었지만 목록으로 인해 혼란이 발생할 수 있습니다.
 
