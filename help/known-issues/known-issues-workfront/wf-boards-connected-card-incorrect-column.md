@@ -1,13 +1,13 @@
 ---
-title: '보드: 연결된 카드가 잘못된 열에 있음'
-description: 잘못된 열에 연결된 카드에 대한 문제가 보고되었습니다.
+title: '“보드: 연결된 카드가 잘못된 열에 표시됨”'
+description: 잘못된 열에 있는 연결된 카드와 관련된 문제가 보고되었습니다.
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 

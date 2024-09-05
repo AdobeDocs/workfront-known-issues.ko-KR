@@ -1,13 +1,13 @@
 ---
-title: 'Workfront: SSO를 사용할 수 없음'
-description: SSO를 사용하는 Workfront 기능이 "죄송합니다" 오류를 반환합니다.
+title: '“Workfront: SSO를 사용할 수 없음”'
+description: SSO를 사용하는 Workfront 기능이 '죄송합니다' 오류를 반환합니다.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->* 이 문제는 미리보기 샌드박스 환경 및 사용자 정의 새로 고침 샌드박스 환경에서 보고되었습니다.
->* 레거시(Adobe 아님) SSO를 사용하는 조직에 대해 이 문제가 보고되었습니다.
+>* 이 문제는 미리보기 샌드박스 환경과 사용자 정의 새로 고침 샌드박스 환경에서 보고되었습니다.
+>* 이는 레거시(비 Adobe) SSO를 사용하는 조직에 대해 보고되었습니다.
 
 SSO를 사용하는 Workfront 기능이 다음과 같은 오류를 반환합니다.
 
