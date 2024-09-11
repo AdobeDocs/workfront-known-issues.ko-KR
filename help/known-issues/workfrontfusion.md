@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 웹후크 큐가 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024년 9월 4일 목요일 |
+| [Workfront Fusion: 웹후크 대기열이 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024년 9월 4일 |
 | [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024년 8월 27일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
 
