@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
 workflow-type: tm+mt
 source-wordcount: '1014'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 96%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 금요일 |
-| [모바일: 로그아웃할 수 없으며 사용자 프로필 정보가 없습니다](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024년 9월 3일 수요일 |
-| [보드: 카드 상태가 연결된 개체와 일치하지 않고 필터를 사용하지 않습니다](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 수요일 |
-| [대시보드: 보고서에서 내보내기 단추를 선택하면 페이지 맨 위로 스크롤됩니다](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024년 9월 3일 수요일 |
+| [모바일: 로그아웃 불가능 및 사용자 프로필 정보 누락](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024년 9월 3일 |
+| [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 |
+| [대시보드: 보고서에서 내보내기 버튼을 선택하면 페이지 상단으로 스크롤됩니다.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024년 9월 3일 |
 | [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 |
 | [보고서: 보고서 게재가 지연 또는 누락됨](known-issues-workfront/wf-reports-not-delivered.md) | 2024년 8월 26일 |

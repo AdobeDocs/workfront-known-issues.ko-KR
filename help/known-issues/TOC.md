@@ -5,7 +5,7 @@ role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
-      + [모바일: 로그아웃할 수 없고 사용자 프로필 정보가 누락되었습니다.](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
-      + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않으며 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
-      + [대시보드: 보고서에서 내보내기 단추를 선택하면 페이지 맨 위로 스크롤됩니다](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
+      + [모바일: 로그아웃 불가능 및 사용자 프로필 정보 누락](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [대시보드: 보고서에서 내보내기 버튼을 선택하면 페이지 상단으로 스크롤됩니다.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: 날짜가 잘못된 형식으로 표시됨](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
@@ -218,7 +218,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [Workfront Fusion: 웹후크 큐가 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
+      + [Workfront Fusion: 웹후크 대기열이 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
