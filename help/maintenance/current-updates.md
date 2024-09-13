@@ -3,9 +3,9 @@ title: Workfront 유지 보수 업데이트
 description: ' [!DNL Adobe Workfront] 유지 보수 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '5526'
+source-wordcount: '5452'
 ht-degree: 99%
 
 ---
@@ -25,20 +25,6 @@ ht-degree: 99%
 2024년에 유지 보수가 다음과 같이 업데이트되었습니다.
 
 ## 2024년 9월 업데이트
-
-+++**2024년 9월 12일 금요일 유지 보수 업데이트**
-
-### 2024년 9월 12일 유지 보수 업데이트
-
-#### 통합
-
-Outlook에서 요청을 만드는 동안 **오류 발생**
-
-사용자가 Workfront에서 Outlook 통합을 위한 요청을 생성하려고 시도하고, 첨부 파일을 추가하면 “문제가 발생했습니다. 나중에 다시 시도해 주십시오.” 라는 메시지가 표시됩니다.
-
-요청이 생성되었고, 요청에 이메일 첨부 파일 폴더가 있지만, 해당 폴더는 비어 있으며 첨부 파일이 요청에 추가되지 않습니다.
-
-+++
 
 +++**2024년 9월 5일 금요일 유지 보수 업데이트**
 

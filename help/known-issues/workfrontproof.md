@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 98%
+source-wordcount: '418'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 활성 사용자가 비활성화된 것으로 표시됨](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024년 9월 12일 금요일 |
 | [애자일: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 26일 |
 | [증명: 증명을 열면 여러 사본이 열림](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |

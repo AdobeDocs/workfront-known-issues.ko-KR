@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 3a52af7587a41db66d379dad13907baf3064a977
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '1746'
-ht-degree: 97%
+source-wordcount: '1708'
+ht-degree: 99%
 
 ---
 
@@ -17,16 +17,12 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [할당: 작업 할당이 실패하고 상속된 권한이 제거됨](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
-      + [그룹: 삭제된 그룹 상태가 다시 표시됨](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [API: SQL 오류로 인해 API 호출이 실패했습니다.](known-issues-workfront/wf-api-call-failed-sql-error.md)
-      + [애자일: 스크럼 팀을 할당할 때 반복에 추가 옵션이 두 번 나열됨](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
       + [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [모바일: 로그아웃 불가능 및 사용자 프로필 정보 누락](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [대시보드: 보고서에서 내보내기 버튼을 선택하면 페이지 상단으로 스크롤됩니다.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: 날짜가 잘못된 형식으로 표시됨](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
+      + [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [그룹: 하위 그룹이 올바르게 표시되지 않음](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [사용자: 사용자를 다시 활성화할 수 없음](known-issues-workfront/wf-users-reactivate-user.md)
@@ -197,7 +193,6 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [증명: 활성 사용자가 비활성화됨으로 표시됨](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [[!UICONTROL Workfront Proof]: 증명을 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
