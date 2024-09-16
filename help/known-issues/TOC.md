@@ -5,7 +5,7 @@ role: User
 source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
+      + [보드: 카드에서 문서를 미리보기하거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [모바일: 로그아웃 불가능 및 사용자 프로필 정보 누락](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [대시보드: 보고서에서 내보내기 버튼을 선택하면 페이지 상단으로 스크롤됩니다.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
 source-wordcount: '1014'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 금요일 |
+| [보드: 카드에서 문서를 미리보기하거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 |
 | [모바일: 로그아웃 불가능 및 사용자 프로필 정보 누락](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024년 9월 3일 |
 | [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 |
 | [대시보드: 보고서에서 내보내기 버튼을 선택하면 페이지 상단으로 스크롤됩니다.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024년 9월 3일 |
@@ -135,7 +135,7 @@ ht-degree: 99%
 | [목록: 표시 이름이 사용자 정의 필드 그룹화에 적용되지 않음](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020년 11월 9일 |
 | [홈: 새로 고침 후 승인 위임 날짜가 변경되고 이메일 2개가 전송됨](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 2020년 11월 9일 |
 | [캘린더: 작업이 표시되지 않음](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020년 11월 9일 |
-| [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 9월 5일 금요일 |
+| [홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md) | 2024년 9월 5일 |
 
 {style="table-layout:auto"}
 

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
 source-wordcount: '5452'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 99%
 
 ## 2024년 9월 업데이트
 
-+++**2024년 9월 5일 금요일 유지 보수 업데이트**
++++**2024년 9월 5일 유지 보수 업데이트**
 
 ### 2024년 9월 5일 유지 보수 업데이트
 
