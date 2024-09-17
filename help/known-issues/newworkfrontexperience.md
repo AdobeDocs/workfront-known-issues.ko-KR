@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e8dde28f6cc4e646e55eb2263211af5e7ce86df
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 96%
+source-wordcount: '1026'
+ht-degree: 97%
 
 ---
 
@@ -25,18 +25,15 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: SQL 오류로 인해 API 호출이 실패했습니다](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024년 9월 12일 금요일 |
 | [애자일: 스크럼 팀을 할당할 때 반복에 추가 옵션이 두 번 나열됨](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024년 9월 12일 금요일 |
 | [증명: 활성 사용자가 비활성화된 것으로 표시됨](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024년 9월 12일 금요일 |
 | [보드: 카드에서 문서를 미리보기하거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 |
 | [모바일: 로그아웃 불가능 및 사용자 프로필 정보 누락](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024년 9월 3일 |
-| [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 |
 | [대시보드: 보고서에서 내보내기 버튼을 선택하면 페이지 상단으로 스크롤됩니다.](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024년 9월 3일 |
 | [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 |
 | [보고서: 보고서 게재가 지연 또는 누락됨](known-issues-workfront/wf-reports-not-delivered.md) | 2024년 8월 26일 |
 | [할당: 작업 할당 시 휴무 아이콘이 나타나지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024년 8월 26일 |
-| [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 8월 21일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 8월 14일 |
