@@ -4,14 +4,18 @@ description: 사용자가 Workfront에서 Outlook 통합을 위한 요청을 생
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 89%
+source-wordcount: '113'
+ht-degree: 90%
 
 ---
 
 # 통합: Outlook에서 요청을 생성할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 9월 12일 금요일에 수정되었습니다.
 
 사용자가 Workfront에서 Outlook 통합을 위한 요청을 생성하려고 시도하고, 첨부 파일을 추가하면 “문제가 발생했습니다. 나중에 다시 시도해 주십시오.” 라는 메시지가 표시됩니다.
 

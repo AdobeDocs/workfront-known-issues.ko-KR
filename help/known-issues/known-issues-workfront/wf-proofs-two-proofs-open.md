@@ -4,14 +4,18 @@ description: “사용자가 증명을 열면 동일한 증명이 포함된 두 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
-source-git-commit: cbb43c65b38fcfecfa5a7b49216266581945b7c5
-workflow-type: ht
-source-wordcount: '60'
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
 # 증명: 증명을 열면 여러 사본이 열림
+
+>[!NOTE]
+>
+>이 문제는 2024년 9월 10일 수요일에 수정되었습니다.
 
 사용자가 증명을 열면, 동일한 증명이 포함된 두 개의 브라우저 탭이 열립니다.
 
