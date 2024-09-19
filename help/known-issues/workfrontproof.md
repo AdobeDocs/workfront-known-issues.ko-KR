@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 100%
+source-wordcount: '432'
+ht-degree: 96%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Proof: Desktop Proofing Viewer의 업데이트 섹션에 콘텐츠가 잘못 붙여넣습니다](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | 2024년 9월 19일 금요일 |
 | [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 |

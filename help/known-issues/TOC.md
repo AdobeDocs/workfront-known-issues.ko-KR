@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1746'
-ht-degree: 97%
+source-wordcount: '1774'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 긴 Report Builder 로드 시간](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [할당: 작업 할당이 실패하고 상속된 권한이 제거됨](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [그룹: 삭제된 그룹 상태가 다시 표시됨](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API: SQL 오류로 인해 API 호출이 실패했습니다.](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -198,6 +200,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+      + [Workfront Proof: Desktop Proofing Viewer의 업데이트 섹션에 콘텐츠가 잘못 붙여넣기](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: 증명을 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
