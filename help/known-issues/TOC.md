@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: b0e11b04a2c76db4ca0f1f1c555a83fc068d8eeb
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '1792'
-ht-degree: 95%
+source-wordcount: '1804'
+ht-degree: 98%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 95%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [보드: 카드를 이동하거나 사용자를 할당할 때 오류 발생](known-issues-workfront/wf-boards-error-moving-cards.md)
-      + [보고서: 긴 Report Builder 로드 시간](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [할당: 작업 할당이 실패하고 상속된 권한이 제거됨](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
-      + [그룹: 삭제된 그룹 상태가 다시 표시됨](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [API: SQL 오류로 인해 API 호출이 실패했습니다.](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
-      + [애자일: 스크럼 팀을 할당할 때 반복에 추가 옵션이 두 번 나열됨](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
-      + [증명: 활성 사용자가 비활성화됨으로 표시됨](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
+      + [그룹: 삭제된 그룹 상태가 다시 나타남](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API: SQL 오류로 인해 API 호출 실패](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [애자일: 스크럼 팀 할당 시 반복에 추가 옵션이 두 번 나열됨](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [증명: 활성 사용자가 비활성화된 것으로 나타남](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [보드: 카드에서 문서를 미리보기하거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [모바일: 로그아웃 불가능 및 사용자 프로필 정보 누락](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
@@ -201,7 +201,7 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [Workfront Proof: Desktop Proofing Viewer의 업데이트 섹션에 콘텐츠가 잘못 붙여넣기](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
+      + [Workfront Proof: 데스크탑 증명 뷰어의 업데이트 섹션에 콘텐츠가 잘못 붙여넣어짐](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: 증명을 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -227,6 +227,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [Workfront Fusion: 데이터 저장소 문제](known-issues-workfront-fusion/fusion-data-store-issues.md)
+      + [Workfront Fusion: 실행 세부 정보가 처리로 표시됨](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: 웹후크 대기열이 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
