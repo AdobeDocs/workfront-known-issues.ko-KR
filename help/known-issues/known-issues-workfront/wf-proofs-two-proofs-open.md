@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 9월 10일 수요일에 수정되었습니다.
+>이 문제는 2024년 9월 10일에 수정되었습니다.
 
 사용자가 증명을 열면, 동일한 증명이 포함된 두 개의 브라우저 탭이 열립니다.
 

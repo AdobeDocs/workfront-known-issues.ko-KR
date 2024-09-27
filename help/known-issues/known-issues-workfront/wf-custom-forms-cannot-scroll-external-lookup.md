@@ -1,13 +1,13 @@
 ---
-title: '사용자 정의 양식: 외부 조회 필드를 스크롤할 수 없음'
+title: '”사용자 정의 양식: 외부 조회 필드를 스크롤할 수 없음”'
 description: 사용자가 외부 조회 필드에서 옵션을 보려고 하면 옵션 드롭다운이 스크롤되지 않고 사용자에게 전체 옵션 목록이 표시되지 않습니다.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->이 문제는 2024년 9월 5일 금요일에 수정되었습니다.
+>이 문제는 2024년 9월 5일에 수정되었습니다.
 
 사용자가 외부 조회 필드에서 옵션을 보려고 하면 옵션 드롭다운이 스크롤되지 않고 사용자에게 전체 옵션 목록이 표시되지 않습니다.
 

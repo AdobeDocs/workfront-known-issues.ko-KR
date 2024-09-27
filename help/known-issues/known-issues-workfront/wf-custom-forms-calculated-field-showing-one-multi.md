@@ -1,13 +1,13 @@
 ---
-title: '사용자 정의 양식: 잘못된 값을 표시하는 계산된 필드'
+title: '”사용자 정의 양식: 계산된 필드에 잘못된 값이 표시됨”'
 description: 사용자가 다중 선택 외부 조회 필드 값을 참조하는 계산된 필드를 보면 해당 계산 필드에 선택된 값이 하나만 표시됩니다. 여러 값을 선택한 경우에도 이러한 문제가 발생할 수 있으며, 사용자가 필드를 편집할 때는 여러 값이 표시됩니다.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
