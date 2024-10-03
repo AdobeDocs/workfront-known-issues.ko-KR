@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 데이터 저장소 문제](known-issues-workfront-fusion/fusion-data-store-issues.md) | 2024년 9월 26일 금요일 |
-| [Workfront Fusion: 실행 세부 정보가 처리로 표시됨](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | 2024년 9월 26일 금요일 |
+| [Workfront Fusion: 데이터 저장소 문제](known-issues-workfront-fusion/fusion-data-store-issues.md) | 2024년 9월 26일 |
+| [Workfront Fusion: 실행 세부 정보가 처리 중으로 표시됨](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | 2024년 9월 26일 |
 | [Workfront Fusion: 웹후크 대기열이 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024년 9월 19일 |
 | [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024년 8월 27일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
@@ -39,7 +39,7 @@ ht-degree: 88%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024년 9월 24일 수요일 |
+| [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024년 9월 24일 |
 
 {style="table-layout:auto"}
 

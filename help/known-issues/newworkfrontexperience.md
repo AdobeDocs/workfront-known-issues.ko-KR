@@ -5,7 +5,7 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1021'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 | [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 9월 19일 |
 | [API: SQL 오류로 인해 API 호출 실패](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024년 9월 12일 |
 | [증명: 활성 사용자가 비활성화된 것으로 나타남](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024년 9월 12일 |
-| [보드: 카드에서 문서를 미리보기하거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 |
+| [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 |
 | [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 |
 | [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 |
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 9월 24일 수요일 |
+| [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 9월 24일 |
 | [그룹: 삭제된 그룹 상태가 다시 나타남](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024년 9월 12일 |
 | [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md) | 2024년 9월 12일 |
 | [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 9월 12일 |

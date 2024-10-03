@@ -4,7 +4,7 @@ description: ”애자일 스크럼 팀에 작업이나 이슈를 할당할 때 
 hidefromtoc: true
 feature: Agile
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 9월 26일 금요일에 수정되었습니다.
+>이 문제는 2024년 9월 26일에 수정되었습니다.
 
 애자일 스크럼 팀에 작업이나 이슈를 할당할 때 ”반복에 추가” 옵션이 ”더 보기” 메뉴에 두 번 나타납니다. 이는 팀 배정 기능에 영향을 미치지 않으며 스크럼이 아닌 애자일 팀에는 나타나지 않습니다.
 
