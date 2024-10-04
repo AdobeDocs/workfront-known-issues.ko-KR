@@ -1,17 +1,21 @@
 ---
-title: '“사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함”'
-description: “사용자가 양식 디자이너에서 대용량 양식을 작성하거나 편집할 때 브라우저에서 충돌이 발생할 수 있으며, 사용자는 양식을 만들거나 편집할 수 없습니다.”
+title: '사용자 정의 양식: 대형 양식을 작성할 때 브라우저 충돌'
+description: 사용자가 양식 디자이너에서 대용량 양식을 작성하거나 편집할 때 브라우저에서 충돌이 발생할 수 있으며, 사용자는 양식을 만들거나 편집할 수 없습니다.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+exl-id: 8be2ce6c-7440-4b08-a62e-dbc41ef8d4a3
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 91%
 
 ---
 
-
 # 사용자 정의 양식: 대용량 양식을 작성할 때 브라우저에서 충돌이 발생함
+
+>[!NOTE]
+>
+>이 문서는 2024년 10월 3일 금요일에 수정되었습니다.
 
 사용자가 양식 디자이너에서 대용량 양식을 작성하거나 편집할 때 브라우저에서 충돌이 발생할 수 있으며, 사용자는 양식을 만들거나 편집할 수 없습니다.
 

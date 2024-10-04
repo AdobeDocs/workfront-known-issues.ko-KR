@@ -4,14 +4,18 @@ description: 사용자가 보드를 로드하려고 하면 보드가 로드되�
 hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
-source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # 보드: 보드 로드 시 오류
+
+>[!NOTE]
+>
+>이 문서는 2024년 10월 3일 금요일에 수정되었습니다.
 
 사용자가 보드를 로드하려고 하면 보드가 로드되지 않고 사용자에게 다음과 같은 메시지가 표시됩니다.
 

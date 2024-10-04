@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
-source-wordcount: '1804'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '1845'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [로그인으로 리디렉션하거나 오류가 발생합니다](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [홈: &quot;완료로 표시&quot;를 선택하면 내 문제 위젯에 대한 요약 창이 닫힙니다.](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [프로젝트: &quot;삭제 액세스&quot; 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [증명: AEM에서 Fusion을 통해 연결된 문서에 대한 증명 만들기가 실패합니다.](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [보드: 카드 이동 또는 사용자 할당 시 오류 발생](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md)

@@ -3,14 +3,18 @@ title: '”증명: 활성 사용자가 비활성화된 것으로 나타남”'
 description: ”활성 상태임에도 불구하고 일부 증명에서 사용자가 비활성화된 것으로 표시되어 액세스가 불가능합니다.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 89%
 
 ---
 
 # 증명: 활성 사용자가 비활성화된 것으로 나타남
+
+>[!NOTE]
+>
+>이 문서는 해결되었습니다.
 
 활성 상태임에도 불구하고 일부 증명에서 사용자가 비활성화된 것으로 표시되어 액세스가 불가능합니다.
 

@@ -1,17 +1,21 @@
 ---
-title: '“설정: 다른 사용자로 로그아웃할 때 오류 발생”'
-description: “관리자가 다른 사용자로 로그인한 후 로그아웃을 시도하면 문제가 발생할 수 있습니다.”
+title: '설정: 다른 사용자로 로그아웃할 때 문제 발생'
+description: 관리자가 다른 사용자로 로그인하고 로그아웃하려고 할 때 문제가 발생할 수 있습니다.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 70%
 
 ---
 
-
 # 설정: 다른 사용자로 로그아웃할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문서는 2024년 9월 20일 토요일에 수정되었습니다.
 
 관리자가 다른 사용자로 로그인한 후 로그아웃을 시도하면 다음 문제가 발생할 수 있습니다.
 
