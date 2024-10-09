@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
+source-wordcount: '1888'
 ht-degree: 97%
 
 ---
@@ -17,10 +17,14 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [로그인으로 리디렉션하거나 오류가 발생합니다](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [홈: &quot;완료로 표시&quot;를 선택하면 내 문제 위젯에 대한 요약 창이 닫힙니다.](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
-      + [프로젝트: &quot;삭제 액세스&quot; 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [증명: AEM에서 Fusion을 통해 연결된 문서에 대한 증명 만들기가 실패합니다.](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [문서: 객체 문서 탭에서 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [보드: 작업 및 문제에 대한 중복 상태 옵션](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [홈: 삭제된 사용자 정의 필드는 프로젝트, 작업 및 문제 위젯에서 지속됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [우선 순위: 그룹화로 인해 정렬 및 인라인 편집이 금지됨](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
+      + [[다음으로 로그인] 사용 시 로그인으로 리디렉션되거나 오류 발생](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [홈: [완료로 표시] 버튼 사용 시 내 문제 위젯에 대한 요약 창 닫힘](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [증명: Fusion을 통해 AEM에서 연결된 문서에 대한 증명 생성 실패](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [보드: 카드 이동 또는 사용자 할당 시 오류 발생](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md)
@@ -205,6 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+      + [Workfront Mobile: 증명 이메일 링크가 iPhone에서 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: 데스크탑 증명 뷰어의 업데이트 섹션에 콘텐츠가 잘못 붙여넣어짐](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: 증명을 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
