@@ -4,7 +4,7 @@ description: “사용자가 실행 세부 정보를 보려고 할 때 실행이
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2024년 10월 3일 금요일에 수정되었습니다.
+>이 문제는 2024년 10월 3일에 수정되었습니다.
 
 사용자가 실행 세부 정보를 보려고 할 때 실행이 완료된 후 오랜 시간이 지나야 “처리” 배지가 표시됩니다.
 

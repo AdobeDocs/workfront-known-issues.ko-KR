@@ -4,7 +4,7 @@ description: “데이터 저장소의 부울 필드와 관련하여 다음과 �
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2024년 9월 26일 금요일에 수정되었습니다.
+>이 문제는 2024년 9월 26일에 수정되었습니다.
 
 데이터 저장소의 부울 필드와 관련하여 다음과 같은 문제가 보고되었습니다.
 
