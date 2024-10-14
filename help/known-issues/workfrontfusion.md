@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '185'
-ht-degree: 100%
+source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
+workflow-type: tm+mt
+source-wordcount: '189'
+ht-degree: 94%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: &quot;지금부터&quot; 설정을 시작하여 모든 데이터를 처리](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024년 10월 14일 화요일 |
 | [증명: Fusion을 통해 AEM에서 연결된 문서에 대한 증명 생성 실패](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024년 10월 3일 |
-| [Workfront Fusion: 웹후크 대기열이 처리되지 않음](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024년 9월 19일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
 
 {style="table-layout:auto"}

@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '1087'
+source-wordcount: '1028'
 ht-degree: 96%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [문서: 개체 문서 탭에서 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-from-object.md) | 2024년 10월 9일 목요일 |
 | [보드: 작업 및 문제에 대한 중복 상태 옵션](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024년 10월 9일 목요일 |
 | [Workfront Mobile: 증명 이메일 링크가 iPhone에서 열리지 않습니다](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 목요일 |
 | [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 9월 19일 |
@@ -38,8 +37,6 @@ ht-degree: 96%
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 8월 21일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
-| [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 8월 14일 |
-| [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
@@ -52,19 +49,14 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [[다음으로 로그인] 사용 시 로그인으로 리디렉션되거나 오류 발생](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024년 10월 3일 |
-| [홈: [완료로 표시] 버튼 사용 시 내 문제 위젯에 대한 요약 창 닫힘](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024년 10월 3일 |
 | [프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024년 10월 3일 |
 | [증명: Fusion을 통해 AEM에서 연결된 문서에 대한 증명 생성 실패](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024년 10월 3일 |
-| [사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024년 10월 3일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 9월 24일 |
 | [그룹: 삭제된 그룹 상태가 다시 나타남](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024년 9월 12일 |
 | [홈: 보류 중인 승인 위젯에 삭제된 문서가 표시됨](known-issues-workfront/wf-home-deleted-documents.md) | 2024년 9월 12일 |
-| [작업: 타임라인 재계산 문제](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024년 8월 30일 |
 | [사용자 정의 양식: 양식이 기본적으로 프로젝트 양식으로 설정됨](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024년 8월 22일 |
 | [설정: 다른 사용자로 로그아웃할 때 오류 발생](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024년 8월 15일 |
 | [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 |
-| [보드: 보드 로드 시 오류](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024년 8월 8일 |
 | [사용자 정의 양식: 표시 로직을 입력할 때 양식 작성기에서 충돌이 발생함](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024년 8월 5일 |
 | [액세스 수준: 설정 영역에서 액세스 수준이 중복됨](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
@@ -79,6 +71,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 10월 14일 화요일 |
 | [홈: 삭제된 사용자 정의 필드는 프로젝트, 작업 및 문제 위젯에서 유지됩니다](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024년 10월 8일 수요일 |
 | [우선 순위: 그룹화가 정렬과 인라인 편집을 금지합니다](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024년 10월 8일 수요일 |
 | [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024년 9월 19일 |

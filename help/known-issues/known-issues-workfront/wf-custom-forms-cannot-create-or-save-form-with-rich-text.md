@@ -1,17 +1,21 @@
 ---
-title: '“사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생”'
-description: “서식이 있는 텍스트 필드로 인해 사용자 정의 양식에 오류가 표시됩니다.”
+title: '사용자 정의 양식: 사용자 정의 양식의 표시 유형 전환 오류'
+description: 서식 있는 텍스트 필드로 인해 사용자 정의 양식에 오류가 표시됩니다.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 79%
 
 ---
 
-
 # 사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 10월 9일 목요일에 수정되었습니다.
 
 서식이 있는 텍스트 필드로 인해 사용자 정의 양식에 다음 오류가 표시됩니다.
 

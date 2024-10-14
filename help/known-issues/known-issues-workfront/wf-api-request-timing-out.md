@@ -1,17 +1,21 @@
 ---
-title: '“API: 요청 시간 초과”'
-description: “Workfront API를 통해 요청된 시간이 초과되었습니다.”
+title: 'API: 요청 시간 초과'
+description: Workfront API를 통해 요청된 시간이 초과되었습니다.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 92%
 
 ---
 
-
 # API: 요청 시간 초과
+
+>[!NOTE]
+>
+>이 문제는 2024년 10월 9일 목요일에 수정되었습니다.
 
 Workfront API를 통해 요청된 시간이 초과되었습니다.
 

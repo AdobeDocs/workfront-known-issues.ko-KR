@@ -3,15 +3,19 @@ title: '“보드: 카드 이동 또는 사용자 할당 시 오류 발생”'
 description: '“카드를 이동하거나 사용자를 할당할 때 가끔 작업이 진행되지 않고 지연된 이후에 “응답 실패: 상태 코드 502 수신” 오류가 발생합니다.”'
 hidefromtoc: true
 feature: Agile
-source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
-workflow-type: ht
-source-wordcount: '76'
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
 
 
 # 보드: 카드 이동 또는 사용자 할당 시 오류 발생
+
+>[!NOTE]
+>
+>이 문제는 2024년 10월 10일 금요일에 수정되었습니다.
 
 카드를 이동하거나 사용자를 할당할 때 가끔 작업이 진행되지 않고 지연된 이후에 “응답 실패: 상태 코드 502 수신” 오류가 발생합니다.
 
