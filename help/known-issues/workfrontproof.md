@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile: 증명 이메일 링크가 iPhone에서 열리지 않습니다](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 목요일 |
+| [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [증명: Fusion을 통해 AEM에서 연결된 문서에 대한 증명 생성 실패](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024년 10월 3일 |
 | [애자일: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 26일 |
 | [증명: 증명을 열면 여러 사본이 열림](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 |
