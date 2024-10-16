@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '1028'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보드: 작업 및 문제에 대한 중복 상태 옵션](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024년 10월 9일 목요일 |
-| [Workfront Mobile: 증명 이메일 링크가 iPhone에서 열리지 않습니다](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 목요일 |
+| [보드: 작업 및 문제에 대한 상태 옵션 중복됨](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024년 10월 9일 |
+| [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 9월 19일 |
 | [API: SQL 오류로 인해 API 호출 실패](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024년 9월 12일 |
 | [보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024년 9월 5일 |
@@ -72,8 +72,8 @@ ht-degree: 96%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 10월 14일 화요일 |
-| [홈: 삭제된 사용자 정의 필드는 프로젝트, 작업 및 문제 위젯에서 유지됩니다](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024년 10월 8일 수요일 |
-| [우선 순위: 그룹화가 정렬과 인라인 편집을 금지합니다](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024년 10월 8일 수요일 |
+| [홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024년 10월 8일 |
+| [우선순위: 그룹화를 적용하면 정렬 및 인라인 편집이 불가능함](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024년 10월 8일 |
 | [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024년 9월 19일 |
 | [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024년 9월 18일 |
 | [사용자 정의 양식: 계산된 필드에 잘못된 값이 표시됨](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024년 9월 12일 |

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
 source-wordcount: '1898'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [문서: 객체 문서 탭에서 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-from-object.md)
-      + [보드: 작업 및 문제에 대한 중복 상태 옵션](known-issues-workfront/wf-boards-duplicate-status-options.md)
-      + [홈: 삭제된 사용자 정의 필드는 프로젝트, 작업 및 문제 위젯에서 지속됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
-      + [우선 순위: 그룹화로 인해 정렬 및 인라인 편집이 금지됨](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
+      + [문서: 오브젝트 문서 탭에서 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [보드: 작업 및 문제에 대한 상태 옵션 중복됨](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [우선순위: 그룹화를 적용하면 정렬 및 인라인 편집이 불가능함](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [[다음으로 로그인] 사용 시 로그인으로 리디렉션되거나 오류 발생](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [홈: [완료로 표시] 버튼 사용 시 내 문제 위젯에 대한 요약 창 닫힘](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -209,7 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]{#proof-current}의 현재 문제
-      + [Workfront Mobile: 증명 이메일 링크가 iPhone에서 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
+      + [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: 데스크탑 증명 뷰어의 업데이트 섹션에 콘텐츠가 잘못 붙여넣어짐](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: 증명을 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 증명 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
