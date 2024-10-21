@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 10월 10일 금요일에 수정되었습니다.
+>이 문제는 2024년 10월 10일에 수정되었습니다.
 
 사용자가 보드를 로드하려고 하면 보드가 로드되지 않고 사용자에게 다음과 같은 메시지가 표시됩니다.
 

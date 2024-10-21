@@ -4,7 +4,7 @@ description: “미리보기 또는 샌드박스 환경에서 [다음으로 로�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 10월 10일 금요일에 수정되었습니다.
+>이 문제는 2024년 10월 10일에 수정되었습니다.
 
 미리보기 또는 샌드박스 환경에서 [다음으로 로그인]을 시도하면 사용자는 로그인 페이지로 리디렉션되거나 오류가 표시됩니다.
 

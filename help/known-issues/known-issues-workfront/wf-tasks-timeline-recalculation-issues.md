@@ -1,13 +1,13 @@
 ---
-title: '작업: 타임라인 재계산 문제'
+title: '“작업: 타임라인 재계산 문제”'
 description: 타임라인 재계산과 관련하여 다음과 같은 문제가 보고되었습니다.
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 81%
 
 >[!NOTE]
 >
->이 문제는 2024년 10월 10일 금요일에 수정되었습니다.
+>이 문제는 2024년 10월 10일에 수정되었습니다.
 
 타임라인 재계산과 관련하여 다음과 같은 문제가 보고되었습니다.
 

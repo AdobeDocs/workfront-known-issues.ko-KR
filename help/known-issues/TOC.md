@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1898'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -236,7 +236,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [Workfront Fusion: 모든 데이터를 &quot;지금부터&quot; 설정 처리 시작](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
+      + [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: 데이터 저장소 문제](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion: 실행 세부 정보가 처리 중으로 표시됨](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

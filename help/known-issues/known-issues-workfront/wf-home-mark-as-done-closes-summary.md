@@ -4,7 +4,7 @@ description: “내 문제 위젯을 통해 열린 문제의 요약 창에서 [�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 10월 10일 금요일에 수정되었습니다.
+>이 문제는 2024년 10월 10일에 수정되었습니다.
 
 내 문제 위젯을 통해 열린 문제의 요약 창에서 [완료로 표시] 버튼을 사용하면 요약 창이 예기치 않게 닫힙니다.
 
