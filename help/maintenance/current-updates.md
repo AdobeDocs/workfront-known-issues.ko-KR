@@ -3,9 +3,9 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6368'
+source-wordcount: '6375'
 ht-degree: 96%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 96%
 
 이는 예상되는 행동이며, 문제로 간주되어서는 안 됩니다.
 
-이전에는 사용자가 제출되거나 종료된 타임시트에 시간을 기록할 수 있었습니다.
+이전에는 Workfront API 또는 Workfront Fusion을 통해 제출되거나 종료된 타임시트에 시간을 기록할 수 있었습니다.
 
 +++
 
