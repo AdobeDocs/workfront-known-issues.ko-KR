@@ -3,20 +3,20 @@ title: '“보드: 작업 및 문제에 대한 상태 옵션 중복됨”'
 description: 보드에서 작업이나 문제의 상태를 업데이트할 때 특정 상태에 대한 중복 옵션이 나타납니다.
 hidefromtoc: true
 feature: Agile
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+workflow-type: tm+mt
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
 
 # 보드: 작업 및 문제에 대한 상태 옵션 중복됨
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on August 15, 2024.
--->
+>이 문제는 2024년 10월 17일 금요일에 수정되었습니다.
+
 
 보드에서 작업이나 문제의 상태를 업데이트할 때 특정 상태에 대한 중복 옵션이 나타납니다. 중복 상태, 특히 진행 중 및 준비 상태에는 관련이 없는 그룹에 대한 괄호 안의 참조가 포함됩니다. 예를 들어 진행 중 및 진행 중(그룹: 관련 없는 그룹)이 사용 가능한 상태 목록에 나타납니다. 중복되지 않음 상태는 문제 없이 선택할 수 있습니다.
 
