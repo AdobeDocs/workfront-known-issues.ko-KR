@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1068'
 ht-degree: 95%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 95%
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
 | [프로젝트: 간트 차트가 정확하지 않음](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024년 10월 22일 수요일 |
-| [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 10월 22일 수요일 |
+| [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 10월 22일 수요일 |
 | [프로젝트: 완료된 프로젝트에 문제를 추가할 수 없음](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024년 10월 22일 수요일 |
 | [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 10월 22일 수요일 |
 | [사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024년 10월 22일 수요일 |
