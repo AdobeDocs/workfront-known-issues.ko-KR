@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 100%
+source-wordcount: '1071'
+ht-degree: 95%
 
 ---
 
@@ -32,7 +32,6 @@ ht-degree: 100%
 | [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 |
 | [할당: 작업 할당 시 휴무 아이콘이 나타나지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024년 8월 26일 |
-| [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 8월 21일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
@@ -47,6 +46,14 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
+| [프로젝트: 간트 차트가 정확하지 않음](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024년 10월 22일 수요일 |
+| [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 10월 22일 수요일 |
+| [프로젝트: 완료된 프로젝트에 문제를 추가할 수 없음](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024년 10월 22일 수요일 |
+| [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 10월 22일 수요일 |
+| [사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024년 10월 22일 수요일 |
+| [홈: 우선 순위 영역은 사용하지 않도록 설정된 경우 액세스할 수 있습니다](known-issues-workfront/wf-home-priorities-accessible.md) | 2024년 10월 22일 수요일 |
+| [홈: 내 승인 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024년 10월 22일 수요일 |
+| [증명: 미리 보기 환경에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024년 10월 22일 수요일 |
 | [프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024년 10월 3일 |
 | [증명: Fusion을 통해 AEM에서 연결된 문서에 대한 증명 생성 실패](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024년 10월 3일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 9월 24일 |
