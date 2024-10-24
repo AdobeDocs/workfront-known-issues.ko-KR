@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1944'
-ht-degree: 97%
+source-wordcount: '1958'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보고서: 필터 표시/필터 숨기기 옵션이 없음](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [홈: 완료율이 잘림](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [프로젝트: 간트 차트가 정확하지 않음](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [프로젝트: 완료된 프로젝트에 문제를 추가할 수 없음](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)

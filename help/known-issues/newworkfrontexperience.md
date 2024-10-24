@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 95%
+source-wordcount: '1053'
+ht-degree: 96%
 
 ---
 
@@ -25,13 +25,14 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [보고서: 필터 표시/필터 숨기기 옵션이 없습니다.](known-issues-workfront/wf-reports-show-filter-missing.md) | 2024년 10월 24일 금요일 |
+| [홈: 완료율이 끊어짐](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024년 10월 24일 금요일 |
 | [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 9월 19일 |
 | [API: SQL 오류로 인해 API 호출 실패](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024년 9월 12일 |
 | [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 |
 | [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 |
 | [Workfront: SSO를 사용할 수 없음](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024년 8월 26일 |
-| [할당: 작업 할당 시 휴무 아이콘이 나타나지 않음](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024년 8월 26일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
@@ -46,11 +47,9 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [프로젝트: 간트 차트가 정확하지 않음](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024년 10월 22일 수요일 |
+| [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 10월 24일 금요일 |
 | [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024년 10월 22일 수요일 |
-| [프로젝트: 완료된 프로젝트에 문제를 추가할 수 없음](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024년 10월 22일 수요일 |
 | [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 10월 22일 수요일 |
-| [사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024년 10월 22일 수요일 |
 | [홈: 우선 순위 영역은 사용하지 않도록 설정된 경우 액세스할 수 있습니다](known-issues-workfront/wf-home-priorities-accessible.md) | 2024년 10월 22일 수요일 |
 | [홈: 내 승인 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024년 10월 22일 수요일 |
 | [증명: 미리 보기 환경에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024년 10월 22일 수요일 |

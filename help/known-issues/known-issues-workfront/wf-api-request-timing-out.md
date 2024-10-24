@@ -4,18 +4,21 @@ description: Workfront API를 통해 요청된 시간이 초과되었습니다.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
-source-wordcount: '50'
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+workflow-type: tm+mt
+source-wordcount: '44'
 ht-degree: 100%
 
 ---
 
 # API: 요청 시간 초과
 
+
+<!--
 >[!NOTE]
 >
->이 문제는 2024년 10월 9일에 수정되었습니다.
+>This article was fixed on October 9, 2024.
+-->
 
 Workfront API를 통해 요청된 시간이 초과되었습니다.
 

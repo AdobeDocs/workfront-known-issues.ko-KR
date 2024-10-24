@@ -3,9 +3,9 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 96%
 
 ---
@@ -26,9 +26,15 @@ ht-degree: 96%
 
 ## 2024년 10월 업데이트
 
-+++**(예정) 2024년 10월 24일 금요일 유지 보수 업데이트**
++++**2024년 10월 24일 금요일 유지 관리 업데이트**
 
-### (예정) 2024년 10월 24일 유지 보수 업데이트
+### 2024년 10월 24일 금요일 유지 관리 업데이트
+
+#### 할당
+
+작업을 할당할 때 **휴무 아이콘이 표시되지 않음**
+
+사용자가 작업을 할당하고 작업 중에 휴무가 예약된 담당자의 이름을 입력하기 시작하면 제안되는 할당 영역 아래의 사용자 아이콘에 휴무(비행기) 아이콘이 표시되지 않습니다. 사용자가 사용자 및 팀 영역 아래에 이름이 표시되도록 입력을 계속하면 해당 아이콘이 표시됩니다.
 
 #### 사용자 정의 양식
 
