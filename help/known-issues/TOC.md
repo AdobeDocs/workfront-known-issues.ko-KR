@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1958'
-ht-degree: 96%
+source-wordcount: '1967'
+ht-degree: 99%
 
 ---
 
@@ -17,14 +17,15 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [보고서: 필터 표시/필터 숨기기 옵션이 없음](known-issues-workfront/wf-reports-show-filter-missing.md)
-      + [홈: 완료율이 잘림](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
+      + [알림: 문서 알림 이메일에 이미지 미리 보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [보고서: 필터 표시/필터 숨기기 옵션 없음](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [홈: 완료율 잘림](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [프로젝트: 간트 차트가 정확하지 않음](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [프로젝트: 완료된 프로젝트에 문제를 추가할 수 없음](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
-      + [홈: 우선 순위 영역은 비활성화되었을 때 액세스할 수 있습니다.](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [홈: 우선순위 영역이 비활성화된 경우에도 액세스할 수 있음](known-issues-workfront/wf-home-priorities-accessible.md)
       + [홈: 내 승인 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-approval-not-working.md)
-      + [증명: 미리보기 환경에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
+      + [증명: 미리보기 환경에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [문서: 오브젝트 문서 탭에서 문서를 이동할 수 없음](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [보드: 작업 및 문제에 대한 상태 옵션 중복됨](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
