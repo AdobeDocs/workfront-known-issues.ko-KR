@@ -5,8 +5,8 @@ hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

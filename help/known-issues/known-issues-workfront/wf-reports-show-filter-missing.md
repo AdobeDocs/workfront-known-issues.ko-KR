@@ -17,7 +17,7 @@ ht-degree: 75%
 >
 >이 문제는 2024년 10월 24일에 수정되었습니다.
 
-사용자가 보고서를 볼 때 필터 표시 및 필터 숨기기 옵션이 표시되지 않습니다.
+When a user is viewing a report, the Show filter and Hide filter options are not visible.
 
 **해결 방법**
 

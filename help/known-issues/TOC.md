@@ -137,7 +137,7 @@ ht-degree: 99%
       + [프로그램: 프로그램에 대한 사용자 액세스가 업데이트되면 프로그램에 대한 모든 액세스가 손실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [문서: 통합에서 문서를 링크할 때 UNK 파일 확장자](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [프로젝트: 템플릿을 사용하여 문제에서 생성된 프로젝트가 템플릿에 설정된 우선 순위를 반영하지 못함](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [프로젝트: 템플릿을 사용하여 문제에서 생성된 프로젝트가 템플릿에 설정된 우선순위를 반영하지 못함](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [타임시트: 고정된 타임시트가 빈 페이지로 이동](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않습니다.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [증명 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
