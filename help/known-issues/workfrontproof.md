@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 미리 보기 환경에서 증명을 만들 수 없음](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024년 10월 22일 수요일 |
+| [증명: 미리보기 환경에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024년 10월 22일 |
 | [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 |
