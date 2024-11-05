@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: ht
-source-wordcount: '6442'
-ht-degree: 100%
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+workflow-type: tm+mt
+source-wordcount: '6472'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,14 @@ ht-degree: 100%
 2024년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2024년 10월 업데이트
+
++++**2024년 10월 31일 금요일 유지 관리 업데이트**
+
+### 2024년 10월 31일 금요일 유지 관리 업데이트
+
+이번 업데이트에는 사소하거나 부수적인 버그 수정만 포함되어 있습니다. Workfront 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
+
++++
 
 +++**2024년 10월 24일 유지 관리 업데이트**
 
@@ -55,7 +63,6 @@ ht-degree: 100%
 사용자가 간트 차트를 보고 보기를 전환하면 간트 차트에 정확한 데이터가 표시되지 않거나 데이터가 전혀 표시되지 않을 수 있습니다.
 
 +++
-
 
 +++**2024년 10월 17일 유지 관리 업데이트**
 

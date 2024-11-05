@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1967'
-ht-degree: 99%
+source-wordcount: '2013'
+ht-degree: 97%
 
 ---
 
@@ -17,7 +17,12 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [알림: 문서 알림 이메일에 이미지 미리 보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가할 때 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [문서: 문서에 승인 옵션 단추 누락](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [홈: 새로운 할 일 및 완료된 할 일에 대한 할 일 위젯 오류](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [통합: 통합 쉘의 조직에 대한 JumpSeat 통합이 실패했습니다.](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
+      + [알림: 문서 알림 이메일에서 이미지 미리보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [보고서: 필터 표시/필터 숨기기 옵션 없음](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [홈: 완료율 잘림](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [프로젝트: 간트 차트가 정확하지 않음](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)

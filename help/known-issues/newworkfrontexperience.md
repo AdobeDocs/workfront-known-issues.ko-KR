@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1030'
-ht-degree: 99%
+source-wordcount: '1071'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가될 때 사용자 지정 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 화요일 |
+| [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024년 11월 4일 화요일 |
+| [문서: 문서에 승인 옵션 단추가 없음](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024년 11월 4일 화요일 |
+| [홈: 새 할 일과 완료된 할 일에 대한 할 일 위젯 오류](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024년 11월 4일 화요일 |
 | [홈: 완료율 잘림](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024년 10월 24일 |
 | [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 9월 19일 |
@@ -72,7 +76,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [알림: 문서 알림 전자 메일에서 이미지 미리 보기를 표시할 수 없습니다](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024년 10월 29일 수요일 |
+| [알림: 문서 알림 이메일에서 이미지 미리보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024년 10월 29일 |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 10월 14일 |
 | [홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024년 10월 8일 |
 | [우선순위: 그룹화를 적용하면 정렬 및 인라인 편집이 불가능함](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024년 10월 8일 |
