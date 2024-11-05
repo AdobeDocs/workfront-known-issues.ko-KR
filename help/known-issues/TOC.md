@@ -139,7 +139,7 @@ ht-degree: 97%
       + [그룹: 하위 그룹을 추가할 수 없음](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [업데이트: 태그된 사용자가 자신을 태그한 사람이 누구인지 확인할 수 없음](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [프로그램: 프로그램에 대한 사용자 액세스가 업데이트되면 프로그램에 대한 모든 액세스가 손실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [프로그램: 프로그램에 대한 사용자 액세스 권한이 업데이트되면 프로그램에 대한 모든 액세스 권한이 상실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [문서: 통합에서 문서를 링크할 때 UNK 파일 확장자](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [프로젝트: 템플릿을 사용하여 문제에서 생성된 프로젝트가 템플릿에 설정된 우선순위를 반영하지 못함](known-issues-workfront/wf-projects-priority-not-transfer.md)
