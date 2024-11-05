@@ -5,7 +5,7 @@ keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
 ht-degree: 100%
 
@@ -46,7 +46,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024년 10월 29일 수요일 |
+| [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024년 10월 29일 |
 | [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024년 2월 5일 |
 | [Workfront Fusion: 일자에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024년 1월 31일 |
 | [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023년 11월 16일 |

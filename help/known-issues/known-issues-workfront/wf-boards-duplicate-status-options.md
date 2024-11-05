@@ -4,7 +4,7 @@ description: 보드에서 작업이나 문제의 상태를 업데이트할 때 �
 hidefromtoc: true
 feature: Agile
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 

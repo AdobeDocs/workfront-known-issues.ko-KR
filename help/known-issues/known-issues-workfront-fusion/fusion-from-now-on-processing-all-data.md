@@ -4,7 +4,7 @@ description: “시나리오의 시작 시기 선택 설정에서 '지금부터'
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
 ht-degree: 100%
 

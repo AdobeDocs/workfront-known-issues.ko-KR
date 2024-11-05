@@ -1,13 +1,13 @@
 ---
-title: '사용자 정의 양식: 표시 논리를 입력할 때 양식 빌더가 충돌함'
-description: 사용자가 사용자 정의 양식을 작성하려고 할 때 표시 논리를 입력하면 양식 빌더가 충돌하고 사용자에게 메시지가 표시됩니다.
+title: '“사용자 정의 양식: 표시 로직을 입력할 때 양식 작성기에서 충돌이 발생함”'
+description: 사용자가 사용자 정의 양식을 작성하고자 표시 로직을 입력하면 양식 빌더에서 충돌이 발생하고 사용자에게 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: e0eb16d0-fa9f-4f90-8c98-97c7291188a9
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
