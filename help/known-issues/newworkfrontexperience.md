@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1071'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가될 때 사용자 지정 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 화요일 |
-| [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024년 11월 4일 화요일 |
-| [문서: 문서에 승인 옵션 단추가 없음](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024년 11월 4일 화요일 |
-| [홈: 새 할 일과 완료된 할 일에 대한 할 일 위젯 오류](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024년 11월 4일 화요일 |
+| [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 |
+| [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024년 11월 4일 |
+| [문서: 문서에 승인 옵션 버튼이 누락됨](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024년 11월 4일 |
+| [홈: 새로운 할 일 및 완료된 할 일에 대한 할 일 위젯 오류](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024년 11월 4일 |
 | [홈: 완료율 잘림](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024년 10월 24일 |
 | [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 9월 19일 |
