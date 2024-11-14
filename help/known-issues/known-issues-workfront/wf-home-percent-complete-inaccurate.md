@@ -1,17 +1,21 @@
 ---
-title: '“홈: 완료율 잘림”'
-description: “사용자가 홈 페이지에서 목록을 볼 때 완료율 열이 부분적으로 잘려나가고 정확한 완료율을 볼 수 없습니다.”
+title: '홈: 완료율이 잘림'
+description: 사용자가 홈 페이지에서 목록을 볼 때 완료율 열이 부분적으로 잘려나가고 정확한 완료율을 볼 수 없습니다.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+exl-id: 4fa87f86-c568-4a02-97ba-a959196964be
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
-
 # 홈: 완료율 잘림
+
+>[!NOTE]
+>
+>이 문제는 2024년 10월 31일 금요일에 수정되었습니다.
 
 사용자가 홈 페이지에서 목록을 볼 때 완료율 열이 부분적으로 잘려나가고 정확한 완료율을 볼 수 없습니다.
 

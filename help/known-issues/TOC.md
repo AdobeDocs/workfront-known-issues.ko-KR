@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '2013'
-ht-degree: 100%
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+workflow-type: tm+mt
+source-wordcount: '2120'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,19 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [타임시트: 기여자 사용자에게 &quot;승인을 위해 제출&quot; 버튼이 있음](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [알림: 업데이트에 대한 이메일 알림이 전송되지 않음](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [사용자 정의 양식: &quot;estimateByHours&quot; 또는 &quot;hoursPerPoint&quot; 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [문서: 승인 &quot;빠른 추가&quot;에 새 버전에 대한 기한 항목이 포함되지 않음](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [레이아웃 템플릿: 관리자가 홈 레이아웃 템플릿을 편집할 수 없음](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [사용자: 로그인 후 &quot;등록되지 않은&quot; 태그가 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront: 기여자 사용자가 프로그램 또는 Portfolio에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [승인: &quot;모두&quot; 필터는 개인적으로 제출된 승인을 제외함](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [작업: 하위 항목이 있는 상위 작업의 경과 일수 지속 시간이 잘못됨](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [보고서: 차트 목록의 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront: 열려 있는 브라우저 탭을 로드하지 못했습니다.](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [리소스 플래너: 리소스 플래너에 액세스할 수 없음](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [홈: 내 작업 위젯이 로드되지 않음](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [문서: 문서에 승인 옵션 버튼이 누락됨](known-issues-workfront/wf-documents-missing-approval-button.md)
