@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2125'
 ht-degree: 94%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 94%
       + [작업: 하위 항목이 있는 상위 작업의 경과 일수 지속 시간이 잘못됨](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [보고서: 차트 목록의 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: 열려 있는 브라우저 탭을 로드하지 못했습니다.](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [보고서: 보고서 로드 실패](known-issues-workfront/wf-reports-fail-to-load.md)
       + [리소스 플래너: 리소스 플래너에 액세스할 수 없음](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [홈: 내 작업 위젯이 로드되지 않음](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)

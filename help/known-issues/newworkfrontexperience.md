@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 90%
+source-wordcount: '1126'
+ht-degree: 91%
 
 ---
 
@@ -36,13 +36,9 @@ ht-degree: 90%
 | [작업: 하위 항목이 있는 상위 작업의 경과 일수 기간이 잘못됨](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024년 11월 13일 목요일 |
 | [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 11월 13일 목요일 |
 | [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024년 11월 12일 수요일 |
-| [보고서: 보고서가 로드되지 않음](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 12일 수요일 |
-| [리소스 플래너: 리소스 플래너에 액세스할 수 없음](known-issues-workfront/wf-resource-planner-inaccessible.md) | 2024년 11월 12일 수요일 |
-| [홈: 내 작업 위젯이 로드되지 않음](known-issues-workfront/wf-home-task-widget-wont-load.md) | 2024년 11월 12일 수요일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 |
 | [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024년 11월 4일 |
 | [문서: 문서에 승인 옵션 버튼이 누락됨](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024년 11월 4일 |
-| [홈: 새로운 할 일 및 완료된 할 일에 대한 할 일 위젯 오류](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024년 11월 4일 |
 | [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [API: SQL 오류로 인해 API 호출 실패](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024년 9월 12일 |
 | [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 |
