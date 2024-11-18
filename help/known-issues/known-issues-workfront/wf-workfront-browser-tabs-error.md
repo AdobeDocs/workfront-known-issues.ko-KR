@@ -1,21 +1,21 @@
 ---
-title: 'Workfront: 열려 있는 브라우저 탭을 로드하지 못했습니다.'
-description: '사용자에게 Workfront에서 다른 로그인이 필요할 만큼 충분히 오랫동안 Workfront 브라우저 탭이 열려 있는 경우 사용자에게 다시 로그인하라는 메시지를 표시하지 않고 페이지에 "500-001a: 페이지 로드 실패" 오류가 표시됩니다.'
+title: '“Workfront: 열려 있는 브라우저 탭이 로드되지 않음”'
+description: '“사용자가 Workfront 브라우저 탭을 오래 열어두어서 Workfront에서 다시 로그인해야 하는 경우, 다시 로그인하라는 메시지가 표시되는 대신 “500-001a: 페이지 로드 실패”라는 오류 메시지가 표시됩니다.” '
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Workfront: 열려 있는 브라우저 탭을 로드하지 못했습니다.
+# Workfront: 열려 있는 브라우저 탭이 로드되지 않음
 
-Workfront 브라우저 탭을 길게 열어 두어 Workfront에서 다른 로그인을 요구하면 사용자에게 다시 로그인하라는 메시지가 표시되지 않고 페이지에 &quot;500-001a: 페이지 로드 실패&quot; 오류가 표시됩니다.
+사용자가 Workfront 브라우저 탭을 오래 열어두어서 Workfront에서 다시 로그인해야 하는 경우, 다시 로그인하라는 메시지가 표시되는 대신 “500-001a: 페이지 로드 실패”라는 오류 메시지가 표시됩니다.
 
 **해결 방법**
 
-로그아웃한 브라우저 탭을 닫고 Workfront을 다시 열면 Workfront에 로그인하라는 메시지가 올바르게 표시됩니다.
+로그아웃된 브라우저 탭을 닫고 Workfront를 다시 열면 Workfront에 로그인하라는 메시지가 올바르게 표시됩니다.
 
-_2024년 10월 31일 금요일에 처음 보고되었습니다._
+_2024년 10월 31일에 처음 보고되었습니다._
