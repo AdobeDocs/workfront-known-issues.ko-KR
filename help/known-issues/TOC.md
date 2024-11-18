@@ -5,7 +5,7 @@ role: User
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '2125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,18 +17,18 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [타임시트: 기여자 사용자에게 &quot;승인을 위해 제출&quot; 버튼이 있음](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
-      + [알림: 업데이트에 대한 이메일 알림이 전송되지 않음](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [사용자 정의 양식: &quot;estimateByHours&quot; 또는 &quot;hoursPerPoint&quot; 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [문서: 승인 &quot;빠른 추가&quot;에 새 버전에 대한 기한 항목이 포함되지 않음](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [타임시트: 참여자 사용자에게 “승인을 위해 제출” 버튼이 있음](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [사용자 정의 양식: “estimateByHours” 또는 “hoursPerPoint” 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [문서: 승인 “빠른 추가”에 새 버전에 대한 기한 항목이 포함되지 않음](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
       + [레이아웃 템플릿: 관리자가 홈 레이아웃 템플릿을 편집할 수 없음](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
-      + [사용자: 로그인 후 &quot;등록되지 않은&quot; 태그가 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront: 기여자 사용자가 프로그램 또는 Portfolio에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
-      + [승인: &quot;모두&quot; 필터는 개인적으로 제출된 승인을 제외함](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
-      + [작업: 하위 항목이 있는 상위 작업의 경과 일수 지속 시간이 잘못됨](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [보고서: 차트 목록의 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
-      + [Workfront: 열려 있는 브라우저 탭을 로드하지 못했습니다.](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [보고서: 보고서 로드 실패](known-issues-workfront/wf-reports-fail-to-load.md)
+      + [사용자: 로그인 후에도 “등록되지 않음” 태그가 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront: 참여자 사용자가 프로그램 또는 포트폴리오에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [승인: “모두” 필터가 개인이 제출한 승인을 제외함](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [작업: 하위 작업이 있는 상위 작업의 경과 일수가 올바르지 않음](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [보고서: 보고서가 로드되지 않음](known-issues-workfront/wf-reports-fail-to-load.md)
       + [리소스 플래너: 리소스 플래너에 액세스할 수 없음](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [홈: 내 작업 위젯이 로드되지 않음](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
@@ -54,7 +54,7 @@ ht-degree: 94%
       + [프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [증명: Fusion을 통해 AEM에서 연결된 문서에 대한 증명 생성 실패](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [보드: 카드 이동 또는 사용자 할당 시 오류 발생](known-issues-workfront/wf-boards-error-moving-cards.md)
-      + [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [할당: 작업 할당이 실패하고 상속된 권한이 제거됨](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [그룹: 삭제된 그룹 상태가 다시 나타남](known-issues-workfront/wf-groups-deleted-status-reappears.md)
@@ -216,7 +216,7 @@ ht-degree: 94%
       + [홈: 사용자 정의 용어가 홈 영역에 적용되지 않음](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [애자일: 카드의 사용자 정의 양식에서 필드를 편집할 수 없음](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [승인: 승인 위임이 잘못된 일수로 설정됨](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL 홈]:  [!DNL Chrome] 이외의 브라우저 사용 시 [!UICONTROL 홈] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL 홈]: [!UICONTROL  이외의 브라우저 사용 시 ]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 새 작업 옵션](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [업데이트: 팀 이름이 @mention에 표시되지 않음](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + [애자일: 반복에 대한 [!UICONTROL 완료된 포인트]의 불일치](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
@@ -245,7 +245,7 @@ ht-degree: 94%
       + [Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [증명: 증명이 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
-      + [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Proof] 을 통해 [!DNL Workfront Fusion]에 액세스할 때 500 오류 발생](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 보고서] 영역은 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [증명: 증명 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)

@@ -1,21 +1,22 @@
 ---
-title: '보고서: 보고서 로드 실패'
-description: 보고서에 액세스하려고 할 때 보고서를 로드할 수 없습니다. 이 문제는 차트, 요약 및 세부 정보 보기와 Report Builder에서 보고서 편집에 대해 보고되었습니다.
+title: '“보고서: 보고서가 로드되지 않음”'
+description: 보고서에 액세스하려고 하면 보고서가 로드되지 않습니다. 차트, 요약 및 세부 정보 보기와 Report Builder에서 보고서를 편집하는 경우에도 이러한 문제가 보고되었습니다.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 6fe58622-6673-4830-b867-d4bb8eee1467
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# 보고서: 보고서 로드 실패
+# 보고서: 보고서가 로드되지 않음
 
 >[!NOTE]
 >
->이 문제는 2024년 11월 14일 금요일에 해결되었습니다.
+>이 문제는 2024년 11월 14일에 해결되었습니다.
 
-보고서에 액세스하려고 할 때 보고서를 로드할 수 없습니다. 이 문제는 차트, 요약 및 세부 정보 보기와 Report Builder에서 보고서 편집에 대해 보고되었습니다.
+보고서에 액세스하려고 하면 보고서가 로드되지 않습니다. 차트, 요약 및 세부 정보 보기와 Report Builder에서 보고서를 편집하는 경우에도 이러한 문제가 보고되었습니다.
 
-_2024년 11월 7일 금요일에 처음 보고되었습니다._
+_2024년 11월 7일에 처음 보고되었습니다._

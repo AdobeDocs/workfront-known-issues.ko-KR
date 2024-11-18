@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '1126'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -25,17 +25,17 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [타임시트: 기여자 사용자에게 &quot;승인을 위해 제출&quot; 버튼이 있음](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024년 11월 13일 목요일 |
-| [알림: 업데이트에 대한 전자 메일 알림이 전송되지 않음](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024년 11월 13일 목요일 |
-| [사용자 정의 양식: &quot;estimateByHours&quot; 또는 &quot;hoursPerPoint&quot; 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024년 11월 13일 목요일 |
-| [문서: &quot;빠른 추가&quot; 승인에는 새 버전에 대한 기한 항목이 포함되지 않습니다](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024년 11월 13일 목요일 |
-| [레이아웃 템플릿: 관리자가 홈 레이아웃 템플릿을 편집할 수 없음](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024년 11월 13일 목요일 |
-| [사용자: &quot;등록되지 않은&quot; 태그가 로그인 후에도 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024년 11월 13일 목요일 |
-| [Workfront: 기여자 사용자가 프로그램 또는 Portfolio에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024년 11월 13일 목요일 |
-| [승인: &quot;모두&quot; 필터는 개인적으로 제출한 승인을 제외합니다](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024년 11월 13일 목요일 |
-| [작업: 하위 항목이 있는 상위 작업의 경과 일수 기간이 잘못됨](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024년 11월 13일 목요일 |
-| [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 11월 13일 목요일 |
-| [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024년 11월 12일 수요일 |
+| [타임시트: 참여자 사용자에게 “승인을 위해 제출” 버튼이 있음](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024년 11월 13일 |
+| [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024년 11월 13일 |
+| [사용자 정의 양식: “estimateByHours” 또는 “hoursPerPoint” 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024년 11월 13일 |
+| [문서: 승인 “빠른 추가”에 새 버전에 대한 기한 항목이 포함되지 않음](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024년 11월 13일 |
+| [레이아웃 템플릿: 관리자가 홈 레이아웃 템플릿을 편집할 수 없음](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024년 11월 13일 |
+| [사용자: 로그인 후에도 “등록되지 않음” 태그가 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024년 11월 13일 |
+| [Workfront: 참여자 사용자가 프로그램 또는 포트폴리오에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024년 11월 13일 |
+| [승인: “모두” 필터가 개인이 제출한 승인을 제외함](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024년 11월 13일 |
+| [작업: 하위 작업이 있는 상위 작업의 경과 일수가 올바르지 않음](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024년 11월 13일 |
+| [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 11월 13일 |
+| [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024년 11월 12일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 |
 | [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024년 11월 4일 |
 | [문서: 문서에 승인 옵션 버튼이 누락됨](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024년 11월 4일 |
@@ -79,8 +79,8 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 11월 12일 수요일 |
-| [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 12일 수요일 |
+| [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 11월 12일 |
+| [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 12일 |
 | [알림: 문서 알림 이메일에서 이미지 미리보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024년 10월 29일 |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 10월 14일 |
 | [홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024년 10월 8일 |

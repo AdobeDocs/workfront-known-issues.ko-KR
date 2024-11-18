@@ -7,7 +7,7 @@ exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 94%
 * 증명을 다시 닫아 보십시오.
 * 브라우저 탭을 닫아 증명을 닫습니다.
 
-_2024년 11월 5일 수요일에 처음 보고되었습니다._
+_2024년 11월 5일에 처음 보고되었습니다._
