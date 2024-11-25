@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
 source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -17,6 +17,6 @@ ht-degree: 88%
 
 **해결 방법**
 
-응답하지 않는 템플릿을 편집하기 전에 자신에게 할당합니다.
+편집하기 전에 반응하지 않는 템플릿을 자신에게 할당하십시오.
 
 _2024년 10월 10일에 처음 보고되었습니다._
