@@ -4,8 +4,8 @@ user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
 workflow-type: tm+mt
-source-wordcount: '2132'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
