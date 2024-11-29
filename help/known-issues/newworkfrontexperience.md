@@ -36,7 +36,7 @@ ht-degree: 99%
 | [작업: 하위 작업이 있는 상위 작업의 경과 일수가 올바르지 않음](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024년 11월 13일 |
 | [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024년 11월 12일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 |
-| [Workfront Mobile: iPhone에서 증명 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
+| [Workfront Mobile: iPhone에서 교정쇄 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [API: SQL 오류로 인해 API 호출 실패](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024년 9월 12일 |
 | [보드: 카드 상태가 연결된 오브젝트와 일치하지 않고 필터를 우회합니다.](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024년 9월 3일 |
 | [보드: 연결된 카드가 잘못된 열에 표시됨](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024년 8월 28일 |
@@ -55,7 +55,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 |----------------------------------| ----------------- |
-| [보고서: Report Builder 로드 시간이 김](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 금요일 |
+| [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 10월 24일 |
 | [프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024년 10월 3일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 9월 24일 |
@@ -76,7 +76,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront: ZScaler 설정으로 인해 성능이 저하될 수 있습니다](known-issues-workfront//wf-workfront-zscaler.md) | 2024년 11월 20일 목요일 |
+| [Workfront: ZScaler 설정으로 인해 성능이 저하될 수 있습니다](known-issues-workfront//wf-workfront-zscaler.md) | 2024년 11월 20일 |
 | [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 11월 12일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 12일 |
 | [알림: 문서 알림 이메일에서 이미지 미리보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024년 10월 29일 |
@@ -136,7 +136,7 @@ ht-degree: 99%
 | [이메일 알림: “[!UICONTROL 문제에 할당됨]” 설정이 표시됨](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021년 6월 2일 |
 | [이메일 알림: 사용자가 댓글 스레드로 이동되지 않음](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 2021년 4월 23일 |
 | [캘린더: [!DNL OR] 필터 문이 필터 규칙을 제외함](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 2021년 4월 23일 |
-| [[!UICONTROL Workfront Proof]: [!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
+| [[!UICONTROL Workfront Proof]: [!UICONTROL 교정쇄 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
 | [[!UICONTROL 홈]: 프로젝트 이름이 [!UICONTROL 작업 목록]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)에 GUID로 표시됨 | 2021년 2월 11일 |
 | [문서: 교정 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 1월 25일 |
 | [보고서: 캘린더에 이전 날짜가 기본으로 표시됨](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 2021년 2월 5일 |
