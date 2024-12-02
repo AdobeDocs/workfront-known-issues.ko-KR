@@ -1,15 +1,15 @@
 ---
-title: "시간: 시간 로깅 시 필터링된 시간 유형이 기본값이 아닙니다."
-description: "사용자가 시간을 로깅할 때 미리 선택된 시간 유형은 해당 프로젝트에 대해 필터링된 시간 유형 대신 작업 시간입니다."
+title: '시간: 시간 로깅 시 필터링된 시간 유형이 기본값이 아닙니다.'
+description: 사용자가 시간을 기록할 때 미리 선택된 시간 유형은 해당 프로젝트에 대한 필터링된 시간 유형 대신 작업 시간 이 됩니다.
 hidefromtoc: true
 feature: Timesheets, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+exl-id: 35ce305b-994f-42ee-a911-14f922ad9c39
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
-
 
 # 시간: 시간 로깅 시 필터링된 시간 유형이 기본값이 아닙니다.
 

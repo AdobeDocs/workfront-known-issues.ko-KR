@@ -1,11 +1,11 @@
 ---
-title: '“문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음”'
+title: '문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음'
 description: 사용자가 문서 미리보기를 조회할 수 없습니다.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
 source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 

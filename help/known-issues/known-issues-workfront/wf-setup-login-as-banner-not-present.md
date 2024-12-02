@@ -1,5 +1,5 @@
 ---
-title: '“설정: 다른 사용자로 로그인하면 다음으로 로그인됨 배너가 나타나지 않습니다.”'
+title: '설정: 다른 사용자로 로그인하면 배너로 로그인됨이 표시되지 않습니다.'
 description: 관리자가 다른 사용자로 로그인하면 다음으로 로그인됨 배너가 나타나지 않습니다. 사용자는 다른 사용자로 로그인되어 있다는 알림을 받지 못하며 해당 사용자의 계정에서 로그아웃할 수 없습니다.
 hidefromtoc: true
 feature: System Setup and Administration
@@ -7,7 +7,7 @@ exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 

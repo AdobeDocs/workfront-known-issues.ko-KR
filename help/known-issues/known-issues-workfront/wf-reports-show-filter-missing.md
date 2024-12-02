@@ -1,15 +1,15 @@
 ---
-title: '“보고서: 필터 표시/필터 숨기기 옵션 없음”'
-description: “사용자가 보고서를 볼 때 필터 표시 및 필터 숨기기 옵션이 표시되지 않습니다.”
+title: '보고서: 필터 표시/필터 숨기기 옵션 없음'
+description: 사용자가 보고서를 볼 때 필터 표시 및 필터 숨기기 옵션이 표시되지 않습니다.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
+exl-id: 4bd85c63-c7d5-41af-8a2f-2ebcdba84ca4
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
 ---
-
 
 # 보고서: 필터 표시/필터 숨기기 옵션 없음
 

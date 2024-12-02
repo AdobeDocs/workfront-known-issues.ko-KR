@@ -1,10 +1,11 @@
 ---
-title: '”보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음”'
-description: ”큰 차트 보고서를 볼 때 스크롤바가 표시되지 않아 사용자가 보고서 전체를 스크롤할 수 없게 됩니다.”
+title: '보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음'
+description: 큰 차트 보고서를 볼 때 스크롤바가 표시되지 않아 사용자가 보고서 전체를 스크롤할 수 없게 됩니다.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: ht
+exl-id: b3b41b41-2bb6-40e3-9579-434349b7302f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 

@@ -1,5 +1,5 @@
 ---
-title: '업데이트: 언급 복사 및 붙여넣기는 언급된 사용자에게 알리지 않습니다.'
+title: '업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음'
 description: 사용자가 @ 형식의 멘션이 포함된 댓글을 복사한 다음 해당 댓글을 다른 오브젝트의 업데이트 영역에 붙여넣어도 언급된 사용자에게 붙여넣은 댓글에 대한 알림이 전송되지 않습니다.
 hidefromtoc: true
 feature: Updates and Notifications
@@ -7,7 +7,7 @@ exl-id: 3b789894-6c4a-4b7a-9206-0b9499dc7f8a
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '업데이트: 태그 지정된 사용자가 태그 지정된 사용자를 볼 수 없음'
+title: '업데이트: 태그된 사용자가 자신을 태그한 사람이 누구인지 확인할 수 없음'
 description: 사용자가 업데이트에서 태그된 경우 누가 자신에게 태그를 지정했는지 확인할 수 없습니다. 이 문제는 다른 회사의 사람 설정 다음에서 사용자만 봐야 함...이 회사 로 설정된 경우 발생합니다.
 hidefromtoc: true
 feature: Updates and Notifications
@@ -7,7 +7,7 @@ exl-id: 35d19e35-97ef-4cd5-a792-8ec451369e7c
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 74%
+ht-degree: 81%
 
 ---
 

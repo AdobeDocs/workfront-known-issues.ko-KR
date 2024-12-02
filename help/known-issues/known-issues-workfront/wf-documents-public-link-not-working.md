@@ -1,5 +1,5 @@
 ---
-title: '“문서: 문서에 대한 공개 링크를 사용할 때 오류 발생”'
+title: '문서: 문서에 대한 공개 링크를 사용할 때 오류 발생'
 description: 사용자가 Workfront의 문서로 이동하기 위해 공개 링크를 클릭하면 오류가 나타날 수 있습니다.
 hidefromtoc: true
 feature: Digital Content and Documents

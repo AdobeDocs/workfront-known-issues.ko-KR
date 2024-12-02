@@ -1,11 +1,11 @@
 ---
-title: '“Workfront: 사용자 정의 용어가 적용되지 않음”'
-description: “레이아웃 템플릿에 설정된 사용자 정의 용어가 Workfront의 일부 영역에 표시되지 않습니다. 그 대신 기본 비사용자 정의 용어가 나타납니다. ”
+title: 'Workfront: 사용자 정의 용어가 적용되지 않습니다.'
+description: '레이아웃 템플릿에 설정된 사용자 정의 용어가 Workfront의 일부 영역에 표시되지 않습니다. 그 대신 기본 비사용자 정의 용어가 나타납니다. '
 hidefromtoc: true
 feature: Work Management
 exl-id: 80954f54-cf9b-42c7-923c-99134a03b9dd
 source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 

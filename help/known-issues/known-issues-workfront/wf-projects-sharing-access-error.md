@@ -1,15 +1,15 @@
 ---
-title: '“프로젝트: 삭제 액세스 권한 오류로 인해 프로젝트를 공유할 수 없음”'
-description: “프로젝트를 공유하려고 하면 사용자에게 '이 프로젝트를 삭제할 수 있는 권한이 없습니다' 오류가 표시됩니다. 이는 사용자가 프로젝트를 삭제하려고 하지 않았고 사용자가 프로젝트 소유자이며 프로젝트에 대한 공유 및 관리 액세스 권한이 있음에도 불구하고 발생합니다.”
+title: '프로젝트: 삭제 액세스 오류로 인해 프로젝트를 공유할 수 없음'
+description: 프로젝트를 공유하려고 할 때 사용자에게 오류가 표시됩니다. 이 프로젝트를 삭제할 권한이 없습니다. 이는 사용자가 프로젝트를 삭제하려고 하지 않았고 사용자가 프로젝트 소유자이며 프로젝트에 대한 공유 및 관리 액세스 권한이 있음에도 불구하고 발생합니다.
 hidefromtoc: true
 feature: Projects
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
+exl-id: 4eb533ed-babc-4ba8-8ac2-5c99e55b95b4
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
-
 
 # 프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음
 

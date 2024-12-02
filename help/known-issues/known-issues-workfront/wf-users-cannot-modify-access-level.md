@@ -1,13 +1,13 @@
 ---
-title: '“사용자: 사용자의 액세스 수준을 수정할 수 없음”'
+title: '사용자: 사용자의 액세스 수준을 수정할 수 없음'
 description: 그룹 관리자가 그룹 내 사용자의 액세스 수준을 수정하려고 하면 액세스 수준 필드가 비활성화되고 그룹 관리자가 사용자의 액세스 수준을 변경할 수 없습니다.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
 source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 

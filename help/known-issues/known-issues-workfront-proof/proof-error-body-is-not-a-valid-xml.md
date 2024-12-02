@@ -1,13 +1,13 @@
 ---
-title: 'Workfront 증명 API: 본문이 유효한 XML이 아님 오류'
-description: Workfront 증명 API 호출이 오류를 반환합니다.
+title: 'Workfront Proof API: 본문이 유효한 XML이 아님 오류'
+description: Workfront Proof API 호출이 오류를 반환합니다.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 feature: Workfront Proof
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 

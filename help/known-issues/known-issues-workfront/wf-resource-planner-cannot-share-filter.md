@@ -1,5 +1,5 @@
 ---
-title: '“리소스 플래너: 필터를 공유할 수 없음”'
+title: '리소스 플래너: 필터를 공유할 수 없음'
 description: 사용자가 [!UICONTROL 리소스 플래너]에서 필터를 공유하려고 하면 필터가 공유되지 않고 오류 메시지가 나타납니다.
 hidefromtoc: true
 feature: Resource Management
@@ -7,7 +7,7 @@ exl-id: 0f35655e-96b7-4279-b536-63106276efc3
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 

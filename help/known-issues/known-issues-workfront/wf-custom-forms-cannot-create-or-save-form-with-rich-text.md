@@ -1,11 +1,11 @@
 ---
-title: '“사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생”'
+title: '사용자 정의 양식: 사용자 정의 양식에서 표시 유형 전환 오류 발생'
 description: 서식이 있는 텍스트 필드로 인해 사용자 정의 양식에 오류가 표시됩니다.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

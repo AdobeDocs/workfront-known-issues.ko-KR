@@ -1,5 +1,5 @@
 ---
-title: '문서: SharePoint에서 연결되어 있는 문서에 액세스할 때 404 오류 발생'
+title: '문서: SharePoint에서 링크된 문서에 액세스할 때 404 오류 발생'
 description: 사용자가 SharePoint를 통해 연결된 문서에 액세스하려고 하면 404 오류가 있는 페이지로 이동합니다.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
@@ -7,7 +7,7 @@ exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 

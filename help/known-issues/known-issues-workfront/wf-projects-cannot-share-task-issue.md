@@ -1,5 +1,5 @@
 ---
-title: '“프로젝트: 공유 메뉴가 로드되지 않음”'
+title: '프로젝트: 공유 메뉴가 로드되지 않음 '
 description: 사용자가 작업이나 문제를 공유하려고 하면 Grant X Access 메뉴가 계속 로드되고 사용자가 작업이나 문제를 공유할 수 없습니다.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management

@@ -1,10 +1,11 @@
 ---
-title: '“우선순위: 그룹화를 적용하면 정렬 및 인라인 편집이 불가능함”'
-description: “우선순위 작업 목록에 그룹화가 적용되면 정렬할 수 없으며 작업 목록의 필드에 대한 인라인 편집 기능이 작동하지 않습니다.”
+title: '우선순위: 그룹화를 적용하면 정렬 및 인라인 편집이 불가능함'
+description: 우선순위 작업 목록에 그룹화가 적용되면 정렬할 수 없으며 작업 목록의 필드에 대한 인라인 편집 기능이 작동하지 않습니다.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
+exl-id: 9b36df42-30ea-47d2-b791-114d59429480
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

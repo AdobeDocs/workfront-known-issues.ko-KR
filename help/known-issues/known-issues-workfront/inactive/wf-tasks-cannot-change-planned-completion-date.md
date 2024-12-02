@@ -1,13 +1,13 @@
 ---
-title: '작업: 작업의 계획된 완료 일자를 변경할 수 없음'
-description: '사용자가 작업의 계획된 완료 일자를 변경하려고 할 때 필드가 응답하지 않습니다. '
+title: '작업: 작업의 계획된 완료 일자 를 변경할 수 없음'
+description: '사용자가 작업의 계획된 완료 일자 를 변경하려고 할 때 필드가 응답하지 않습니다. '
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 77%
 
 ---
 

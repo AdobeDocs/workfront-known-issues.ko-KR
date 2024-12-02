@@ -1,5 +1,5 @@
 ---
-title: '업데이트: 업데이트 영역에서 현재 날짜의 시간을 기록할 수 없음'
+title: '업데이트: 업데이트 영역에 현재 날짜의 시간을 기록할 수 없음'
 description: 사용자가 업데이트 영역에서 현재 날짜의 시간을 기록하려고 하면 현재 날짜가 회색으로 표시되고 사용자가 시간을 입력할 수 없습니다.
 hidefromtoc: true
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc
@@ -7,7 +7,7 @@ feature: Updates and Notifications
 source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 

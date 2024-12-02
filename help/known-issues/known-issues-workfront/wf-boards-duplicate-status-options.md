@@ -1,10 +1,11 @@
 ---
-title: '“보드: 작업 및 문제에 대한 상태 옵션 중복됨”'
+title: '보드: 작업 및 문제에 대한 상태 옵션 중복됨'
 description: 보드에서 작업이나 문제의 상태를 업데이트할 때 특정 상태에 대한 중복 옵션이 나타납니다.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
+exl-id: 61f34f9e-6081-4ebc-bfcf-92bdd651a4db
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

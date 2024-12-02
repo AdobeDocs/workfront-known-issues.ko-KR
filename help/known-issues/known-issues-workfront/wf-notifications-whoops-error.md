@@ -1,15 +1,15 @@
 ---
-title: '“알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생”'
-description: “사용자가 알림 환경 설정을 보려고 할 때 오류 메시지가 표시됩니다.”
+title: '알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생'
+description: 사용자가 알림 환경 설정을 보려고 하면 오류가 표시됩니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: ht
+exl-id: 6258c5e6-e16b-4bf6-92e8-c4ab3d3866ce
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
-
 
 # 알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생
 

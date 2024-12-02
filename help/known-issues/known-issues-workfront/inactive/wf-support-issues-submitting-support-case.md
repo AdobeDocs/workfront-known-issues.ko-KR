@@ -1,13 +1,13 @@
 ---
-title: '[!DNL Workfront]: Experience League에서 Workfront 지원 사례를 제출할 때 문제 발생'
-description: “ [!DNL Workfront] 공인 지원 담당자이며 지원 사례를 제출하는 데 문제가 있는 경우 아래 번호로 전화하여 도움을 받으십시오.”
+title: '[!DNL Workfront]: Experience League 시 Workfront 지원 사례를 제출할 때 문제 발생'
+description: '" [!DNL Workfront] 공인 지원 담당자이며 지원 사례를 제출하는 데 문제가 있는 경우 아래 번호로 전화하여 도움을 받으십시오.'
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Fusion: 메모리 부족 오류'
+title: 'Workfront Fusion: 낮은 메모리 오류 발생'
 description: 낮은 메모리 오류와 함께 시나리오 실행이 실패합니다. 이전에 시나리오가 정상적으로 실행된 경우에도 이러한 오류가 발생할 수 있습니다.
 hidefromtoc: true
 feature: Workfront Fusion
@@ -7,7 +7,7 @@ exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
 source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

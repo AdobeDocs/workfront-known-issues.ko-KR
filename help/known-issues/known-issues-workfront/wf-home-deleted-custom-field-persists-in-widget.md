@@ -1,10 +1,11 @@
 ---
-title: '“홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨”'
+title: '홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨'
 description: '홈의 프로젝트, 작업 또는 문제 위젯(예: 내 프로젝트)에 사용자 정의 필드를 추가한 후 해당 사용자 정의 필드를 삭제해도 값이 없는 상태로 계속 표시됩니다.'
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
+exl-id: 715e385e-5c9a-4429-82a8-83ad1eb1a2a3
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
 

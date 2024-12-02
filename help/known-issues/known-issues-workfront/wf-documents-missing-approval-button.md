@@ -1,11 +1,11 @@
 ---
-title: '“문서: 문서에 승인 옵션 버튼이 누락됨”'
+title: '문서: 문서에 승인 옵션 버튼이 누락됨'
 description: 문서에 대한 승인자로 할당된 사용자가 문서로 이동하여 승인 결정을 내릴 때, 승인 옵션 버튼이 없습니다.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 5172fa74-f3bc-4fe0-abdf-30ef640ef247
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 

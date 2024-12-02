@@ -1,11 +1,11 @@
 ---
-title: '“프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음”'
+title: '프로젝트: 문서가 첨부된 경우 문제를 프로젝트로 전환할 수 없음'
 description: 문제에 문서가 포함되어 있고 사용자가 해당 문제를 프로젝트로 전환하려고 하면 전환이 실패하고 프로젝트가 생성되지 않습니다. 사용자에게 오류 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

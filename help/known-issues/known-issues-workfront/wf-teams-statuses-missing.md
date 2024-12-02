@@ -1,5 +1,5 @@
 ---
-title: '팀: 완료 버튼에 대한 팀 상태 설정 문제'
+title: '팀: 완료 단추에 대한 팀 상태 설정 문제 '
 description: 팀을 편집하거나 만들 때 [!UICONTROL 완료] 단추의 상태와 관련된 문제가 보고되었습니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: People Teams and Groups

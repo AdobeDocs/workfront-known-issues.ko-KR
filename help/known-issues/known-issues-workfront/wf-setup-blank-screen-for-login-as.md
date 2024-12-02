@@ -1,15 +1,15 @@
 ---
-title: '“설정: 다음으로 로그인 기능을 사용하면 빈 화면이 표시됨”'
-description: “관리자가 다른 사용자로 로그인하면 해당 사용자의 계정이 아닌 빈 화면이 표시됩니다.”
+title: '설정: 다음으로 로그인 빈 화면'
+description: 관리자가 다른 사용자로 로그인하면 해당 사용자의 계정이 아닌 빈 화면이 표시됩니다.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: ht
+exl-id: 53068b8c-b5f8-45b1-8e03-43c7a7a51eef
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
-
 
 # 설정: “다음으로 로그인” 기능을 사용하면 빈 화면이 표시됨
 

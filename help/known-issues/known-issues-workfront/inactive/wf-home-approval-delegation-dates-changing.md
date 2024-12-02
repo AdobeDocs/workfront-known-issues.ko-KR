@@ -7,7 +7,7 @@ feature: Approvals
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

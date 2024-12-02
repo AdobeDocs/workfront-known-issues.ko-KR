@@ -1,11 +1,11 @@
 ---
-title: '“홈: 내 업데이트 위젯이 작동하지 않음”'
+title: '홈: 내 업데이트 위젯이 작동하지 않음'
 description: 사용자가 홈에서 내 업데이트 위젯을 보려고 할 때 위젯이 나타나지 않고 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: caa1cd37-825f-45bc-add8-48b6c0f09814
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront, Digital Content and Documents
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 

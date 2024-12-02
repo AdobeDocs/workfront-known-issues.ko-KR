@@ -1,10 +1,11 @@
 ---
-title: '“통합: Unified Shell에서 조직에 대한 JumpSeat 통합이 실패함”'
+title: '통합: Unified Shell에서 조직에 대한 JumpSeat 통합이 실패함'
 description: 사용자의 조직이 Adobe Unified Shell로 마이그레이션될 때 기존 JumpSeat 통합이 작동하지 않습니다.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
+exl-id: 0476729e-4e25-4180-84b5-d6b59ae90de8
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 

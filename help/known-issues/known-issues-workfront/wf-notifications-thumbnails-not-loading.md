@@ -1,11 +1,11 @@
 ---
-title: '“알림: 이메일 알림에 썸네일이 표시되지 않음”'
+title: '알림: 이메일 알림에 썸네일이 표시되지 않음'
 description: 사용자가 문서 승인에 관한 이메일 알림을 볼 때 문서 썸네일이 이메일에 표시되지 않습니다.
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 

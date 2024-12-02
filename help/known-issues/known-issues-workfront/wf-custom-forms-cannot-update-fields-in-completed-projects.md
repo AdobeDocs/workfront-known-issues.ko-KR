@@ -1,15 +1,15 @@
 ---
-title: '“사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음”'
-description: “”
+title: '사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음'
+description: null
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: ht
+exl-id: b5283181-16fc-4111-bf8f-d6b914297f61
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
 ---
-
 
 # 사용자 정의 양식: 완료된 프로젝트에서 사용자 정의 데이터를 업데이트할 수 없음
 

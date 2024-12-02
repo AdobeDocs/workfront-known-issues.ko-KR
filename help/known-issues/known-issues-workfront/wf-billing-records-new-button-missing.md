@@ -1,11 +1,11 @@
 ---
-title: '“청구 기록: 청구 기록 추가 버튼이 누락됨”'
+title: '청구 기록: 청구 기록 추가 버튼이 누락됨'
 description: 사용자가 청구 기록 목록을 조회하고 새 기록을 추가하려고 하면 페이지 상단에 새 청구 기록 추가 버튼이 표시되지 않습니다.
 hidefromtoc: true
 feature: Work Management
 exl-id: 131ac94b-af89-4e41-acba-e8eeacd290af
 source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 

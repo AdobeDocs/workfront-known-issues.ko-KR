@@ -1,5 +1,5 @@
 ---
-title: '“이메일 알림: 사용자가 댓글 스레드로 이동되지 않음”'
+title: '이메일 알림: 사용자가 댓글 스레드로 이동되지 않음'
 description: 사용자가 이메일 알림의 댓글 링크를 클릭하면 답글을 달려는 댓글 스레드 대신 [!UICONTROL 업데이트] 영역의 상단으로 이동됩니다.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications

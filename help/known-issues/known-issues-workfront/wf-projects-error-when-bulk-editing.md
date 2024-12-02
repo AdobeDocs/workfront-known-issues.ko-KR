@@ -1,15 +1,15 @@
 ---
-title: '“프로젝트: 프로젝트 일괄 편집 시 오류 발생”'
-description: “사용자가 프로젝트 일괄 편집을 시도하면 편집 창은 비어 있고 사용자에게 오류가 표시됩니다.”
+title: '프로젝트: 프로젝트 일괄 편집 시 오류 발생'
+description: 사용자가 프로젝트를 일괄 편집하려고 할 때 편집 창이 비어 있고 오류가 표시됩니다.
 hidefromtoc: true
 feature: Projects
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+exl-id: dd41e8b8-42af-425a-815f-29c3f303b27f
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
-
 
 # 프로젝트: 프로젝트 일괄 편집 시 오류 발생
 

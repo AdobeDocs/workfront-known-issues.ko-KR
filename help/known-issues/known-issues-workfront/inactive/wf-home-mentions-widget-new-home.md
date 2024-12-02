@@ -1,5 +1,5 @@
 ---
-title: '“홈: 새 홈의 언급 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.”'
+title: '홈: 새 홈의 언급 위젯은 사용자가 태그 지정된 메시지로 제한되지 않습니다.'
 description: 사용자가 새 홈 경험에서 언급 위젯을 조회할 때 태그가 지정되지 않았거나 언급되지 않은 댓글이 표시됩니다.
 hidefromtoc: true
 feature: Get Started with Workfront
@@ -7,7 +7,7 @@ exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 

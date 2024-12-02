@@ -1,13 +1,13 @@
 ---
-title: '“다음으로 로그인: [다음으로 로그인]에서 로그아웃할 때 홈 및 핀이 부정확하게 표시됨”'
+title: '다음으로 로그인: 다음으로 로그아웃할 때 홈 및 핀이 잘못 표시됨'
 description: 다른 사용자로 로그인한 사용자가 해당 사용자로 로그아웃하면 홈 화면에 다음과 같은 문제가 표시됩니다.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
 exl-id: 3614563d-7f53-4632-b09f-2874133aa217
 source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 

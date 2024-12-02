@@ -1,11 +1,11 @@
 ---
-title: '“보드: 카드에서 문서를 미리보기하거나 다운로드할 수 없음”'
+title: '보드: 카드에서 문서를 미리 보거나 다운로드할 수 없음'
 description: 세부 카드 보기의 문서 섹션에서 Word 문서(.docx)를 미리보기하거나 다운로드할 수 없습니다.
 hidefromtoc: true
 feature: Agile
 exl-id: 2fd644b6-b7c0-47b1-9de5-93fc35069b63
 source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

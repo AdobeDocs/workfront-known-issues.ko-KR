@@ -1,11 +1,11 @@
 ---
-title: '“사용자 정의 양식: 여러 값을 선택하면 드롭다운이 닫힘”'
-description: “사용자가 사용자 정의 양식 필드에서 여러 값을 선택하려고 하면 첫 번째 값을 선택한 후 드롭다운이 닫힙니다. ”
+title: ' 사용자 정의 양식: 여러 값을 선택하면 드롭다운이 닫힘'
+description: '사용자가 사용자 정의 양식 필드에서 여러 값을 선택하려고 하면 첫 번째 값을 선택한 후 드롭다운이 닫힙니다. '
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 0313e7d9-b5b2-4871-a133-da3e78052ab9
 source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 

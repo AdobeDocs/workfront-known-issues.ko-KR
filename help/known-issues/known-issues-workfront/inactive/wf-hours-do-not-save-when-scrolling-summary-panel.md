@@ -1,6 +1,6 @@
 ---
-title: '작업: 작업 [!UICONTROL 요약 패널에 시간을 입력할 때 시간이 저장되지 않음]'
-description: “사용자가 해당 작업의 요약 패널에서 작업 시간을 입력하려고 할 때 시간이 저장되지 않습니다. 사용자가 시간을 입력한 사각형에 커서를 놓고 [!UICONTROL 요약 패널]을 스크롤할 때 이러한 문제가 발생합니다.”
+title: '작업: 작업 [!UICONTROL 요약 패널]에 시간을 입력할 때 시간이 저장되지 않음'
+description: '사용자가 해당 작업의 요약 패널에서 작업 시간을 입력하려고 할 때 시간이 저장되지 않습니다. 사용자가 시간을 입력한 사각형에 커서를 놓고 [!UICONTROL 요약 패널]을 스크롤할 때 이러한 문제가 발생합니다.   '
 hidefromtoc: true
 feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579

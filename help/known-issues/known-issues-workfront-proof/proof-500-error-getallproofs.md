@@ -1,6 +1,6 @@
 ---
-title: "Workfront Proof: API 또는 Workfront Fusion을 통해 Workfront Proof에 액세스할 때 500 오류 발생"
-description: "사용자가 Proof API getAllProof 작업에 액세스하면 Workfront Proof 서버가 500 내부 서버 오류 메시지를 반환합니다."
+title: 'Workfront Proof: API 또는 Workfront Fusion을 통해 Workfront Proof에 액세스할 때 500 오류 발생'
+description: 사용자가 Proof API getAllProof 작업에 액세스하면 Workfront Proof 서버가 500 내부 서버 오류 메시지를 반환합니다.
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862

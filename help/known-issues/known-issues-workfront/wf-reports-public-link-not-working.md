@@ -1,6 +1,6 @@
 ---
-title: '“보고서: 보고서에 대한 공개 링크가 작동하지 않음”'
-description: “사용자가 보고서에 대한 공개 링크를 클릭하면 오류가 나타납니다. 구체적인 오류는 사용자가 사용하는 브라우저에 따라 다릅니다. ”
+title: '보고서: 보고서에 대한 공개 링크가 작동하지 않음'
+description: '사용자가 보고서에 대한 공개 링크를 클릭하면 오류가 나타납니다. 구체적인 오류는 사용자가 사용하는 브라우저에 따라 다릅니다. '
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c
