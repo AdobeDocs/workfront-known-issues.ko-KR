@@ -4,14 +4,18 @@ description: 상위 작업에 경과 일수 계산에 포함된 하위 작업이
 hidefromtoc: true
 feature: Tasks
 exl-id: 7995103f-bb3d-43f6-93c2-17c875b73e2b
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
 
 # 작업: 하위 작업이 있는 상위 작업의 경과 일수가 올바르지 않음
+
+>[!NOTE]
+>
+>이 문제는 설계대로 작동하는 것이므로 종결되었습니다.
 
 상위 작업에 경과 일수 계산에 포함된 하위 작업이 있는 경우, 상위 작업의 경과 일수가 하위 작업의 경과 일수를 합친 것보다 더 적은 것으로 잘못 표시됩니다.
 

@@ -4,14 +4,18 @@ description: 사용자가 양식 빌더에서 사용자 정의 양식에 “esti
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 018ad614-9ba8-43bf-8c0e-f90cd322e6ee
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # 사용자 정의 양식: “estimateByHours” 또는 “hoursPerPoint” 작업 필드를 추가할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2024년 12월 5일 금요일에 수정되었습니다.
 
 사용자가 양식 빌더에서 사용자 정의 양식에 “estimateByHours” 또는 “hoursPerPoint” 필드를 추가하려고 하면 “잘못된 사용자 정의 표현식입니다. 다시 시도해 주십시오.”라는 오류 메시지가 표시됩니다.
 
