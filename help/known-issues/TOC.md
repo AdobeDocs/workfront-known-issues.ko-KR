@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2166'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [승인: 위임에 대해 위임된 승인이 표시되지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [문서: 문서에 양식을 추가할 때 &quot;저장되지 않은 변경 사항&quot; 오류 발생](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [작업: 완료된 전임 작업에도 불구하고 시작 준비 필드가 업데이트되지 않음](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
-      + [Workfront: 애플리케이션 전체에서 날짜 형식 변경](known-issues-workfront/wf-workfront-date-format-changing.md)
+      + [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류 발생](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [작업: 전임 작업이 완료됨에도 불구하고 시작할 준비 완료 필드가 업데이트되지 않음](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront: 애플리케이션 전체에서 날짜 형식이 변경됨](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: ZScaler 설정으로 인해 성능이 저하될 수 있음](known-issues-workfront//wf-workfront-zscaler.md)
       + [타임시트: 참여자 사용자에게 “승인을 위해 제출” 버튼이 있음](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)

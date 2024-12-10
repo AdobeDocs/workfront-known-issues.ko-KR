@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
 source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 12월 5일 금요일에 해결되었습니다.
+>이 문제는 2024년 12월 5일에 해결되었습니다.
 
 관리자가 사용자의 홈 레이아웃 템플릿을 편집하려고 하면 인터페이스가 응답하지 않고 변경 사항을 저장할 수 없습니다.
 
