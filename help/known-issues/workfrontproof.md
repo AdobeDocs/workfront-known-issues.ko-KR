@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '428'
-ht-degree: 100%
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 95%
 
 ---
 
@@ -39,6 +39,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024년 12월 11일 목요일 |
+| [증명: 증명 이름이 브라우저 탭에 표시되지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024년 12월 11일 목요일 |
+| [증명: Webcapture 증명이 생성되지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 11일 목요일 |
 | [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 |

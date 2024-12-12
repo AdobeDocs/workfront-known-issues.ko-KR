@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '2166'
-ht-degree: 100%
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
+workflow-type: tm+mt
+source-wordcount: '2214'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [애자일: 반복에서 스토리를 일괄 편집할 수 없음](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [증명: 증명에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [증명: 증명 이름이 브라우저 탭에 표시되지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [작업: 개인 작업을 추가할 때 죄송합니다 오류 발생](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [증명: Webcapture 증명이 생성되지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류 발생](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [작업: 전임 작업이 완료됨에도 불구하고 시작할 준비 완료 필드가 업데이트되지 않음](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 100%
       + [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [교정쇄: 교정쇄에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [작업: 작업을 추가하거나 삭제할 때 데이터베이스 오류(이전 Bizcontext 오류)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [레이아웃 템플릿: 랜딩 페이지가 잘못됨](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [보고서: 보고서 필터가 예상한 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [프로젝트: 웹 교정쇄가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '1111'
-ht-degree: 100%
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+workflow-type: tm+mt
+source-wordcount: '1165'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [애자일: 반복에서 스토리를 일괄 편집할 수 없음](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024년 12월 5일 |
 | [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024년 12월 5일 |
 | [문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류 발생](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024년 12월 5일 |
 | [작업: 전임 작업이 완료됨에도 불구하고 시작할 준비 완료 필드가 업데이트되지 않음](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024년 12월 3일 |
@@ -53,6 +54,11 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [사용자 정의 양식: 사용자 정의 데이터가 요약 패널에 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 목요일 |
+| [증명: 증명에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024년 12월 11일 목요일 |
+| [증명: 증명 이름이 브라우저 탭에 표시되지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024년 12월 11일 목요일 |
+| [작업: 개인 작업을 추가할 때 죄송합니다 오류 발생](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024년 12월 11일 목요일 |
+| [증명: Webcapture 증명이 생성되지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 11일 목요일 |
 | [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 12월 3일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 10월 24일 |
@@ -63,7 +69,6 @@ ht-degree: 100%
 | [알림: 알림 환경 설정 도중 “죄송합니다” 오류 발생](known-issues-workfront/wf-notifications-whoops-error.md) | 2024년 8월 8일 |
 | [액세스 수준: 설정 영역에서 액세스 수준이 중복됨](known-issues-workfront/wf-access-duplicate-level.md) | 2024년 7월 25일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024년 4월 11일 |
-| [작업: 작업을 추가하거나 삭제할 때 Bizcontext 오류 발생](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 4월 4일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
 {style="table-layout:auto"}
@@ -74,6 +79,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [작업: 작업을 추가하거나 삭제할 때 데이터베이스 오류가 발생했습니다(이전 Bizcontext 오류)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 12월 10일 수요일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 |
 | [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024년 12월 5일 |
 | [Workfront: 참여자 사용자가 프로그램 또는 포트폴리오에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024년 12월 5일 |
