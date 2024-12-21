@@ -3,14 +3,19 @@ title: '작업: 전임 작업이 완료됨에도 불구하고 시작할 준비 �
 description: 모든 필수 전임 작업이 완료로 표시되었음에도 불구하고 전임 작업이 포함된 작업의 시작할 준비 완료 필드가 True로 업데이트되지 않습니다.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '70'
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 # 작업: 전임 작업이 완료됨에도 불구하고 시작할 준비 완료 필드가 업데이트되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2024년 12월 9일 화요일에 해결되었습니다.
 
 모든 필수 전임 작업이 완료로 표시되었음에도 불구하고 전임 작업이 포함된 작업의 시작할 준비 완료 필드가 True로 업데이트되지 않습니다.
 

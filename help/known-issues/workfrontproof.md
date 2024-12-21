@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: ht
-source-wordcount: '452'
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '445'
 ht-degree: 100%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [교정쇄: 교정쇄에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024년 12월 11일 |
 | [교정쇄: 교정쇄 이름이 브라우저 탭에 나타나지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024년 12월 11일 |
-| [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 11일 |
 | [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 |
@@ -57,6 +55,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 토요일 |
 | [교정쇄: 압축된 교정쇄 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 6월 7일 |
 | [교정쇄: 이메일 링크에서 교정쇄 공유 시 오류 발생](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023년 11월 16일 |
 | [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |

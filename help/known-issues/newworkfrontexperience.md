@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: ht
-source-wordcount: '1165'
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '1135'
 ht-degree: 100%
 
 ---
@@ -25,14 +25,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [애자일: 반복 작업에서 스토리를 일괄 편집할 수 없음](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024년 12월 5일 |
-| [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024년 12월 5일 |
 | [문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류 발생](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024년 12월 5일 |
-| [작업: 전임 작업이 완료됨에도 불구하고 시작할 준비 완료 필드가 업데이트되지 않음](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024년 12월 3일 |
-| [Workfront: 애플리케이션 전체에서 날짜 형식이 변경됨](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024년 12월 3일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 12월 3일 |
 | [작업: 타임라인 재계산 문제](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024년 12월 3일 |
-| [문서: 승인 “빠른 추가”에 새 버전에 대한 기한 항목이 포함되지 않음](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024년 11월 13일 |
 | [사용자: 로그인 후에도 “등록되지 않음” 태그가 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024년 11월 13일 |
 | [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024년 11월 12일 |
 | [Workfront Mobile: iPhone에서 교정쇄 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
@@ -54,11 +49,10 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [사용자 정의 양식: “estimateByHours” 또는 “hoursPerPoint” 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024년 12월 20일 토요일 |
 | [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 |
-| [교정쇄: 교정쇄에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024년 12월 11일 |
 | [교정쇄: 교정쇄 이름이 브라우저 탭에 나타나지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024년 12월 11일 |
 | [작업: 개인 작업을 추가할 때 오류 발생](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024년 12월 11일 |
-| [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 11일 |
 | [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 12월 3일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 10월 24일 |
@@ -79,6 +73,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 토요일 |
+| [Workfront: 애플리케이션 전체에서 날짜 형식이 변경됨](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024년 12월 20일 토요일 |
+| [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024년 12월 20일 토요일 |
 | [작업: 작업을 추가하거나 삭제할 때 데이터베이스 오류 발생 (이전의 Bizcontext 오류)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 12월 10일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 |
 | [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024년 12월 5일 |
