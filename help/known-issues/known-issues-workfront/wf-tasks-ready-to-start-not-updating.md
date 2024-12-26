@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Tasks
 exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2024년 12월 9일 화요일에 해결되었습니다.
+>이 문제는 2024년 12월 9일에 해결되었습니다.
 
 모든 필수 전임 작업이 완료로 표시되었음에도 불구하고 전임 작업이 포함된 작업의 시작할 준비 완료 필드가 True로 업데이트되지 않습니다.
 
