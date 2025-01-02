@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: ht
-source-wordcount: '2214'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '2268'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [업데이트: 업데이트 영역의 로그 시간 레이블에 기록된 시간이 표시되지 않음](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [알림: Workfront Mobile 앱에 대한 푸시 알림이 작동하지 않습니다](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [문서: 문서 영역에 모든 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [사용자 정의 양식: 열을 통해 사용자 정의 양식을 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [요청 및 문제: 고급 사용자 할당 관련 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [애자일: 반복 작업에서 스토리를 일괄 편집할 수 없음](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [교정쇄: 교정쇄에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md)

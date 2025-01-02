@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: ht
-source-wordcount: '445'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 문서 영역에 모든 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024년 1월 2일 |
 | [Workfront Mobile: iPhone에서 교정쇄 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [애자일: 하위 작업을 추가할 때 스토리 보드가 비어 있음](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024년 7월 26일 |
 | [교정쇄: 교정쇄를 열면 여러 사본이 열림](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024년 7월 25일 |
