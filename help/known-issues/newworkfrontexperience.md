@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 93%
+source-wordcount: '1246'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [사용자 정의 양식: 사용자 정의 양식이 기존 형식으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024년 1월 3일 목요일 |
+| [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024년 1월 3일 목요일 |
 | [업데이트: 업데이트 영역의 로그 시간 레이블에 기록된 시간이 표시되지 않습니다](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024년 1월 2일 |
 | [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024년 1월 2일 |
 | [알림: Workfront Mobile 앱에 대한 푸시 알림이 작동하지 않습니다](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024년 1월 2일 |

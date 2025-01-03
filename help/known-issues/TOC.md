@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 96%
+source-wordcount: '2313'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [사용자 정의 양식: 사용자 정의 양식이 이전 형식으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [보드: 카드를 다른 열로 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
       + [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [사용자: 사용자 벌크 업데이트가 매우 느립니다.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
