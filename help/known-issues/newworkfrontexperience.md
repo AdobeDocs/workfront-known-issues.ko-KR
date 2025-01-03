@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 95%
+source-wordcount: '1230'
+ht-degree: 93%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [보드: 다른 열로 카드를 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025년 1월 2일 금요일 |
+| [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025년 1월 2일 금요일 |
+| [사용자: 사용자 대량 업데이트가 매우 느립니다](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025년 1월 2일 금요일 |
+| [사용자 정의 양식: 라디오 단추가 가로로 나열됨](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025년 1월 2일 금요일 |
 | [요청 및 문제: 고급 사용자 할당 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025년 1월 2일 금요일 |
 | [사용자 정의 양식: “estimateByHours” 또는 “hoursPerPoint” 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024년 12월 20일 |
 | [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 |

@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2268'
-ht-degree: 97%
+source-wordcount: '2299'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [보드: 카드를 다른 열로 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [사용자: 사용자 벌크 업데이트가 매우 느립니다.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [사용자 정의 양식: 라디오 버튼이 가로로 나열됨](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [업데이트: 업데이트 영역의 로그 시간 레이블에 기록된 시간이 표시되지 않음](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [알림: Workfront Mobile 앱에 대한 푸시 알림이 작동하지 않습니다](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
