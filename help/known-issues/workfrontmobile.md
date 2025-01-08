@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
 source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 86%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [알림: Workfront Mobile 앱에 대한 푸시 알림이 작동하지 않습니다](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024년 1월 2일 |
+| [알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 않음](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024년 1월 2일 |
 | [Workfront Mobile: iPhone에서 교정쇄 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 
 <!--
