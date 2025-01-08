@@ -5,7 +5,7 @@ role: User
 source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
 source-wordcount: '2313'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 95%
       + [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [사용자: 사용자 벌크 업데이트가 매우 느립니다.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [사용자 정의 양식: 라디오 버튼이 가로로 나열됨](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [업데이트: 업데이트 영역의 로그 시간 레이블에 기록된 시간이 표시되지 않음](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [업데이트: 기록된 시간이 업데이트 영역의 시간 기록 레이블에 표시되지 않음](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md)
-      + [알림: Workfront Mobile 앱에 대한 푸시 알림이 작동하지 않습니다](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [문서: 문서 영역에 모든 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 않음](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [문서: 문서 영역에 일부 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
       + [사용자 정의 양식: 열을 통해 사용자 정의 양식을 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [요청 및 문제: 고급 사용자 할당 관련 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
+      + [요청 및 문제: 고급 사용자 할당 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [애자일: 반복 작업에서 스토리를 일괄 편집할 수 없음](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [교정쇄: 교정쇄에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md)

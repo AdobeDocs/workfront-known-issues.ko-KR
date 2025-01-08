@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
 source-wordcount: '1246'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -27,10 +27,10 @@ ht-degree: 92%
 | ----------------------------------------------------------------- | ----------------- |
 | [사용자 정의 양식: 사용자 정의 양식이 기존 형식으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024년 1월 3일 목요일 |
 | [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024년 1월 3일 목요일 |
-| [업데이트: 업데이트 영역의 로그 시간 레이블에 기록된 시간이 표시되지 않습니다](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024년 1월 2일 |
+| [업데이트: 기록된 시간이 업데이트 영역의 시간 기록 레이블에 표시되지 않음](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024년 1월 2일 |
 | [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024년 1월 2일 |
-| [알림: Workfront Mobile 앱에 대한 푸시 알림이 작동하지 않습니다](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024년 1월 2일 |
-| [문서: 문서 영역에 모든 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024년 1월 2일 |
+| [알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 않음](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024년 1월 2일 |
+| [문서: 문서 영역에 일부 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024년 1월 2일 |
 | [사용자 정의 양식: 열을 통해 사용자 정의 양식을 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024년 1월 2일 |
 | [문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류 발생](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024년 12월 5일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 12월 3일 |
@@ -56,11 +56,11 @@ ht-degree: 92%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
-| [보드: 다른 열로 카드를 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025년 1월 2일 금요일 |
-| [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025년 1월 2일 금요일 |
-| [사용자: 사용자 대량 업데이트가 매우 느립니다](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025년 1월 2일 금요일 |
-| [사용자 정의 양식: 라디오 단추가 가로로 나열됨](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025년 1월 2일 금요일 |
-| [요청 및 문제: 고급 사용자 할당 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025년 1월 2일 금요일 |
+| [보드: 다른 열로 카드를 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025년 1월 2일 |
+| [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025년 1월 2일 |
+| [사용자: 사용자 대량 업데이트가 매우 느립니다](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025년 1월 2일 |
+| [사용자 정의 양식: 라디오 단추가 가로로 나열됨](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025년 1월 2일 |
+| [요청 및 문제: 고급 사용자 할당 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025년 1월 2일 |
 | [사용자 정의 양식: “estimateByHours” 또는 “hoursPerPoint” 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024년 12월 20일 |
 | [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 |
 | [교정쇄: 교정쇄 이름이 브라우저 탭에 나타나지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024년 12월 11일 |
