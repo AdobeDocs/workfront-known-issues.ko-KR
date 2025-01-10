@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '2336'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 97%
       + [홈: 승인 대기 중 위젯에서 승인 버튼이 없음](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [사용자: 시스템 관리자를 변경할 때 중복 계정이 생성됨](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [프로젝트: 지연 상태가 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [사용자 정의 양식: 사용자 정의 양식이 이전 형식으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [사용자 정의 양식: 사용자 정의 양식이 이전 포맷으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [보드: 카드를 다른 열로 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md)
-      + [사용자: 사용자 벌크 업데이트가 매우 느립니다.](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “잘못된 필드” 메시지 발생](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [사용자: 사용자 대량 업데이트가 매우 느림](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [사용자 정의 양식: 라디오 버튼이 가로로 나열됨](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [업데이트: 기록된 시간이 업데이트 영역의 시간 기록 레이블에 표시되지 않음](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md)

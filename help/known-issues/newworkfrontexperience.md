@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -28,8 +28,8 @@ ht-degree: 94%
 | [홈: 승인 대기 중인 위젯에서 승인 버튼이 없음](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025년 1월 9일 금요일 |
 | [사용자: 시스템 관리자를 변경할 때 중복 계정이 생성됨](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025년 1월 9일 금요일 |
 | [프로젝트: 지연된 상태가 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025년 1월 9일 금요일 |
-| [사용자 정의 양식: 사용자 정의 양식이 기존 형식으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024년 1월 3일 목요일 |
-| [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024년 1월 3일 목요일 |
+| [사용자 정의 양식: 사용자 정의 양식이 이전 포맷으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024년 1월 3일 |
+| [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024년 1월 3일 |
 | [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024년 1월 2일 |
 | [알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 않음](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024년 1월 2일 |
 | [사용자 정의 양식: 열을 통해 사용자 정의 양식을 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024년 1월 2일 |
@@ -57,9 +57,9 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
-| [보드: 다른 열로 카드를 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025년 1월 2일 |
-| [사용자 정의 양식: 사용자 정의 양식을 편집할 때 &quot;잘못된 필드&quot; 메시지](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025년 1월 2일 |
-| [사용자: 사용자 대량 업데이트가 매우 느립니다](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025년 1월 2일 |
+| [보드: 카드를 다른 열로 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025년 1월 2일 |
+| [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “잘못된 필드” 메시지 발생](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025년 1월 2일 |
+| [사용자: 사용자 대량 업데이트가 매우 느림](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025년 1월 2일 |
 | [요청 및 문제: 고급 사용자 할당 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025년 1월 2일 |
 | [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 |
 | [교정쇄: 교정쇄 이름이 브라우저 탭에 나타나지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024년 12월 11일 |
