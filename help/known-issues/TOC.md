@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '2313'
-ht-degree: 98%
+source-wordcount: '2336'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [홈: 승인 대기 중 위젯에서 승인 버튼이 없음](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [사용자: 시스템 관리자를 변경할 때 중복 계정이 생성됨](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [프로젝트: 지연 상태가 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [사용자 정의 양식: 사용자 정의 양식이 이전 형식으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [보드: 카드를 다른 열로 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
