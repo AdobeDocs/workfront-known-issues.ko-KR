@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Tasks
 exl-id: afe057ed-662c-4beb-98db-e11b58b97165
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2024년 12월 26일 금요일에 수정되었습니다.
+>이 문서는 2024년 12월 26일에 수정되었습니다.
 
 개인 작업에 대한 작업 목록을 조회 중인 사용자가 “작업 추가” 버튼을 클릭하여 새 작업을 만들려고 해도 작업이 생성되지 않으며 다음과 같은 오류 메시지가 표시됩니다.
 

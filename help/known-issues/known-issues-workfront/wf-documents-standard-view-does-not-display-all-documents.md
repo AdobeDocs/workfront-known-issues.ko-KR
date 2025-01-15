@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3c208da4-4f75-44ef-824e-50aff523e5aa
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2025년 1월 9일 금요일에 수정되었습니다.
+>이 문서는 2025년 1월 9일에 수정되었습니다.
 
 사용자가 오브젝트의 문서 영역을 볼 때 문서에 첨부된 일부 문서가 표시되지 않습니다.
 

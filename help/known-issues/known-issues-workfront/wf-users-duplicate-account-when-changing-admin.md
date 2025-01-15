@@ -1,17 +1,18 @@
 ---
-title: '사용자: 시스템 관리자를 변경할 때 중복 계정이 생성됨'
-description: 시스템 기본 관리자가 다른 사용자로 변경되면 이름 "Admin User" 및 동일한 이메일 주소로 해당 사용자 계정의 복제본이 생성됩니다.
+title: '사용자: 시스템 관리자 변경 시 중복 계정 생성'
+description: 시스템의 기본 관리자가 다른 사용자로 변경되면 해당 사용자 계정의 복제본이 “관리자 사용자”라는 이름과 동일한 이메일 주소로 생성됩니다.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: c39a8765871393b457c81d01306255400e023be5
-workflow-type: tm+mt
+exl-id: 93319b7b-a182-4149-a1c8-08f5f71df094
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# 사용자: 시스템 관리자를 변경할 때 중복 계정이 생성됨
+# 사용자: 시스템 관리자 변경 시 중복 계정 생성
 
-시스템의 기본 관리자가 다른 사용자로 변경되면 이름 &quot;관리자 사용자&quot; 및 동일한 이메일 주소로 해당 사용자 계정의 복제본이 생성됩니다.
+시스템의 기본 관리자가 다른 사용자로 변경되면 해당 사용자 계정의 복제본이 “관리자 사용자”라는 이름과 동일한 이메일 주소로 생성됩니다.
 
-_2024년 12월 6일 토요일에 처음 보고되었습니다._
+_2024년 12월 6일에 처음 보고되었습니다._

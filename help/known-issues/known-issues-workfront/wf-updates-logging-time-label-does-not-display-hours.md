@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: e29be9fb-33d4-462d-9d69-83e5a1c682b7
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2025년 1월 9일 금요일에 수정되었습니다.
+>이 문서는 2025년 1월 9일에 수정되었습니다.
 
 사용자가 업데이트 영역에 시간을 기록하면 해당 시간이 시간 기록 탭 레이블에 표시됩니다. 그러나 사용자가 페이지를 새로 고치거나 페이지를 떠났다가 돌아오는 경우 해당 레이블에 시간이 표시되지 않습니다.
 
