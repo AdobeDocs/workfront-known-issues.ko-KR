@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '2336'
-ht-degree: 100%
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+workflow-type: tm+mt
+source-wordcount: '2356'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [작업: 기록된 시간이 이동되면 이전 프로젝트에 남아 있습니다.](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [보고서: 시간 보고서 필터에 잘못된 날짜가 포함됨](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
+      + [타임시트: 잘못된 총 시간](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
       + [홈: 승인 대기 위젯에서 승인 버튼 누락](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)

@@ -3,20 +3,19 @@ title: '문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 
 description: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류가 나타나 닫히지 않으며 애플리케이션과 상호 작용할 수 없습니다.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '87'
+exl-id: 18911774-ab76-458a-8c59-87695e151d2c
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
 
 # 문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류 발생
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>이 문서는 2025년 1월 16일 금요일에 수정되었습니다.
 
 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류가 나타나 닫히지 않으며 애플리케이션과 상호 작용할 수 없습니다.
 

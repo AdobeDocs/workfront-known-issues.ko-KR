@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: ht
-source-wordcount: '454'
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '444'
 ht-degree: 100%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [교정쇄: 교정쇄 이름이 브라우저 탭에 나타나지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024년 12월 11일 |
 | [문서: 미리보기 링크를 통해 문서를 미리 볼 수 없음](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024년 8월 15일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [문서 목록에 대한 보기를 만들 수 없음](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024년 7월 15일 |

@@ -3,15 +3,19 @@ title: '사용자 정의 양식: 열을 통해 사용자 정의 양식을 편집
 description: 사용자가 사용자 정의 양식에 대한 링크가 포함된 오브젝트 목록을 보고 링크를 클릭하여 사용자 정의 양식을 편집하려고 할 때 해당 양식을 편집할 수 없으며 오류 메시지가 표시됩니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: ht
-source-wordcount: '138'
+exl-id: 33d0d447-cde0-445f-80da-64f9a63814e9
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
 
-
 # 사용자 정의 양식: 열을 통해 사용자 정의 양식을 편집할 때 오류 발생
+
+>[!NOTE]
+>
+>이 문서는 2025년 1월 9일에 수정되었습니다.
 
 사용자가 사용자 정의 양식에 대한 링크가 포함된 오브젝트 목록을 보고 링크를 클릭하여 사용자 정의 양식을 편집하려고 할 때 해당 양식을 편집할 수 없으며 대신 다음과 같은 오류 메시지가 표시됩니다.
 

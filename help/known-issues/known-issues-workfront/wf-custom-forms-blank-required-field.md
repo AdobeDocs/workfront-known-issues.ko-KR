@@ -4,14 +4,18 @@ description: 사용자가 오브젝트의 세부 정보 영역에서 사용자 �
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 8e812a51-617f-4aa7-be29-184f018e9baa
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '168'
 ht-degree: 100%
 
 ---
 
 # 사용자 정의 양식: 사용자 정의 양식을 편집할 때 “잘못된 필드” 메시지 발생
+
+>[!NOTE]
+>
+>이 문서는 2025년 1월 13일 화요일에 수정되었습니다.
 
 사용자가 오브젝트의 세부 정보 영역에서 사용자 정의 양식을 편집할 때, 사용자 정의 양식 중 하나에 필수 필드가 현재 비어 있는 경우 사용자는 이들 양식을 편집할 수 없으며 다음과 같은 메시지가 표시됩니다.
 
