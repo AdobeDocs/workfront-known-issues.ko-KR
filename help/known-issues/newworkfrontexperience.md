@@ -5,9 +5,9 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1179'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [작업: 기록된 시간이 이동한 후 이전 프로젝트에 남아 있음](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025년 1월 16일 금요일 |
-| [보고서: 시간 보고서 필터에 잘못된 날짜가 포함됨](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025년 1월 16일 금요일 |
-| [타임시트: 잘못된 총 시간](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025년 1월 16일 금요일 |
+| [작업: 기록된 시간이 이동 후 이전 프로젝트에 남아 있음](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025년 1월 16일 |
+| [보고서: 시간 보고서 필터에 잘못된 날짜가 포함됨](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025년 1월 16일 |
+| [타임시트: 총 시간이 잘못됨](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025년 1월 16일 |
 | [홈: 승인 대기 위젯에서 승인 버튼 누락](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025년 1월 9일 |
 | [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025년 1월 9일 |
 | [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025년 1월 9일 |
@@ -45,7 +45,7 @@ ht-degree: 98%
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2024년 8월 15일 |
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
-| [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
+| [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 조회할 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
 | [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
 
 {style="table-layout:auto"}
@@ -78,7 +78,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024년 1월 16일 수요일 |
+| [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024년 1월 16일 |
 | [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 |
 | [Workfront: 애플리케이션 전체에서 날짜 형식이 변경됨](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024년 12월 20일 |
 | [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024년 12월 20일 |
@@ -134,7 +134,7 @@ ht-degree: 98%
 | [[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)에서 느리게 로드됨 | 2022년 10월 28일 |
 | [교정쇄: 교정쇄가 교정 워크플로의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
 | [교정쇄: [!UICONTROL 활성 교정 단계] 필드가 비어 있음](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
-| [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
+| [대시보드: 대시보드에 표시된 보고서 차트가 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 2022년 8월 5일 |
 | [[!UICONTROL 홈]: 사용자 정의 용어가 홈 영역에 적용되지 않음](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 2022년 6월 3일 |
 | [애자일: 카드의 사용자 정의 양식에서 필드를 편집할 수 없음](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 2022년 5월 11일 |
 | [애자일: [!UICONTROL 애자일] 보드](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)에서 카드를 이동할 때 문제 발생 | 2022년 4월 27일 |

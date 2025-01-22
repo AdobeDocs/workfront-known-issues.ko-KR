@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: 263273d0-130f-4227-9c64-374746a5205c
 source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2025년 1월 16일 금요일에 수정되었습니다.
+>이 문서는 2025년 1월 16일에 수정되었습니다.
 
 고객이 사용자 정의 양식을 작성하고 저장하면 해당 양식이 현재 스타일이 아닌 이전 스타일의 사용자 정의 양식으로 표시됩니다.
 

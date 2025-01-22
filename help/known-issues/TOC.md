@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2356'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [작업: 기록된 시간이 이동되면 이전 프로젝트에 남아 있습니다.](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [작업: 기록된 시간이 이동 후 이전 프로젝트에 남아 있음](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [보고서: 시간 보고서 필터에 잘못된 날짜가 포함됨](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
-      + [타임시트: 잘못된 총 시간](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
+      + [타임시트: 총 시간이 잘못됨](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
       + [홈: 승인 대기 위젯에서 승인 버튼 누락](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
@@ -164,7 +164,7 @@ ht-degree: 99%
       + [업데이트: 복사한 링크가 올바르게 붙여넣어지지 않음](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [보고서: 그룹 이름에 슬래시나 백슬래시가 있는 경우 “표시할 데이터 없음”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [통합: Dropbox 통합 관련 문제](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
-      + [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 볼 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
+      + [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 조회할 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [리소스 계획: [!UICONTROL 자세히 보기] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [상태: 이전에 삭제된 상태를 다시 사용할 수 없음](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
@@ -240,7 +240,7 @@ ht-degree: 99%
       + [작업: 작업 [!UICONTROL 요약 패널]에 시간을 입력할 때 시간이 저장되지 않음](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [교정쇄: [!UICONTROL 활성 교정 단계] 필드가 비어 있음](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
-      + [대시보드: 대시보드에 표시된 보고서 차트는 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
+      + [대시보드: 대시보드에 표시된 보고서 차트가 보고서에서 볼 때와 다른 색상을 사용함](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [애자일: 애자일 보드에서 카드를 이동할 때 문제 발생](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [홈: 사용자 정의 용어가 홈 영역에 적용되지 않음](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [애자일: 카드의 사용자 정의 양식에서 필드를 편집할 수 없음](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
