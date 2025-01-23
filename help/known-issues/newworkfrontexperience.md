@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: ht
-source-wordcount: '1179'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '1189'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [보고서: 드릴다운의 사용자 지정 자동 완성 필드가 응답하지 않음](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025년 1월 23일 금요일 |
+| [다음으로 로그인: 관리자의 홈 레이아웃 템플릿이 표시됨](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025년 1월 23일 금요일 |
+| [사용자: 비용 요금 편집 오류](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | 2025년 1월 23일 금요일 |
 | [작업: 기록된 시간이 이동 후 이전 프로젝트에 남아 있음](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025년 1월 16일 |
 | [보고서: 시간 보고서 필터에 잘못된 날짜가 포함됨](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025년 1월 16일 |
 | [타임시트: 총 시간이 잘못됨](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025년 1월 16일 |
@@ -35,7 +38,6 @@ ht-degree: 100%
 | [알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 않음](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024년 1월 2일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 12월 3일 |
 | [작업: 타임라인 재계산 문제](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024년 12월 3일 |
-| [사용자: 로그인 후에도 “등록되지 않음” 태그가 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024년 11월 13일 |
 | [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024년 11월 12일 |
 | [Workfront Mobile: iPhone에서 교정쇄 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024년 10월 9일 |
 | [API: SQL 오류로 인해 API 호출 실패](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024년 9월 12일 |
@@ -57,7 +59,6 @@ ht-degree: 100%
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
 | [보드: 카드를 다른 열로 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025년 1월 2일 |
-| [사용자: 사용자 대량 업데이트가 매우 느림](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025년 1월 2일 |
 | [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 |
 | [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 12월 3일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |

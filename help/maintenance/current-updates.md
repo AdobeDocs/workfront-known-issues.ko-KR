@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 100%
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2025년 1월 업데이트
+
++++**2025년 1월 23일 금요일 유지 관리 업데이트**
+
+### 2025년 1월 23일 금요일 유지 관리 업데이트
+
+#### 보고서
+
+**사용자 지정 통화 필드에서 보고서 오류가 발생합니다**
+
+보고서 보기에 두 개 이상의 사용자 지정 통화 필드가 포함되어 있으면 보고서가 반환되고 오류가 발생합니다.
+
+#### 사용자
+
+로그인 후 **&quot;등록되지 않은&quot; 태그가 지속됨**
+
+최소 한 번 이상 정상적으로 로그인했음에도 불구하고 신규 사용자의 경우 “등록되지 않음” 태그가 예상대로 사라지지 않습니다.
+
++++
 
 +++**2025년 1월 16일 유지 관리 업데이트**
 
