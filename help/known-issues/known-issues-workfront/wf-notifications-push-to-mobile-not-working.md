@@ -3,15 +3,19 @@ title: '알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 
 description: Workfront 모바일 앱에 푸시 알림을 트리거해야 하는 이벤트가 발생했음에도 불구하고 알림을 받지 못했습니다.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0031b3acdaba091cc83ae44b9d47fb473dae6053
-workflow-type: ht
-source-wordcount: '81'
+exl-id: 5f2fab99-d825-4abf-ae4a-d03de6d10de2
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
-
 # 알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 않음
+
+>[!NOTE]
+>
+>이 문서는 2025년 1월 22일 목요일에 수정되었습니다.
 
 Workfront 모바일 앱에 푸시 알림을 트리거해야 하는 이벤트가 발생했음에도 불구하고 알림을 받지 못했습니다.
 

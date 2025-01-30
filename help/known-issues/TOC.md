@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '2378'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '2391'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [증명: 특정 사용자에 태그를 지정할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [작업: 작업에 사용할 수 있는 프로젝트 수준 필터 및 보기](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [보고서: 드릴다운의 사용자 정의 자동 완성 필드가 응답하지 않음](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [로그인: 관리자의 홈 레이아웃 템플릿이 표시됨](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [사용자: 비용 요율 편집 오류](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 100%
       + [상태: 이전에 삭제된 상태를 다시 사용할 수 없음](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [교정쇄: 교정쇄 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [프로젝트: 공유 메뉴가 로드되지 않음](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [보고서: 보고서에 대한 공개 링크가 작동하지 않음](known-issues-workfront/wf-reports-public-link-not-working.md)

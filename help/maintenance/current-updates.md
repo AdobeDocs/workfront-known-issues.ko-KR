@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '337'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '410'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 100%
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2025년 1월 업데이트
+
++++**2025년 1월 30일 금요일 유지 관리 업데이트**
+
+### 2025년 1월 30일 금요일 유지 관리 업데이트
+
+#### 홈
+
+**홈 위젯에 승인이 표시되지 않음**
+
+사용자가 제출한 승인은 명시적으로 표시하도록 필터링한 경우에도 자신의 내 승인 위젯에 표시되지 않습니다.
+
+#### 보고서
+
+**시간 보고서 필터에 잘못된 날짜가 포함됨**
+
+특정 날짜만 표시하기 위해 시간 보고서를 필터링하면 실제로는 인접한 다른 날짜가 보고서에 포함됩니다. 이 문제는 시간대 설정과 관련이 있는 것으로 보입니다.
+
++++
 
 +++**2025년 1월 23일 유지 관리 업데이트**
 
