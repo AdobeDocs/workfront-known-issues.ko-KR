@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '410'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -26,15 +26,15 @@ ht-degree: 91%
 
 ## 2025년 1월 업데이트
 
-+++**2025년 1월 30일 금요일 유지 관리 업데이트**
++++**2025년 1월 30일 유지 관리 업데이트**
 
-### 2025년 1월 30일 금요일 유지 관리 업데이트
+### 2025년 1월 30일 유지 관리 업데이트
 
 #### 홈
 
 **홈 위젯에 승인이 표시되지 않음**
 
-사용자가 제출한 승인은 명시적으로 표시하도록 필터링한 경우에도 자신의 내 승인 위젯에 표시되지 않습니다.
+사용자가 제출한 승인이 해당 승인 내용을 특별히 표시하도록 필터링한 경우에도 해당 사용자의 “내 승인” 위젯에 나타나지 않습니다.
 
 #### 보고서
 

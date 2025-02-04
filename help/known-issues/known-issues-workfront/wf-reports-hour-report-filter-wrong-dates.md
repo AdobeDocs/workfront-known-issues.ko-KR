@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2025년 1월 30일 금요일에 수정되었습니다.
+>이 문서는 2025년 1월 30일에 수정되었습니다.
 
 특정 날짜만 표시하기 위해 시간 보고서를 필터링하면 실제로는 인접한 다른 날짜가 보고서에 포함됩니다. 이 문제는 시간대 설정과 관련이 있는 것으로 보입니다.
 
