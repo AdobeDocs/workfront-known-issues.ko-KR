@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '2391'
-ht-degree: 100%
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+workflow-type: tm+mt
+source-wordcount: '2413'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [레이아웃 템플릿: 삭제된 보기를 계속 사용할 수 있음](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [사용자 정의 양식: 사용자 정의 자동 완성 필드에 누락된 회사](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [작업: 작업에 대해 사용 가능한 프로젝트 수준의 필터 및 보기](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [보고서: 드릴다운의 사용자 정의 자동 완성 필드가 응답하지 않음](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)

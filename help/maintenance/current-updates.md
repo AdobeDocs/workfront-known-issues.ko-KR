@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '410'
-ht-degree: 100%
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+workflow-type: tm+mt
+source-wordcount: '458'
+ht-degree: 91%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 100%
 2025년 이전 유지 관리 업데이트는 [이전 유지 관리 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
+
+## 2025년 2월 업데이트
+
++++**2025년 2월 6일 금요일 유지 관리 업데이트**
+
+### 2025년 2월 6일 금요일 유지 관리 업데이트
+
+#### 목록
+
+**증명을 업로드한 후 작업 목록을 편집할 수 없음**
+
+프로젝트에 증명을 업로드하는 동안 페이지를 새로 고치거나 증명 업로드가 완료될 때까지 해당 프로젝트의 작업 목록을 인라인으로 편집할 수 없습니다.
+
++++
 
 ## 2025년 1월 업데이트
 

@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '1174'
-ht-degree: 100%
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+workflow-type: tm+mt
+source-wordcount: '1200'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 1월 30일 |
+| [레이아웃 템플릿: 삭제된 보기를 계속 사용할 수 있음](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 2025년 2월 11일 수요일 |
+| [사용자 정의 양식: 사용자 정의 자동 완성 필드에 회사가 누락됨](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025년 2월 11일 수요일 |
+| [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 11일 수요일 |
 | [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025년 1월 30일 |
 | [작업: 작업에 대해 사용 가능한 프로젝트 수준의 필터 및 보기](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025년 1월 30일 |
 | [보고서: 드릴다운의 사용자 정의 자동 완성 필드가 응답하지 않음](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025년 1월 23일 |
@@ -56,6 +58,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [교정쇄: 승인된 교정쇄가 보고서에 나타남](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025년 2월 11일 수요일 |
 | [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 |
 | [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 12월 3일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |
