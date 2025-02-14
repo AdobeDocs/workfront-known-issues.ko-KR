@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '1200'
-ht-degree: 98%
+source-wordcount: '1192'
+ht-degree: 99%
 
 ---
 
@@ -30,7 +30,6 @@ ht-degree: 98%
 | [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 11일 수요일 |
 | [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025년 1월 30일 |
 | [작업: 작업에 대해 사용 가능한 프로젝트 수준의 필터 및 보기](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025년 1월 30일 |
-| [보고서: 드릴다운의 사용자 정의 자동 완성 필드가 응답하지 않음](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025년 1월 23일 |
 | [작업: 기록된 시간이 이동 후 이전 프로젝트에 남아 있음](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025년 1월 16일 |
 | [타임시트: 총 시간이 잘못됨](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025년 1월 16일 |
 | [홈: 승인 대기 위젯에서 승인 버튼 누락](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025년 1월 9일 |
@@ -59,7 +58,6 @@ ht-degree: 98%
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
 | [교정쇄: 승인된 교정쇄가 보고서에 나타남](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025년 2월 11일 수요일 |
-| [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024년 12월 11일 |
 | [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 12월 3일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 10월 24일 |
@@ -79,6 +77,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: AEM에서 Fusion을 통해 연결된 비디오에 대한 증명을 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 금요일 |
 | [로그인: 관리자의 홈 레이아웃 템플릿이 표시됨](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025년 1월 23일 |
 | [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024년 1월 16일 |
 | [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 |

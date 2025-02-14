@@ -3,14 +3,19 @@ title: '보고서: 드릴다운의 사용자 정의 자동 완성 필드가 응�
 description: 사용자가 차트 보고서의 드릴다운 테이블 내에서 사용자 정의 자동 완성 필드를 편집하려고 하면 필드가 올바르게 응답하지 않습니다. 즉, 텍스트를 입력할 수 없으며 입력 텍스트가 산발적으로 삭제되거나 가끔 페이지가 충돌합니다.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '104'
+exl-id: 7eee2b05-a7a1-4f45-94a6-2f771da9ba6d
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # 보고서: 드릴다운의 사용자 정의 자동 완성 필드가 응답하지 않음
+
+>[!NOTE]
+>
+>이 문제는 2025년 2월 6일 금요일에 해결되었습니다.
 
 사용자가 차트 보고서의 드릴다운 테이블 내에서 사용자 정의 자동 완성 필드를 편집하려고 하면 필드가 올바르게 응답하지 않습니다. 즉, 텍스트를 입력할 수 없으며 입력 텍스트가 산발적으로 삭제되거나 가끔 페이지가 충돌합니다.
 
