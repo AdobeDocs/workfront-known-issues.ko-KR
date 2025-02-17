@@ -18,8 +18,8 @@ ht-degree: 99%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [증명: AEM에서 Fusion을 통해 연결된 비디오에 대한 증명을 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
-      + [레이아웃 템플릿: 삭제된 보기를 계속 사용할 수 있음](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
-      + [사용자 정의 양식: 사용자 정의 자동 완성 필드에 누락된 회사](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [레이아웃 템플릿: 삭제된 보기가 여전히 사용 가능](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [사용자 정의 양식: 사용자 정의 자동 완성 필드에서 회사가 누락됨](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [작업: 작업에 대해 사용 가능한 프로젝트 수준의 필터 및 보기](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)

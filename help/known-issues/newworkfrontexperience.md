@@ -25,9 +25,9 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [레이아웃 템플릿: 삭제된 보기를 계속 사용할 수 있음](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 2025년 2월 11일 수요일 |
-| [사용자 정의 양식: 사용자 정의 자동 완성 필드에 회사가 누락됨](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025년 2월 11일 수요일 |
-| [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 11일 수요일 |
+| [레이아웃 템플릿: 삭제된 보기가 여전히 사용 가능](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 2025년 2월 11일 |
+| [사용자 정의 양식: 사용자 정의 자동 완성 필드에서 회사가 누락됨](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025년 2월 11일 |
+| [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 11일 |
 | [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025년 1월 30일 |
 | [작업: 작업에 대해 사용 가능한 프로젝트 수준의 필터 및 보기](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025년 1월 30일 |
 | [작업: 기록된 시간이 이동 후 이전 프로젝트에 남아 있음](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025년 1월 16일 |
@@ -57,7 +57,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
-| [교정쇄: 승인된 교정쇄가 보고서에 나타남](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025년 2월 11일 수요일 |
+| [교정쇄: 승인된 교정쇄가 보고서에 나타남](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025년 2월 11일 |
 | [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024년 12월 3일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |
 | [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 10월 24일 |
