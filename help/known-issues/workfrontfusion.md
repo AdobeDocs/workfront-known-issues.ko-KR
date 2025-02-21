@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 94%
+source-wordcount: '172'
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 94%
 >
 >서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com)을 참조하십시오. 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md)를 참조하십시오.
 
-## 신규
+<!--
+## New
 
-최근에 보고된 문제는 현재 검토 중입니다.
+These recently reported issues are currently under review.
 
-| **문제** | **마지막 수정일:** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: 요청 시간 초과](known-issues-workfront/wf-api-request-timing-out.md) | 2024년 8월 5일 |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ## 진행 중
 
@@ -45,7 +45,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: AEM에서 Fusion을 통해 연결된 비디오에 대한 증명을 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 금요일 |
+| [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |
 | [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024년 10월 29일 |
 | [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024년 2월 5일 |
 | [Workfront Fusion: 일자에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024년 1월 31일 |
