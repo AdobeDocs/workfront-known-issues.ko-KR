@@ -3,14 +3,19 @@ title: '작업: 기록된 시간이 이동 후 이전 프로젝트에 남아 있
 description: 작업이 새 프로젝트로 이동된 후 원래 프로젝트의 총 프로젝트 시간에 이동된 작업의 시간이 포함됩니다. 새 프로젝트에서도 해당 작업은 기록된 시간을 제대로 유지합니다.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '92'
+exl-id: d66210f8-eb94-4d49-84e1-4133b1683f76
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 # 작업: 기록된 시간이 이동 후 이전 프로젝트에 남아 있음
+
+>[!NOTE]
+>
+>이 문제는 2025년 2월 20일 금요일에 해결되었습니다.
 
 작업이 새 프로젝트로 이동된 후 원래 프로젝트의 총 프로젝트 시간에 이동된 작업의 시간이 포함됩니다. 새 프로젝트에서도 해당 작업은 기록된 시간을 제대로 유지합니다.
 

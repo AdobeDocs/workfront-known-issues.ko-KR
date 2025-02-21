@@ -3,14 +3,19 @@ title: '사용자 정의 양식: 사용자 정의 자동 완성 필드에서 회
 description: 회사 오브젝트를 참조하는 사용자 정의 자동 완성 필드에서 회사를 찾으려고 하면 사용자가 다른 회사와 같은 그룹에 속해 있음에도 불구하고 해당 사용자와 연관된 회사만 표시됩니다. 어떤 경우에는 제안되는 회사가 없는 경우도 있습니다.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: ht
-source-wordcount: '102'
+exl-id: ec96c136-3442-48d8-9ed1-38d169658c10
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 # 사용자 정의 양식: 사용자 정의 자동 완성 필드에서 회사가 누락됨
+
+>[!NOTE]
+>
+>이 문제는 설계대로 작동하는 것이므로 종결되었습니다.
 
 회사 오브젝트를 참조하는 사용자 정의 자동 완성 필드에서 회사를 찾으려고 하면 사용자가 다른 회사와 같은 그룹에 속해 있음에도 불구하고 해당 사용자와 연관된 회사만 표시됩니다. 어떤 경우에는 제안되는 회사가 없는 경우도 있습니다.
 
