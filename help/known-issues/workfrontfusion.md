@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '190'
+ht-degree: 97%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com)을 참조하십시오. 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md)를 참조하십시오.
 
-<!--
-## New
+## 신규
 
-These recently reported issues are currently under review.
+최근에 보고된 문제는 현재 검토 중입니다.
 
-| **Issue** | **Last Modified** |
+| **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: 시나리오 연결 오류](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | 2025년 2월 24일 화요일 |
 
-{style="table-layout:auto"}-->
+{style="table-layout:auto"}
 
 ## 진행 중
 
