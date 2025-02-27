@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '649'
-ht-degree: 100%
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+workflow-type: tm+mt
+source-wordcount: '693'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 100%
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2025년 2월 업데이트
+
++++**2025년 2월 27일 금요일 유지 관리 업데이트**
+
+### 2025년 2월 27일 금요일 유지 관리 업데이트
+
+#### 그룹
+
+**관리자 액세스 수준을 공유할 수 없습니다**
+
+관리자 액세스 수준을 그룹에 공유하려고 할 때 각 그룹을 확인하는 상자가 응답하지 않고 그룹이 예상 액세스 수준을 얻지 못합니다.
+
++++
 
 +++**2025년 2월 20일 유지 관리 업데이트**
 
