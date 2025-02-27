@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Tasks
 exl-id: d66210f8-eb94-4d49-84e1-4133b1683f76
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2025년 2월 20일 금요일에 해결되었습니다.
+>이 문제는 2025년 2월 20일에 해결되었습니다.
 
 작업이 새 프로젝트로 이동된 후 원래 프로젝트의 총 프로젝트 시간에 이동된 작업의 시간이 포함됩니다. 새 프로젝트에서도 해당 작업은 기록된 시간을 제대로 유지합니다.
 

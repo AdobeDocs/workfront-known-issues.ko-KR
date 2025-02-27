@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: bb330a3f-976d-4262-be3f-50da2961e45b
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2025년 2월 19일 목요일에 해결되었습니다.
+>이 문제는 2025년 2월 19일에 해결되었습니다.
 
 관리자가 레이아웃 템플릿을 통해 목록에서 보기를 삭제하는 경우에도 해당 보기가 사용자의 사용 가능한 보기 목록에 계속 표시됩니다. 이를 선택하면 보기가 적용되지 않거나 데이터가 없는 보기 열이 적용됩니다.
 

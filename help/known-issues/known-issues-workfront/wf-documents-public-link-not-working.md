@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->이 문제는 2025년 2월 14일에 수정되었습니다.
+>이 문제는 2025년 2월 14일에 해결되었습니다.
 
 사용자가 Workfront의 문서로 이동하기 위해 공개 링크를 클릭하면 다음과 같은 오류가 표시됩니다. “해당 문서가 더 이상 존재하지 않습니다”.
 
