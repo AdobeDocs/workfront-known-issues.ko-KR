@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: ht
-source-wordcount: '2438'
-ht-degree: 100%
+source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+workflow-type: tm+mt
+source-wordcount: '2446'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [통합: Outlook용 Workfront을 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [레이아웃 템플릿: 사용자 정의 반복 섹션에 액세스할 수 없음](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
       + [Workfront Fusion: 시나리오 연결 오류](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
