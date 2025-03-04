@@ -3,9 +3,9 @@ user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
 source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2438'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
