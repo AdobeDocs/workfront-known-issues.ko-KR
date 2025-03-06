@@ -4,10 +4,10 @@ description: '참여자 라이선스가 있는 사용자에게 알림 이메일�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 42c42ae1f68161fe7e8647e6b74c9a5806bf4a92
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제는 2024년 11월 11일에 해결되었습니다
 
 참여자 라이선스가 있는 사용자에게 알림 이메일이 수신되지 않습니다. 이 문제는 즉시 알림 이메일과 일일 요약 이메일 모두에 영향을 미칠 수 있습니다.
 
