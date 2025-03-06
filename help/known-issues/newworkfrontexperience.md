@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 99%
+source-wordcount: '1118'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,6 @@ ht-degree: 99%
 | [Workfront Mobile: SSO를 사용하지 않고 로그인할 수 없음](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024년 8월 14일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 | [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 조회할 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024년 6월 14일 |
-| [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않음](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024년 5월 7일 |
 
 {style="table-layout:auto"}
 
@@ -46,6 +45,7 @@ ht-degree: 99%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [다음으로 로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025년 3월 6일 금요일 |
 | [교정쇄: 승인된 교정쇄가 보고서에 나타남](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025년 2월 11일 |
 | [보고서: Report Builder 로드 시간이 오래 소요됨](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024년 11월 21일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024년 9월 24일 |

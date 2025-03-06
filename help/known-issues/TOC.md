@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2355'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [다음으로 로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [통합: Outlook용 Workfront을 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [레이아웃 템플릿: 사용자 정의 반복 섹션에 액세스할 수 없음](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -180,30 +181,18 @@ ht-degree: 99%
       + [보고서: 사용자 정의 날짜별로 그룹화된 보고서 세부 정보를 조회할 때 오류 발생](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [리소스 계획: [!UICONTROL 자세히 보기] 버튼이 표시되지 않음](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [상태: 이전에 삭제된 상태를 다시 사용할 수 없음](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [탐색: 뒤로 버튼을 사용하여 이전 페이지로 돌아갈 수 없음](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [문서: 문서에 대한 공개 링크를 사용할 때 오류 발생](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [교정쇄: 교정쇄 뷰어를 닫을 수 없음](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [프로젝트: 공유 메뉴가 로드되지 않음](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [보고서: 보고서에 대한 공개 링크가 작동하지 않음](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL 리소스 플래너]: 필터를 공유할 수 없음](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [실제 완료 날짜는 N/A로 표시됨](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [작업: 사용자가 작업에 할당될 때 작업 역할이 목록에서 사라지지 않음](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [사용자: 일괄 할당 시 사용자 누락됨](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [사용자 정의 양식: 설명 텍스트 필드를 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [그룹: 하위 그룹을 추가할 수 없음](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [업데이트: 태그된 사용자가 자신을 태그한 사람이 누구인지 확인할 수 없음](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [문서: 자산을 다운로드하거나 미리 볼 때 오류 화면](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [프로그램: 프로그램에 대한 사용자 액세스 권한이 업데이트되면 프로그램에 대한 모든 액세스 권한이 상실됨](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [문서: 통합에서 문서를 링크할 때 UNK 파일 확장자](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [업데이트: 멘션을 복사하여 붙여넣어도 언급된 사용자에게 알리지 않음](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [프로젝트: 템플릿을 사용하여 문제에서 생성된 프로젝트가 템플릿에 설정된 우선순위를 반영하지 못함](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [타임시트: 고정된 타임시트가 빈 페이지로 이동](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [설정: 다른 사용자로 로그인하면 “다음으로 로그인됨” 배너가 나타나지 않습니다.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [교정쇄 중재자가 권한을 편집할 수 없음](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [[!DNL Workfront Goals]: 목표를 삭제할 수 없음](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [사용자: 사용자의 액세스 수준을 수정할 수 없음](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [업데이트: 댓글의 링크가 빈 화면으로 이동함](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [교정쇄: 교정쇄에서 작업이나 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
@@ -212,7 +201,6 @@ ht-degree: 99%
       + [보고서: 보고서 필터가 예상한 결과를 반환하지 않음](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [프로젝트: 웹 교정쇄가 첨부된 경우 문제를 프로젝트로 전환할 수 없음](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [업데이트: 요청자 사용자가 업데이트에 이미지를 추가할 수 없음](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [보드: 카드에 하위 작업이 포함되지 않음](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [보드: 카드 중복과 관련된 문제](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [교정쇄: 압축된 교정쇄 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [새 [!UICONTROL 홈]: 위젯 필터 및 그룹화 기본값이 레이아웃 템플릿을 따르지 않음](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
