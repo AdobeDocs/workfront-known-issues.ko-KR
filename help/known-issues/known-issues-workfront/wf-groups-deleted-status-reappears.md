@@ -4,10 +4,10 @@ description: 그룹 상태를 삭제한 후 그룹에 더 이상 상태가 표�
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 72%
 
 ---
 
@@ -20,6 +20,12 @@ ht-degree: 100%
 그룹 상태 삭제와 관련하여 다음과 같은 문제가 보고되었습니다.
 
 * 그룹 상태를 삭제한 후 그룹에 더 이상 상태가 표시되지 않으며 그룹의 업데이트에 해당 삭제가 수행된 시간이 나타나지만 사용자 수정 없이 그룹 상태가 다시 나타납니다.
-* 사용자가 그룹 상태를 삭제하려고 하면 시스템이 응답하지 않고 창이 강조 표시되며 사용자는 상태를 삭제할 수 없습니다.
+* 사용자가 그룹 상태를 삭제하려고 할 때 시스템이 응답하지 않고 창이 강조 표시되며 상태를 삭제할 수 없습니다.
+
+**해결 방법**
+
+1. **설정** > **환경 설정** > **상태**(으)로 이동합니다.
+1. 해당 그룹을 검색합니다.
+1. 상태를 삭제합니다.
 
 _2024년 6월 26일에 처음 보고되었습니다._
