@@ -56,8 +56,8 @@ ht-degree: 98%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [통합: Outlook용 Workfront을 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025년 3월 4일 수요일 |
-| [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025년 2월 27일 금요일 |
-| [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 27일 금요일 |
+| [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025년 2월 27일 |
+| [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 27일 |
 | [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025년 2월 20일 |
 | [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025년 1월 20일 |
 | [사용자 정의 양식: 사용자 정의 자동 완성 필드에서 회사가 누락됨](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025년 2월 20일 |
