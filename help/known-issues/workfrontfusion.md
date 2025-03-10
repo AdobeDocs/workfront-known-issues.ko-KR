@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: ht
-source-wordcount: '190'
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+workflow-type: tm+mt
+source-wordcount: '185'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 시나리오 연결 오류](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | 2025년 2월 24일 |
+| 없음 |  |
 
 {style="table-layout:auto"}
 
