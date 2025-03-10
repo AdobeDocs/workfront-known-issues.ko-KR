@@ -4,10 +4,10 @@ description: 사용자가 액세스 권한이 없는 교정쇄를 승인하라�
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
 feature: Get Started with Workfront, Projects
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 91%
+source-wordcount: '117'
+ht-degree: 82%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중입니다. 이 문제가 해결되면 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제와 관련된 기능은 더 이상 사용되지 않습니다.
 
 사용자가 액세스 권한이 없는 교정쇄를 승인하라는 요청을 받고 [!UICONTROL 홈]의 [!UICONTROL 작업 목록]이 프로젝트 이름별로 정렬되면 사용자는 [!UICONTROL 프로젝트 이름]을 볼 수 없고 대신 GUID가 표시됩니다.
 

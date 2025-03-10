@@ -4,10 +4,10 @@ description: 사용자가 다른 시간대의 사용자에게 승인을 위임�
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
 feature: Approvals
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: d4311fb34cd3eb6e6ec1bed838fbf197098dcc01
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 93%
+source-wordcount: '175'
+ht-degree: 87%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중입니다. 이 문제가 해결되면 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제와 관련된 기능은 더 이상 사용되지 않습니다.
 
 사용자가 다른 시간대의 사용자에게 승인을 위임하면 위임이 정상적으로 저장된 것으로 표시되고 위임받은 사용자가 올바른 날짜가 표시된 이메일 알림을 받게 됩니다. 그러나 사용자가 페이지를 새로 고치면 [!UICONTROL 시작 일자]가 1일 앞으로, [!UICONTROL 종료 일자]가 1일 뒤로 이동하며 이동된 날짜로 사용자에게 새 이메일 알림이 전송됩니다.
 

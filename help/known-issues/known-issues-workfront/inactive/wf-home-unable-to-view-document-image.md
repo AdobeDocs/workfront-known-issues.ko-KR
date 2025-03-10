@@ -4,10 +4,10 @@ description: 사용자가 문서 미리보기를 보기 위해 .docx 썸네일�
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 91%
+source-wordcount: '107'
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중입니다. 이 문제가 해결되면 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제와 관련된 기능은 더 이상 사용되지 않습니다.
 
 사용자가 문서 미리보기를 보기 위해 [!UICONTROL .docx] 썸네일을 클릭하면 비디오 플레이어가 열리고 문서를 볼 수 없습니다.
 

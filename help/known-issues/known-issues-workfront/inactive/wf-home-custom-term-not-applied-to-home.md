@@ -4,10 +4,10 @@ description: 홈 영역에는 조직에서 설정한 용어 대신 오브젝트�
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 90%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제와 관련된 기능은 더 이상 사용되지 않습니다.
 
 [!UICONTROL 홈] 영역에는 조직에서 설정한 용어 대신 오브젝트의 기본 이름이 표시됩니다. 이 문제는 다음 영역에서 보고되었습니다.
 

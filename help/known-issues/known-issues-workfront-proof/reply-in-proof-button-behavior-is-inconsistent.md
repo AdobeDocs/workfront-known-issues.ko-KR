@@ -4,10 +4,10 @@ description: 새 [!DNL Adobe Workfront] 경험의 사용자가 [!UICONTROL 홈]�
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제와 관련된 기능은 더 이상 사용되지 않습니다.
 
 새 [!DNL Adobe Workfront] 경험의 사용자가 [!UICONTROL 홈]의 오른쪽 패널에서 교정쇄를 볼 때 댓글에 대해 [!UICONTROL 교정쇄에서 답글 작성]을 클릭하면 의도한 대로 [!UICONTROL 교정쇄 뷰어]로 이동하는 대신 문서 [!UICONTROL 업데이트] 영역에 업데이트를 남길 수 있는 텍스트 상자가 표시됩니다.
 
