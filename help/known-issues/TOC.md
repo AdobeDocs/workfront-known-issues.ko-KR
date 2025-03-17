@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
+source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
 workflow-type: tm+mt
-source-wordcount: '1726'
+source-wordcount: '1725'
 ht-degree: 97%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
       + [업데이트: 업데이트가 지연됨](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [증명: 증명 생성이 매우 느립니다.](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
+      + [증명: 증명 생성이 느림](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
       + [요청: 요청 대기열을 사용할 수 없음](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [프로젝트: 프로젝트 진행 상태가 자동으로 지연으로 업데이트되지 않음](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [업데이트: 일부 사용자는 댓글에 첨부된 이미지나 문서를 볼 수 없습니다](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
