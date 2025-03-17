@@ -4,7 +4,7 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
+source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 96%
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [증명: 증명 생성이 느립니다](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025년 3월 17일 화요일 |
+| [증명: 증명 생성이 느립니다](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 2025년 3월 17일 화요일 |
 | [프로젝트: 프로젝트 진행 상태가 늦게 자동으로 업데이트되지 않음](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 2025년 3월 13일 금요일 |
 | [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 2월 20일 |
 | [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025년 1월 9일 |
