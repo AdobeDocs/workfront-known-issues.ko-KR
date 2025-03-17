@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 >
 >* 이 문제는 2024년 9월 5일에 수정되었습니다.
 >* 이 문제는 미리보기 샌드박스 환경과 사용자 정의 새로 고침 샌드박스 환경에서 보고되었습니다.
->* 이 문제는 레거시(Adobe 이외) SSO를 사용하는 조직에 대해 보고되었습니다.
+>* 이는 레거시(비-Adobe) SSO를 사용하는 조직에 대해 보고되었습니다.
 
 SSO를 사용하는 Workfront 기능이 다음과 같은 오류를 반환합니다.
 
