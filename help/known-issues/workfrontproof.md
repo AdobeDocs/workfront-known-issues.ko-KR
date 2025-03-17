@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 97%
+source-wordcount: '427'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 증명 생성이 매우 느립니다](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025년 3월 17일 화요일 |
 | [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 2월 20일 |
 | [문서: 문서 영역에 일부 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024년 1월 2일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |

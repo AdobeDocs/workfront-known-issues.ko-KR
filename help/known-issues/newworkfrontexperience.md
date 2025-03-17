@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3ceee997d45018f85617da69400863a97582864
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '979'
-ht-degree: 97%
+source-wordcount: '985'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [요청: 요청 큐를 사용할 수 없습니다](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md) | 2025년 3월 13일 금요일 |
+| [증명: 증명 생성이 매우 느립니다](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025년 3월 17일 화요일 |
 | [프로젝트: 프로젝트 진행 상태가 늦게 자동으로 업데이트되지 않음](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 2025년 3월 13일 금요일 |
 | [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 2월 20일 |
 | [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025년 1월 9일 |
@@ -40,6 +40,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [업데이트: 업데이트가 지연됨](known-issues-workfront/wf-updates-delay-in-updates.md) | 2025년 3월 17일 화요일 |
 | [업데이트: 일부 사용자가 댓글에 첨부된 이미지나 문서를 볼 수 없습니다](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025년 3월 10일 화요일 |
 | [로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025년 3월 6일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
