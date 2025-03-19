@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
 workflow-type: tm+mt
-source-wordcount: '1725'
+source-wordcount: '1731'
 ht-degree: 97%
 
 ---
@@ -220,6 +220,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+      + [Workfront Fusion: 시나리오가 실행되고 있지 않음](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
