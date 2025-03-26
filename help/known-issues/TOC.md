@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '1738'
-ht-degree: 97%
+source-wordcount: '1745'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md)
       + [홈: 언급 위젯에서 답글을 보낼 수 없음](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [업데이트: 업데이트가 지연됨](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [증명: 증명 생성이 느림](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
