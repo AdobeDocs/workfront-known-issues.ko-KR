@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
 workflow-type: tm+mt
-source-wordcount: '1745'
-ht-degree: 96%
+source-wordcount: '1772'
+ht-degree: 95%
 
 ---
 
@@ -17,13 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
-      + [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [홈: 언급 위젯에서 답글을 보낼 수 없음](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [업데이트: 업데이트가 지연됨](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [요청: 포함된 코드 URL이 요청 큐를 올바르게 로드하지 않습니다](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [보고서: 다른 시간대의 사용자는 다른 보고서 결과를 받습니다.](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [사용자: 그룹 관리자는 사용자를 비활성화할 수 없습니다](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
+      + [필터: 스크롤 막대를 클릭하면 드롭다운이 사라집니다.](known-issues-workfront/wf-filter-scroll-bar.md)
+      + [홈: 멘션 위젯에서 답글을 보낼 수 없음](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
+      + [업데이트: 업데이트가 지연되었습니다.](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [증명: 증명 생성이 느림](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [요청: 요청 대기열을 사용할 수 없음](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
-      + [프로젝트: 프로젝트 진행 상태가 자동으로 지연으로 업데이트되지 않음](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [업데이트: 일부 사용자는 댓글에 첨부된 이미지나 문서를 볼 수 없습니다](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
+      + [요청: 요청 큐 사용 불가](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
+      + [프로젝트: 프로젝트 진행 상태가 자동으로 늦음으로 업데이트되지 않습니다.](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
+      + [업데이트: 일부 사용자는 댓글에 첨부된 이미지나 문서를 볼 수 없습니다.](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [통합: Outlook에 Workfront를 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [레이아웃 템플릿: 사용자 정의 반복 섹션에 액세스할 수 없음](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
@@ -222,7 +225,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
-      + [Workfront Fusion: 시나리오가 실행되고 있지 않음](known-issues-workfront-fusion/fusion-scenario-not-running.md)
+      + [Workfront Fusion: 시나리오가 실행되고 있지 않습니다.](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
