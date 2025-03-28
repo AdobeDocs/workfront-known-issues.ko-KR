@@ -1,22 +1,23 @@
 ---
 title: '사용자: 그룹 관리자가 사용자를 비활성화할 수 없음'
-description: 'When a group administrator attempts to deactivate a user in their home group, the user is not deactivated, and the group administrator sees the message You don''t have sufficient access to perform that operation. '
+description: '그룹 관리자가 홈 그룹에서 사용자를 비활성화하려고 하면 사용자는 비활성화되지 않고 그룹 관리자에게 해당 작업을 수행할 수 있는 충분한 액세스 권한이 없습니다. 라는 메시지가 표시됩니다. '
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
+exl-id: e8ddb19d-a9fd-4acf-b92e-6d5a227317c0
+source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 5%
 
 ---
 
-
 # 사용자: 그룹 관리자가 사용자를 비활성화할 수 없음
 
-When a group administrator attempts to deactivate a user in their home group, the user is not deactivated, and the group administrator sees the message &quot;You don&#39;t have sufficient access to perform that operation.&quot;
+그룹 관리자가 홈 그룹에서 사용자를 비활성화하려고 하면 사용자는 비활성화되지 않고 그룹 관리자에게 &quot;해당 작업을 수행할 수 있는 충분한 액세스 권한이 없습니다.&quot;라는 메시지가 표시됩니다.
 
 **해결 방법**
 
-Uncheck the &quot;Is active&quot; setting for the user.
+사용자에 대한 &quot;활성&quot; 설정의 선택을 취소합니다.
 
 _2025년 3월 3일 화요일에 처음 보고되었습니다._
+

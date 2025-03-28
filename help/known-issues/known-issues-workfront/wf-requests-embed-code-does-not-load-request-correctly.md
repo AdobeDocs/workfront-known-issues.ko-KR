@@ -3,13 +3,13 @@ title: '요청: 포함된 코드 URL이 요청 대기열을 올바르게 로드�
 description: 사용자가 포함된 코드 URL을 사용하여 요청 대기열로 이동하면 대기열이 로드되지만 관련 필드가 로드되지 않아 사용자가 요청을 작성할 수 없습니다. 이 문제는 큐가 속한 프로젝트에 연결된 큐가 두 개 이상 있을 때 발생합니다
 hidefromtoc: true
 feature: Requests
-source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
+exl-id: 7fdc6ac1-27bf-4b98-83e8-02f17aead4ac
+source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%
 
 ---
-
 
 # 요청: 포함된 코드 URL이 요청 대기열을 올바르게 로드하지 않음
 
@@ -20,3 +20,4 @@ ht-degree: 3%
 요청 대기열에 대한 직접 액세스 URL이 예상대로 작동합니다.
 
 _2025년 3월 18일 수요일에 처음 보고되었습니다._
+
