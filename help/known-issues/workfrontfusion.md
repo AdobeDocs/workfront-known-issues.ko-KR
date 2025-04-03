@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 96%
+source-wordcount: '208'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| 없음 |  |
+| [Workfront Fusion: 샌드박스 환경에 연결할 때 Workfront 이벤트 구독 버전 2 옵션을 사용할 수 없음](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 2025년 4월 3일 금요일 |
 
 {style="table-layout:auto"}
 

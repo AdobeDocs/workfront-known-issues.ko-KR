@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '995'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [대시보드: 사용자 지정 대시보드가 열리지 않습니다](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 2025년 4월 3일 금요일 |
 | [요청: 포함된 코드 URL이 요청 큐를 올바르게 로드하지 않습니다](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025년 3월 27일 금요일 |
 | [보고서: 다른 시간대의 사용자가 다른 보고서 결과를 얻음](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025년 3월 27일 금요일 |
 | [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 2월 20일 |
@@ -41,7 +42,6 @@ ht-degree: 95%
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
 | [사용자: 그룹 관리자가 사용자를 비활성화할 수 없음](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025년 3월 27일 금요일 |
-| [업데이트: 일부 사용자가 댓글에 첨부된 이미지나 문서를 볼 수 없습니다](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025년 3월 10일 화요일 |
 | [로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025년 3월 6일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
