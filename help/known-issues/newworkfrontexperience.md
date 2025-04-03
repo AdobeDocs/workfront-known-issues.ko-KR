@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '986'
 ht-degree: 95%
 
 ---
@@ -106,7 +106,6 @@ ht-degree: 95%
 | [교정쇄: 보고서에 교정쇄가 승인됨으로 표시되지 않음](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |
 | [[!UICONTROL 설정]: 감사 로그를 내보낼 수 없음](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023년 7월 20일 |
 | [교정쇄: 교정쇄가 미리보기 환경에서 느리게 생성됨](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
-| [문서: [!UICONTROL 교정쇄 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023년 4월 21일 |
 | [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023년 4월 11일 |
 | [교정쇄: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
 | [문서: [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 23일 |

@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '416'
 ht-degree: 96%
 
 ---
@@ -63,7 +63,6 @@ ht-degree: 96%
 | [교정쇄: 교정쇄가 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023년 6월 9일 |
 | [교정쇄: 교정쇄가 미리보기 환경에서 느리게 생성됨](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
 | [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생 | 2023년 5월 25일 |
-| [문서: [!UICONTROL 교정쇄 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023년 4월 21일 |
 | [교정쇄: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |
 | [문서: [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생 | 2023년 3월 23일 |
 | [문서: 문서 목록 관련 문제](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023년 3월 23일 |
