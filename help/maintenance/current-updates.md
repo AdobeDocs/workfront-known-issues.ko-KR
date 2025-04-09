@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
-source-wordcount: '891'
-ht-degree: 92%
+source-wordcount: '964'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 92%
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2025년 4월 업데이트
+
++++**(예정) 2025년 4월 10일 금요일 유지 보수 업데이트**
+
+### **(예정) 2025년 4월 10일 금요일 유지 보수 업데이트**
+
+#### 대시보드
+
+**사용자 지정 대시보드가 열리지 않습니다**
+
+사용자가 오브젝트를 볼 때 오브젝트에 첨부된 사용자 정의 대시보드를 열려고 하면 대시보드가 열리지 않습니다.
+
+#### 보고서
+
+**다른 시간대의 사용자가 다른 보고서 결과를 얻음**
+
+날짜 선택기를 사용하여 특정 날짜에 대한 보고서를 가져오는 다른 시간대의 사용자는 해당 보고서에 대해 다른 결과를 얻습니다.
+
++++
 
 +++**2025년 4월 3일 금요일 유지 관리 업데이트**
 

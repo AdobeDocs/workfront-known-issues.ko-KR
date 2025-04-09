@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 89%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -35,7 +35,6 @@ ht-degree: 89%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: 시나리오가 실행되고 있지 않음](known-issues-workfront-fusion/fusion-scenario-not-running.md) | 2024년 3월 19일 수요일 |
 | [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024년 9월 24일 |
 
 {style="table-layout:auto"}
