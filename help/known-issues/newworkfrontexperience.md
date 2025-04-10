@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '986'
-ht-degree: 95%
+source-wordcount: '968'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [대시보드: 사용자 지정 대시보드가 열리지 않습니다](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 2025년 4월 3일 금요일 |
 | [요청: 포함된 코드 URL이 요청 큐를 올바르게 로드하지 않습니다](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025년 3월 27일 금요일 |
-| [보고서: 다른 시간대의 사용자가 다른 보고서 결과를 얻음](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025년 3월 27일 금요일 |
 | [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 2월 20일 |
 | [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025년 1월 9일 |
 | [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024년 11월 12일 |
