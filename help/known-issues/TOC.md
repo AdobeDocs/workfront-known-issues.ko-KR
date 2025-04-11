@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+source-git-commit: 769cf7631661402b5add6e719838358859e25a21
 workflow-type: tm+mt
-source-wordcount: '1794'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+      + [템플릿: Contribute 액세스로 공유할 수 없음](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [대시보드: 사용자 정의 대시보드가 열리지 않음](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [요청: 포함된 코드 URL이 요청 대기열을 올바르게 로드하지 않음](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [보고서: 시간대가 다른 사용자가 다른 보고서 결과를 얻습니다](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
