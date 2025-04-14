@@ -4,14 +4,18 @@ description: 사용자가 포함된 코드 URL을 사용하여 요청 대기열�
 hidefromtoc: true
 feature: Requests
 exl-id: 7fdc6ac1-27bf-4b98-83e8-02f17aead4ac
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 3%
+source-wordcount: '144'
+ht-degree: 7%
 
 ---
 
 # 요청: 포함된 코드 URL이 요청 대기열을 올바르게 로드하지 않음
+
+>[!NOTE]
+>
+>이 문제는 2025년 4월 9일 목요일에 해결되었습니다.
 
 사용자가 포함된 코드 URL을 사용하여 요청 대기열로 이동하면 대기열이 로드되지만 관련 필드가 로드되지 않아 사용자가 요청을 작성할 수 없습니다. 이 문제는 큐가 속한 프로젝트에 연결된 큐가 두 개 이상 있을 때 발생합니다.
 

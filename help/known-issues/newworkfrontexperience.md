@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '947'
+ht-degree: 98%
 
 ---
 
@@ -38,7 +38,6 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
-| [요청: 포함된 코드 URL이 요청 큐를 올바르게 로드하지 않습니다](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025년 4월 10일 금요일 |
 | [로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025년 3월 6일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
