@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1806'
+ht-degree: 92%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 0%
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
-   + [!DNL Adobe Workfront]{#wf-current}의 현재 문제
+   + [!DNL Adobe Workfront]의 현재 문제 {#wf-current}
+      + [문서: 문서 썸네일이 표시되지 않음](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [템플릿: Contribute 액세스로 공유할 수 없음](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [대시보드: 사용자 정의 대시보드가 열리지 않음](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [요청: 포함된 코드 URL이 요청 대기열을 올바르게 로드하지 않음](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -200,7 +201,7 @@ ht-degree: 0%
 
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
-   + [!DNL Workfront Proof]{#proof-current}의 현재 문제
+   + [!DNL Workfront Proof]의 현재 문제 {#proof-current}
       + [Workfront Mobile: iPhone에서 교정쇄 이메일 링크가 열리지 않음](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [[!UICONTROL Workfront Proof]: 교정쇄를 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 교정쇄 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -220,13 +221,13 @@ ht-degree: 0%
       + [[!UICONTROL 교정쇄 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL 홈]: 완료된 교정쇄가 [!UICONTROL 작업 목록]에 남아 있음](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [문서: 교정 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront] 교정쇄 {#proof-resolved}의 해결된 문제
+   + [!DNL Workfront] 증명에서 해결된 문제 {#proof-resolved}
       + [교정쇄: 교정쇄가 매우 오랫동안 “[!UICONTROL 교정쇄 생성 중]”으로 표시됨](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
-   + [!DNL Workfront Fusion]{#fusion-current}의 현재 문제
+   + [!DNL Workfront Fusion]의 현재 문제 {#fusion-current}
       + [Workfront Fusion: 샌드박스 환경에 연결할 때 Workfront 이벤트 구독 버전 2 옵션을 사용할 수 없음](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: 시나리오가 실행되고 있지 않음](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
