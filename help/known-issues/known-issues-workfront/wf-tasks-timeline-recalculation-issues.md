@@ -4,7 +4,7 @@ description: 타임라인 재계산과 관련하여 다음과 같은 문제가 �
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문서는 2025년 3월 10일 화요일에 수정되었습니다.
+>이 문제는 2025년 3월 10일 화요일에 해결되었습니다.
 
 타임라인 재계산과 관련하여 다음과 같은 문제가 보고되었습니다.
 

@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1806'
-ht-degree: 92%
+source-wordcount: '1625'
+ht-degree: 91%
 
 ---
 
@@ -50,50 +50,29 @@ ht-degree: 92%
       + [홈: 승인 대기 위젯에서 승인 버튼 누락](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [사용자 정의 양식: 사용자 정의 양식이 이전 포맷으로 표시됨](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [청구 기록: 시간이 저장되지 않음](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [보드: 카드를 다른 열로 이동할 수 없음](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [사용자 정의 양식: 사용자 정의 양식을 편집할 때 “잘못된 필드” 메시지 발생](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [사용자: 사용자 대량 업데이트가 매우 느림](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [사용자 정의 양식: 라디오 버튼이 가로로 나열됨](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [업데이트: 기록된 시간이 업데이트 영역의 시간 기록 레이블에 표시되지 않음](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [알림: Workfront 모바일 앱에 대한 푸시 알림이 작동하지 않음](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [문서: 문서 영역에 일부 문서가 표시되지 않음](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [사용자 정의 양식: 열을 통해 사용자 정의 양식을 편집할 때 오류 발생](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [요청 및 문제: 고급 사용자 할당 오류](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [사용자 정의 양식: 요약 패널에 사용자 정의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [애자일: 반복 작업에서 스토리를 일괄 편집할 수 없음](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [교정쇄: 교정쇄에 수신자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [교정쇄: 교정쇄 이름이 브라우저 탭에 나타나지 않음](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [작업: 개인 작업을 추가할 때 오류 발생](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [문서: 문서에 양식을 추가할 때 “저장되지 않은 변경 사항” 오류 발생](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [작업: 전임 작업이 완료됨에도 불구하고 시작할 준비 완료 필드가 업데이트되지 않음](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront: 애플리케이션 전체에서 날짜 형식이 변경됨](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: ZScaler 설정으로 인해 성능이 저하될 수 있음](known-issues-workfront//wf-workfront-zscaler.md)
-      + [타임시트: 참여자 사용자에게 “승인을 위해 제출” 버튼이 있음](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [사용자 정의 양식: “estimateByHours” 또는 “hoursPerPoint” 작업 필드를 추가할 수 없음](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [문서: 승인 “빠른 추가”에 새 버전에 대한 기한 항목이 포함되지 않음](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [레이아웃 템플릿: 관리자가 홈 레이아웃 템플릿을 편집할 수 없음](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [사용자: 로그인 후에도 “등록되지 않음” 태그가 지속됨](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront: 참여자 사용자가 프로그램 또는 포트폴리오에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [승인: “모두” 필터가 개인이 제출한 승인을 제외함](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [작업: 하위 작업이 있는 상위 작업의 경과 일수가 올바르지 않음](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [보고서: 차트 목록에서 일괄 편집이 응답하지 않음](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: 열려 있는 브라우저 탭이 로드되지 않음](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [보고서: 보고서가 로드되지 않음](known-issues-workfront/wf-reports-fail-to-load.md)
       + [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [홈: 내 업데이트 위젯이 작동하지 않음](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [문서: 문서에 승인 옵션 버튼이 누락됨](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [통합: Unified Shell에서 조직에 대한 JumpSeat 통합이 실패함](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [알림: 문서 알림 이메일에서 이미지 미리보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [교정쇄: 미리보기 환경에서 교정쇄를 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [우선순위: 그룹화를 적용하면 정렬 및 인라인 편집이 불가능함](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [프로젝트: “삭제 액세스 권한” 오류로 인해 프로젝트를 공유할 수 없음](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [그룹: 삭제된 그룹 상태가 다시 나타남](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)

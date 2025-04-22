@@ -1,13 +1,13 @@
 ---
 title: 'Workfront: 브랜딩을 사용할 수 없음'
-description: 사용자가 설정의 브랜딩 영역에 파일을 업로드하면 파일이 올바르게 업로드되는 것으로 표시됩니다. 그러나 사용자가 메인 메뉴를 조회해 보면 해당 로고가 표시되지 않습니다. 대신 오류 메시지가 표시됩니다.
+description: Adobe Admin Console, Adobe Unified Shell 또는 Adobe IMS(Identity Management System)로 마이그레이션한 조직에서는 브랜딩을 사용할 수 없습니다.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 56%
+source-wordcount: '181'
+ht-degree: 39%
 
 ---
 
