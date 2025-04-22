@@ -4,9 +4,9 @@ description: 사용자가 다중 선택 외부 조회 필드 값을 참조하는
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제는 2024년 10월 10일에 해결되었습니다.
 
 사용자가 다중 선택 외부 조회 필드 값을 참조하는 계산된 필드를 보면 해당 계산 필드에 선택된 값이 하나만 표시됩니다. 여러 값을 선택한 경우에도 이러한 문제가 발생할 수 있으며, 사용자가 필드를 편집할 때는 여러 값이 표시됩니다.
 

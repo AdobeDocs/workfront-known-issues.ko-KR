@@ -4,10 +4,10 @@ description: 사용자가 대량의 감사 로그를 내보내려고 하면 로�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 95%
+source-wordcount: '79'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중입니다. 이 문제가 해결되면 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>이 문제는 2024년 11월 4일 화요일에 해결되었습니다.
 
 사용자가 대량의 감사 로그를 내보내려고 하면 로그가 내보내지지 않습니다. 내보내기에 실패했다는 표시는 없습니다.
 
