@@ -999,7 +999,7 @@ _증명_
 
 이미 [!UICONTROL 데스크탑 증명 뷰어]를 설치한 사용자는 이 업데이트를 자동으로 받게 됩니다.
 
-사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [[!UICONTROL 데스크탑 증명 뷰어 설치를 참조하십시오]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [[!UICONTROL 데스크탑 증명 뷰어 설치를 참조하십시오]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko).
 
 * 이전 버전: 2.1.22
 * 신규 버전: 2.1.23

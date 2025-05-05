@@ -29,6 +29,6 @@ ht-degree: 95%
 
 다시 인증합니다.
 
-문제가 지속되면 [SharePoint 통합 구성](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html)의 [문제 해결](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting) 섹션을 확인하십시오.
+문제가 지속되면 [SharePoint 통합 구성](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=ko)의 [문제 해결](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=ko#troubleshooting) 섹션을 확인하십시오.
 
 _2023년 11월 9일에 처음 보고되었습니다._

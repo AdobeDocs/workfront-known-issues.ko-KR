@@ -15,8 +15,8 @@ ht-degree: 70%
 
 [!DNL Workfront]공인 지원 담당자이며 지원 사례를 제출하는 데 문제가 있는 경우 다음 커뮤니티 블로그를 방문하여 지시를 받으십시오.
 
-* [Experience League에서 지원 티켓을 제출하는 방법](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
-* [신규 또는 기존 Workfront Experience League 커뮤니티 회원으로 처음 로그인](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
+* [Experience League에서 지원 티켓을 제출하는 방법](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=ko)
+* [신규 또는 기존 Workfront Experience League 커뮤니티 회원으로 처음 로그인](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472?profile.language=ko)
 
 계속 문제가 있는 경우 아래 번호로 전화하여 도움을 받으십시오.
 
