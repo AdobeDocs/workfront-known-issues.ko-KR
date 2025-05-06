@@ -4,7 +4,7 @@ description: ' [!DNL Workfront Fusion] 의 도움말 링크는 현재 원하는 
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2023년 4월 25일에 해결되었습니다.
+>이 문제는 2025년 5월 5일 화요일에 해결되었습니다.
 
 [!DNL Workfront Fusion]의 도움말 링크는 현재 원하는 도움말 페이지로 연결되지 않습니다. 대신 모든 [!DNL Fusion] 도움말 링크가 [!DNL Workfront] 설명서 홈 페이지로 연결됩니다. 이 랜딩 페이지에서 필요한 정보를 검색할 수 있습니다.
 
