@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
+source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '939'
 ht-degree: 97%
 
 ---
@@ -49,6 +49,7 @@ ht-degree: 97%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 문서 목록에 대한 증명 리디렉션을 닫는 중](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
 | [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md) | 2025년 3월 26일 목요일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025년 3월 13일 금요일 |
 | [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2025년 3월 13일 금요일 |

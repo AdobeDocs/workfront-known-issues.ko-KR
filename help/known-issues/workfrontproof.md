@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
+source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 94%
+source-wordcount: '411'
+ht-degree: 92%
 
 ---
 
@@ -51,6 +51,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 문서 목록에 대한 증명 리디렉션을 닫는 중](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
 | [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |
 | [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 |
 | [교정쇄: 압축된 교정쇄 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 6월 7일 |
