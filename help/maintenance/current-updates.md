@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
 workflow-type: tm+mt
-source-wordcount: '1086'
-ht-degree: 88%
+source-wordcount: '1129'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 88%
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2025년 5월 업데이트
+
++++**2025년 5월 15일 금요일 유지 관리 업데이트**
+
+### 2025년 5월 15일 금요일 유지 관리 업데이트
+
+#### 보고서
+
+**마일스톤 보기로 보고서를 볼 때 오류 발생**
+
+사용자가 활성화할 수 있는 마일스톤 보기가 있는 보고서를 보려고 할 때 보고서가 로드되지 않고 오류가 표시됩니다.
+
++++
 
 +++**2025년 5월 8일 금요일 유지 관리 업데이트**
 
