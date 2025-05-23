@@ -42,7 +42,7 @@ Workfront의 새 사용자가 사용자 목록에 &quot;승인 보류 중&quot; 
 
 대규모 배치에 추가된 사용자를 해결하려면 사용자 배치를 Adobe Admin Console에 직접 추가할 수 있습니다.
 
-지침은 [여러 사용자 관리를 참조하십시오. | Adobe 설명서의 일괄 CSV 업로드](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html).
+지침은 [여러 사용자 관리를 참조하십시오. | Adobe 설명서의 일괄 CSV 업로드](https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html).
 
 
 _2025년 5월 8일 금요일에 처음 보고되었습니다._
