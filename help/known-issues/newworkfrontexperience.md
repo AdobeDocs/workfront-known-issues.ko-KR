@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '931'
-ht-degree: 96%
+source-wordcount: '940'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [리소스 플래너: 내보내기 단추를 사용할 수 없습니다](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 2025년 5월 22일 금요일 |
+| [검색: 고급 검색이 예상 결과를 반환하지 않습니다](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | 2025년 5월 29일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
@@ -36,6 +36,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [리소스 플래너: 내보내기 단추를 사용할 수 없습니다](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 2025년 5월 29일 금요일 |
 | [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됩니다](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 토요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
