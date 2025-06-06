@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 23766d8e6c6e67c7106f138c83057ba99cb1da1a
+source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
 workflow-type: tm+mt
-source-wordcount: '1196'
-ht-degree: 84%
+source-wordcount: '1248'
+ht-degree: 80%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 84%
 2025년 이전 유지 관리 업데이트는 [이전 유지 관리 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
+
+## 2025년 6월 업데이트
+
++++**2025년 6월 2~6일 유지 보수 업데이트**
+
+### 2025년 6월 2~6일 유지 보수 업데이트
+
+### 검색
+
+**고급 검색에서 필요한 결과를 반환하지 않습니다**
+
+사용자가 고급 검색을 사용할 때 예상 결과가 반환되지 않습니다. 이 문제는 고급 검색에 적용된 필터가 없는 경우에도 발생할 수 있습니다.
+
++++
 
 ## 2025년 5월 업데이트
 
