@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '952'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [보고서: 차트 드릴다운에 부정확한 결과가 포함되어 있습니다](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | 2025년 6월 9일 화요일 |
 | [타임시트: 타임시트가 올바르게 생성되지 않음](known-issues-workfront/wf-timesheets-one-week-created.md) | 2025년 6월 3일 수요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
@@ -36,6 +37,7 @@ ht-degree: 0%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [증명: 직접 링크에서 증명을 열 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025년 6월 9일 화요일 |
 | [리소스 플래너: 내보내기 단추를 사용할 수 없습니다](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 2025년 5월 29일 금요일 |
 | [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됩니다](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 토요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
