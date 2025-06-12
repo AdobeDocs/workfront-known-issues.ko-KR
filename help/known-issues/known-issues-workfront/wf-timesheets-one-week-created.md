@@ -3,15 +3,19 @@ title: '타임시트: 타임시트가 올바르게 생성되지 않음'
 description: 사용자가 타임시트를 생성하려고 할 때 생성이 격주로 설정된 경우 1주만 생성됩니다.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 7%
+source-wordcount: '73'
+ht-degree: 15%
 
 ---
 
-
 # 타임시트: 타임시트가 올바르게 생성되지 않음
+
+>[!NOTE]
+>
+>이 문제는 2025년 6월 10일 수요일에 해결되었습니다.
 
 사용자가 타임시트를 생성하려고 할 때 생성이 &quot;격주&quot;로 설정되면 1주만 생성됩니다.
 
