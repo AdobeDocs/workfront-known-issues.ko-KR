@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '911'
 ht-degree: 95%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 95%
 | [통합: Outlook에 Workfront를 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025년 3월 4일 |
 | [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025년 2월 27일 |
 | [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 27일 |
-| [통합: Outlook용 Workfront에 로그인할 수 없음](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025년 2월 20일 |
 | [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025년 1월 20일 |
 | [사용자 정의 양식: 사용자 정의 자동 완성 필드에서 회사가 누락됨](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025년 2월 20일 |
 | [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |
@@ -70,7 +69,6 @@ ht-degree: 95%
 | [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024년 12월 5일 |
 | [Workfront: 참여자 사용자가 프로그램 또는 포트폴리오에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024년 12월 5일 |
 | [Workfront: ZScaler 설정으로 인해 성능이 저하될 수 있음](known-issues-workfront//wf-workfront-zscaler.md) | 2024년 11월 20일 |
-| [알림: 참여자 사용자에게 이메일 알림이 수신되지 않음](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024년 11월 12일 |
 | [알림: 문서 알림 이메일에서 이미지 미리보기를 표시할 수 없음](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024년 10월 29일 |
 | [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md) | 2024년 10월 14일 |
 | [홈: 삭제된 사용자 정의 필드가 프로젝트, 작업 및 문제 위젯에 그대로 유지됨](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024년 10월 8일 |
@@ -99,7 +97,6 @@ ht-degree: 95%
 | [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [[!UICONTROL 홈]: 새 [!UICONTROL 홈]의 “[!UICONTROL 언급]” 위젯이 사용자가 태그된 메시지로 제한되지 않습니다.](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023년 9월 25일 |
 | [[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023년 9월 7일 |
-| [교정쇄: 보고서에 교정쇄가 승인됨으로 표시되지 않음](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |
 | [교정쇄: 교정쇄가 미리보기 환경에서 느리게 생성됨](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
 | [필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023년 4월 11일 |
 | [교정쇄: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023년 3월 27일 |

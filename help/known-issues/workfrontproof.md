@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 91%
+source-wordcount: '393'
+ht-degree: 90%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 91%
 | [증명: 직접 링크에서 증명을 열 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025년 6월 9일 화요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
 | [업데이트: 일부 사용자가 댓글에 첨부된 이미지나 문서를 볼 수 없습니다](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025년 3월 10일 화요일 |
-| [교정쇄: 승인된 교정쇄가 보고서에 나타남](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025년 2월 11일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
 
@@ -60,7 +59,6 @@ ht-degree: 91%
 | [[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023년 10월 25일 |
 | [Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023년 9월 19일 |
 | [Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023년 9월 19일 |
-| [교정쇄: 보고서에 교정쇄가 승인됨으로 표시되지 않음](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023년 8월 3일 |
 | [교정쇄: 교정쇄가 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023년 6월 9일 |
 | [교정쇄: 교정쇄가 미리보기 환경에서 느리게 생성됨](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023년 6월 8일 |
 | [[!DNL Workfront Proof]: API 또는 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)을 통해 [!DNL Workfront Proof] 에 액세스할 때 500 오류 발생 | 2023년 5월 25일 |
@@ -76,7 +74,6 @@ ht-degree: 91%
 | [교정쇄: 교정쇄가 교정 워크플로의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022년 9월 18일 |
 | [교정쇄: [!UICONTROL 활성 교정 단계] 필드가 비어 있음](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022년 9월 14일 |
 | [[!DNL Workfront Proof]: 댓글에 사용자를 태그 지정하여 교정쇄에 사용자를 추가할 수 없음](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022년 3월 23일 |
-| [[!UICONTROL 홈]: [!UICONTROL 교정쇄에서 답글 작성] 버튼 동작이 일관적이지 않음](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021년 6월 21일 |
 | [[!DNL Workfront Proof]: [!UICONTROL 교정쇄 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021년 4월 21일 |
 | [문서: 교정 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021년 3월 5일 |
 
