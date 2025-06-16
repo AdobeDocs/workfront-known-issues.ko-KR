@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 95%
+source-wordcount: '925'
+ht-degree: 94%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [증명: 미리 보기 환경에서 이름별로 증명에 사용자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025년 6월 16일 화요일 |
 | [증명: 문서 목록에 대한 증명 리디렉션을 닫는 중](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
 | [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md) | 2025년 3월 26일 목요일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025년 3월 13일 금요일 |
