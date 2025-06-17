@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
+source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '935'
 ht-degree: 93%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
-| [사용자: 비활성화되거나 삭제된 사용자가 Snowflake에서 활성 상태로 표시됩니다](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |
+| [Workfront: Workfront과 Snowflake 간에 개체가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |
 | [증명: 직접 링크에서 증명을 열 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025년 6월 9일 화요일 |
 | [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됩니다](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 토요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
