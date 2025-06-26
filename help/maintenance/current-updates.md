@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '1360'
-ht-degree: 75%
+source-wordcount: '1421'
+ht-degree: 72%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 75%
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2025년 6월 업데이트
+
++++**2025년 6월 22~27일의 유지 보수 업데이트 주**
+
+### 2025년 6월 22~27일의 유지 보수 업데이트 주
+
+#### 교정쇄
+
+**직접 연결에서 증명을 열 수 없음**
+
+사용자가 직접 링크에서 증명을 열려고 할 때 증명이 열리지 않습니다. 사용자가 증명을 위한 워크플로에 있거나 사용자가 Workfront 관리자인 경우에도 이 문제가 발생할 수 있습니다.
+
++++
 
 +++**2025년 6월 15~21일의 유지 관리 업데이트 주**
 

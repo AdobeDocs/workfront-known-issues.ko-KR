@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 87%
+source-wordcount: '399'
+ht-degree: 89%
 
 ---
 
@@ -37,7 +37,6 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [증명: 직접 링크에서 증명을 열 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025년 6월 9일 화요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
 | [업데이트: 일부 사용자가 댓글에 첨부된 이미지나 문서를 볼 수 없습니다](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025년 3월 10일 화요일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
