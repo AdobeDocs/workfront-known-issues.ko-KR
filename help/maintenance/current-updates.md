@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 72%
+source-wordcount: '1463'
+ht-degree: 70%
 
 ---
 
@@ -35,6 +35,14 @@ ht-degree: 72%
 **직접 연결에서 증명을 열 수 없음**
 
 사용자가 직접 링크에서 증명을 열려고 할 때 증명이 열리지 않습니다. 사용자가 증명을 위한 워크플로에 있거나 사용자가 Workfront 관리자인 경우에도 이 문제가 발생할 수 있습니다.
+
+#### 보고서
+
+**차트 드릴다운에 부정확한 결과가 포함되어 있습니다**
+
+사용자가 차트 보고서를 볼 때 특정 그룹화로 드릴다운하려고 하면 선택한 그룹화에 없는 결과가 세부 정보에 포함됩니다.
+
+이 문제는 날짜별로 그룹화된 보고서에 보고되었습니다.
 
 +++
 

@@ -3,15 +3,19 @@ title: '보고서: 차트 드릴다운에 부정확한 결과가 포함됩니다
 description: 사용자가 차트 보고서를 볼 때 특정 그룹화로 드릴다운하려고 하면 선택한 그룹화에 없는 결과가 세부 정보에 포함됩니다.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 7e8d8298a1a4eb4b739833280b94a2b00c707c47
+exl-id: 36291406-ea73-4ef0-9af8-571fc82f85da
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
-
 # 보고서: 차트 드릴다운에 부정확한 결과가 포함됩니다
+
+>[!NOTE]
+>
+>이 문제는 2025년 6월 26일 금요일에 해결되었습니다.
 
 사용자가 차트 보고서를 볼 때 특정 그룹화로 드릴다운하려고 하면 선택한 그룹화에 없는 결과가 세부 정보에 포함됩니다.
 
