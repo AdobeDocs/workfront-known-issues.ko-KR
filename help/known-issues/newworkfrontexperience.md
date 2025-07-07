@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 93%
+source-wordcount: '953'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [설치 프로그램: 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | 2025년 7월 7일 화요일 |
+| [통합: Slack용 Workfront 통합 문제](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 2025년 7월 7일 화요일 |
 | [작업: 승인 영역이 왼쪽 탐색에서 사라짐](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025년 6월 27일 토요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
