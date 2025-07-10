@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1463'
-ht-degree: 70%
+source-wordcount: '1522'
+ht-degree: 67%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 70%
 2025년 이전 유지 관리 업데이트는 [이전 유지 관리 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
+
+## 2025년 7월 업데이트
+
++++**2025년 7월 6~12일의 유지 보수 업데이트 주**
+
+### 7월 6~12일의 유지 보수 업데이트 주
+
+### 프로젝트
+
+**프로젝트를 지정한 프로그램으로 이동할 수 없습니다**
+
+사용자가 프로젝트를 프로그램으로 이동하려고 할 때 프로젝트가 이동하지 않습니다. 이 문제는 프로젝트가 성공적으로 이동되었다는 메시지를 사용자가 수신했을 경우에도 발생할 수 있습니다.
+
++++
 
 ## 2025년 6월 업데이트
 
