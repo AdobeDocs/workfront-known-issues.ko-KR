@@ -3,15 +3,19 @@ title: '통합: Workfront for Slack 통합 문제'
 description: Slack용 Workfront 통합과 관련하여 몇 가지 문제가 보고되었습니다.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+exl-id: 6c3d7e68-f174-4672-a68d-c4e71438349e
+source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 4%
 
 ---
 
-
 # 통합: Workfront for Slack 통합 문제
+
+>[!NOTE]
+>
+>이 문제는 2025년 6월 16일 Ju에서 수정되었습니다.
 
 Slack용 Workfront 통합과 관련하여 다음과 같은 문제가 보고되었습니다.
 
