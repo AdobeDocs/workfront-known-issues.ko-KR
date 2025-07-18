@@ -4,7 +4,7 @@ description: Workfront는 최근 교정쇄 처리 도구를 서드파티 제공�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
@@ -24,3 +24,6 @@ Workfront는 기존 도구와 일치하도록 라이브러리를 업그레이드
 현재 이러한 파일을 처리하는 데 문제가 발생하는 경우 페이지를 JPG 또는 PNG로 내보내고 이를 교정하는 방법을 사용하시기 바랍니다.
 
 _2023년 8월 15일에 처음 보고되었습니다._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

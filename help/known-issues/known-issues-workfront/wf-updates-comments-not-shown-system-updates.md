@@ -4,7 +4,7 @@ description: '사용자가 시스템 작업(예: 상태 변경)에 대해 댓글
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 0c5381a9-7a1f-4a60-9793-2cc902e83d9b
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -28,3 +28,5 @@ ht-degree: 100%
 이 문제는 새로운 댓글 달기 환경에서 보고되었습니다.
 
 _2023년 10월 27일에 처음 보고되었습니다._
+
+<!--CHECK ME - NO VIEWS APR-JUN 2025-->

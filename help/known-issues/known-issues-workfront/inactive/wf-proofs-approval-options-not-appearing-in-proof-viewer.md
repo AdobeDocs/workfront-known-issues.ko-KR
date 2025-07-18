@@ -4,7 +4,7 @@ description: 사용자가 데스크탑 교정쇄 뷰어에서 교정쇄를 승�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 93%
@@ -24,3 +24,5 @@ ht-degree: 93%
 [!DNL Workfront]의 [!UICONTROL 문서 세부 정보] 페이지에서 문서를 승인합니다.
 
 _2023년 6월 12일에 처음 보고되었습니다._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

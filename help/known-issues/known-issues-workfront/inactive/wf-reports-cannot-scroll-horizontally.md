@@ -4,7 +4,7 @@ description: 사용자가 대시보드에서 보고서를 보다가 가로로 �
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
@@ -20,3 +20,6 @@ ht-degree: 100%
 사용자가 대시보드에서 보고서를 보다가 가로로 스크롤하려고 하면 보고서가 스크롤되지 않거나 열 머리글이 실제 열보다 뒤쳐집니다. 보고서에 열이 많은 경우, 가로로 스크롤하면 페이지가 잠길 수 있습니다.
 
 _2021년 2월 24일에 처음 보고되었습니다._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

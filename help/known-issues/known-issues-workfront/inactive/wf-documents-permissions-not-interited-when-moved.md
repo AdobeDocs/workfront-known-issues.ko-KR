@@ -4,7 +4,7 @@ description: '사용자가 문서를 다른 프로젝트로 이동하는 경우 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -30,3 +30,7 @@ ht-degree: 100%
 또는 [!UICONTROL 문서 세부 정보] 페이지의 URL에 있는 문서 ID를 기록하고 [!DNL Workfront] 고객 지원팀에 문의할 수도 있습니다.
 
 _2023년 1월 6일에 처음 보고되었습니다._
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->

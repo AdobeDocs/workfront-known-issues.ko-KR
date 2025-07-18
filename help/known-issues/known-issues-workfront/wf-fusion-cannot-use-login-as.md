@@ -4,7 +4,7 @@ description: Workfront Fusion에서 연결을 만들 때 사용자가 다른 사
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 75%
@@ -20,3 +20,6 @@ ht-degree: 75%
 Workfront Fusion에서 Workfront 연결을 생성할 때 사용자가 다른 사용자로 로그인한 상태에서는 연결을 인증할 수 없습니다.
 
 _2024년 7월 18일에 처음 보고되었습니다._
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
+
