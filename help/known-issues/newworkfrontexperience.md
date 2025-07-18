@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '960'
 ht-degree: 91%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [증명: 증명 댓글에 사용자를 태그 지정할 수 없음](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025년 7월 18일 토요일 |
 | [권한: 개체 권한이 올바르게 상속되지 않음](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025년 7월 16일 목요일 |
 | [작업: 승인 영역이 왼쪽 탐색에서 사라짐](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025년 6월 27일 토요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
@@ -37,7 +38,7 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
-| [프로젝트: 프로그램에 프로젝트를 추가할 때 오류 발생](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | 2025년 7월 10일 금요일 |
+| [증명: 증명 댓글에 사용자를 태그 지정할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025년 7월 10일 금요일 |
 | [Workfront: Workfront과 Snowflake 간에 개체가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |
 | [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됩니다](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 토요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
