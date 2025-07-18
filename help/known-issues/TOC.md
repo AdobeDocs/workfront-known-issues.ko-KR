@@ -2,10 +2,10 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 82%
+source-wordcount: '1367'
+ht-degree: 86%
 
 ---
 
@@ -36,17 +36,8 @@ ht-degree: 82%
       + [증명: 문서 목록으로의 증명 리디렉션 닫기](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [문서: 문서 썸네일이 표시되지 않음](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [템플릿: Contribute 액세스로 공유할 수 없음](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [대시보드: 사용자 정의 대시보드가 열리지 않음](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [요청: 포함된 코드 URL이 요청 대기열을 올바르게 로드하지 않음](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [보고서: 시간대가 다른 사용자가 다른 보고서 결과를 얻습니다](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [사용자: 그룹 관리자가 사용자를 비활성화할 수 없음](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [홈: 언급 위젯에서 답글을 보낼 수 없음](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [업데이트: 업데이트가 지연됨](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [증명: 증명 생성이 느림](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [요청: 요청 대기열을 사용할 수 없음](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [프로젝트: 프로젝트 진행 상태가 자동으로 지연으로 업데이트되지 않음](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [업데이트: 일부 사용자는 댓글에 첨부된 이미지나 문서를 볼 수 없습니다](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [통합: Outlook에 Workfront를 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 82%
       + [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [로그인: 관리자의 홈 레이아웃 템플릿이 표시됨](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [사용자: 시스템 관리자 변경 시 중복 계정 생성](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [보고서: 보고서 프롬프트가 느리게 로드됨](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 82%
       + [Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [요청: 사용자가 권한이 없어도 상태를 변경할 수 있음](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [보고서: 보고서를 내보낼 때 오류 발생](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [사용자 정의 양식: 계산된 필드에 잘못된 값이 표시됨](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion: Workfront 다음으로 로그인 기능을 사용하여 연결을 인증할 수 없음](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [포트폴리오: 사용자가 포트폴리오를 설정할 수 없음](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 82%
       + [교정쇄: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [문서: 문서 목록 관련 문제](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [문서: [!DNL SharePoint]에서 연결되어 있는 문서에 액세스할 때 404 오류 발생](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [문서: [!UICONTROL 교정 활동] 옵션이 로그인 페이지로 연결됨](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL 워크로드 밸런서]: 사용자의 휴무 일정을 고려하여 시간이 조정되지 않음](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에서 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -147,7 +135,7 @@ ht-degree: 82%
       + [애자일: 애자일 보드에서 카드를 이동할 때 문제 발생](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [애자일: 카드의 사용자 정의 양식에서 필드를 편집할 수 없음](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [승인: 승인 위임이 잘못된 일수로 설정됨](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL 홈]: [!UICONTROL &#x200B; 이외의 브라우저 사용 시 &#x200B;]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL 홈]: [!UICONTROL  이외의 브라우저 사용 시 ]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 새 작업 옵션](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [업데이트: 팀 이름이 @mention에 표시되지 않음](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + [애자일: 반복에 대한 [!UICONTROL 완료된 포인트]의 불일치](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
@@ -189,7 +177,6 @@ ht-degree: 82%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion의 알려진 문제](workfrontfusion.md)
    + [!DNL Workfront Fusion]의 현재 문제 {#fusion-current}
-      + [Workfront Fusion: 샌드박스 환경에 연결할 때 Workfront 이벤트 구독 버전 2 옵션을 사용할 수 없음](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: 시나리오가 실행되고 있지 않음](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -198,7 +185,7 @@ ht-degree: 82%
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; 사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 인앱 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
