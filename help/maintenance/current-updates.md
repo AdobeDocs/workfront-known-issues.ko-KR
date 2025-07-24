@@ -3,7 +3,7 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4907ca1ec7d4573551d87430c6e448196f951692
+source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
 workflow-type: tm+mt
 source-wordcount: '1629'
 ht-degree: 63%
@@ -40,7 +40,7 @@ ht-degree: 63%
 
 ### 통합
 
-Slack용 Workfront 통합 관련 **문제**
+**Slack용 Workfront 통합 문제**
 
 Slack용 Workfront 통합과 관련하여 다음과 같은 문제가 보고되었습니다.
 
