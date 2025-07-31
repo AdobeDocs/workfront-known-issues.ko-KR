@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 63%
+source-wordcount: '1646'
+ht-degree: 62%
 
 ---
 
@@ -30,7 +30,11 @@ ht-degree: 63%
 
 ### 2025년 7월 20~26일의 유지 보수 업데이트 주
 
-이번 주 업데이트에는 사소하거나 눈에 잘 띄지 않는 버그 수정만 포함됩니다. Workfront 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
+#### 교정쇄
+
+**증명 댓글에 사용자를 태그 지정할 수 없음**
+
+사용자가 증명 댓글에서 다른 사용자를 태그 지정하려고 할 때 사용자 이름을 입력하려고 하면 목록에 사용자가 표시되지 않고 태그 지정을 선택할 수 없습니다.
 
 +++
 
