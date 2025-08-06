@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문�
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
+source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 95%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: 웹후크 업데이트가 자동으로 저장되지 않음](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025년 8월 6일 목요일 |
 | [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |
 | [Workfront Fusion: “지금부터” 시작 설정을 선택하면 모든 데이터가 처리됨](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024년 10월 29일 |
 | [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024년 2월 5일 |
