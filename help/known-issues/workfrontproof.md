@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 93%
+source-wordcount: '394'
+ht-degree: 90%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 93%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
