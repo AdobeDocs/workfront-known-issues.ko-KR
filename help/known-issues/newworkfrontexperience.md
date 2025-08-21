@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 91%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 91%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [권한: 개체 권한이 올바르게 상속되지 않음](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025년 7월 16일 목요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
@@ -68,7 +67,6 @@ ht-degree: 91%
 | [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 |
 | [Workfront: 애플리케이션 전체에서 날짜 형식이 변경됨](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024년 12월 20일 |
 | [승인: 위임된 승인이 위임자에게 나타나지 않음](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024년 12월 20일 |
-| [작업: 작업을 추가하거나 삭제할 때 데이터베이스 오류 발생 (이전의 Bizcontext 오류)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024년 12월 10일 |
 | [레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024년 11월 4일 |
 | [알림: 업데이트가 전송되지 않을 경우 이메일 알림이 표시됨](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024년 12월 5일 |
 | [Workfront: 참여자 사용자가 프로그램 또는 포트폴리오에 액세스할 수 없음](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024년 12월 5일 |
