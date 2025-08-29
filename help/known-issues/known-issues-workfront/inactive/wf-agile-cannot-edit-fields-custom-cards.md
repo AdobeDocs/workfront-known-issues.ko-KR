@@ -4,7 +4,7 @@ description: Kanban 보드의 카드에 있는 필드는 사용자 정의 양식
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -24,3 +24,4 @@ Kanban 보드의 카드에 있는 필드는 사용자 정의 양식에서 가져
 작업을 열고 [!UICONTROL 작업 편집] 창에서 필드를 편집합니다.
 
 _2022년 4월 12일에 처음 보고되었습니다._
+
