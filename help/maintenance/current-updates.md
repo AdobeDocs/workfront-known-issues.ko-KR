@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
-ht-degree: 51%
+source-wordcount: '2133'
+ht-degree: 50%
 
 ---
 
@@ -35,6 +35,12 @@ ht-degree: 51%
 **이벤트 구독을 오버로드할 수 없도록 새 보호 기능**
 
 이벤트 구독은 모든 사용자에게 이벤트를 안정적으로 전달하도록 설계되었습니다. 이를 위해 단일 사용자의 과도한 이벤트 생성으로 모든 사용자에게 잠재적인 서비스 품질 문제가 발생할 수 있는 것을 방지하기 위한 안전 장치를 마련했다. 따라서 짧은 시간 내에 너무 많은 이벤트를 높은 비율로 생성하는 사용자는 샌드박싱과 이벤트 전달 지연을 경험할 수 있습니다.
+
+#### 문서
+
+**승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못함**
+
+사용자가 문서를 승인한 후 승인자로 추가된 사용자가 추가되면 새로 추가된 승인자는 승인 요청에 대한 인앱 또는 이메일 알림을 받지 않습니다.
 
 +++
 
