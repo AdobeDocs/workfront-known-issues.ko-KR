@@ -3,7 +3,7 @@ title: '승인: 시간이 기한에 포함되지 않은 경우 승인이 기한 
 description: 승인 기한에 시간이 아닌 날짜만 포함된 경우 기한 없음의 기한으로 승인 홈 위젯에 표시됩니다.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 6eac1cb70ad0bbd7b1ddb77139dd185b35564cd8
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 5%
