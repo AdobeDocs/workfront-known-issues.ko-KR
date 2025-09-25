@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 87%
+source-wordcount: '1024'
+ht-degree: 86%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
 | [사용자: 사용자의 Federation ID를 편집할 수 없음](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 2025년 9월 9일 수요일 |
 | [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
 | [증명: 증명 댓글에 사용자를 태그 지정할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025년 7월 10일 금요일 |
