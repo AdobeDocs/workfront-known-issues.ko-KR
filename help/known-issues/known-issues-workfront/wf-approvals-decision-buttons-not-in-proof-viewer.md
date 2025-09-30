@@ -1,17 +1,17 @@
 ---
-title: '승인: 증명 뷰어에 승인 결정 버튼이 표시되지 않음'
+title: '승인: Teams용 Proof Viewer에 승인 결정 버튼이 표시되지 않음'
 description: 승인자가 증명 뷰어에서 증명을 보고 결정을 하려고 할 때 결정 버튼을 사용할 수 없습니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 8%
 
 ---
 
 
-# 승인: 증명 뷰어에 승인 결정 버튼이 표시되지 않음
+# 승인: Teams용 Proof Viewer에 승인 결정 버튼이 표시되지 않음
 
 승인자가 증명 뷰어에서 증명을 보고 결정을 하려고 할 때 결정 버튼을 사용할 수 없습니다.
 
