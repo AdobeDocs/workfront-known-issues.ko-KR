@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 90%
+source-wordcount: '404'
+ht-degree: 88%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [승인: 증명 뷰어에 승인 결정 단추가 표시되지 않음](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025년 9월 30일 수요일 |
 | [증명: 미리 보기 환경에서 이름별로 증명에 사용자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025년 6월 16일 화요일 |
 | [증명: 문서 목록에 대한 증명 리디렉션을 닫는 중](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
 | [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |

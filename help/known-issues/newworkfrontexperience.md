@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '1024'
-ht-degree: 86%
+source-wordcount: '1034'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 86%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [프로그램: 프로그램을 편집할 때 저장할 수 없음](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | 2025년 9월 30일 수요일 |
 | [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
@@ -37,7 +38,6 @@ ht-degree: 86%
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
-| [사용자: 사용자의 Federation ID를 편집할 수 없음](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 2025년 9월 9일 수요일 |
 | [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
 | [증명: 증명 댓글에 사용자를 태그 지정할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025년 7월 10일 금요일 |
 | [Workfront: Workfront과 Snowflake 간에 개체가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |
@@ -53,6 +53,7 @@ ht-degree: 86%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [승인: 증명 뷰어에 승인 결정 단추가 표시되지 않음](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025년 9월 30일 수요일 |
 | [증명: PowerPoint 파일에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025년 9월 11일 금요일 |
 | [권한: 개체 권한이 올바르게 상속되지 않음](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025년 7월 15일 수요일 |
 | [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md) | 2025년 3월 26일 목요일 |
