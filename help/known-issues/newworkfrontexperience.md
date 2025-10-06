@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 85%
+source-wordcount: '1017'
+ht-degree: 86%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 85%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [프로그램: 프로그램을 편집할 때 저장할 수 없음](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | 2025년 9월 30일 수요일 |
 | [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
@@ -57,7 +56,6 @@ ht-degree: 85%
 | [증명: PowerPoint 파일에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025년 9월 11일 금요일 |
 | [권한: 개체 권한이 올바르게 상속되지 않음](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025년 7월 15일 수요일 |
 | [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md) | 2025년 3월 26일 목요일 |
-| [통합: Outlook에 Workfront를 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025년 3월 4일 |
 | [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 27일 |
 | [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |
 | [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 |
