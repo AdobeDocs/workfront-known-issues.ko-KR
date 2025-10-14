@@ -15,7 +15,7 @@ ht-degree: 81%
 + [개요](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]의 현재 문제 {#wf-current}
       + [프로그램: 프로그램을 편집할 때 저장할 수 없음](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [승인: 증명 뷰어에 승인 결정 버튼이 표시되지 않음](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
@@ -158,7 +158,7 @@ ht-degree: 81%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]의 현재 문제 {#proof-current}
       + [[!UICONTROL Workfront Proof]: 교정쇄를 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 교정쇄 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -200,7 +200,7 @@ ht-degree: 81%
       + [[!DNL Workfront Fusion] 인앱 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] 모바일 앱 {#mobile}
-   + [ [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
 
 <!--
 
