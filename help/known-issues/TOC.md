@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '1461'
+source-wordcount: '1467'
 ht-degree: 80%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 80%
 + [개요](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]의 현재 문제 {#wf-current}
+      + [보고서: 차트의 드롭다운과 관련된 문제](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [사용자: 사용자를 만들 때 고급 옵션을 사용할 수 없음](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [사용자 정의 양식: 필드 표시 논리를 올바르게 따르지 않음](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [교정쇄: 교정쇄 뷰어를 닫을 수 없음](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
@@ -145,7 +146,7 @@ ht-degree: 80%
       + [애자일: 애자일 보드에서 카드를 이동할 때 문제 발생](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [애자일: 카드의 사용자 정의 양식에서 필드를 편집할 수 없음](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [승인: 승인 위임이 잘못된 일수로 설정됨](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL 홈]: [!UICONTROL &#x200B; 이외의 브라우저 사용 시 &#x200B;]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL 홈]: [!UICONTROL  이외의 브라우저 사용 시 ]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 새 작업 옵션](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [업데이트: 팀 이름이 @mention에 표시되지 않음](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + [애자일: 반복에 대한 [!UICONTROL 완료된 포인트]의 불일치](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
@@ -161,7 +162,7 @@ ht-degree: 80%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
+   + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]의 현재 문제 {#proof-current}
       + [[!UICONTROL Workfront Proof]: 교정쇄를 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 교정쇄 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -197,13 +198,13 @@ ht-degree: 80%
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; 사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 인앱 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] 모바일 앱 {#mobile}
-   + [&#x200B; [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
+   + [ [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
 
 <!--
 

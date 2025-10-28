@@ -3,15 +3,19 @@ title: '사용자 정의 양식: 필드 표시 논리를 올바르게 따르지 
 description: 사용자가 표시 논리를 포함하는 사용자 정의 양식을 채울 때(일부 필드가 다른 필드의 값을 기반으로 표시되지 않거나 표시되는 경우) 해당 필드 논리를 따르는 방식으로 필드가 표시되지 않습니다.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 3%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
 
 # 사용자 정의 양식: 필드 표시 논리를 올바르게 따르지 않음
+
+>[!NOTE]
+>
+>이 문제는 2025년 10월 22일 목요일에 해결되었습니다.
 
 사용자가 표시 논리를 포함하는 사용자 정의 양식을 채울 때(일부 필드가 다른 필드의 값을 기반으로 표시되지 않거나 표시되는 경우) 해당 필드 논리를 따르는 방식으로 필드가 표시되지 않습니다.
 

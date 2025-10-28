@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1033'
 ht-degree: 84%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 84%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [사용자 정의 양식: 필드 표시 논리를 올바르게 따르지 않음](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 2025년 10월 14일 수요일 |
-| [증명: 증명 뷰어를 닫을 수 없음](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 2025년 10월 14일 수요일 |
+| [보고서: 차트의 드롭다운에 관한 문제](known-issues-workfront/wf-reports-dropdown-not-working.md) | 2025년 10월 28일 수요일 |
 | [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
