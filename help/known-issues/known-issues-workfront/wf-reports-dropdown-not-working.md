@@ -3,15 +3,19 @@ title: '보고서: 차트의 드롭다운과 관련된 문제'
 description: 차트에서 드롭다운과 관련된 문제가 보고되었습니다.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b226eee1f982acf3e37c6d2c319067e139f6c559
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
 # 보고서: 차트의 드롭다운과 관련된 문제
+
+>[!NOTE]
+>
+>이 문제는 2025년 10월 29일 목요일에 해결되었습니다.
 
 차트의 드롭다운과 관련하여 다음과 같은 문제가 보고되었습니다.
 

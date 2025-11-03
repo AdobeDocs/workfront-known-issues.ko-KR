@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '2492'
-ht-degree: 46%
+source-wordcount: '2607'
+ht-degree: 44%
 
 ---
 
@@ -23,6 +23,39 @@ ht-degree: 46%
 2025년 이전 유지 관리 업데이트는 [이전 유지 관리 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
+
+
+
+## 2025년 11월 업데이트
+
++++**2025년 10월 26일부터 11월 1일까지의 유지 보수 업데이트 주**
+
+### 2025년 10월 26일부터 11월 1일의 유지 보수 업데이트 주
+
+#### 보고서
+
+**차트의 드롭다운과 관련된 문제**
+
+차트의 드롭다운과 관련하여 다음과 같은 문제가 보고되었습니다.
+
+* 사용자가 드롭다운 열이 있는 보고서를 볼 때 차트 기능을 사용하면 차트 창의 드롭다운이 작동하지 않습니다.
+* 사용자가 드롭다운을 사용하여 보고서에서 사용자를 할당하려고 하면 할당이 저장되지 않습니다.
+
+#### 사용자
+
+**사용자를 만들 때 고급 옵션을 사용할 수 없음**
+
+Workfront 관리자가 사용자를 만들 때 고급 옵션을 사용하려고 하면 옵션을 사용할 수 없고 다음과 같은 메시지가 표시됩니다.
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## 2025년 10월 업데이트
 
