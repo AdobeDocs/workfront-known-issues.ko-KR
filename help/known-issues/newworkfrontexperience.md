@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
 workflow-type: tm+mt
-source-wordcount: '1027'
-ht-degree: 85%
+source-wordcount: '1045'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 85%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [승인: 승인에 대한 링크를 사용할 수 없음](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025년 11월 4일 수요일 |
 | [사용자: 첫 단어로만 작업 역할을 검색할 수 있음](known-issues-workfront/wf-users-job-role-first-word.md) | 2025년 11월 3일 화요일 |
 | [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
@@ -37,6 +38,7 @@ ht-degree: 85%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [요청: 요청 양식 작성자에게 양식에 대한 액세스 권한이 없습니다](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025년 11월 4일 수요일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
 | [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
 | [증명: 증명 댓글에 사용자를 태그 지정할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025년 7월 10일 금요일 |
