@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
-ht-degree: 44%
+source-wordcount: '2712'
+ht-degree: 43%
 
 ---
 
@@ -27,6 +27,18 @@ ht-degree: 44%
 
 
 ## 2025년 11월 업데이트
+
++++**2025년 11월 9~15일의 유지 관리 업데이트 주**
+
+### 2025년 11월 9~15일 유지 보수 업데이트 주
+
+#### 작업
+
+**전임 작업 추가는 더 이상 액세스 수준의 작업 편집 하위 설정에 종속되지 않습니다.**
+
+사용자는 선택한 하위 설정에 관계없이 자신의 액세스 수준에 있는 작업에 대해 편집 액세스 권한이 활성화된 경우 작업에 전임 작업을 추가할 수 있습니다. 이제 기존 API 기능과 일치합니다.
+
++++
 
 +++**2025년 11월 2~8일의 유지 보수 업데이트 주**
 
