@@ -3,9 +3,9 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 42%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 42%
 
 #### 레코드 유형
 
-**전임 작업 추가는 더 이상 액세스 수준의 작업 편집 하위 설정에 종속되지 않습니다.**
+**레코드 종류의 기타 메뉴에서 편집 및 설정 옵션이 제거되었습니다**
 
 기존 글로벌 레코드 유형에서 보조 작업 영역에 추가된 글로벌 레코드 유형의 기타 메뉴에서 편집 및 설정 옵션을 제거했습니다. 이 업데이트 이전에는 메뉴가 흐리게 표시되어 작동하지 않았습니다.
 
