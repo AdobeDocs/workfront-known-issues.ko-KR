@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
-ht-degree: 43%
+source-wordcount: '2790'
+ht-degree: 42%
 
 ---
 
@@ -27,6 +27,18 @@ ht-degree: 43%
 
 
 ## 2025년 11월 업데이트
+
++++**2025년 11월 9~15일의 Workfront Planning 유지 관리 업데이트 주**
+
+### 2025년 11월 9~15일의 Workfront Planning 유지 관리 업데이트 주
+
+#### 레코드 유형
+
+**전임 작업 추가는 더 이상 액세스 수준의 작업 편집 하위 설정에 종속되지 않습니다.**
+
+기존 글로벌 레코드 유형에서 보조 작업 영역에 추가된 글로벌 레코드 유형의 기타 메뉴에서 편집 및 설정 옵션을 제거했습니다. 이 업데이트 이전에는 메뉴가 흐리게 표시되어 작동하지 않았습니다.
+
++++
 
 +++**2025년 11월 9~15일의 유지 관리 업데이트 주**
 
