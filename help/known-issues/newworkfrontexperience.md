@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '1059'
 ht-degree: 83%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 83%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [작업: 작업을 인라인 편집할 때 &quot;액세스 부족&quot; 메시지](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025년 11월 13일 금요일 |
+| [타임시트: 타임시트가 생성되지 않음](known-issues-workfront/wf-timesheets-not-generated.md) | 2025년 11월 17일 화요일 |
 | [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
@@ -37,6 +37,7 @@ ht-degree: 83%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [작업: 작업을 인라인 편집할 때 &quot;액세스 부족&quot; 메시지](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025년 11월 17일 화요일 |
 | [사용자: 첫 단어로만 작업 역할을 검색할 수 있음](known-issues-workfront/wf-users-job-role-first-word.md) | 2025년 11월 13일 금요일 |
 | [승인: 승인에 대한 링크를 사용할 수 없음](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025년 11월 13일 금요일 |
 | [요청: 요청 양식 작성자에게 양식에 대한 액세스 권한이 없습니다](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025년 11월 4일 수요일 |
