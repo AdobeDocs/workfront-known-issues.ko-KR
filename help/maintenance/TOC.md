@@ -3,7 +3,7 @@ user-guide-title: 유지 보수 릴리스
 user-guide-description: ' [!DNL Adobe Workfront]의 유지 보수 릴리스'
 role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '17'
 ht-degree: 100%
 
