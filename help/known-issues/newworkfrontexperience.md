@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1049'
-ht-degree: 83%
+source-wordcount: '1074'
+ht-degree: 82%
 
 ---
 
@@ -37,7 +37,10 @@ ht-degree: 83%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
-| [작업: 작업을 인라인 편집할 때 &quot;액세스 부족&quot; 메시지](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025년 11월 17일 화요일 |
+| [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
+| [할당: 팀 할당이 저장되지 않음](known-issues-workfront/wf-assignments-not-saved.md) | 2025년 11월 25일 수요일 |
+| [일정: 그룹에 대한 일정 권한이 취소됨](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025년 11월 25일 수요일 |
+| [작업: 작업을 만들 때 계획된 시간이 저장되지 않음](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | 2025년 11월 25일 수요일 |
 | [승인: 승인에 대한 링크를 사용할 수 없음](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025년 11월 13일 금요일 |
 | [요청: 요청 양식 작성자에게 양식에 대한 액세스 권한이 없습니다](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025년 11월 4일 수요일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |

@@ -3,15 +3,19 @@ title: '작업: 작업을 인라인 편집할 때 액세스 메시지가 충분�
 description: 사용자가 목록 또는 보고서에서 작업을 인라인 편집할 때 작업을 편집할 수 없고 사용자에게 이 작업을 할당할 수 있는 충분한 액세스 권한이 없습니다. 라는 메시지가 표시됩니다.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
 
 # 작업: 작업을 인라인 편집할 때 &quot;액세스 부족&quot; 메시지
+
+>[!NOTE]
+>
+>이 문제는 2025년 11월 21일 토요일에 해결되었습니다.
 
 사용자가 목록 또는 보고서에서 작업을 인라인 편집하려고 할 때 작업을 편집할 수 없고 &quot;이 작업에 할당할 수 있는 충분한 액세스 권한이 없습니다&quot;라는 메시지가 표시됩니다.
 

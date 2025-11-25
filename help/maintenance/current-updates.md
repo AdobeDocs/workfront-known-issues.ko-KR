@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
-ht-degree: 42%
+source-wordcount: '2900'
+ht-degree: 40%
 
 ---
 
@@ -27,6 +27,20 @@ ht-degree: 42%
 
 
 ## 2025년 11월 업데이트
+
++++**2025년 11월 16~22일의 Workfront Planning 유지 관리 업데이트 주**
+
+### 2025년 11월 16~22일의 Workfront Planning 유지 관리 업데이트 주
+
+#### 사용자 정의 양식
+
+**필드가 사용되는 사용자 정의 양식 목록에 활성/비활성 표시기가 추가됨**
+
+사용자 지정 양식 디자이너에서 필드를 선택하고 **관련 Forms 보기**&#x200B;를 클릭하여 필드가 사용되는 다른 모든 양식의 목록을 볼 수 있습니다. 필드를 편집할 경우 영향을 받는 다른 양식이 표시됩니다.
+
+이 목록의 개선 사항은 각 양식에 대한 활성/비활성 표시기입니다. 필드가 현재 활성 또는 비활성 양식에서 사용되고 있는지 한 눈에 볼 수 있습니다.
+
++++
 
 +++**2025년 11월 9~15일의 Workfront Planning 유지 관리 업데이트 주**
 
