@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1092'
 ht-degree: 81%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 81%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [요청: GDrive의 요청에 문서를 업로드할 수 없음](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025년 12월 2일 수요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
 | [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
 | [할당: 팀 할당이 저장되지 않음](known-issues-workfront/wf-assignments-not-saved.md) | 2025년 11월 25일 수요일 |
