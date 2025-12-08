@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 80%
+source-wordcount: '1128'
+ht-degree: 78%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 80%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [사용자 정의 양식: 서식 있는 텍스트 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025년 12월 8일 화요일 |
+| [작업: 작업을 만들 때 사용자 역할을 선택할 수 없음](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업에 대한 인라인 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025년 12월 5일 토요일 |
 | [타임시트: 타임시트가 생성되지 않음](known-issues-workfront/wf-timesheets-not-generated.md) | 2025년 11월 17일 화요일 |
 | [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
@@ -38,6 +40,8 @@ ht-degree: 80%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [사용자: 사용자 페이지를 여는 동안 오류가 발생했습니다](known-issues-workfront/wf-users-cannot-open-user-tab.md) | 2025년 12월 8일 화요일 |
+| [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [사용자: 일괄 편집 사용자가 리소스 풀 및 부하 직원을 제거합니다](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md) | 2025년 12월 4일 금요일 |
 | [요청: GDrive의 요청에 문서를 업로드할 수 없음](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025년 12월 2일 수요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
