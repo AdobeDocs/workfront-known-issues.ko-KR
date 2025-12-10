@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 40%
+source-wordcount: '3008'
+ht-degree: 39%
 
 ---
 
@@ -25,6 +25,20 @@ ht-degree: 40%
 2025년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2025년 12월 업데이트
+
++++**2025년 12월 7~13일의 유지 보수 업데이트 주**
+
+### 2025년 12월 7~13일 유지 보수 업데이트 주
+
+#### 사용자
+
+**일괄 편집 사용자가 리소스 풀 및 부하 직원을 제거합니다**
+
+사용자가 사용자를 일괄 편집하고 리소스 풀 필드를 클릭한 후 값을 입력하지 않으면 편집된 모든 사용자의 리소스 풀이 제거됩니다.
+
+벌크 편집을 수행하면 편집된 사용자로부터 직접 보고서가 제거될 수도 있습니다.
+
++++
 
 +++**2025년 11월 30일부터 12월 6일까지의 유지 보수 업데이트 주**
 

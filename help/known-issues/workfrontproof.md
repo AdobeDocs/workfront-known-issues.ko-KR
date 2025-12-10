@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 84%
+source-wordcount: '440'
+ht-degree: 82%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 84%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
+| [사용자: 증명을 자동으로 생성하는 옵션이 사용자 프로필에 없습니다.](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025년 12월 10일 목요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [요청: GDrive의 요청에 문서를 업로드할 수 없음](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025년 12월 2일 수요일 |
 | [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
