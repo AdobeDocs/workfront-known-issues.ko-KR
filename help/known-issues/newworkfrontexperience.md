@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '1145'
-ht-degree: 77%
+source-wordcount: '1129'
+ht-degree: 78%
 
 ---
 
@@ -43,9 +43,7 @@ ht-degree: 77%
 | [사용자: 증명 프로필 변경 문제](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025년 12월 12일 토요일 |
 | [타임시트: 타임시트가 생성되지 않음](known-issues-workfront/wf-timesheets-not-generated.md) | 2025년 12월 11일 금요일 |
 | [사용자: 증명을 자동으로 생성하는 옵션이 사용자 프로필에 없습니다.](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025년 12월 10일 목요일 |
-| [사용자: 사용자 페이지를 여는 동안 오류가 발생했습니다](known-issues-workfront/wf-users-cannot-open-user-tab.md) | 2025년 12월 8일 화요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
-| [요청: GDrive의 요청에 문서를 업로드할 수 없음](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025년 12월 2일 수요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
 | [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
 | [할당: 팀 할당이 저장되지 않음](known-issues-workfront/wf-assignments-not-saved.md) | 2025년 11월 25일 수요일 |
