@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 78%
+source-wordcount: '1115'
+ht-degree: 79%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 78%
 | [Workfront 계획 중: 연결된 필드를 제거하는 동안 오류가 발생했습니다](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025년 12월 12일 토요일 |
 | [사용자 정의 양식: 서식 있는 텍스트 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업을 만들 때 사용자 역할을 선택할 수 없음](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025년 12월 8일 화요일 |
-| [작업: 작업에 대한 인라인 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025년 12월 5일 토요일 |
 | [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
@@ -40,13 +39,12 @@ ht-degree: 78%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
 | [사용자: 증명 프로필 변경 문제](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025년 12월 12일 토요일 |
-| [타임시트: 타임시트가 생성되지 않음](known-issues-workfront/wf-timesheets-not-generated.md) | 2025년 12월 11일 금요일 |
 | [사용자: 증명을 자동으로 생성하는 옵션이 사용자 프로필에 없습니다.](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025년 12월 10일 목요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
 | [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
-| [할당: 팀 할당이 저장되지 않음](known-issues-workfront/wf-assignments-not-saved.md) | 2025년 11월 25일 수요일 |
 | [일정: 그룹에 대한 일정 권한이 취소됨](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025년 11월 25일 수요일 |
 | [승인: 승인에 대한 링크를 사용할 수 없음](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025년 11월 13일 금요일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
