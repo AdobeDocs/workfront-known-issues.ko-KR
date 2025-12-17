@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 82%
+source-wordcount: '419'
+ht-degree: 85%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 82%
 
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
-| [사용자: 증명 프로필 변경 문제](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025년 12월 1일 화요일 |
 | [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 2월 20일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
@@ -38,7 +37,6 @@ ht-degree: 82%
 | **문제** | **마지막 수정일:** |
 | -----------------------------------------------------------------| ----------------- |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
-| [사용자: 증명을 자동으로 생성하는 옵션이 사용자 프로필에 없습니다.](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025년 12월 10일 목요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |

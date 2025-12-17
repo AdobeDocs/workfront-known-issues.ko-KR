@@ -3,21 +3,19 @@ title: '사용자: 증명 프로필 변경 관련 문제'
 description: 사용자의 증명 프로필 변경과 관련된 문제가 보고되었습니다.
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
 
 # 사용자: 증명 프로필 변경 관련 문제
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 5, 2025.
--->
+>이 문제는 2025년 12월 17일 목요일에 해결되었습니다.
 
 사용자의 증명 프로필 변경과 관련하여 다음과 같은 문제가 보고됨:
 

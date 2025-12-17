@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 79%
+source-wordcount: '1105'
+ht-degree: 80%
 
 ---
 
@@ -39,9 +39,8 @@ ht-degree: 79%
 
 | **문제** | **마지막 수정일:** |
 | ---------------------------------- | ----------------- |
+| [Workfront 계획 중: 보기에 필드를 추가할 수 없음](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025년 12월 15일 화요일 |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
-| [사용자: 증명 프로필 변경 문제](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025년 12월 12일 토요일 |
-| [사용자: 증명을 자동으로 생성하는 옵션이 사용자 프로필에 없습니다.](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025년 12월 10일 목요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
 | [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
