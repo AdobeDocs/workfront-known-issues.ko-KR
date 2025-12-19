@@ -14,8 +14,8 @@ ht-degree: 88%
 
 현재 [!DNL Workfront] 제품에서 식별된 문제에 대한 자세한 내용은 다음을 참조하십시오.
 
-* [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
-* [ [!DNL Workfront] Proof의 알려진 문제](workfrontproof.md)
+* [&#x200B; [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
+* [&#x200B; [!DNL Workfront] Proof의 알려진 문제](workfrontproof.md)
 * [Workfront Fusion의 알려진 문제](workfrontfusion.md)
 * [Workfront Planning의 알려진 문제](workfrontplanning.md)
-* [ [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
+* [&#x200B; [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
