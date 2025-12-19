@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 7205e0ba40ca755843cd12fae66ae147548618dc
 workflow-type: tm+mt
-source-wordcount: '1089'
-ht-degree: 81%
+source-wordcount: '1041'
+ht-degree: 84%
 
 ---
 
@@ -25,10 +25,8 @@ ht-degree: 81%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [Workfront 계획 중: 연결된 필드를 제거하는 동안 오류가 발생했습니다](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025년 12월 12일 토요일 |
 | [사용자 정의 양식: 서식 있는 텍스트 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업을 만들 때 사용자 역할을 선택할 수 없음](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025년 12월 8일 화요일 |
-| [사용자: 사용자의 액세스 수준을 변경할 수 없음](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025년 9월 11일 금요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
@@ -39,14 +37,11 @@ ht-degree: 81%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [Workfront 계획 중: 보기에 필드를 추가할 수 없음](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025년 12월 15일 화요일 |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
 | [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
-| [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
-| [증명: 증명 댓글에 사용자를 태그 지정할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025년 7월 10일 금요일 |
 | [Workfront: Workfront과 Snowflake 간에 개체가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |
 | [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됩니다](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 토요일 |
 | [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
