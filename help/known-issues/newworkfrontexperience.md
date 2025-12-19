@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 80%
+source-wordcount: '1089'
+ht-degree: 81%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 80%
 최근에 보고된 문제는 현재 검토 중입니다.
 
 | **문제** | **마지막 수정일:** |
-| ----------------------------------------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront 계획 중: 연결된 필드를 제거하는 동안 오류가 발생했습니다](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025년 12월 12일 토요일 |
 | [사용자 정의 양식: 서식 있는 텍스트 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업을 만들 때 사용자 역할을 선택할 수 없음](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025년 12월 8일 화요일 |
@@ -38,13 +38,12 @@ ht-degree: 80%
 이들 문제에 대한 수정이 현재 진행 중이거나 가까운 미래에 해결될 예정입니다.
 
 | **문제** | **마지막 수정일:** |
-| ---------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront 계획 중: 보기에 필드를 추가할 수 없음](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025년 12월 15일 화요일 |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
 | [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
-| [승인: 승인에 대한 링크를 사용할 수 없음](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025년 11월 13일 금요일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
 | [문서: 승인이 완료된 후 승인자로 추가된 사용자는 알림을 받지 못합니다](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025년 8월 12일 수요일 |
 | [증명: 증명 댓글에 사용자를 태그 지정할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025년 7월 10일 금요일 |
@@ -60,7 +59,7 @@ ht-degree: 80%
 현재 로드맵에는 이러한 문제에 대한 수정 사항이 없지만, 해결 방법을 사용할 수 있으며 각 문제에 대한 문서에 설명되어 있습니다.
 
 | **문제** | **마지막 수정일:** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [승인: 증명 뷰어에 승인 결정 단추가 표시되지 않음](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025년 9월 30일 수요일 |
 | [증명: PowerPoint 파일에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025년 9월 11일 금요일 |
 | [권한: 개체 권한이 올바르게 상속되지 않음](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025년 7월 15일 수요일 |
@@ -98,7 +97,7 @@ ht-degree: 80%
 현재 로드맵에는 이들 문제에 대한 수정 사항이 없습니다. 경우에 따라 이들 문제는 새로운 기능이나 기능 업데이트를 통해 수정됩니다.
 
 | **문제** | **마지막 수정일:** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [증명: 미리 보기 환경에서 이름별로 증명에 사용자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025년 6월 16일 화요일 |
 | [증명: 문서 목록에 대한 증명 리디렉션을 닫는 중](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
 | [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025년 3월 13일 금요일 |

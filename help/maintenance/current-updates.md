@@ -3,9 +3,9 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
+source-wordcount: '3415'
 ht-degree: 35%
 
 ---
@@ -29,6 +29,12 @@ ht-degree: 35%
 +++**2025년 12월 14~20일 유지 보수 업데이트 주**
 
 ### 2025년 12월 14~20일 유지 보수 업데이트 주
+
+#### 승인
+
+**승인에 대한 링크를 사용할 수 없음**
+
+사용자가 오브젝트에 대한 승인자로 할당되면 해당 오브젝트에 대한 링크가 홈의 내 업데이트 영역 또는 내 승인 위젯에 표시되지 않습니다.
 
 #### 할당
 
