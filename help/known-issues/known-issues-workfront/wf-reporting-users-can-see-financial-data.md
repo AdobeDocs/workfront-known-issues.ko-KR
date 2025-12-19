@@ -3,7 +3,7 @@ title: '보고: 사용자가 캔버스 대시보드 시각화에서 재무 데�
 description: 액세스 수준에서 재무 데이터에 대한 보기 또는 편집 액세스 권한이 있는 사용자는 작업 또는 프로젝트 수준에서 재무 보기 권한이 제거되더라도 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있습니다.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
