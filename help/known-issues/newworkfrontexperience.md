@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7205e0ba40ca755843cd12fae66ae147548618dc
+source-git-commit: bf06e93ba58692c35f9561c7bed67cb1da3541b5
 workflow-type: tm+mt
-source-wordcount: '1041'
-ht-degree: 84%
+source-wordcount: '1052'
+ht-degree: 83%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 84%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [보고: 사용자가 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있음](known-issues-workfront/wf-reporting-users-can-see-financial-date.md) | 2025년 12월 19일 토요일 |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
