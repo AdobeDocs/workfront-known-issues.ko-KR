@@ -3,15 +3,19 @@ title: '작업: 작업을 생성할 때 사용자 역할을 선택할 수 없음
 description: 사용자가 작업을 생성하고 사용자 역할을 할당하려고 할 때 역할 할당 옵션이 없으며 사용자 역할을 할당할 수 없습니다. 해결 방법을 사용할 수 있습니다.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 8%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 
 
 # 작업: 작업을 생성할 때 사용자 역할을 선택할 수 없음
+
+>[!NOTE]
+>
+>이 문제는 2025년 12월 21일 월요일에 해결되었습니다.
 
 사용자가 작업을 생성하고 사용자 역할을 할당하려고 할 때 역할 할당 옵션이 없으며 사용자 역할을 할당할 수 없습니다.
 

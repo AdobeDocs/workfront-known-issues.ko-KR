@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Planning]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Planning]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 feature: Workfront Planning
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 73%
+source-wordcount: '134'
+ht-degree: 82%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 73%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [Workfront 계획 중: 연결된 필드를 제거하는 동안 오류가 발생했습니다](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025년 12월 12일 토요일 |
+| 없음 | |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 73%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [Workfront 계획 중: 보기에 필드를 추가할 수 없음](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025년 12월 15일 화요일 |
+| 없음 | |
 
 {style="table-layout:auto"}
 

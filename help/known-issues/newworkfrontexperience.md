@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1054'
 ht-degree: 83%
 
 ---
@@ -25,8 +25,9 @@ ht-degree: 83%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [사용자 정의 양식: 서식 있는 텍스트 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025년 12월 8일 화요일 |
-| [작업: 작업을 만들 때 사용자 역할을 선택할 수 없음](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025년 12월 8일 화요일 |
+| [요청: 요청 대기열이 여러 번 나타남](known-issues-workfront/wf-requests-queues-duplicated.md) | 2026년 1월 5일 |
+| [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 |
+| [보고서: 데이터 레이크 쿼리가 예상 결과를 반환하지 않습니다](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026년 1월 5일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
@@ -41,7 +42,6 @@ ht-degree: 83%
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
 | [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
-| [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025년 11월 25일 수요일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
 | [Workfront: Workfront과 Snowflake 간에 개체가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |
 | [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됩니다](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 토요일 |
