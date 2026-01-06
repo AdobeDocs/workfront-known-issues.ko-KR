@@ -4,9 +4,9 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '1047'
 ht-degree: 83%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 83%
 | --- | --- |
 | [보고: 사용자가 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있음](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025년 12월 19일 토요일 |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025년 12월 15일 화요일 |
-| [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025년 12월 8일 화요일 |
 | [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025년 12월 1일 화요일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
 | [Workfront: Workfront과 Snowflake 간에 개체가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |

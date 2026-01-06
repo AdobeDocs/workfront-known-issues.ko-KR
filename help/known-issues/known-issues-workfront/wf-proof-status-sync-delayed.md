@@ -3,15 +3,19 @@ title: '증명: 증명 상태 변경이 지연됨'
 description: '증명에 대한 결정이 내려지면 해당 결정이 최대 24시간 동안 프로젝트의 문서 영역에 표시되지 않습니다. 결정이 내려졌더라도 상태가 여전히 보류 중 또는 다른 오래된 상태로 표시되므로 혼동이 발생할 수 있습니다. '
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 3%
+source-wordcount: '112'
+ht-degree: 8%
 
 ---
 
 
 # 증명: 증명 상태 변경이 지연됨
+
+>[!NOTE]
+>
+>이 문제는 2026년 1월 5일 화요일에 해결되었습니다.
 
 증명에 대한 결정이 내려지면 해당 결정이 최대 24시간 동안 프로젝트의 문서 영역에 표시되지 않습니다. 결정이 내려졌더라도 상태가 여전히 보류 중 또는 다른 오래된 상태로 표시되므로 혼동이 발생할 수 있습니다.
 
