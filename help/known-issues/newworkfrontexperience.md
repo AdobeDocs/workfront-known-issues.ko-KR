@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
+source-git-commit: 02c511b92e31bb00688414d062587c9ddb747c5e
 workflow-type: tm+mt
-source-wordcount: '1047'
-ht-degree: 83%
+source-wordcount: '1041'
+ht-degree: 84%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 83%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [요청: 요청 대기열이 여러 번 나타남](known-issues-workfront/wf-requests-queues-duplicated.md) | 2026년 1월 5일 |
-| [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 |
-| [보고서: 데이터 레이크 쿼리가 예상 결과를 반환하지 않습니다](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026년 1월 5일 |
+| [요청: 요청 대기열이 여러 번 나타남](known-issues-workfront/wf-requests-queues-duplicated.md) | 2026년 1월 5일 화요일 |
+| [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 화요일 |
+| [보고서: 데이터 레이크 쿼리가 예상 결과를 반환하지 않습니다](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026년 1월 5일 화요일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
