@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 50%
+source-wordcount: '217'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 50%
 2026년에 유지 보수가 다음과 같이 업데이트되었습니다.
 
 ## 2026년 1월 업데이트
+
++++**Workfront Fusion 2026년 1월 4~10일 주 유지 보수 업데이트**
+
+### 2022년 1월 4-10일 유지 보수 업데이트 주
+
+**AWS 모듈에서 헤더 오류 누락**
+
+AWS 모듈이 다음 오류로 인해 실패했습니다.
+
+&quot;이 요청에 대한 필수 헤더 누락&quot;
+
++++
 
 +++**2026년 1월 4~10일 유지 보수 업데이트 주**
 
