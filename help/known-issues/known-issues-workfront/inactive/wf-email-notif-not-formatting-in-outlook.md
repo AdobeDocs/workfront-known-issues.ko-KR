@@ -4,7 +4,7 @@ description: Outlook 이메일 주소가 있는 사용자가 이미지 자동 �
 feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 69f143e6b764eb8e6aebef92abc9c2ba3dc53770
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 94%
@@ -14,6 +14,8 @@ ht-degree: 94%
 # 이메일 알림: [!DNL Outlook]에서 이메일 서식이 올바르게 지정되지 않음
 
 <!--Issue created by request-->
+
+<!--No views-->
 
 >[!NOTE]
 >
