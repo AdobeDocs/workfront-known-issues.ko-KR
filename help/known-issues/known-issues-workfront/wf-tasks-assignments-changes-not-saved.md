@@ -3,10 +3,10 @@ title: 작업의 편집 대화 상자에서 편집한 내용이 저장되지 않
 description: 사용자가 이전 작업 대화 상자에서 작업의 편집 섹션을 변경한 후 저장하면 변경 사항이 저장되지 않습니다.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 27%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->이 문제는 레거시 작업 환경에 적용됩니다.
+>* 이 문제는 레거시 작업 환경에 적용됩니다.
+>* 제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
 
 사용자가 이전 작업 대화 상자에서 작업의 편집 섹션을 변경한 후 저장하면 변경 사항이 저장되지 않습니다.
 
