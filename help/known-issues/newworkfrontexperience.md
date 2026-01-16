@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
 workflow-type: tm+mt
-source-wordcount: '1087'
-ht-degree: 81%
+source-wordcount: '1096'
+ht-degree: 80%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 81%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
 | [사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026년 1월 16일 토요일 |
 | [요청: 요청과 함께 초안을 만들면 문제가 발생합니다](known-issues-workfront/wf-requests-draft-created-with-request.md) | 2026년 1월 15일 금요일 |
 | [요청: 요청을 복사할 때 &quot;시스템 관리자여야 합니다&quot; 오류 발생](known-issues-workfront/wf-requests-error-when-copying.md) | 2026년 1월 15일 금요일 |
