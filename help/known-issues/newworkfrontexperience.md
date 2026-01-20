@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 34cba5746ea94bbbc24e2dc6bd6541d210777024
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1104'
-ht-degree: 80%
+source-wordcount: '1116'
+ht-degree: 79%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 80%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [요청: 요청을 복사할 때 &quot;액세스 권한이 없습니다&quot; 오류 발생](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026년 1월 20일 수요일 |
 | [일정: 이전 연도의 예외를 볼 수 없음](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | 2026년 1월 20일 수요일 |
 | [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
 | [사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026년 1월 16일 토요일 |
