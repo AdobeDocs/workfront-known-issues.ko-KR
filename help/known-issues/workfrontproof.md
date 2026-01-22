@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 87%
+source-wordcount: '414'
+ht-degree: 86%
 
 ---
 
@@ -36,9 +36,10 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Proof: 증명이 폴더에 표시되지 않음](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026년 1월 16일 토요일 |
-| [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026년 1월 15일 금요일 |
-| [문서: 문서 썸네일이 표시되지 않습니다](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
+| [문서: 요약 패널이 비어 있습니다.](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026년 1월 21일 목요일 |
+| [Workfront Proof: 교정이 폴더에 표시되지 않습니다.](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026년 1월 16일 토요일 |
+| [승인: 내 승인 위젯에 완료된 승인이 표시됩니다.](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026년 1월 15일 금요일 |
+| [문서: 문서 축소판이 표시되지 않습니다.](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
 | [홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024년 5월 8일 |
 
@@ -50,9 +51,9 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [승인: 증명 뷰어에 승인 결정 단추가 표시되지 않음](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025년 9월 30일 수요일 |
-| [증명: 미리 보기 환경에서 이름별로 증명에 사용자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025년 6월 16일 화요일 |
-| [증명: 문서 목록에 대한 증명 리디렉션을 닫는 중](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
+| [승인: [증명 뷰어]에 승인 결정 버튼이 표시되지 않습니다.](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025년 9월 30일 수요일 |
+| [증명: 미리 보기 환경에서 이름으로 증명에 사용자를 추가할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025년 6월 16일 화요일 |
+| [증명: 증거를 닫으면 문서 목록으로 리디렉션됩니다.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
 | [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |
 | [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 |
 | [교정쇄: 압축된 교정쇄 생성을 생성할 수 없음](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024년 6월 7일 |

@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1648'
 ht-degree: 70%
 
 ---
@@ -15,60 +15,61 @@ ht-degree: 70%
 + [개요](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]의 현재 문제 {#wf-current}
+      + [문서: 요약 패널이 비어 있음](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [요청: 요청을 복사할 때 &quot;액세스 권한이 없습니다&quot; 오류 발생](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [일정: 이전 연도의 예외를 볼 수 없음](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md)
-      + [사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
-      + [요청: 요청과 함께 생성된 초안으로 인해 문제 발생](known-issues-workfront/wf-requests-draft-created-with-request.md)
-      + [요청: 요청을 복사할 때 &quot;시스템 관리자여야 합니다&quot; 오류 발생](known-issues-workfront/wf-requests-error-when-copying.md)
-      + [사용자: 사용자가 Adobe Admin Console에서 올바르게 프로비저닝되지 않음](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
-      + [요청: 새 요청 경험의 초안 문제](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [요청: 요청 대기열이 여러 번 표시됨](known-issues-workfront/wf-requests-queues-duplicated.md)
-      + [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
-      + [보고서: 데이터 레이크 쿼리가 예상 결과를 반환하지 않음](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [보고: 사용자가 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있음](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
-      + [Workfront Planning: 보기에 필드를 추가할 수 없음](known-issues-workfront/wf-planning-cannot-add-field.md)
-      + [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
+      + [사용자 지정 양식: 계산된 필드에 관리자가 아닌 사용자에 대한 데이터가 표시되지 않습니다](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
+      + [요청: 요청과 함께 작성된 초안이 문제를 일으킴](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [요청: 요청을 복사할 때 &quot;시스템 관리자여야 합니다.&quot; 오류 발생](known-issues-workfront/wf-requests-error-when-copying.md)
+      + [사용자: 사용자에게 Adobe Admin Console 페이지가 올바로 제공되지 않습니다](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [요청: 새 요청 경험 내의 초안 관련 문제](known-issues-workfront/wf-requests-issues-with-drafts.md)
+      + [요청: 요청 큐가 여러 번 나타납니다.](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [사용자: 사용자 액세스를 업데이트할 수 없습니다.](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [보고서: 데이터 레이크 쿼리가 예상한 결과를 반환하지 않습니다.](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
+      + [보고: 사용자는 Canvas 대시보드 시각화에서 재무 데이터를 볼 수 있습니다.](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [Workfront Planning: 뷰에 필드를 추가할 수 없습니다.](known-issues-workfront/wf-planning-cannot-add-field.md)
+      + [승인: 내 승인 위젯에 완료된 승인이 표시됩니다.](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront Planning: 연결된 필드를 제거할 때 오류 발생](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
       + [사용자: 사용자 프로필에서 증명을 자동으로 생성하는 옵션이 누락되었습니다.](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [사용자 정의 양식: 서식 있는 텍스트 필드를 편집할 수 없음](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [사용자: 사용자 페이지를 여는 중 오류 발생](known-issues-workfront/wf-users-cannot-open-user-tab.md)
-      + [작업: 작업을 생성할 때 사용자 역할을 선택할 수 없음](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [사용자: 사용자 페이지 열 때 오류](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [작업: 작업을 만들 때 사용자 역할 을 선택할 수 없습니다.](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
       + [증명: 증명 상태 변경이 지연됨](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [작업: 작업에 대한 인라인 편집이 저장되지 않음](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [사용자: 일괄 편집 사용자가 리소스 풀과 부하 직원을 제거합니다.](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [요청: GDrive의 요청에 문서를 업로드할 수 없음](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
       + [작업: 작업의 할당 섹션을 편집해도 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
       + [사용자: 증명 프로필 변경 관련 문제](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
-      + [요청: 요청을 만들 때 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md)
-      + [일정: 그룹에 대해 예약된 권한이 해지됨](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
-      + [할당: 팀 할당이 저장되지 않음](known-issues-workfront/wf-assignments-not-saved.md)
-      + [작업: 작업을 생성할 때 계획된 시간이 저장되지 않음](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [타임시트: 타임시트가 생성되지 않음](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [작업: 작업을 인라인 편집할 때 &quot;액세스 부족&quot; 메시지](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
-      + [승인: 승인에 대한 링크를 사용할 수 없음](known-issues-workfront/wf-approvals-link-not-appearing.md)
+      + [요청: 요청 생성 시 권한이 상속되지 않음](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [일정: 그룹 일정에 대해 취소된 예약 권한](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [과제: 팀 과제가 저장되지 않습니다.](known-issues-workfront/wf-assignments-not-saved.md)
+      + [작업: 작업 생성 시 계획된 시간이 저장되지 않음](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [작업표: 작업표가 생성되지 않음](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [작업: 인라인 편집 작업을 수행할 때 &quot;액세스 권한 부족&quot; 메시지](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [승인: 승인에 대한 링크를 사용할 수 없습니다.](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [요청: 요청 양식 작성자에게 양식에 대한 액세스 권한이 없습니다.](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
-      + [사용자: 첫 단어로 작업 역할만 검색할 수 있음](known-issues-workfront/wf-users-job-role-first-word.md)
-      + [보고서: 차트의 드롭다운과 관련된 문제](known-issues-workfront/wf-reports-dropdown-not-working.md)
-      + [사용자: 사용자를 만들 때 고급 옵션을 사용할 수 없음](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [사용자: 첫 번째 단어로만 직무 역할 검색 가능](known-issues-workfront/wf-users-job-role-first-word.md)
+      + [보고서: 차트의 드롭다운 관련 문제](known-issues-workfront/wf-reports-dropdown-not-working.md)
+      + [사용자: 사용자를 만들 때 고급 옵션을 사용할 수 없습니다.](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [사용자 정의 양식: 필드 표시 논리를 올바르게 따르지 않음](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [교정쇄: 교정쇄 뷰어를 닫을 수 없음](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [프로그램: 프로그램을 편집할 때 저장할 수 없음](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
-      + [승인: 증명 뷰어에 승인 결정 버튼이 표시되지 않음](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
-      + [승인: 시간이 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됨](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
-      + [증명: PowerPoint 파일에서 증명을 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
-      + [사용자: 다른 사용자에 대한 알림 설정을 편집할 수 없음](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [사용자: 사용자의 페더레이션 ID를 편집할 수 없음](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [권한: 오브젝트 권한이 올바르게 상속되지 않음](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Workfront: Workfront과 Snowflake 간에 오브젝트가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
-      + [증명: 미리보기 환경에서 이름별로 증명에 사용자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됨](known-issues-workfront/wf-users-pending-approval.md)
-      + [증명: 문서 목록으로의 증명 리디렉션 닫기](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
-      + [문서: 문서 썸네일이 표시되지 않음](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [프로젝트: 프로젝트 진행 상태가 자동으로 지연으로 업데이트되지 않음](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
+      + [승인: [증명 뷰어]에 승인 결정 버튼이 표시되지 않습니다.](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
+      + [승인: 시간이 최종 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
+      + [증명: PowerPoint 파일에서 증명을 생성할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+      + [사용자: 다른 사용자 알림 설정을 편집할 수 없습니다.](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
+      + [사용자: 사용자 연합 ID를 편집할 수 없습니다](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
+      + [사용 권한: 개체 사용 권한이 올바르게 상속되지 않습니다.](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
+      + [Workfront: Workfront와 Snowflake 간에 동기화되지 않은 오브젝트](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
+      + [증명: 미리 보기 환경에서 이름으로 증명에 사용자를 추가할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
+      + [사용자: &quot;승인 대기 중&quot; 배지가 새 사용자에게 표시됩니다.](known-issues-workfront/wf-users-pending-approval.md)
+      + [증명: 증거를 닫으면 문서 목록으로 리디렉션됩니다.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
+      + [문서: 문서 축소판이 표시되지 않습니다.](known-issues-workfront/wf-documents-thumbnails-not-display.md)
+      + [필터: 스크롤 막대를 클릭하면 드롭다운이 사라집니다.](known-issues-workfront/wf-filter-scroll-bar.md)
+      + [프로젝트: 프로젝트 진행 상태가 자동으로 늦음으로 업데이트되지 않습니다.](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [로그인: 그룹 관리자가 다른 사용자로 로그인할 수 없음](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [통합: Outlook에 Workfront를 사용할 때 outlookIdentityToken 오류 발생](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -163,7 +164,7 @@ ht-degree: 70%
       + [애자일: 애자일 보드에서 카드를 이동할 때 문제 발생](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [애자일: 카드의 사용자 정의 양식에서 필드를 편집할 수 없음](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [승인: 승인 위임이 잘못된 일수로 설정됨](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL 홈]: [!UICONTROL &#x200B; 이외의 브라우저 사용 시 &#x200B;]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL 홈]: [!UICONTROL  이외의 브라우저 사용 시 ]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 새 작업 옵션](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [업데이트: 팀 이름이 @mention에 표시되지 않음](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + [애자일: 반복에 대한 [!UICONTROL 완료된 포인트]의 불일치](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
@@ -179,7 +180,7 @@ ht-degree: 70%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
+   + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]의 현재 문제 {#proof-current}
       + [Workfront Proof: 증명이 폴더에 표시되지 않음](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]: 교정쇄를 생성할 때 자산을 재정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -199,7 +200,7 @@ ht-degree: 70%
       + [[!UICONTROL 교정쇄 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL 홈]: 완료된 교정쇄가 [!UICONTROL 작업 목록]에 남아 있음](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [문서: 교정 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront] 증명에서 해결된 문제 {#proof-resolved}
+   + 증명에서 [!DNL Workfront] 해결된 문제 {#proof-resolved}
       + [교정쇄: 교정쇄가 매우 오랫동안 “[!UICONTROL 교정쇄 생성 중]”으로 표시됨](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -217,16 +218,16 @@ ht-degree: 70%
       + [Workfront Fusion: 날짜에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: 낮은 메모리 오류 발생](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; 사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 정의 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: “연결 확인 실패” 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 인앱 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] 계획 중 {#planning}
-   + [&#x200B; [!DNL Workfront] Planning의 알려진 문제](workfrontplanning.md)
+   + [ [!DNL Workfront] Planning의 알려진 문제](workfrontplanning.md)
 
 + [!DNL Workfront] 모바일 앱 {#mobile}
-   + [&#x200B; [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
+   + [ [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
 
 <!--
 
