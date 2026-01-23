@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 79%
+source-wordcount: '1105'
+ht-degree: 96%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 79%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [사용자: 사용자에게 Adobe Admin Console 페이지가 올바로 제공되지 않습니다](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026년 1월 7일 목요일 |
-| [사용자: 사용자 액세스를 업데이트할 수 없습니다.](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 화요일 |
-| [보고서: 데이터 레이크 쿼리가 예상한 결과를 반환하지 않습니다.](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026년 1월 5일 화요일 |
+| [사용자: 사용자가 Adobe Admin Console에서 올바르게 프로비저닝되지 않음](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026년 1월 7일 |
+| [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 |
+| [보고서: 데이터 레이크 쿼리가 예상 결과를 반환하지 않음](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026년 1월 5일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
@@ -38,35 +38,33 @@ ht-degree: 79%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [문서: 요약 패널이 비어 있습니다.](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026년 1월 21일 목요일 |
+| [문서: 요약 패널이 비어 있음](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026년 1월 21일 목요일 |
 | [요청: 요청을 복사할 때 &quot;액세스 권한이 없습니다&quot; 오류 발생](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026년 1월 20일 수요일 |
-| [일정: 이전 연도의 예외를 볼 수 없습니다.](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | 2026년 1월 20일 수요일 |
-| [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않습니다.](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
-| [사용자 지정 양식: 계산된 필드에 관리자가 아닌 사용자에 대한 데이터가 표시되지 않습니다](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026년 1월 16일 토요일 |
-| [요청: 요청과 함께 작성된 초안이 문제를 일으킴](known-issues-workfront/wf-requests-draft-created-with-request.md) | 2026년 1월 15일 금요일 |
-| [요청: 요청을 복사할 때 &quot;시스템 관리자여야 합니다.&quot; 오류 발생](known-issues-workfront/wf-requests-error-when-copying.md) | 2026년 1월 15일 금요일 |
-| [승인: 내 승인 위젯에 완료된 승인이 표시됩니다.](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026년 1월 15일 금요일 |
-| [요청: 새 요청 경험 내의 초안 관련 문제](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026년 1월 7일 목요일 |
-| [보고: 사용자는 Canvas 대시보드 시각화에서 재무 데이터를 볼 수 있습니다.](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025년 12월 19일 토요일 |
-| [승인: 시간이 최종 기한에 포함되지 않은 경우 승인이 &quot;기한 없음&quot;으로 표시됩니다](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 금요일 |
-| [Workfront: Workfront와 Snowflake 간에 동기화되지 않은 오브젝트](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 수요일 |
-| [사용자: &quot;승인 보류 중&quot; 배지가 새 사용자에게 표시됩니다](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 토요일 |
-| [문서: 문서 축소판이 표시되지 않습니다.](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 금요일 |
+| [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
+| [사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026년 1월 16일 토요일 |
+| [요청: 요청을 복사할 때 &quot;시스템 관리자여야 합니다&quot; 오류 발생](known-issues-workfront/wf-requests-error-when-copying.md) | 2026년 1월 15일 금요일 |
+| [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026년 1월 15일 금요일 |
+| [요청: 새 요청 경험의 초안에 문제가 있음](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026년 1월 7일 |
+| [보고: 사용자가 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있음](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025년 12월 19일 |
+| [승인: 시간이 기한에 포함되지 않은 경우 승인이 “기한 없음”으로 표시됨](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 |
+| [Workfront: Workfront과 Snowflake 간에 오브젝트가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 |
+| [사용자: 신규 사용자에게 “승인 대기 중” 배지가 표시됨](known-issues-workfront/wf-users-pending-approval.md) | 2025년 5월 23일 |
+| [문서: 문서 썸네일이 표시되지 않음](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 |
 | [[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022년 8월 2일 |
 
 {style="table-layout:auto"}
 
-## 사용 가능한 해결 방법
+## 해결 방법 사용 가능
 
-이러한 문제에 대한 수정 사항은 현재 로드맵에 없지만 해결 방법을 사용할 수 있으며 각 문제에 대한 문서에 설명되어 있습니다.
+이러한 문제에 대한 수정 사항은 현재 로드맵에 나와 있지 않지만, 각 문제에 대한 해결 방법을 사용할 수 있으며 문서에 설명되어 있습니다.
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [작업: 작업의 할당 섹션을 편집해도 저장되지 않습니다.](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2026년 1월 15일 금요일 |
-| [승인: [증명 뷰어]에 승인 결정 버튼이 표시되지 않습니다.](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025년 9월 30일 수요일 |
-| [증명: PowerPoint 파일에서 증명을 생성할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025년 9월 11일 금요일 |
-| [사용 권한: 개체 사용 권한이 올바르게 상속되지 않습니다.](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025년 7월 15일 수요일 |
-| [필터: 스크롤 막대를 클릭하면 드롭다운이 사라집니다.](known-issues-workfront/wf-filter-scroll-bar.md) | 2025년 3월 26일 목요일 |
+| [작업: 작업의 할당 섹션에 대한 편집 내용이 저장되지 않음](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2026년 1월 15일 금요일 |
+| [승인: 교정쇄 뷰어에 승인 결정 버튼이 표시되지 않음](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025년 9월 30일 |
+| [교정쇄: PowerPoint 파일에서 교정쇄를 생성할 수 없음](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025년 9월 11일 |
+| [권한: 오브젝트 권한이 올바르게 상속되지 않음](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025년 7월 15일 |
+| [필터: 스크롤 막대를 클릭하면 드롭다운이 사라짐](known-issues-workfront/wf-filter-scroll-bar.md) | 2025년 3월 26일 |
 | [문서: AEM 폴더 문서 목록에 업로드할 수 없음](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025년 2월 27일 |
 | [교정쇄: Fusion을 통해 AEM에서 연결된 비디오에 대한 교정쇄를 만들 수 없음](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025년 2월 13일 |
 | [교정쇄: Webcapture 교정쇄가 생성하지 않음](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024년 12월 20일 |
@@ -101,10 +99,10 @@ ht-degree: 79%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [증명: 미리 보기 환경에서 이름으로 증명에 사용자를 추가할 수 없습니다.](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025년 6월 16일 화요일 |
-| [증명: 증거를 닫으면 문서 목록으로 리디렉션됩니다.](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 목요일 |
-| [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025년 3월 13일 금요일 |
-| [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2025년 3월 13일 금요일 |
+| [교정쇄: 미리 보기 환경에서 이름별로 교정쇄에 사용자를 추가할 수 없음](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025년 6월 16일 |
+| [교정쇄: 교정쇄 닫기가 문서 목록으로 리디렉션](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025년 5월 14일 |
+| [팀: 팀 소유자를 보거나 팀을 삭제할 수 없음](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025년 3월 13일 |
+| [홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md) | 2025년 3월 13일 |
 | [알림: 중복 이메일](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025년 2월 27일 |
 | [프로젝트: 지연 조건이 예상대로 적용되지 않음](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025년 1월 20일 |
 | [사용자 정의 양식: 사용자 정의 자동 완성 필드에서 회사가 누락됨](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025년 2월 20일 |
