@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '1105'
-ht-degree: 96%
+source-wordcount: '1124'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [업무 균형자: 사용자당 시간이 올바르게 계산되지 않음](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026년 1월 29일 금요일 |
 | [사용자: 사용자가 Adobe Admin Console에서 올바르게 프로비저닝되지 않음](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026년 1월 7일 |
 | [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 |
 | [보고서: 데이터 레이크 쿼리가 예상 결과를 반환하지 않음](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026년 1월 5일 |
@@ -38,6 +39,7 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [요청: 요청과 함께 초안을 만들면 문제가 발생합니다](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026년 1월 29일 금요일 |
 | [문서: 요약 패널이 비어 있음](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026년 1월 21일 목요일 |
 | [요청: 요청을 복사할 때 &quot;액세스 권한이 없습니다&quot; 오류 발생](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026년 1월 20일 수요일 |
 | [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |

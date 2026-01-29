@@ -3,19 +3,15 @@ title: '요청: 새 요청 경험의 초안에 문제가 있음'
 description: 새 요청 경험의 초안에 대해 여러 건의 보고가 있었습니다.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
 
 # 요청: 새 요청 경험의 초안에 문제가 있음
-
->[!NOTE]
->
->이 문제는 2026년 1월 23일 토요일에 해결되었습니다.
 
 새 요청 경험의 초안과 관련하여 다음 문제가 보고되었습니다.
 
