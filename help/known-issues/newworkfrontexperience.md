@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
 source-wordcount: '1124'
-ht-degree: 94%
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [로그인: 로그인 후 Workfront이 로드되지 않음](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026년 1월 29일 금요일 |
 | [업무 균형자: 사용자당 시간이 올바르게 계산되지 않음](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026년 1월 29일 금요일 |
 | [사용자: 사용자가 Adobe Admin Console에서 올바르게 프로비저닝되지 않음](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026년 1월 7일 |
 | [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 |
@@ -45,7 +46,6 @@ ht-degree: 94%
 | [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
 | [사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026년 1월 16일 토요일 |
 | [요청: 요청을 복사할 때 &quot;시스템 관리자여야 합니다&quot; 오류 발생](known-issues-workfront/wf-requests-error-when-copying.md) | 2026년 1월 15일 금요일 |
-| [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026년 1월 15일 금요일 |
 | [요청: 새 요청 경험의 초안에 문제가 있음](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026년 1월 7일 |
 | [보고: 사용자가 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있음](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025년 12월 19일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 “기한 없음”으로 표시됨](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 |

@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 81%
+source-wordcount: '449'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 81%
 2026년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2026년 1월 업데이트
+
++++**2026년 1월 25~31일의 유지 보수 업데이트 주**
+
+### 2026년 1월 25~31일 유지 보수 업데이트 주
+
+#### 승인
+
+**내 승인 위젯에 완료된 승인이 표시됨**
+
+사용자가 홈에서 내 승인 위젯을 볼 때, 위젯에 이미 승인된 교정쇄가 포함됩니다.
+
++++
 
 +++**2026년 1월 18~24일의 유지 보수 업데이트 주**
 
