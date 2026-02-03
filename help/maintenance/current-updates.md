@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 79%
+source-wordcount: '601'
+ht-degree: 64%
 
 ---
 
@@ -23,6 +23,34 @@ ht-degree: 79%
 2026년 이전 유지 관리 업데이트는 [이전 유지 관리 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
 2026년에 유지 관리가 다음과 같이 업데이트되었습니다.
+
+## 2026년 2월 업데이트
+
++++**2026년 2월 1~7일의 유지 보수 업데이트 주**
+
+### 2026년 2월 1~7일의 유지 보수 업데이트 주
+
+#### 요청
+
+요청을 복사할 때 **&quot;액세스 권한이 없습니다&quot; 오류 발생**
+
+사용자가 요청 페이지를 통해 요청을 복사하려고 할 때 요청이 복사되지 않고 다음과 같은 오류가 표시됩니다.
+
+&quot;액세스 권한이 부족하여 이 문제를 편집할 수 없습니다.&quot;
+
+요청을 복사할 때 **&quot;시스템 관리자여야 합니다&quot; 오류 발생**
+
+사용자가 요청을 복사하고 저장하려고 할 때 요청이 저장되지 않고 사용자에게 다음 메시지가 표시됩니다.
+
+&quot;이 사용자 정의 데이터 매개변수 값을 변경하려면 시스템 관리자여야 합니다.&quot;
+
+#### 사용자
+
+**사용자가 Adobe Admin Console에서 올바르게 프로비저닝되지 않음**
+
+사용자가 Adobe Admin Console에 이미 존재하고, 이 Workfront을 포함하는 콘솔에 자동 프로비저닝되어 있는 경우 해당 사용자가 새 콘솔에 올바르게 프로비저닝되지 않습니다.
+
++++
 
 ## 2026년 1월 업데이트
 
