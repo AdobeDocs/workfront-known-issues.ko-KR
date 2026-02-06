@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 96%
+source-wordcount: '408'
+ht-degree: 98%
 
 ---
 
@@ -37,7 +37,6 @@ ht-degree: 96%
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Workfront Proof: 증명이 폴더에 표시되지 않음](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026년 2월 6일 토요일 |
-| [문서: 요약 패널이 비어 있음](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026년 1월 21일 목요일 |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026년 1월 15일 금요일 |
 | [문서: 문서 썸네일이 표시되지 않음](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 |
 | [알림: 이메일 알림에 썸네일이 표시되지 않음](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024년 7월 8일 |
