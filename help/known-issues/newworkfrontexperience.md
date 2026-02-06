@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: db5ab2c4c91561c635955f1c7f1a360165a5efec
 workflow-type: tm+mt
-source-wordcount: '1092'
-ht-degree: 95%
+source-wordcount: '1084'
+ht-degree: 96%
 
 ---
 
@@ -39,7 +39,6 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [요청: &quot;제목 없음&quot;이 요청 목록에 표시됨](known-issues-workfront/wf-requests-no-subject.md) | 2026년 2월 2일 화요일 |
 | [요청: 요청과 함께 초안을 만들면 문제가 발생합니다](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026년 1월 29일 금요일 |
 | [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
 | [사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026년 1월 16일 토요일 |
