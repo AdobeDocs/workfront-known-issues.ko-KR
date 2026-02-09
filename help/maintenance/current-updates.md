@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 51%
+source-wordcount: '798'
+ht-degree: 50%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 51%
 2026년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2026년 2월 업데이트
+
++++**2026년 2월 8~14일의 유지 보수 업데이트 주**
+
+### 2026년 2월 8~14일의 유지 보수 업데이트 주
+
+#### 보고서
+
+**데이터 레이크 쿼리가 예상 결과를 반환하지 않습니다**
+
+데이터 레이크가 쿼리될 때 모든 예상 결과가 반환되지는 않습니다.
+
++++
 
 +++**2026년 2월 1~7일의 유지 보수 업데이트 주**
 

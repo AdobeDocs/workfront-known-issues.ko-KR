@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db5ab2c4c91561c635955f1c7f1a360165a5efec
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 96%
+source-wordcount: '1085'
+ht-degree: 95%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 96%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [요청: 요청을 작성할 때 문서를 업로드할 수 없음](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026년 2월 9일 화요일 |
 | [사용자 정의 양식: 요청 양식에 표시 논리가 올바르게 표시되지 않음](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | 2026년 1월 29일 금요일 |
 | [로그인: 로그인 후 Workfront이 로드되지 않음](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026년 1월 29일 금요일 |
 | [사용자: 사용자 액세스를 업데이트할 수 없음](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026년 1월 5일 |
-| [보고서: 데이터 레이크 쿼리가 예상 결과를 반환하지 않음](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026년 1월 5일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
