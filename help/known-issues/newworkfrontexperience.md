@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 95%
+source-wordcount: '1081'
+ht-degree: 94%
 
 ---
 
@@ -39,10 +39,10 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [사용자: 부하 직원을 제거할 수 없음](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026년 2월 10일 수요일 |
 | [요청: 요청과 함께 초안을 만들면 문제가 발생합니다](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026년 1월 29일 금요일 |
 | [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
 | [사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026년 1월 16일 토요일 |
-| [요청: 새 요청 경험의 초안에 문제가 있음](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026년 1월 7일 |
 | [보고: 사용자가 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있음](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025년 12월 19일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 “기한 없음”으로 표시됨](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 |
 | [Workfront: Workfront과 Snowflake 간에 오브젝트가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 |

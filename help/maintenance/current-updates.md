@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 50%
+source-wordcount: '859'
+ht-degree: 53%
 
 ---
 
@@ -35,6 +35,15 @@ ht-degree: 50%
 **데이터 레이크 쿼리가 예상 결과를 반환하지 않습니다**
 
 데이터 레이크가 쿼리될 때 모든 예상 결과가 반환되지는 않습니다.
+
+#### 요청
+
+**새 요청 경험의 초안에 문제가 있습니다**
+
+새 요청 경험의 초안과 관련하여 다음 문제가 보고되었습니다.
+
+* 초안으로 만들어진 후 제출된 요청에는 요청 목록에 제목의 첫 글자만 표시됩니다.
+* 삭제된 초안은 요청 목록에서 제거되지 않으므로 “초안 검색 실패” 오류가 발생합니다.
 
 +++
 
