@@ -3,10 +3,11 @@ title: ' [!DNL Adobe Workfront Planning]의 알려진 문제'
 description: ' [!DNL Adobe Workfront Planning]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 82%
+source-wordcount: '146'
+ht-degree: 91%
 
 ---
 
@@ -34,13 +35,13 @@ ht-degree: 82%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| 없음 | |
+| [보고: Workfront Planning 필드가 Canvas Dashboards Report Builder에 표시되지 않음](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026년 2월 11일 목요일 |
 
 {style="table-layout:auto"}
 
 ## 해결 방법 사용 가능
 
-현재 로드맵에는 이러한 문제에 대한 수정 사항이 없지만, 해결 방법을 사용할 수 있으며 각 문제에 대한 문서에 설명되어 있습니다.
+이러한 문제에 대한 수정 사항은 현재 로드맵에 나와 있지 않지만, 각 문제에 대한 해결 방법을 사용할 수 있으며 문서에 설명되어 있습니다.
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
