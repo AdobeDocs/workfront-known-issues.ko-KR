@@ -4,10 +4,10 @@ description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려�
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 94%
+source-wordcount: '1095'
+ht-degree: 93%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 94%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [할당: 보고서에서 고급 할당 변경 내용을 저장할 수 없음](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026년 2월 12일 금요일 |
 | [보고: Workfront Planning 필드가 Canvas Dashboards Report Builder에 표시되지 않음](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026년 2월 11일 목요일 |
 | [사용자: 부하 직원을 제거할 수 없음](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026년 2월 10일 수요일 |
 | [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 1월 16일 토요일 |
