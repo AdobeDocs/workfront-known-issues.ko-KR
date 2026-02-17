@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof]에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [승인: 승인이 자동으로 잠깁니다](known-issues-workfront/wf-approvals-are-locked.md) | 2026년 2월 17일 수요일 |
 | [교정쇄: 특정 사용자를 태그할 수 없음](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025년 2월 20일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
@@ -36,6 +37,8 @@ ht-degree: 98%
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
+| [홈: 증명에서 언급된 내용이 언급 위젯에 표시되지 않음](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 2026년 2월 17일 수요일 |
+| [승인: 홈의 내 승인 위젯에서 문서를 승인할 수 없음](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026년 2월 17일 수요일 |
 | [Workfront Proof: 증명이 폴더에 표시되지 않음](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026년 2월 6일 토요일 |
 | [승인: 내 승인 위젯에 완료된 승인이 표시됨](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026년 1월 15일 금요일 |
 | [문서: 문서 썸네일이 표시되지 않음](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025년 4월 17일 |

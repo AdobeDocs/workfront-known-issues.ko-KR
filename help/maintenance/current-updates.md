@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 48%
+source-wordcount: '1003'
+ht-degree: 45%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 48%
 2026년에 유지 관리가 다음과 같이 업데이트되었습니다.
 
 ## 2026년 2월 업데이트
+
++++**2026년 2월 15~21일의 유지 보수 업데이트 주**
+
+### 2026년 2월 15~21일의 유지 보수 업데이트 주
+
+#### 사용자 정의 양식
+
+**표시 논리가 요청 양식에 올바르게 표시되지 않습니다**
+
+사용자가 요청에 연결된 사용자 정의 양식을 채울 때 표시 논리가 따르지 않고 일부 필드가 예상대로 표시되지 않을 수 있습니다.
+
++++
 
 +++**2026년 2월 8~14일의 유지 보수 업데이트 주**
 
