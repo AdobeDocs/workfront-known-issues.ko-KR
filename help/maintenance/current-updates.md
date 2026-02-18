@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 45%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ ht-degree: 45%
 **표시 논리가 요청 양식에 올바르게 표시되지 않습니다**
 
 사용자가 요청에 연결된 사용자 정의 양식을 채울 때 표시 논리가 따르지 않고 일부 필드가 예상대로 표시되지 않을 수 있습니다.
+
+#### 요청
+
+**&quot;모두&quot; 보기에 모든 요청이 표시되지 않음**
+
+사용자가 새 요청 경험에서 요청 목록을 볼 때 보기가 모든 요청을 표시하도록 설정된 경우, 일부 요청만 표시됩니다.
+
 
 +++
 
