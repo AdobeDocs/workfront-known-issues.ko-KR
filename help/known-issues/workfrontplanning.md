@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Planning]에 대해 보고된 알려진 문
 keywords: 새 파일, 파일 추가
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
+| [Workfront 계획: 요청이 승인된 후 요청 상태가 &quot;진행 중&quot;으로 표시됨](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026년 2월 24일 수요일 |
 | [Workfront 계획: &quot;요청 제출 실패&quot; 오류](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026년 2월 17일 수요일 |
 
 {style="table-layout:auto"}
