@@ -13,7 +13,7 @@ ht-degree: 33%
 
 >[!NOTE]
 >
->Workfront를 포함한 모든 Adobe 제품의 유지 관리 중단에 대한 자세한 내용은 [Adobe 상태 페이지](https://status.adobe.com/)를 참조하십시오.
+>Workfront를 포함한 모든 Adobe 제품의 유지 관리 중단에 대한 자세한 내용은 [Adobe 상태 페이지](https://status.adobe.com/ko-kr/)를 참조하십시오.
 
 이 페이지에서는 주간 Workfront 업데이트에서 해결된 문제를 설명합니다.
 
