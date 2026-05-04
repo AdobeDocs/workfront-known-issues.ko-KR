@@ -3,10 +3,9 @@ title: '캘린더: 작업이 표시되지 않음'
 description: 사용자의 목록 보고서와 캘린더 보고서에 동일한 필터가 있으면 일부 작업이 목록 보고서에는 표시되고 캘린더 보고서에는 표시되지 않습니다.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 사용자의 목록 보고서와 캘린더 보고서에 동일한 필터가 있으면 일부 작업이 목록 보고서에는 표시되고 캘린더 보고서에는 표시되지 않습니다.
 
-_2019년 10월 31일에 처음 보고되었습니다._
+_2019년 10월 31일 금요일에 처음 보고되었습니다._

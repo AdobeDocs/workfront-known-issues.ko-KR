@@ -1,12 +1,11 @@
 ---
 title: '팀: 완료 단추에 대한 팀 상태 설정 문제 '
 description: 팀을 편집하거나 만들 때 [!UICONTROL 완료] 단추의 상태와 관련된 문제가 보고되었습니다. 해결 방법을 사용할 수 있습니다.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 78%
 
 ---
@@ -26,4 +25,4 @@ ht-degree: 78%
 
 [!UICONTROL 설정] > [!UICONTROL 프로젝트 환경 설정] > [!UICONTROL 상태]에서 상태 목록을 조회하면 문제가 일시적으로 해결될 수 있습니다.
 
-_2023년 12월 5일에 처음 보고되었습니다._
+_2023년 12월 5일 수요일에 처음 보고되었습니다._

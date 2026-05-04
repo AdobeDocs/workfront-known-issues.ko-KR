@@ -1,13 +1,12 @@
 ---
 title: '승인: “모두” 필터가 개인이 제출한 승인을 제외함'
 description: 홈의 내 승인 위젯이나 내 업데이트 페이지에서 승인을 볼 때 필터가 “모두”로 설정되어 있어도 사용자가 제출한 승인이 목록에 포함되지 않습니다.
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 92%
+source-wordcount: '110'
+ht-degree: 91%
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: '문서: SharePoint에서 링크된 문서에 액세스할 때 404 오류 발생'
 description: 사용자가 SharePoint를 통해 연결된 문서에 액세스하려고 하면 404 오류가 있는 페이지로 이동합니다.
-hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 91%
 
 ---
@@ -25,4 +24,4 @@ ht-degree: 91%
 
 [!DNL SharePoint]는 짧은 URL을 생성하고 해당 URL을 링크에 사용할 것을 권장합니다.
 
-_2023년 3월 14일에 처음 보고되었습니다._
+_2023년 3월 14일 수요일에 처음 보고되었습니다._

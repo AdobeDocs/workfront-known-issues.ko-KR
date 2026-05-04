@@ -1,13 +1,12 @@
 ---
 title: '사용자 정의 양식: 계산된 필드에 관리자가 아닌 사용자의 데이터가 표시되지 않음'
 description: Workfront 관리자가 아닌 사용자가 양식의 관리자 전용 섹션에서 데이터를 가져오는 필드가 있는 사용자 정의 양식을 볼 때 해당 필드에 계산된 값이 표시되지 않습니다. 사용자가 표현식 다시 계산을 실행하면 값이 표시되지만 새로 고칠 때 손실됩니다.
-hidefromtoc: true
 feature: Custom Forms
 exl-id: 74a06df6-2ff2-4df5-8f27-e86316af9f3c
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->이 문제는 2026년 2월 19일 금요일에 해결되었습니다.
+>이 문제는 2026년 2월 19일에 수정되었습니다.
 
 Workfront 관리자가 아닌 사용자가 양식의 관리자 전용 섹션에서 데이터를 가져오는 필드가 있는 사용자 정의 양식을 볼 때 해당 필드에 계산된 값이 표시되지 않습니다. 사용자가 표현식 다시 계산을 실행하면 값이 표시되지만 새로 고칠 때 손실됩니다.
 

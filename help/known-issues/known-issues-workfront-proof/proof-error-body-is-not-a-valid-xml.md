@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Proof API: 본문이 유효한 XML이 아님 오류'
 description: Workfront Proof API 호출이 오류를 반환합니다.
-hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 86%
 
 ---
@@ -25,4 +24,4 @@ ht-degree: 86%
 
 이는 [!DNL Workfront Proof] API에 직접 액세스하거나 [!DNL Workfront Fusion]을 통해 액세스할 때 발생할 수 있습니다.
 
-_2022년 9월 15일에 처음 보고되었습니다._
+_2022년 9월 15일 금요일에 처음 보고되었습니다._

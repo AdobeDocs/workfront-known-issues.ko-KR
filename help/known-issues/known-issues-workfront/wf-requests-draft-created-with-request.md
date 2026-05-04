@@ -1,13 +1,12 @@
 ---
 title: '요청: 요청과 함께 생성된 초안으로 인해 문제 발생'
 description: 사용자가 새 요청 경험에서 새 요청을 만들고 제출할 때 초안도 만들어집니다. 초안에는 제출된 요청 이름의 첫 글자만 표시되며 열려고 하면 검색 실패 오류가 발생합니다.
-hidefromtoc: true
 feature: Requests
 exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->이 문제는 2026년 2월 10일 수요일에 해결되었습니다.
+>이 문제는 2026년 2월 10일에 수정되었습니다.
 
 사용자가 새 요청 경험에서 새 요청을 만들고 제출할 때 초안도 만들어집니다. 초안에는 제출된 요청 이름의 첫 글자만 표시되며 열려고 하면 &quot;검색 실패&quot; 오류가 발생합니다.
 

@@ -1,12 +1,11 @@
 ---
 title: '대시보드: 대시보드를 PDF로 인쇄할 때 큰 공백 여백이 있음'
 description: 사용자가 가로 방향을 사용하여 대시보드를 PDF로 인쇄하면 PDF 오른쪽에 큰 공백 여백이 표시됩니다.
-hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91512e88-57c9-4a9a-81a7-7bc2da9095d0
-source-git-commit: 149c5401e25d2a67560a20e041b908ed65aea1c0
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 세로 모드로 인쇄하면 여백이 올바르게 표시됩니다.
 
-_2023년 10월 23일에 처음 보고되었습니다._
+_2023년 10월 23일 화요일에 처음 보고되었습니다._

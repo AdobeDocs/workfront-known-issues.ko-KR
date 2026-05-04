@@ -1,12 +1,11 @@
 ---
 title: '[!DNL Workfront Fusion]: 연결 오류를 확인하지 못했습니다.'
 description: Workfront 계정에 대한 Workfront Fusion 연결이 인증에 실패하여 시나리오에서 다음 오류가 발생할 수 있습니다. 연결 확인 실패
-hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '89'
 ht-degree: 70%
 
 ---
@@ -29,4 +28,4 @@ ht-degree: 70%
 
 새 연결을 만들고 Workfront 모듈의 현재 연결을 새 연결로 바꿉니다.
 
-_2022년 9월 8일에 처음 보고되었습니다._
+_2022년 9월 8일 금요일에 처음 보고되었습니다._

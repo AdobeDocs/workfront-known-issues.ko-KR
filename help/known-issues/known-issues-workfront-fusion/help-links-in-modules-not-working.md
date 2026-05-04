@@ -1,12 +1,11 @@
 ---
 title: Fusion 앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음
 description: ' [!DNL Workfront Fusion] 의 도움말 링크는 현재 원하는 도움말 페이지로 연결되지 않습니다. 대신 모든 Fusion 도움말 링크가 Workfront 설명서 홈 페이지로 연결됩니다. 이 랜딩 페이지에서 필요한 정보를 검색할 수 있습니다.'
-hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2025년 5월 5일 화요일에 해결되었습니다.
+>이 문제는 2025년 5월 5일에 해결되었습니다.
 
 [!DNL Workfront Fusion]의 도움말 링크는 현재 원하는 도움말 페이지로 연결되지 않습니다. 대신 모든 [!DNL Fusion] 도움말 링크가 [!DNL Workfront] 설명서 홈 페이지로 연결됩니다. 이 랜딩 페이지에서 필요한 정보를 검색할 수 있습니다.
 

@@ -1,12 +1,11 @@
 ---
 title: '설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정할 수 없음'
 description: 사용자가 [!UICONTROL 빠른 시작]을 통해 그룹화를 시작하려고 하면 가져오기가 실패하고 사용자에게 오류 메시지가 표시됩니다.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 보수 업데이트가 아니라 제품 공지를 통해 전달됩니다.
+>제품 팀이 현재 이 문제 해결을 평가 중이며 이에 따라 제품 개선이 필요할 수 있습니다. 제품 개선 사항은 유지 관리 업데이트가 아니라 제품 공지를 통해 전달됩니다.
 
 사용자가 [!UICONTROL 빠른 시작]을 사용하여 그룹화를 시작하려고 하면 가져오기가 실패하고 사용자에게 다음 중 하나와 유사한 오류 메시지가 표시됩니다.
 
@@ -24,4 +23,4 @@ ht-degree: 100%
 
 이 문제는 필터 및 보기의 [!UICONTROL 빠른 시작]이 성공한 경우에도 발생할 수 있습니다.
 
-_2023년 6월 1일에 처음 보고되었습니다._
+_2023년 6월 1일 금요일에 처음 보고되었습니다._

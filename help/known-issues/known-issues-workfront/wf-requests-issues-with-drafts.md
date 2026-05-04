@@ -1,13 +1,12 @@
 ---
 title: '요청: 새 요청 경험의 초안에 문제가 있음'
 description: 새 요청 경험의 초안에 대해 여러 건의 보고가 있었습니다.
-hidefromtoc: true
 feature: Requests
 exl-id: 951ea13c-774d-484d-99fd-ca119d258870
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 2026년 2월 9일 화요일에 해결되었습니다.
+>이 문제는 2026년 2월 9일에 수정되었습니다.
 
 새 요청 경험의 초안과 관련하여 다음 문제가 보고되었습니다.
 

@@ -1,10 +1,9 @@
 ---
 title: 'Workfront Fusion: Workfront Fusion에서 사용자를 추가하거나 삭제할 수 없음'
 description: 사용자가 Workfront Fusion에서 사용자를 추가하거나 삭제하려고 할 때 해당 작업을 수행할 수 없습니다.
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: bd5eb99e-c9a5-470d-b58d-51097bbd9ea4
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%

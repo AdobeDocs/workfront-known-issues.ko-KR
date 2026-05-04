@@ -1,13 +1,12 @@
 ---
 title: '문서: SharePoint에 액세스할 수 없음'
 description: 사용자가 Workfront에서 SharePoint 폴더를 열려고 하면 폴더가 열리지 않고 메시지가 표시됩니다.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6b6c4c13-5d43-4d30-a7d0-67ff8aa0b113
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 95%
+source-wordcount: '118'
+ht-degree: 96%
 
 ---
 
@@ -31,4 +30,4 @@ ht-degree: 95%
 
 문제가 지속되면 [SharePoint 통합 구성](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=ko)의 [문제 해결](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=ko#troubleshooting) 섹션을 확인하십시오.
 
-_2023년 11월 9일에 처음 보고되었습니다._
+_2023년 11월 9일 금요일에 처음 보고되었습니다._

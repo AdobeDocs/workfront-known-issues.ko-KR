@@ -1,12 +1,11 @@
 ---
 title: '사용자 정의 양식: 계산된 필드를 설정할 때 죄송합니다 오류 발생'
 description: 사용자가 사용자 정의 양식에서 계산된 필드를 만들거나 편집할 때 계산된 필드의 표현식에 사용자 정의 필드를 포함하면 표현식이 유효하지 않은 것으로 간주됩니다. 저장 버튼이 비활성화되고 사용자가 사용자 정의 필드에서 다른 곳으로 이동할 수 없습니다. 또한 필드 아래에 “죄송합니다” 메시지가 표시됩니다.
-hidefromtoc: true
 feature: Custom Forms
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '180'
 ht-degree: 94%
 
 ---
@@ -25,4 +24,4 @@ ht-degree: 94%
 
 표현식에서 사용자 정의 필드를 제거하면 사용자가 필드를 저장하고 다른 곳으로 이동할 수 있습니다.
 
-_2022년 10월 11일에 처음 보고되었습니다._
+_2022년 10월 11일 수요일에 처음 보고되었습니다._

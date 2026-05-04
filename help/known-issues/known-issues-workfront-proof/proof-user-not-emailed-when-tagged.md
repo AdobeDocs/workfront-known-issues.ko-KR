@@ -1,12 +1,11 @@
 ---
 title: '교정쇄: 교정쇄 댓글에서 태그를 지정하면 사용자에게 이메일이 수신되지 않음'
 description: 사용자가 교정쇄 댓글에서 @이름 형식을 사용하여 태그 지정되는 경우 이 사용자에게는 해당 댓글에 대한 이메일 알림이 수신되지 않습니다.
-hidefromtoc: true
 exl-id: 5773ba30-7826-428c-8878-f8d2b3368f30
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 사용자가 교정쇄 댓글에서 @이름 형식을 사용하여 태그 지정되는 경우 이 사용자에게는 해당 댓글에 대한 이메일 알림이 수신되지 않습니다.
 
-_2022년 12월 8일에 처음 보고되었습니다._
+_2022년 12월 8일 금요일에 처음 보고되었습니다._

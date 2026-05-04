@@ -1,12 +1,11 @@
 ---
 title: '보고서: 보고서를 내보낼 때 오류 발생'
 description: 사용자가 보고서를 내보내려고 할 때 보고서를 내보낼 수 없으며 오류가 표시됩니다.
-hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 864081d8-177c-422f-a46c-10ebac5c9fa1
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 “[!UICONTROL 다음 오류 발생: CUSTOM_FIELD_REPORTS: 2381840 CACHE-CONTENT…에 대한 바이트 크기 제한을 초과했습니다.]”
 
-_2024년 7월 29일에 처음 보고되었습니다._
+_2024년 7월 29일 화요일에 처음 보고되었습니다._

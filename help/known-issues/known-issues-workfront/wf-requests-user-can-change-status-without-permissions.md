@@ -1,12 +1,11 @@
 ---
 title: '요청: 사용자가 권한이 없어도 상태를 변경할 수 있음'
 description: 기여 액세스 권한이 있으며 문제 상태를 변경할 권한이 없는 사용자가 상태를 변경할 수 있습니다.
-hidefromtoc: true
 feature: Requests
 exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 기여 액세스 권한이 있으며 문제 상태를 변경할 권한이 없는 사용자가 상태를 변경할 수 있습니다.
 
-_2024년 7월 29일에 처음 보고되었습니다._
+_2024년 7월 29일 화요일에 처음 보고되었습니다._

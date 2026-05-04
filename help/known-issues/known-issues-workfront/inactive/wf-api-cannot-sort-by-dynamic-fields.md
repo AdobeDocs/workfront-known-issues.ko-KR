@@ -1,12 +1,11 @@
 ---
 title: 'API: 동적 필드를 기준으로 정렬할 수 없음'
 description: 'Workfront API가 동적 필드를 기준으로 정렬을 허용하지 않습니다. '
-hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '49'
 ht-degree: 100%
 
 ---
@@ -17,8 +16,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->이 문제는 문제가 아니므로 종결되었습니다.
+>이는 문제가 아닌 것으로 판명되어 종결되었습니다.
 
 Workfront API가 동적 필드를 기준으로 정렬을 허용하지 않습니다.
 
-_2022년 3월 15일에 처음 보고되었습니다._
+_2022년 3월 15일 수요일에 처음 보고되었습니다._

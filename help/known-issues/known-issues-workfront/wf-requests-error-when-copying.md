@@ -1,21 +1,20 @@
 ---
 title: '요청: 요청을 복사할 때 시스템 관리자 오류여야 합니다'
 description: 사용자가 요청을 복사하고 저장하려고 할 때 요청이 저장되지 않고 오류 메시지가 표시됩니다
-hidefromtoc: true
 feature: Requests
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+exl-id: 79dcff8a-3410-4f54-bc85-579be364c618
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 10%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
-
 
 # 요청: 요청을 복사할 때 &quot;시스템 관리자여야 합니다&quot; 오류 발생
 
 >[!NOTE]
 >
->이 문제는 2026년 2월 3일 수요일에 해결되었습니다.
+>이 문제는 2026년 2월 3일에 수정되었습니다.
 
 사용자가 요청을 복사하고 저장하려고 할 때 요청이 저장되지 않고 사용자에게 다음 메시지가 표시됩니다.
 

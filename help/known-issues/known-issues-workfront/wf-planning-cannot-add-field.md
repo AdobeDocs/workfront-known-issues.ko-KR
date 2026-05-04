@@ -1,25 +1,24 @@
 ---
-title: 'Workfront Planning: 보기에 필드를 추가할 수 없음'
-description: 사용자가 Workfront Planning에서 보기에 필드를 추가하려고 하면 필드가 추가되지 않고 메시지가 표시됩니다.
-hidefromtoc: true
+title: 'Workfront 계획 수립: 보기에 필드를 추가할 수 없음'
+description: 사용자가 Workfront 계획 수립에서 보기에 필드를 추가하려고 할 때 필드가 추가되지 않고 메시지가 표시됩니다.
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 6c0dac0b-b294-491d-973a-88e0ff8d3aef
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
-
-# Workfront Planning: 보기에 필드를 추가할 수 없음
+# Workfront 계획 수립: 보기에 필드를 추가할 수 없음
 
 >[!NOTE]
 >
->* 이 문제는 2025년 12월 19일 토요일에 해결되었습니다.
+>* 이 문제는 2025년 12월 19일에 해결되었습니다.
 >* 이 문제는 사용자 정의 새로 고침 샌드박스에서 보고되었습니다.
 
-사용자가 Workfront Planning에서 보기에 필드를 추가하려고 하면 필드가 추가되지 않고 다음과 같은 메시지가 표시됩니다.
+사용자가 Workfront 계획 수립에서 보기에 필드를 추가하려고 할 때 필드가 추가되지 않고 다음 메시지가 표시됩니다.
 
-&quot;필드 열을 만들 수 없습니다. 다시 시도하십시오.&quot;
+“필드 열을 만들 수 없습니다. 나중에 다시 시도하십시오.”
 
-_2025년 12월 10일 목요일에 처음 보고되었습니다._
+_2025년 12월 10일에 처음 보고되었습니다._

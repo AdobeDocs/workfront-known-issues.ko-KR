@@ -2,11 +2,10 @@
 title: '목록: 표시 이름이 사용자 정의 필드 그룹화에 적용되지 않음'
 description: 사용자가 사용자 정의 필드로 목록을 그룹화할 때 텍스트 모드에서 표시 이름을 변경하면 필드의 원래 이름이 대신 표시됩니다.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
-hidefromtoc: true
 feature: Text Mode Reporting
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 사용자가 사용자 정의 필드로 목록을 그룹화할 때 [!UICONTROL 텍스트 모드]에서 표시 이름을 변경하면 필드의 원래 이름이 대신 표시됩니다.
 
-_2020년 8월 13일에 처음 보고되었습니다._
+_2020년 8월 13일 금요일에 처음 보고되었습니다._
