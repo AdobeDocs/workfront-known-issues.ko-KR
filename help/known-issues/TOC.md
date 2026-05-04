@@ -15,7 +15,7 @@ ht-degree: 52%
 + [개요](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront]의 알려진 문제](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]의 현재 문제 {#wf-current}
       + {hide-from-toc}[사용자: Adobe Admin Console에서 제거된 사용자가 Workfront에서 여전히 활성 상태입니다.](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md)
       + {hide-from-toc}[Workfront 계획: 요청이 승인된 후 요청 상태가 &quot;진행 중&quot;으로 표시됨](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md)
@@ -128,7 +128,7 @@ ht-degree: 52%
       + {hide-from-toc}[포트폴리오: 사용자가 포트폴리오를 설정할 수 없습니다](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + {hide-from-toc}[작업: 작업 할당에서 이름을 검색해도 사용자가 반환되지 않습니다](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + {hide-from-toc}[통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
-      + {hide-from-toc}[보드: [!UICONTROL 다음으로 로그인]](known-issues-workfront/wf-boards-log-in-as.md) 기능을 사용할 때 보드가 사용자로 표시되지 않음
+      + {hide-from-toc}[보드: [!UICONTROL 다음으로 로그인] 기능을 사용할 때 보드가 사용자로 표시되지 않음](known-issues-workfront/wf-boards-log-in-as.md)
       + {hide-from-toc}[홈: 내 문제 위젯에 종료되거나 완료된 문제가 표시되지 않음](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + {hide-from-toc}[홈: 승인 위젯이 정확하지 않음](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + {hide-from-toc}[홈: 언급 위젯을 제거할 수 없음](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
@@ -154,7 +154,7 @@ ht-degree: 52%
       + {hide-from-toc}[대시보드: 대시보드를 PDF로 인쇄할 때 큰 공백 여백이 있음](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + {hide-from-toc}[홈: 승인됨 또는 계획 상태의 프로젝트 작업이 내 작업 또는 홈 작업 목록에 포함되지 않음](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + {hide-from-toc}[[!DNL Workfront]: 브랜딩이 적용되지 않음](known-issues-workfront/inactive/wf-workfront-branding-not-applied.md)
-      + {hide-from-toc}[증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)에 남아 있음
+      + {hide-from-toc}[증명: 완료된 증명이 [!UICONTROL 내 승인 대기 중] 위젯에 남아 있음](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + {hide-from-toc}[교정쇄: 이메일 링크에서 교정쇄 공유 시 오류 발생](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
       + {hide-from-toc}[[!UICONTROL 홈]: 새로운 [!UICONTROL 홈] 위젯 미리보기에 오브젝트의 올바른 이름이 표시되지 않음](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + {hide-from-toc}[[!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
@@ -165,18 +165,18 @@ ht-degree: 52%
       + {hide-from-toc}[필터: 대시보드의 보고서에서 필터를 공유할 수 없음](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + {hide-from-toc}[교정쇄: 측정 도구가 소수점을 허용하지 않음](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + {hide-from-toc}[문서: 문서 목록 관련 문제](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
-      + {hide-from-toc}[문서: [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)에서 연결되어 있는 문서에 액세스할 때 404 오류 발생
+      + {hide-from-toc}[문서: [!DNL SharePoint]에서 연결되어 있는 문서에 액세스할 때 404 오류 발생](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + {hide-from-toc}[[!UICONTROL 업무 균형자]: 사용자 휴무 시간을 고려하여 시간이 조정되지 않음](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + {hide-from-toc}[[!UICONTROL 업데이트]: [!UICONTROL 업데이트] 영역에 현재 날짜의 시간을 기록할 수 없음](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + {hide-from-toc}[문서: 문서가 새 프로젝트로 이동할 때 권한이 상속되지 않음](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + {hide-from-toc}[문서: 대용량 파일을 업로드할 때 오류 발생](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
-      + {hide-from-toc}[문서: [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)에서 문서를 추가할 수 없음
+      + {hide-from-toc}[문서: [!DNL Google Drive]에서 문서를 추가할 수 없음](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + {hide-from-toc}[교정쇄: 교정쇄 상태가 [!UICONTROL 문서] 목록에 업데이트되지 않음](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
       + {hide-from-toc}[사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md)
       + {hide-from-toc}[증명: 인쇄 요약에 이미지 썸네일이 표시되지 않습니다](known-issues-workfront/inactive/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + {hide-from-toc}[작업: 작업의 [!UICONTROL 계획된 완료 일자]를 변경할 수 없음](known-issues-workfront/inactive/wf-tasks-cannot-change-planned-completion-date.md)
       + {hide-from-toc}[API: 동적 필드를 기준으로 정렬할 수 없음](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
-      + {hide-from-toc}[[!UICONTROL 설정]: [!UICONTROL 설정]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)에서 느리게 로드됨
+      + {hide-from-toc}[[!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
       + {hide-from-toc}[작업: 작업 [!UICONTROL 요약 패널에 시간을 입력할 때 시간이 저장되지 않음]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + {hide-from-toc}[교정쇄: [!UICONTROL 활성 교정 단계] 필드가 비어 있음](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + {hide-from-toc}[[!DNL Workfront]: Experience League에서 [!DNL Workfront] 지원 사례를 제출할 때 문제 발생](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
@@ -184,7 +184,7 @@ ht-degree: 52%
       + {hide-from-toc}[애자일: 애자일 보드에서 카드를 이동할 때 문제 발생](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + {hide-from-toc}[애자일: 카드의 사용자 정의 양식에서 필드를 편집할 수 없음](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + {hide-from-toc}[승인: 승인 위임이 잘못된 일수로 설정됨](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + {hide-from-toc}[[!UICONTROL 홈]: [!UICONTROL  이외의 브라우저 사용 시 ]홈 [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md) 요약 문제 발생
+      + {hide-from-toc}[[!UICONTROL 홈]: [!UICONTROL &#x200B; 이외의 브라우저 사용 시 &#x200B;]홈 [!DNL Chrome] 요약 문제 발생](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
       + {hide-from-toc}[[!UICONTROL 홈]: [!UICONTROL 할당 대상] 필드에 비활성화된 사용자를 표시하는 새 작업 옵션](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + {hide-from-toc}[업데이트: 팀 이름이 @mention에 표시되지 않음](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + {hide-from-toc}[애자일: 반복에 대한 [!UICONTROL 완료된 포인트]의 불일치](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
@@ -192,7 +192,7 @@ ht-degree: 52%
       + {hide-from-toc}[이메일 알림: 사용자가 댓글 스레드로 이동되지 않음](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + {hide-from-toc}[캘린더: [!DNL OR] 필터 문이 필터 규칙을 제외함](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + {hide-from-toc}[보고서: 캘린더에 이전 날짜가 기본으로 표시됨](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
-      + {hide-from-toc}[이메일 알림:  [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)에서 이메일 서식이 올바르게 지정되지 않음
+      + {hide-from-toc}[이메일 알림:  [!DNL Outlook]에서 이메일 서식이 올바르게 지정되지 않음](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
       + {hide-from-toc}[목록: 표시 이름이 사용자 정의 필드 그룹화에 적용되지 않음](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
       + {hide-from-toc}[캘린더: 작업이 표시되지 않음](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
@@ -200,16 +200,16 @@ ht-degree: 52%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof]의 알려진 문제](workfrontproof.md)
    + [!DNL Workfront Proof]의 현재 문제 {#proof-current}
       + {hide-from-toc}[Workfront Proof: 증명이 폴더에 표시되지 않음](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + {hide-from-toc}[[!UICONTROL Workfront Proof]: 증명을 만들 때 에셋을 다시 정렬할 수 없음](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
-      + {hide-from-toc}[[!DNL Workfront Proof]: [!UICONTROL 교정쇄 요약]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)에서 부정확한 타임스탬프
+      + {hide-from-toc}[[!DNL Workfront Proof]: [!UICONTROL 교정쇄 요약]에서 부정확한 타임스탬프](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + {hide-from-toc}[[!DNL Workfront Proof]: 워크플로를 확장할 수 없음](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + {hide-from-toc}[Workfront Proof: 대시보드 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + {hide-from-toc}[Workfront Proof: 검색 데이터가 항상 정확하지 않음](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + {hide-from-toc}[교정쇄: 교정쇄가 미리보기 환경에서 느리게 생성됨](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
-      + {hide-from-toc}[[!DNL Workfront Proof]: API 또는 [!DNL Workfront Proof] 을 통해 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)에 액세스할 때 500 오류 발생
+      + {hide-from-toc}[[!DNL Workfront Proof]: API 또는 [!DNL Workfront Proof] 을 통해 [!DNL Workfront Fusion]에 액세스할 때 500 오류 발생](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + {hide-from-toc}[[!DNL Workfront Proof]: 목록이 올바르게 정렬되지 않음](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + {hide-from-toc}[[!DNL Workfront Proof]: [!UICONTROL 보고서] 영역은 더 이상 지원되지 않음](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + {hide-from-toc}[증명: 사용자가 증명 댓글을 태그 지정할 때 전자 메일을 받지 못함](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -218,7 +218,7 @@ ht-degree: 52%
       + {hide-from-toc}[교정쇄: 교정쇄가 교정 워크플로의 사용자에게 공유되지 않음](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + {hide-from-toc}[댓글에 사용자를 태그 지정하여 증명에 사용자를 추가할 수 없음](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + {hide-from-toc}[[!UICONTROL 증명 승인] 보고서에서 기한을 정확하게 판단하지 못함](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
-      + {hide-from-toc}[[!UICONTROL 홈]: 완료된 교정쇄가 [!UICONTROL 작업 목록]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)에 남아 있음
+      + {hide-from-toc}[[!UICONTROL 홈]: 완료된 교정쇄가 [!UICONTROL 작업 목록]에 남아 있음](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + {hide-from-toc}[문서: 교정 워크플로 아이콘이 표시되지 않음](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + [!DNL Workfront] 교정쇄의 해결된 문제 {#proof-resolved}
       + {hide-from-toc}[증명: 증명이 매우 오랫동안 &quot;[!UICONTROL 증명 생성 중]&quot;으로 표시됨](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
@@ -238,16 +238,16 @@ ht-degree: 52%
       + {hide-from-toc}[Workfront Fusion: 일자에 대한 출력 서식](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + {hide-from-toc}[Workfront Fusion: 메모리 부족 오류](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + {hide-from-toc}[Workfront Fusion: 단일 모듈에서 중복 프로젝트가 생성됨](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  사용자 지정 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; 사용자 지정 API 호출] 모듈이 404 또는 422 오류를 반환함](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: &quot;연결 확인 실패&quot; 오류](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Fusion] 모듈이 추가 정보 없이 404 오류를 반환함](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + {hide-from-toc}[[!DNL Workfront Fusion] 앱 내 도움말 링크가 특정 도움말 페이지로 연결되지 않음](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] 계획 수립 {#planning}
-   + [ [!DNL Workfront] 계획 수립의 알려진 문제](workfrontplanning.md)
+   + [&#x200B; [!DNL Workfront] 계획 수립의 알려진 문제](workfrontplanning.md)
 
 + [!DNL Workfront] 모바일 앱 {#mobile}
-   + [ [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront] 모바일 앱의 알려진 문제](workfrontmobile.md)
 
 <!--
 
