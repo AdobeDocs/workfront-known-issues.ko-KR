@@ -1,12 +1,11 @@
 ---
 title: '레이아웃 템플릿: 레이아웃 템플릿을 통해 작업 요약에 추가하면 사용자 정의 데이터 필드가 표시되지 않음'
 description: 관리자가 레이아웃 템플릿을 통해 작업 요약 섹션에 사용자 정의 데이터 필드를 추가하면 작업 요약 섹션을 조회하는 사용자에게 해당 필드가 비어 있는 것으로 표시됩니다.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
-source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: ht
-source-wordcount: '137'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
@@ -23,4 +22,4 @@ ht-degree: 100%
 
 이 문제를 방지하려면 사용자 정의 필드 이름에 마침표(.)를 사용하지 마십시오. 원하는 경우 요약 섹션에서 사용자 정의 필드의 레이블을 다시 지정하고 마침표를 포함할 수 있습니다.
 
-_2024년 10월 2일에 처음 보고되었습니다._
+_2024년 10월 2일 목요일에 처음 보고되었습니다._

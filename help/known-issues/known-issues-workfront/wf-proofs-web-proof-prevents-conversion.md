@@ -1,12 +1,11 @@
 ---
 title: '교정쇄: 교정쇄에서 작업이나 문제를 프로젝트로 전환할 수 없음'
 description: 사용자가 웹에서 생성된 교정쇄가 포함된 작업이나 문제를 프로젝트로 변환하려고 하면 프로젝트가 생성되지 않고 메시지가 표시됩니다. 해결 방법을 사용할 수 있습니다.
-hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 100%
 
 ---
@@ -29,5 +28,5 @@ ht-degree: 100%
 2. 작업이나 문제를 프로젝트로 변환합니다.
 3. 문서 이동 기능을 사용하여 교정쇄를 새 프로젝트로 이동합니다.
 
-_2024년 3월 28일에 처음 보고되었습니다._
+_2024년 3월 28일 금요일에 처음 보고되었습니다._
 

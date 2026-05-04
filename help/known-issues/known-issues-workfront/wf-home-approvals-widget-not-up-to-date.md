@@ -1,12 +1,11 @@
 ---
 title: '홈: 승인 위젯이 정확하지 않음'
 description: 새로운 홈 경험에서 내 승인을 기다리는 동안 위젯에 승인이 정확하게 표시되지 않습니다.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: ea69ee1c87a75a05ecb7813a92bfa811635113dc
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 100%
 
 ---

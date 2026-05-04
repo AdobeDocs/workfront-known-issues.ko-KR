@@ -1,12 +1,11 @@
 ---
 title: '증명: 증명 활동 탭에 증명 세부 정보 가 열립니다.'
 description: 사용자가 교정쇄를 조회하는 도중 교정쇄 활동 탭을 클릭하면 교정쇄 세부 정보 탭이 대신 열립니다. 이 문제는 교정쇄 단계가 워크플로에 수동으로 추가된 경우에 발생합니다.
-hidefromtoc: true
 exl-id: 214156cc-b4ac-454b-ac62-596dbaf5a96a
 feature: Digital Content and Documents
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 93%
 
 ---
@@ -27,4 +26,4 @@ ht-degree: 93%
 
 Workfront에서 문서의 왼쪽 탐색 메뉴에 있는 교정쇄 활동을 조회하십시오.
 
-_2023년 4월 10일에 처음 보고되었습니다._
+_2023년 4월 10일 화요일에 처음 보고되었습니다._

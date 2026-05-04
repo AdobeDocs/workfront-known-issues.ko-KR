@@ -1,22 +1,21 @@
 ---
-title: 'Workfront Planning: 연결된 필드를 제거할 때 오류 발생'
-description: 사용자가 Workfront Planning에서 연결된 필드를 제거하려고 할 때 필드를 제거할 수 없고 필드를 삭제할 수 없음 메시지가 표시됩니다. 다시 시도하십시오.
-hidefromtoc: true
+title: 'Workfront 계획 수립: 연결된 필드를 제거하는 동안 오류 발생'
+description: 사용자가 Workfront 계획 수립에서 연결된 필드를 제거하려고 할 때 해당 필드를 제거할 수 없으며 “필드를 삭제할 수 없습니다. 나중에 다시 시도하십시오”라는 메시지가 표시됩니다.
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 1528907f-f584-4b64-8e8e-55beb591b6a5
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
-
-# Workfront Planning: 연결된 필드를 제거할 때 오류 발생
+# Workfront 계획 수립: 연결된 필드를 제거하는 동안 오류 발생
 
 >[!NOTE]
 >
->이 문제는 2025년 12월 22일 화요일에 해결되었습니다.
+>이 문제는 2025년 12월 22일에 해결되었습니다.
 
-사용자가 Workfront Planning에서 연결된 필드를 제거하려고 하면 필드를 제거할 수 없고 &quot;필드를 삭제할 수 없습니다. 다시 시도하십시오.&quot;
+사용자가 Workfront 계획 수립에서 연결된 필드를 제거하려고 할 때 해당 필드를 제거할 수 없으며 “필드를 삭제할 수 없습니다. 나중에 다시 시도하십시오.”라는 메시지가 표시됩니다.
 
-_2025년 12월 10일 목요일에 처음 보고되었습니다._
+_2025년 12월 10일에 처음 보고되었습니다._

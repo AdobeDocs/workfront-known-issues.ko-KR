@@ -1,12 +1,11 @@
 ---
 title: '작업: 작업 할당에서 이름으로 검색하면 사용자가 검색되지 않음'
 description: 사용자가 작업을 할당하고 할당된 사람을 이름으로 검색하면 검색 결과에 아무 사용자도 나타나지 않으며 사용자에게는 결과를 찾을 수 없음이라는 메시지가 표시됩니다. 해결 방법을 사용할 수 있습니다.
-hidefromtoc: true
 feature: Tasks, People Teams and Groups
 exl-id: 0c31d1e4-7025-45a7-96ed-a7f9a4447eca
-source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
@@ -23,4 +22,4 @@ ht-degree: 100%
 
 이름 전체로 검색하면 정상적으로 사용자를 찾을 수 있습니다.
 
-_2024년 6월 27일에 처음 보고되었습니다._
+_2024년 6월 27일 금요일에 처음 보고되었습니다._

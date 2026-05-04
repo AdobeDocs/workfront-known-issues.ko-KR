@@ -1,13 +1,12 @@
 ---
-title: 'Workfront Proof: 증명 요약에 부정확한 타임스탬프'
+title: 'Workfront Proof: 교정쇄 요약에서 부정확한 타임스탬프'
 description: 사용자가 교정쇄를 위해 인쇄 요약 옵션을 클릭하면 표시되는 타임스탬프에 30분이 추가되었습니다.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 89%
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 

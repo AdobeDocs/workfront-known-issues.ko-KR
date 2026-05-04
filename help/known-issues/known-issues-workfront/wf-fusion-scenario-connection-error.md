@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Fusion: 시나리오 연결 오류'
 description: 특정 시나리오가 실행되지 않으며, 사용자는 “연결 확인 실패” 오류 메시지를 받게 됩니다.
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 53edb587-86ab-4515-90b3-c2a338eadfc3
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 100%
 
 ---
