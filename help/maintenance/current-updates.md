@@ -3,10 +3,10 @@ title: Workfront 유지 관리 업데이트
 description: ' [!DNL Adobe Workfront] 유지 관리 업데이트'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: eace4f6034ca11c6616e82b411c0dcfd936e5f9a
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 36%
+source-wordcount: '1270'
+ht-degree: 33%
 
 ---
 
@@ -14,11 +14,20 @@ ht-degree: 36%
 
 >[!NOTE]
 >
->Workfront를 포함한 모든 Adobe 제품의 유지 관리 중단에 대한 자세한 내용은 [Adobe 상태 페이지](https://status.adobe.com/ko-kr/)를 참조하십시오.
+>콘텐츠 관리를 위한 새 프로세스를 넣음으로써 이 페이지에 대한 업데이트가 일시적으로 일시 중지됩니다.
+
+
+
+<!--
+>[!NOTE] 
+>
+>For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/ko-kr/).
+
+-->
 
 이 페이지에서는 주간 Workfront 업데이트에서 해결된 문제를 설명합니다.
 
-이 업데이트에는 다른 사소하거나 눈에 잘 띄지 않는 버그 수정도 포함되어 있습니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
+이러한 업데이트에는 다른 사소하거나 눈에 잘 띄지 않는 버그 수정도 포함됩니다. [!DNL Workfront] 지원 센터에서는 제출된 문제가 해결되면 알려 드립니다.
 
 2026년 이전 유지 관리 업데이트는 [이전 유지 관리 업데이트](#previous-maintenance-updates)를 참조하십시오.
 
