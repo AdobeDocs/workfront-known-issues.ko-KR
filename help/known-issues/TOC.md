@@ -2,9 +2,9 @@
 user-guide-title: 알려진 문제
 user-guide-description: ' [!DNL Adobe Workfront]의 알려진 문제'
 role: User
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+source-git-commit: 654ef2b12b254f34cf8943847873ec4d89c59965
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1823'
 ht-degree: 52%
 
 ---
@@ -117,7 +117,6 @@ ht-degree: 52%
       + {hide-from-toc}[우선순위: 그룹화를 적용하면 정렬 및 인라인 편집이 불가능함](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + {hide-from-toc}[보고서: 스크롤하여 전체 차트 보고서를 볼 수 없음](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + {hide-from-toc}[그룹: 삭제된 그룹 상태가 다시 표시됨](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + {hide-from-toc}[문서: 문서 업데이트에 증명 댓글이 표시되지 않음](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + {hide-from-toc}[홈: 프로젝트 이름으로 “액세스 권한 없음”이 표시됨](known-issues-workfront/wf-home-no-access-project-name.md)
       + {hide-from-toc}[홈: “메모리 부족” 오류로 인해 홈에 충돌이 발생함](known-issues-workfront/wf-home-crashes-with-error.md)
       + {hide-from-toc}[Workfront: 여러 브라우저 탭으로 인해 Workfront에서 로그아웃됨](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
