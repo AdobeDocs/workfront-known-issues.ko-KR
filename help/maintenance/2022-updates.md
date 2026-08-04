@@ -649,7 +649,7 @@ MP4 파일을 업로드하려고 할 때 이 문제가 보고되었습니다.
 
 2022년 9월 8일 목요일, 독립형 [!DNL Workfront Proof] 제품에서 드롭 영역에 교정쇄를 이메일로 보내는 기능을 제거했습니다.
 
-계정에 로그인할 필요 없이 다른 방법으로 드롭 영역을 사용하여 새 교정쇄 및 새 교정쇄 버전을 여전히 제출할 수 있습니다. 자세한 내용은 [드롭 영역](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html)을 참조하십시오.
+계정에 로그인할 필요 없이 다른 방법으로 드롭 영역을 사용하여 새 교정쇄 및 새 교정쇄 버전을 여전히 제출할 수 있습니다. 자세한 내용은 [드롭 영역](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=ko)을 참조하십시오.
 
 +++
 
