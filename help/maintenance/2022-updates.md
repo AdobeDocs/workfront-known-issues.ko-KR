@@ -5,7 +5,7 @@ exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '17045'
+source-wordcount: '17047'
 ht-degree: 98%
 
 ---
@@ -649,7 +649,7 @@ MP4 파일을 업로드하려고 할 때 이 문제가 보고되었습니다.
 
 2022년 9월 8일 목요일, 독립형 [!DNL Workfront Proof] 제품에서 드롭 영역에 교정쇄를 이메일로 보내는 기능을 제거했습니다.
 
-계정에 로그인할 필요 없이 다른 방법으로 드롭 영역을 사용하여 새 교정쇄 및 새 교정쇄 버전을 여전히 제출할 수 있습니다. 자세한 내용은 [드롭 영역](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=ko)을 참조하십시오.
+계정에 로그인할 필요 없이 다른 방법으로 드롭 영역을 사용하여 새 교정쇄 및 새 교정쇄 버전을 여전히 제출할 수 있습니다. 자세한 내용은 [드롭 영역](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html)을 참조하십시오.
 
 +++
 
@@ -980,7 +980,8 @@ Proof에서 현재 인덱싱 지연이 발생하고 있습니다. 이는 사용�
 
 *[!UICONTROL 메인 메뉴]*
 
-조직에 사용자 정의 내부 도움말 사이트가 있는 경우 해당 사이트로 이동하도록 [!UICONTROL 주 메뉴] [!UICONTROL 도움말] 아이콘을 구성할 수 있습니다. 이 기능은 도움말 사이트에 조직의 [!DNL Workfront] 사용 방법에 관한 정보가 포함되어 있는 경우에 유용합니다.이 사용자 정의 URL은 [!DNL Workfront] 상단의 기본 도움말 링크와 [!DNL Workfront] 전반의 상황에 맞는 도움말 링크에 영향을 주지 않습니다. 이러한 링크는 사용자를 [!DNL Workfront] 도움말 사이트로 안내합니다.
+조직에 사용자 정의 내부 도움말 사이트가 있는 경우 해당 사이트로 이동하도록 [!UICONTROL 주 메뉴] [!UICONTROL 도움말] 아이콘을 구성할 수 있습니다. 이 기능은 도움말 사이트에 조직의 [!DNL Workfront] 사용 방법에 관한 정보가 포함되어 있는 경우에 유용합니다.
+이 사용자 정의 URL은 [!DNL Workfront] 상단의 기본 도움말 링크와 [!DNL Workfront] 전반의 상황에 맞는 도움말 링크에 영향을 주지 않습니다. 이러한 링크는 사용자를 [!DNL Workfront] 도움말 사이트로 안내합니다.
 
 **[!UICONTROL 작업 기간]**&#x200B;을 인라인 편집할 때 경과 시간을 선택할 수 없음
 
@@ -1083,7 +1084,7 @@ Proof에서 현재 인덱싱 지연이 발생하고 있습니다. 이는 사용�
 따라서 다음 액션을 수행하는 것이 좋습니다(아직 수행하지 않은 경우).
 
 * `notification@my.workfront.com`에서 보낸 이메일을 수신하도록 스팸 필터 업데이트
-* 다음의 이메일을 수락하도록 허용 목록 업데이트 
+* 다음의 이메일을 수락하도록 허용 목록 업데이트 `notification@my.workfront.com`
   **워크플로 템플릿에서 초기 구성 후 사용자 옵션을 수정할 수 없음**
 
 *[!DNL Workfront Proof]*
@@ -1377,7 +1378,8 @@ Proof에서 현재 인덱싱 지연이 발생하고 있습니다. 이는 사용�
 *대시보드*
 
 대시보드를 PDF에 인쇄할 때 다음 문제가 보고되었습니다.
-PDF은 보고서의 모든 행을 인쇄하지 않습니다. 행이 누락된 경우 공백만 표시됩니다.PDF에서 열 머리글과 보고서의 첫 번째 행 사이에 공백이 표시됩니다.
+PDF은 보고서의 모든 행을 인쇄하지 않습니다. 행이 누락된 경우 공백만 표시됩니다.
+PDF에서 열 머리글과 보고서의 첫 번째 행 사이에 공백이 표시됩니다.
 
 영어 이외의 언어를 사용할 때 **[!DNL Portfolio Optimizer]에 스코어가 0으로 표시됨**
 
@@ -1861,7 +1863,8 @@ PDF은 보고서의 모든 행을 인쇄하지 않습니다. 행이 누락된 �
 
 *프로젝트*
 
-필수 사용자 정의 필드가 있는 템플릿을 필드가 이미 채워져 있는 프로젝트에 연결하면 다음과 같은 오류가 표시됩니다. “[!UICONTROL 완성되지 않은 필드가 있습니다. 계속하려면 필수 필드에 대한 값을 입력하십시오.]&quot;&quot;[!UICONTROL 이동하기]&quot;를 클릭하면 필드가 채워져 있고 해당 필드에 템플릿을 첨부할 수 있다는 것을 알 수 있습니다.
+필수 사용자 정의 필드가 있는 템플릿을 필드가 이미 채워져 있는 프로젝트에 연결하면 다음과 같은 오류가 표시됩니다. “[!UICONTROL 완성되지 않은 필드가 있습니다. 계속하려면 필수 필드에 대한 값을 입력하십시오.]&quot;
+&quot;[!UICONTROL 이동하기]&quot;를 클릭하면 필드가 채워져 있고 해당 필드에 템플릿을 첨부할 수 있다는 것을 알 수 있습니다.
 
 **날짜 간을 토글할 때 [!UICONTROL 워크로드 밸런서]가 깜박입니다.**
 
