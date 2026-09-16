@@ -1,15 +1,14 @@
 ---
 title: 2021년 Workfront 유지 보수 업데이트
-description: 2021  [!DNL Adobe Workfront] 유지 보수 업데이트 내역
+description: '[!DNL Adobe Workfront]에 대한 2021년 유지 관리 업데이트 기록'
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '10226'
 ht-degree: 98%
-
 ---
-
 # 2021 [!DNL Workfront] 유지 보수 업데이트
 
 2021년에 유지 보수가 다음과 같이 업데이트되었습니다.
@@ -517,7 +516,7 @@ _홈_
 
 +++**2021년 9월 23일 금요일 유지 관리 업데이트**
 
-[!DNL Workfront]&#x200B;**에 제출된 티켓을 볼 때**&#x200B;[!UICONTROL &#x200B;액세스 거부됨] 오류 발생
+[!DNL Workfront]**에 제출된 티켓을 볼 때**[!UICONTROL &#x200B;액세스 거부됨] 오류 발생
 
 _문제_
 
@@ -983,7 +982,8 @@ _칸반_
 
 _[!DNL Adobe Workfront Fusion]_
 
-[!DNL Adobe Workfront Fusion] 알림 이메일에서 알림 설정에 대한 링크를 제거했습니다.알림 설정 변경에 대한 자세한 내용은 [!DNL Adobe Workfront Fusion] 조직 및 팀을 참조하십시오.
+[!DNL Adobe Workfront Fusion] 알림 이메일에서 알림 설정에 대한 링크를 제거했습니다.
+알림 설정 변경에 대한 자세한 내용은 [!DNL Adobe Workfront Fusion] 조직 및 팀을 참조하십시오.
 
 +++
 
@@ -1540,7 +1540,8 @@ _스트림 업데이트_
 
 _[!DNL Workfront Proof]_
 
-참고: 이 문제는 2021년 2월 26일에 새 [!DNL Workfront] 경험에서 수정되었습니다.이 문제는 2021년 3월 1일에 [!DNL Classic] 경험에서 수정되었습니다.
+참고: 이 문제는 2021년 2월 26일에 새 [!DNL Workfront] 경험에서 수정되었습니다.
+이 문제는 2021년 3월 1일에 [!DNL Classic] 경험에서 수정되었습니다.
 
 사용자가 새 교정쇄를 만들 때 [!UICONTROL 이 교정쇄에 대해 수신자에게 알림] 옵션을 활성화했지만 수신자에게 알림 이메일이 전송되지 않습니다.
 
