@@ -1,16 +1,15 @@
 ---
-title: ' [!DNL Adobe Workfront Fusion]의 알려진 문제'
-description: ' [!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
+title: '[!DNL Adobe Workfront Fusion]의 알려진 문제'
+description: '[!DNL Adobe Workfront Fusion]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 82%
-
+source-wordcount: '244'
+ht-degree: 98%
 ---
-
 # [!DNL Adobe Workfront Fusion]의 알려진 문제
 
 이 페이지에는 현재 [!DNL Adobe Workfront Fusion]에서 식별된 문제가 포함되어 있습니다.
@@ -41,13 +40,13 @@ ht-degree: 82%
 
 ## 해결 방법 사용 가능
 
-현재 로드맵에는 이러한 문제에 대한 수정 사항이 없지만, 해결 방법을 사용할 수 있으며 각 문제에 대한 문서에 설명되어 있습니다.
+이러한 문제에 대한 수정 사항은 현재 로드맵에 나와 있지 않지만, 각 문제에 대한 해결 방법을 사용할 수 있으며 문서에 설명되어 있습니다.
 
 | **문제** | **마지막 수정일:** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion: Jira 검색 모듈이 오류를 반환함](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025년 9월 16일 수요일 |
+| [Workfront Fusion: Jira 검색 모듈이 오류를 반환함](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025년 9월 16일 |
 | [Workfront Fusion: 모듈에 필드가 누락됨](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024년 2월 5일 |
-| [Workfront Fusion: 웹후크 업데이트가 자동으로 저장되지 않음](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025년 8월 6일 목요일 |
+| [Workfront Fusion: 웹후크 업데이트가 자동 저장되지 않음](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025년 8월 6일 |
 
 ## 수정 사항 없음
 

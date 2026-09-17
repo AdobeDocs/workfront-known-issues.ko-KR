@@ -1,16 +1,15 @@
 ---
-title: 새로운 [!DNL Adobe Workfront] 경험의 알려진 문제
-description: 새로운 [!DNL Adobe Workfront] 경험에 대해 보고된 알려진 문제
+title: 새 [!DNL Adobe Workfront] 경험의 알려진 문제
+description: 새 [!DNL Adobe Workfront] 경험에 대해 보고된 알려진 문제
 keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '1130'
-ht-degree: 90%
-
+source-wordcount: '1330'
+ht-degree: 88%
 ---
-
 # [!DNL Adobe Workfront]의 알려진 문제
 
 이 페이지에는 현재 [!DNL Adobe Workfront]에서 식별된 문제가 포함되어 있습니다.
@@ -25,14 +24,14 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [사용자: Adobe Admin Console에서 제거된 사용자가 Workfront에서 여전히 활성 상태입니다.](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | 2026년 2월 24일 수요일 |
-| [알림: 사용자가 필요한 알림을 받지 못함](known-issues-workfront/wf-notifications-user-not-receiving.md) | 2026년 2월 24일 수요일 |
-| [프로그램: 상속된 사용 권한이 프로그램에서 작동하지 않음](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | 2026년 2월 23일 화요일 |
-| [보드: 보드에 중복 카드가 표시됨](known-issues-workfront/wf-boards-duplicate-cards.md) | 2026년 2월 23일 화요일 |
-| [작업: 큰 작업 목록이 예기치 않게 목록의 다른 위치로 이동합니다](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026년 2월 18일 목요일 |
-| [승인: 내 승인 위젯에 사용자가 할당된 단계에 없는 증명이 표시됨](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026년 2월 18일 목요일 |
-| [통합: Workfront의 Slack 알림이 트리거되지 않습니다](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026년 2월 17일 수요일 |
-| [승인: 승인이 자동으로 잠깁니다](known-issues-workfront/wf-approvals-are-locked.md) | 2026년 2월 17일 수요일 |
+| [사용자: Adobe Admin Console에서 제거된 사용자가 Workfront에서 여전히 활성 상태입니다.](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | 2026년 2월 24일 |
+| [알림: 사용자가 필요한 알림을 받지 못함](known-issues-workfront/wf-notifications-user-not-receiving.md) | 2026년 2월 24일 |
+| [프로그램: 상속된 사용 권한이 프로그램에서 작동하지 않음](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | 2026년 2월 23일 |
+| [보드: 보드에 중복 카드가 표시됨](known-issues-workfront/wf-boards-duplicate-cards.md) | 2026년 2월 23일 |
+| [작업: 큰 작업 목록이 예기치 않게 목록의 다른 위치로 이동합니다](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026년 2월 18일 |
+| [승인: 내 승인 위젯에 사용자가 할당된 단계에 없는 증명이 표시됨](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026년 2월 18일 |
+| [통합: Workfront의 Slack 알림이 트리거되지 않습니다](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026년 2월 17일 |
+| [승인: 승인이 자동으로 잠깁니다](known-issues-workfront/wf-approvals-are-locked.md) | 2026년 2월 17일 |
 | [통합: [!DNL Google Drive] 에서 폴더를 연결해도 폴더의 자산이 연결되지 않음](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024년 6월 25일 |
 
 {style="table-layout:auto"}
@@ -43,10 +42,10 @@ ht-degree: 90%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 2월 17일 수요일 |
-| [승인: 홈의 내 승인 위젯에서 문서를 승인할 수 없음](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026년 2월 17일 수요일 |
-| [할당: 보고서에서 고급 할당 변경 내용을 저장할 수 없음](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026년 2월 12일 금요일 |
-| [사용자: 부하 직원을 제거할 수 없음](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026년 2월 10일 수요일 |
+| [요청: &quot;모두&quot; 보기에 모든 요청이 표시되지 않음](known-issues-workfront/wf-requests-not-showing-all.md) | 2026년 2월 17일 |
+| [승인: 홈의 내 승인 위젯에서 문서를 승인할 수 없음](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026년 2월 17일 |
+| [할당: 보고서에서 고급 할당 변경 내용을 저장할 수 없음](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026년 2월 12일 |
+| [사용자: 부하 직원을 제거할 수 없음](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026년 2월 10일 |
 | [보고: 사용자가 캔버스 대시보드 시각화에서 재무 데이터를 볼 수 있음](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025년 12월 19일 |
 | [승인: 시간이 기한에 포함되지 않은 경우 승인이 “기한 없음”으로 표시됨](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025년 9월 25일 |
 | [Workfront: Workfront과 Snowflake 간에 오브젝트가 동기화되지 않음](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025년 6월 17일 |

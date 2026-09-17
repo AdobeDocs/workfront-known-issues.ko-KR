@@ -1,16 +1,15 @@
 ---
-title: ' [!DNL Adobe Workfront Planning]의 알려진 문제'
-description: ' [!DNL Adobe Workfront Planning]에 대해 보고된 알려진 문제'
+title: '[!DNL Adobe Workfront Planning]의 알려진 문제'
+description: '[!DNL Adobe Workfront Planning]에 대해 보고된 알려진 문제'
 keywords: 새 파일, 파일 추가
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 87%
-
+source-wordcount: '159'
+ht-degree: 81%
 ---
-
 # [!DNL Adobe Workfront Planning]의 알려진 문제
 
 이 페이지에는 현재 [!DNL Adobe Workfront Planning]에서 식별된 문제가 포함되어 있습니다.
@@ -25,8 +24,8 @@ ht-degree: 87%
 
 | **문제** | **마지막 수정일:** |
 | --- | --- |
-| [Workfront 계획: 요청이 승인된 후 요청 상태가 &quot;진행 중&quot;으로 표시됨](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026년 2월 24일 수요일 |
-| [Workfront 계획: &quot;요청 제출 실패&quot; 오류](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026년 2월 17일 수요일 |
+| [Workfront 계획: 요청이 승인된 후 요청 상태가 &quot;진행 중&quot;으로 표시됨](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026년 2월 24일 |
+| [Workfront 계획: &quot;요청 제출 실패&quot; 오류](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026년 2월 17일 |
 
 {style="table-layout:auto"}
 

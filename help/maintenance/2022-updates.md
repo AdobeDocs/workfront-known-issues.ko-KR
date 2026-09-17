@@ -1,15 +1,14 @@
 ---
 title: 2022년 Workfront 유지 관리 업데이트
-description: ' [!DNL Adobe Workfront]에 대한 2022년 유지 관리 업데이트'
+description: '[!DNL Adobe Workfront]에 대한 2022년 유지 관리 업데이트'
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '17047'
+source-wordcount: '17045'
 ht-degree: 98%
-
 ---
-
 # 2022년 [!DNL Workfront] 유지 관리 업데이트
 
 2022년에 유지 관리가 다음과 같이 업데이트되었습니다.
