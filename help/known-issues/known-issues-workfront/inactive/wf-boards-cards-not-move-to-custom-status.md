@@ -3,13 +3,23 @@ title: '보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌�
 description: 사용자가 카드를 다른 열로 이동한 다음 새로 고치거나 보드로 돌아가면 카드가 원래 열로 돌아갑니다.
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
-
 ---
-
 # 보드: 열로 이동된 카드가 새로 고침 후 원래 열로 돌아감
 
 >[!NOTE]

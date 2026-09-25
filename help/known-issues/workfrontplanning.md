@@ -5,7 +5,19 @@ keywords: 새 파일, 파일 추가
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: eb361af2-3e4f-4a79-b5f3-7a344ac5794c
+    internal-label: Workfront Planning
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 81%
@@ -16,7 +28,7 @@ ht-degree: 81%
 
 >[!IMPORTANT]
 >
->서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com/ko-kr)을 참조하십시오. 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md)를 참조하십시오.
+>서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com)을 참조하십시오. 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md)를 참조하십시오.
 
 ## 신규
 

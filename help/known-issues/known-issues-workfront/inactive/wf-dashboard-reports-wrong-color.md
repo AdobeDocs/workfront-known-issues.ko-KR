@@ -3,13 +3,20 @@ title: '대시보드: 대시보드에 표시된 보고서 차트가 보고서에
 description: 사용자가 대시보드에서 보고서 차트를 볼 때 사용되는 색상은 사용자가 보고서 자체를 볼 때와 다릅니다. 사용자가 지정된 색상에 지정된 의미가 있을 것으로 예상할 경우 혼동이 발생할 수 있습니다.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 feature: Reports and Dashboards
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
-
 ---
-
 # 대시보드: 대시보드에 표시된 보고서 차트가 보고서에서 볼 때와 다른 색상을 사용함
 
 <!--Converted to story-->

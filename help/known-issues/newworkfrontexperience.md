@@ -5,7 +5,16 @@ keywords: 새 파일, 파일 추가
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '1330'
 ht-degree: 88%
@@ -16,7 +25,7 @@ ht-degree: 88%
 
 >[!IMPORTANT]
 >
->서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com/ko-kr)을 참조하십시오. 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md)를 참조하십시오.
+>서버 가동 시간 또는 중단에 대한 자세한 내용은 [status.adobe.com](https://status.adobe.com)을 참조하십시오. 최근 해결된 문제에 대한 자세한 내용은 [[!DNL Workfront] 유지 관리 업데이트](../maintenance/current-updates.md)를 참조하십시오.
 
 ## 신규
 

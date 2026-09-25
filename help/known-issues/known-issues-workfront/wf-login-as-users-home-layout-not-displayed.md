@@ -3,13 +3,17 @@ title: '로그인: 관리자의 홈 레이아웃 템플릿이 표시됨'
 description: 관리자가 다른 사용자로 로그인하고 설정에서 레이아웃 템플릿으로 이동하면 로그인한 사용자 대신 해당 관리자의 홈 레이아웃 템플릿이 표시됩니다.
 feature: System Setup and Administration
 exl-id: 1276dd02-2399-4284-997e-8bdf3c2ce411
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
-
 ---
-
 # 로그인: 관리자의 홈 레이아웃 템플릿이 표시됨
 
 >[!NOTE]

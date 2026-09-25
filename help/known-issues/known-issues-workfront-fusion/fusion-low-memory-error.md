@@ -3,13 +3,20 @@ title: 'Workfront Fusion: 낮은 메모리 오류 발생'
 description: 낮은 메모리 오류와 함께 시나리오 실행이 실패합니다. 이전에 시나리오가 정상적으로 실행된 경우에도 이러한 오류가 발생할 수 있습니다.
 feature: Workfront Fusion
 exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
-
 ---
-
 # Workfront Fusion: 낮은 메모리 오류 발생
 
 >[!NOTE]

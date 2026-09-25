@@ -3,13 +3,20 @@ title: '설정: 설정에서 느리게 로드됨'
 description: 사용자가 설정 영역에 있는 상태에서 목록을 로드하려고 할 때 목록이 매우 느리게 로드됩니다. 이 문제는 설정 전반에 걸쳐 다양한 영역에서 보고되었습니다.
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
 feature: System Setup and Administration
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 94%
-
 ---
-
 # [!UICONTROL 설정]: [!UICONTROL 설정]에서 느리게 로드됨
 
 <!--Converted to story-->

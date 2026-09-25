@@ -1,16 +1,23 @@
 ---
 title: '교정쇄: 교정쇄 뷰어에 승인 옵션이 표시되지 않음'
 description: 사용자가 데스크탑 교정쇄 뷰어에서 교정쇄를 승인하려고 할 때 승인이 요청된 직후 승인 옵션이 표시되지 않으며 사용자는 교정쇄를 승인할 수 없습니다. 승인이 요청되고 몇 시간 후에 승인 옵션이 표시됩니다.
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
-
 ---
-
 # 교정쇄: [!UICONTROL 교정쇄 뷰어]에 승인 옵션이 표시되지 않음
 
 >[!NOTE]

@@ -4,7 +4,16 @@ description: '[!DNL Adobe Workfront]에 대한 유지 관리 업데이트'
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '7893'
 ht-degree: 98%
@@ -168,7 +177,7 @@ _교정쇄_
 
 “[!UICONTROL 교정쇄 생성 도중 오류 발생]”
 
-이는 사용자의 액세스 수준 설정 시[!UICONTROL &#x200B; 연락처 정보 보기]가 비활성화로 설정되어 있는 경우 발생합니다.
+이는 사용자의 액세스 수준 설정 시[!UICONTROL  연락처 정보 보기]가 비활성화로 설정되어 있는 경우 발생합니다.
 
 **문서가 요청에 추가되면 필드가 지워짐**
 
@@ -998,7 +1007,7 @@ _교정_
 
 이미 [!UICONTROL 데스크탑 교정쇄 뷰어]를 설치한 사용자는 이 업데이트를 자동으로 받게 됩니다.
 
-사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [[!UICONTROL 데스크탑 교정쇄 뷰어 설치를 참조하십시오]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko).
+사용자는 최신 버전을 수동으로 다운로드할 수도 있습니다. 자세한 내용은 [[!UICONTROL 데스크탑 교정쇄 뷰어 설치를 참조하십시오]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
 
 * 이전 버전: 2.1.22
 * 신규 버전: 2.1.23

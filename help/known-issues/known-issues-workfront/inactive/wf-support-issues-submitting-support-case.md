@@ -1,20 +1,27 @@
 ---
 title: '[!DNL Workfront]: Experience League에서 Workfront 지원 사례를 제출할 때 문제 발생'
-description: '" [!DNL Workfront] 공인 지원 담당자이며 지원 사례를 제출하는 데 문제가 있는 경우 아래 번호로 전화하여 도움을 받으십시오.'
+description: '"[!DNL Workfront] 공인 지원 담당자이며 지원 사례를 제출하는 데 문제가 있는 경우 아래 번호로 전화하여 도움을 받으십시오.'
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '157'
 ht-degree: 61%
-
 ---
-
 # [!DNL Workfront]: [!DNL Workfront]에서 [!DNL Experience League] 지원 사례를 제출할 때 문제 발생
 
 [!DNL Workfront]공인 지원 담당자이며 지원 사례를 제출하는 데 문제가 있는 경우 다음 커뮤니티 블로그를 방문하여 지시를 받으십시오.
 
-* [Experience League에서 지원 티켓을 제출하는 방법](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=ko)
+* [Experience League에서 지원 티켓을 제출하는 방법](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
 * [신규 또는 기존 Workfront Experience League 커뮤니티 구성원으로 처음 로그인](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 계속 문제가 있는 경우 아래 번호로 전화하여 도움을 받으십시오.
