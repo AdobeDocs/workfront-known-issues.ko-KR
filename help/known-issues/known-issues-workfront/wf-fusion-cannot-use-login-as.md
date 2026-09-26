@@ -3,13 +3,20 @@ title: 'Workfront Fusion: Workfront 다음으로 로그인 기능을 사용하�
 description: Workfront Fusion에서 연결을 만들 때 다른 사용자로 로그인한 상태에서는 연결을 인증할 수 없습니다.
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
-
 ---
-
 # Workfront Fusion: Workfront 다음으로 로그인 기능을 사용하여 연결을 인증할 수 없음
 
 >[!NOTE]

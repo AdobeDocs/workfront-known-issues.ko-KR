@@ -3,13 +3,20 @@ title: '보고서: 보고서 필터가 예상한 결과를 반환하지 않음'
 description: 보고서의 필터가 예상 결과 중 일부를 반환하지 않을 수 있습니다. 해결 방법을 사용할 수 있습니다.
 feature: Reports and Dashboards
 exl-id: d9ca1eac-1478-4ee0-a713-24743c1487c5
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
-
 ---
-
 # 보고서: 보고서 필터가 예상한 결과를 반환하지 않음
 
 >[!NOTE]

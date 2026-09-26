@@ -3,13 +3,20 @@ title: '홈: 요청 위젯에 할당된 모든 팀이 표시되지 않음'
 description: 사용자가 새로운 홈 환경에서 요청 위젯을 볼 때 두 개 이상의 팀이 할당되어 있더라도 요청 위젯에는 하나의 팀만 할당된 것으로 표시됩니다.
 feature: Get Started with Workfront
 exl-id: 464174a6-5b4e-4cea-a00b-db76bb16a04d
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 91%
-
 ---
-
 # [!UICONTROL 홈]: [!UICONTROL 요청] 위젯에 할당된 팀이 모두 표시되지 않음
 
 >[!NOTE]

@@ -3,13 +3,17 @@ title: 교정쇄가 매우 오랫동안 “교정쇄 생성 중”으로 표시�
 description: 사용자가 교정쇄를 생성할 때 교정쇄가 “교정쇄 생성 중”으로 표시됩니다. 이 작업은 몇 시간 동안 계속될 수 있습니다. “교정쇄 생성 중”이 표시되는 동안 사용자가 교정쇄를 열려고 하면 교정쇄가 열리지 않습니다. 교정쇄가 생성되었지만 액세스할 수 없습니다.
 keywords: 새 파일, 파일 추가
 exl-id: 480d4f21-ba17-4580-b2d8-0390fde17956
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
-
 ---
-
 # 교정쇄: 교정쇄가 매우 오랫동안 “[!UICONTROL 교정쇄 생성 중]”으로 표시됨
 
 >[!NOTE]

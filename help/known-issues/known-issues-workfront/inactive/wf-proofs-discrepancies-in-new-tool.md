@@ -1,16 +1,23 @@
 ---
 title: '교정쇄: 정적 파일 처리 문제'
 description: Workfront는 최근 교정쇄 처리 도구를 서드파티 제공업체에서 내부 솔루션으로 변경했으며, 두 시스템의 기능 사이에서 일부 일치하지 않는 부분이 발견되었습니다. 이러한 불일치로 인해 정적 파일, 특히 PDF, Word 및 PPT 파일 처리에 문제가 발생할 수 있습니다. 해결 방법을 사용할 수 있습니다.
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
-
 ---
-
 # 교정쇄: 정적 파일 처리 문제
 
 <!--WF and WFP TOCs-->

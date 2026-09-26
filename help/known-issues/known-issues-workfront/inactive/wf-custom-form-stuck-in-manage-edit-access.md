@@ -3,13 +3,23 @@ title: '사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 �
 description: 사용자가 관리 또는 편집 액세스만 허용하는 교차 오브젝트가 있는 양식을 만든 다음 해당 오브젝트 유형을 제거한 경우, 사용자 정의 양식에서 필드를 편집하려면 계속해서 관리 또는 편집 액세스 권한이 필요합니다. 필드에 관리 또는 편집 액세스 권한이 필요하다는 시각적 표시가 없으며 양식을 재설정할 방법도 없습니다.
 feature: Custom Forms
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: d87de1f9-8e24-4c4d-aa4c-a403075091a1
+    internal-label: Custom forms
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 92%
-
 ---
-
 # 사용자 정의 양식: 필드를 편집하려면 교차 오브젝트 사용자 정의 양식에 [!UICONTROL 관리] 또는 [!UICONTROL 편집] 액세스 권한이 있어야 함
 
 <!--Won't fix, live for workaround-->

@@ -3,13 +3,20 @@ title: '설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정�
 description: 사용자가 [!UICONTROL 빠른 시작]을 통해 그룹화를 시작하려고 하면 가져오기가 실패하고 사용자에게 오류 메시지가 표시됩니다.
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
-
 ---
-
 # 설정: [!UICONTROL 빠른 시작]을 사용하여 그룹화를 설정할 수 없음
 
 >[!NOTE]

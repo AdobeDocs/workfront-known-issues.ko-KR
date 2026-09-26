@@ -3,13 +3,20 @@ title: '캘린더: OR 필터 문이 필터 규칙을 제외함'
 description: 사용자가 사용자 정의 필터 선택 사항을 기반으로 작업을 가져오는 캘린더 보고서를 설정할 때 OR 문을 추가하면 첫 번째 섹션에서 필터 규칙의 기준을 충족하는 오브젝트가 결과에서 제외됩니다.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 feature: Reports and Dashboards
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 94%
-
 ---
-
 # 캘린더: [!DNL OR] 필터 문이 필터 규칙을 제외함
 
 >[!NOTE]
